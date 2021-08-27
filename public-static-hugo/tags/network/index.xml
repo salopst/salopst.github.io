@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>network on [::1] YEARL.US</title>
-    <link>//localhost:1313/tags/network/</link>
-    <description>Recent content in network on [::1] YEARL.US</description>
+    <title>network on [::1] yearl.us</title>
+    <link>http://localhost:1313/tags/network/</link>
+    <description>Recent content in network on [::1] yearl.us</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Tue, 10 May 2011 12:16:04 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/network/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 May 2011 12:16:04 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/network/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Administrative Distance</title>
-      <link>//localhost:1313/administrative-distance/</link>
+      <link>http://localhost:1313/administrative-distance/</link>
       <pubDate>Tue, 10 May 2011 12:16:04 +0000</pubDate>
       
-      <guid>//localhost:1313/administrative-distance/</guid>
+      <guid>http://localhost:1313/administrative-distance/</guid>
       <description>         Connected interface 0   Static route 1   Enhanced Interior Gateway Routing Protocol (EIGRP) summary route 5   External Border Gateway Protocol (BGP) 20   Internal EIGRP 90   IGRP 100   OSPF 110   Intermediate System-to-Intermediate System (IS-IS) 115   Routing Information Protocol (RIP) 120   Exterior Gateway Protocol (EGP) 140   On Demand Routing (ODR) 160   External EIGRP 170   Internal BGP 200   Unknown* 255    </description>
     </item>
     

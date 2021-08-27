@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>NAS on [::1] YEARL.US</title>
-    <link>//localhost:1313/tags/nas/</link>
-    <description>Recent content in NAS on [::1] YEARL.US</description>
+    <title>NAS on [::1] yearl.us</title>
+    <link>http://localhost:1313/tags/nas/</link>
+    <description>Recent content in NAS on [::1] yearl.us</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Thu, 08 Mar 2018 23:23:48 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/nas/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Mar 2018 23:23:48 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/nas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What movie files are not 1080P?</title>
-      <link>//localhost:1313/what-movie-files-are-not-1080p/</link>
+      <link>http://localhost:1313/what-movie-files-are-not-1080p/</link>
       <pubDate>Thu, 08 Mar 2018 23:23:48 +0000</pubDate>
       
-      <guid>//localhost:1313/what-movie-files-are-not-1080p/</guid>
+      <guid>http://localhost:1313/what-movie-files-are-not-1080p/</guid>
       <description>Again with the Openmediavault NAS.
 A fair few movies I encoded to result in less than 1080P files in order to preserve disk space. That is not really an issue (for now). So, what movies have what resolution?
 (I feel like this should all been in shell script, but hey; whatever works right?!)

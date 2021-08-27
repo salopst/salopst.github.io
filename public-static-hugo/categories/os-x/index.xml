@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>os x on [::1] YEARL.US</title>
-    <link>//localhost:1313/categories/os-x/</link>
-    <description>Recent content in os x on [::1] YEARL.US</description>
+    <title>os x on [::1] yearl.us</title>
+    <link>http://localhost:1313/categories/os-x/</link>
+    <description>Recent content in os x on [::1] yearl.us</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 08 May 2017 07:03:14 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/os-x/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 May 2017 07:03:14 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/os-x/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Installing Solus linux on a Macbook Pro 9,1 (A1286)</title>
-      <link>//localhost:1313/installing-solus-linux-on-a-macbook-pro-91-a1286/</link>
+      <link>http://localhost:1313/installing-solus-linux-on-a-macbook-pro-91-a1286/</link>
       <pubDate>Mon, 08 May 2017 07:03:14 +0000</pubDate>
       
-      <guid>//localhost:1313/installing-solus-linux-on-a-macbook-pro-91-a1286/</guid>
+      <guid>http://localhost:1313/installing-solus-linux-on-a-macbook-pro-91-a1286/</guid>
       <description>I&amp;rsquo;ve been sunning* Solus as guest in a Parallels virtual machine on a macOS Sierra 10.12.4 host for a couple of months now, and I am delighted and impressed, so impressed I bought the company** wanted to install this on Apple iron. Solus installed beautifully on an 2010 Lenovo X201 and on a new and cheap and plastically Dell Inspiron 14-3452, so it should have no probs installing on a mid-2012, 15.</description>
     </item>
     
     <item>
       <title>Mounting an iOS 10.2 device in Solus OS</title>
-      <link>//localhost:1313/mounting-an-ios-10.2-device-in-solus-os/</link>
+      <link>http://localhost:1313/mounting-an-ios-10.2-device-in-solus-os/</link>
       <pubDate>Tue, 07 Mar 2017 03:12:21 +0000</pubDate>
       
-      <guid>//localhost:1313/mounting-an-ios-10.2-device-in-solus-os/</guid>
+      <guid>http://localhost:1313/mounting-an-ios-10.2-device-in-solus-os/</guid>
       <description>tl;dr I feel that after ten years I can no longer countenance the purchase of a new Apple laptop should my existing machine shit the bed. All that nonsense associated with the race to thinness and the resultant lack of expandability of the newer machines, where everything is soldered or glued into place, has me pretty upset. Oh, and the OS itself has been getting more annoying with each release since Snow Leopard.</description>
     </item>
     
     <item>
       <title>Fsked El Capitan home directory</title>
-      <link>//localhost:1313/fsked-el-capitan-home-directory/</link>
+      <link>http://localhost:1313/fsked-el-capitan-home-directory/</link>
       <pubDate>Mon, 23 May 2016 05:41:31 +0000</pubDate>
       
-      <guid>//localhost:1313/fsked-el-capitan-home-directory/</guid>
+      <guid>http://localhost:1313/fsked-el-capitan-home-directory/</guid>
       <description>Not entirely sure how I managed to hose my user directory, but I did, and it followed a boot into safe mode (reboot and SHIFT) in order to update an ancient MacPorts installation; homebrew sort of replaced that for my usage. OK, no biggie. I have back ups right? I do, but those back up in recent months have been based on Apple&amp;rsquo;s Time Machine. I changed to this from Carbon Copy Cloner by means of experiment.</description>
     </item>
     
     <item>
       <title>Posting from IA Writer to Wordpress (Coleman)</title>
-      <link>//localhost:1313/posting-from-ia-writer-to-wordpress-coleman/</link>
+      <link>http://localhost:1313/posting-from-ia-writer-to-wordpress-coleman/</link>
       <pubDate>Sun, 24 Apr 2016 00:01:57 +0000</pubDate>
       
-      <guid>//localhost:1313/posting-from-ia-writer-to-wordpress-coleman/</guid>
+      <guid>http://localhost:1313/posting-from-ia-writer-to-wordpress-coleman/</guid>
       <description>IA Writer to Wordpress 0. Wha? With the coming of the new doggie into the house, perhaps I will again add more content to the bloggy thing that I have kinda sorta not really been keeping over the last little while.
 Probably this has been done by someone else on the Intertubz, but ach, why not. I have some time on my hands, so here are running notes in IA Writer that will make its way to a Wordpress post by some means or other.</description>
     </item>
     
     <item>
       <title>NPM, antigen and ZSH pure prompt</title>
-      <link>//localhost:1313/npm-antigen-and-zsh-pure-prompt/</link>
+      <link>http://localhost:1313/npm-antigen-and-zsh-pure-prompt/</link>
       <pubDate>Wed, 24 Jun 2015 05:13:58 +0000</pubDate>
       
-      <guid>//localhost:1313/npm-antigen-and-zsh-pure-prompt/</guid>
+      <guid>http://localhost:1313/npm-antigen-and-zsh-pure-prompt/</guid>
       <description>So somehow I managed to mess up my install of the pure prompt such that it was not loading async.
 prompt_pure_setup:10: async: function definition file not found prompt_pure_async_tasks:3: command not found: async_start_worker prompt_pure_async_tasks:4: command not found: async_register_callback
 How or why this happened I know not. Easy peasy to fix with npm, right?
@@ -60,10 +60,10 @@ How or why this happened I know not. Easy peasy to fix with npm, right?
     
     <item>
       <title>SSH key pair authentication</title>
-      <link>//localhost:1313/ssh-key-pair-authentication/</link>
+      <link>http://localhost:1313/ssh-key-pair-authentication/</link>
       <pubDate>Sun, 14 Dec 2014 13:20:54 +0000</pubDate>
       
-      <guid>//localhost:1313/ssh-key-pair-authentication/</guid>
+      <guid>http://localhost:1313/ssh-key-pair-authentication/</guid>
       <description>Well flummery. It&amp;rsquo;s been a while since I had to do this, so here, future self, some awesome notes&amp;hellip;
 LOCAL
 [cc lang=bash]$ ssh-keygen -t rsa -b 4096 -f ~/.ssh/id_rsa_4096 $ scp -P 2222 192.168.0.108:/home/yearluk/.ssh/yearluk.ehecatl.pub[/cc]
@@ -73,10 +73,10 @@ SSH to REMOTE&amp;hellip;
     
     <item>
       <title>Terminal Colors</title>
-      <link>//localhost:1313/terminal-colors/</link>
+      <link>http://localhost:1313/terminal-colors/</link>
       <pubDate>Wed, 22 Oct 2014 03:47:44 +0000</pubDate>
       
-      <guid>//localhost:1313/terminal-colors/</guid>
+      <guid>http://localhost:1313/terminal-colors/</guid>
       <description>Before and after coloration of the pure prompt.
 
 #1. Get the Tomorow Night Eighties Theme, and
@@ -86,10 +86,10 @@ SSH to REMOTE&amp;hellip;
     
     <item>
       <title>Alfred 2 workflows</title>
-      <link>//localhost:1313/alfred-2-workflows/</link>
+      <link>http://localhost:1313/alfred-2-workflows/</link>
       <pubDate>Sat, 15 Jun 2013 21:12:16 +0000</pubDate>
       
-      <guid>//localhost:1313/alfred-2-workflows/</guid>
+      <guid>http://localhost:1313/alfred-2-workflows/</guid>
       <description>2016-05-23 update: Due to recent woes I had to revisit Alfred Workflows&amp;hellip; basically the below remains the same with the addition of:
 http://www.packal.org/workflow/packal-updater http://www.packal.org/workflow/datetime-format-converter http://www.packal.org/workflow/toggle-keyboard-viewer http://www.packal.org/workflow/leo-dictionary http://www.packal.org/workflow/eggtimer-2 http://www.packal.org/workflow/units
  Wolfram Alpha:   Get Alfred 2, buy the Powerpack! http://www.alfredapp.com/

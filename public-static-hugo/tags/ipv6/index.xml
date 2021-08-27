@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ipv6 on [::1] YEARL.US</title>
-    <link>//localhost:1313/tags/ipv6/</link>
-    <description>Recent content in ipv6 on [::1] YEARL.US</description>
+    <title>ipv6 on [::1] yearl.us</title>
+    <link>http://localhost:1313/tags/ipv6/</link>
+    <description>Recent content in ipv6 on [::1] yearl.us</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Wed, 08 Feb 2012 20:16:10 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/ipv6/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Feb 2012 20:16:10 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ipv6/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1500</title>
-      <link>//localhost:1313/1500/</link>
+      <link>http://localhost:1313/1500/</link>
       <pubDate>Wed, 08 Feb 2012 20:16:10 +0000</pubDate>
       
-      <guid>//localhost:1313/1500/</guid>
+      <guid>http://localhost:1313/1500/</guid>
       <description>It can take a wee while after getting &amp;ldquo;sage&amp;rdquo; to hit 1500. Lots of pretty mundane traceroute6-ing, ping-ing and such, but I stuck through it:
 
 Really I should have scripted something to chron submit the result entries when the command result was obviously valid, but by the time I had found a reliable list of valid ipv6 addrs that were alive and correctly reporting it was too late for me to bother&amp;hellip; and besides I sort of enjoyed the daily catharsis of taking five minutes to submit.</description>
@@ -21,20 +21,20 @@ Really I should have scripted something to chron submit the result entries when 
     
     <item>
       <title>Brokering with SIXXs</title>
-      <link>//localhost:1313/brokering-with-sixxs/</link>
+      <link>http://localhost:1313/brokering-with-sixxs/</link>
       <pubDate>Tue, 31 Jan 2012 14:05:01 +0000</pubDate>
       
-      <guid>//localhost:1313/brokering-with-sixxs/</guid>
+      <guid>http://localhost:1313/brokering-with-sixxs/</guid>
       <description>Going to be changing ipv4 addresses a lot over the next little while, so I&amp;rsquo;ve decided to try a different v4-6 brokering arrangement. he.net&amp;rsquo;s tunnelbroker has been rock solid and I&amp;rsquo;ve been using it on and off since &amp;lsquo;08, but I think it time to try something else.
 The ideal would be a self-monitoring client that identifies local ipv4 changes here (kind like a dynDNS client might), and renegotiate an ipv6 endpoint to tunnel through based on that change.</description>
     </item>
     
     <item>
       <title>Now to the ever elusive 1500</title>
-      <link>//localhost:1313/now-to-the-ever-elusive-1500/</link>
+      <link>http://localhost:1313/now-to-the-ever-elusive-1500/</link>
       <pubDate>Sat, 04 Jun 2011 13:08:03 +0000</pubDate>
       
-      <guid>//localhost:1313/now-to-the-ever-elusive-1500/</guid>
+      <guid>http://localhost:1313/now-to-the-ever-elusive-1500/</guid>
       <description>[caption id=&amp;ldquo;attachment_95&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;800&amp;rdquo;] IPV6 Cert. from Hurricane Electric[/caption]
 I hope the coveted T-shirt arrives before the celebration on board the USS Hornet.
 Update

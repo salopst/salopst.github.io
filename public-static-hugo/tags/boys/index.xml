@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>boys on [::1] YEARL.US</title>
-    <link>//localhost:1313/tags/boys/</link>
-    <description>Recent content in boys on [::1] YEARL.US</description>
+    <title>boys on [::1] yearl.us</title>
+    <link>http://localhost:1313/tags/boys/</link>
+    <description>Recent content in boys on [::1] yearl.us</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Wed, 03 Apr 2013 17:10:43 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/boys/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Apr 2013 17:10:43 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/boys/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Visiting the USS Hornet (June/July 2011)</title>
-      <link>//localhost:1313/visiting-the-uss-hornet-june/july-2011/</link>
+      <link>http://localhost:1313/visiting-the-uss-hornet-june/july-2011/</link>
       <pubDate>Wed, 03 Apr 2013 17:10:43 +0000</pubDate>
       
-      <guid>//localhost:1313/visiting-the-uss-hornet-june/july-2011/</guid>
+      <guid>http://localhost:1313/visiting-the-uss-hornet-june/july-2011/</guid>
       <description>Below, a verbatim transcript of Joe&amp;rsquo;s trip to see the USS Hornet in Alameda CA., recently re-discovered.
  Visiting the Hornet Day 1 &amp;ndash; June 27
 I got up early and had some breakfast with my brother, Sammy. Then Mimi drove us to the airport in Boston. The flight lasted 6 hours. On the flight I played games and looked at the Rocky Mountains. We met my cousin, Tiger, at the airport in San Francisco.</description>
@@ -21,29 +21,29 @@ I got up early and had some breakfast with my brother, Sammy. Then Mimi drove us
     
     <item>
       <title>74111101&#39;s The Universe questions</title>
-      <link>//localhost:1313/74111101s-the-universe-questions/</link>
+      <link>http://localhost:1313/74111101s-the-universe-questions/</link>
       <pubDate>Tue, 02 Apr 2013 14:03:45 +0000</pubDate>
       
-      <guid>//localhost:1313/74111101s-the-universe-questions/</guid>
+      <guid>http://localhost:1313/74111101s-the-universe-questions/</guid>
       <description>74111101&amp;ndash; yes, my eldest insists on representing himself as the ASCII decimal code point values for his name&amp;ndash; and I have been watching the History Channel&amp;rsquo;s The Universe. Below some of 74&amp;rsquo;s questions (typed verbatim from his notes) that he hopes to have answered after writing to some of the presenters in the series.
 Questions   If the Universe keeps on expanding will it eventually rip apart the things that make up dark energy?</description>
     </item>
     
     <item>
       <title>Mathematica/Minecraft</title>
-      <link>//localhost:1313/mathematica/minecraft/</link>
+      <link>http://localhost:1313/mathematica/minecraft/</link>
       <pubDate>Mon, 18 Feb 2013 17:28:22 +0000</pubDate>
       
-      <guid>//localhost:1313/mathematica/minecraft/</guid>
+      <guid>http://localhost:1313/mathematica/minecraft/</guid>
       <description>Since summer I&amp;rsquo;ve been running a little minecraft server on a VPS in the UK. It is a pretty low-end system, and I didn&amp;rsquo;t imagine more than a handful of the primary school chums of 74111101 playing on it. A nice, secure, white-listed place away from the craziness of the net. As is inevitable with such things, numbers grew and shrank. I was waiting for a stable population before setting something more concrete&amp;ndash; allocating relevant resources, branching out into mods and so forth.</description>
     </item>
     
     <item>
       <title>Jokes</title>
-      <link>//localhost:1313/jokes/</link>
+      <link>http://localhost:1313/jokes/</link>
       <pubDate>Thu, 25 Oct 2012 02:02:57 +0000</pubDate>
       
-      <guid>//localhost:1313/jokes/</guid>
+      <guid>http://localhost:1313/jokes/</guid>
       <description>A running list of the boys&#39; favourite jokes.
   Q: Why did the tachyon cross the road? A:Because it was on the other side.
   G. A. Custer wasn&amp;rsquo;t murdered; he committed Siouxicide.

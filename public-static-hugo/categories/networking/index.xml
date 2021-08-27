@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>networking on [::1] YEARL.US</title>
-    <link>//localhost:1313/categories/networking/</link>
-    <description>Recent content in networking on [::1] YEARL.US</description>
+    <title>networking on [::1] yearl.us</title>
+    <link>http://localhost:1313/categories/networking/</link>
+    <description>Recent content in networking on [::1] yearl.us</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 13 May 2019 17:05:55 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/networking/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 May 2019 17:05:55 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/networking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Openmediavault 4 server... PSU died</title>
-      <link>//localhost:1313/openmediavault-4-server...-psu-died/</link>
+      <link>http://localhost:1313/openmediavault-4-server...-psu-died/</link>
       <pubDate>Mon, 13 May 2019 17:05:55 +0000</pubDate>
       
-      <guid>//localhost:1313/openmediavault-4-server...-psu-died/</guid>
+      <guid>http://localhost:1313/openmediavault-4-server...-psu-died/</guid>
       <description>Oh, the sadness. Oh, the heartbreak. Never mind, stiff upper lip and all that, and remembering that I got the thing from the dump (sans disk and RAM) over a 18 months ago, it has not had a bad run.
 Aaand just in case I come across a PSU and get her running again, she was:
 Old OMV4 box DELL Inspiron 545 Serial: 839DK4J Model: DCMF Reg Type: 09040 Printed on mobo: DG33M06 SE0709</description>
@@ -21,20 +21,20 @@ Old OMV4 box DELL Inspiron 545 Serial: 839DK4J Model: DCMF Reg Type: 09040 Print
     
     <item>
       <title>pi-hole route del</title>
-      <link>//localhost:1313/pi-hole-route-del/</link>
+      <link>http://localhost:1313/pi-hole-route-del/</link>
       <pubDate>Fri, 21 Sep 2018 11:42:50 +0000</pubDate>
       
-      <guid>//localhost:1313/pi-hole-route-del/</guid>
+      <guid>http://localhost:1313/pi-hole-route-del/</guid>
       <description>Sooo, my TP-Link Archer C8 AC1750 Gigabit router decided to not play nice after a short power outage. Didn&amp;rsquo;t do much anyway except keep a couple of machines in a their own little subnet in which the pi-hole was located.
 Replaced it with&amp;hellip; NETGEAR GS108Tv2 8-Port Gigabit managed switch and flatten the network a little. Everything was peachy with that set up, but the pihole was still on 172.16.0.0/24&amp;hellip; reconfigured that with [cc lang=&amp;ldquo;bash&amp;rdquo; inline=&amp;ldquo;true&amp;rdquo;]pihole -r[/cc] and all looked well except for the pi-hole could not ping outside of the LAN.</description>
     </item>
     
     <item>
       <title>Pi-hole DNS-level ad blocker</title>
-      <link>//localhost:1313/pi-hole-dns-level-ad-blocker/</link>
+      <link>http://localhost:1313/pi-hole-dns-level-ad-blocker/</link>
       <pubDate>Sat, 16 Jun 2018 07:18:05 +0000</pubDate>
       
-      <guid>//localhost:1313/pi-hole-dns-level-ad-blocker/</guid>
+      <guid>http://localhost:1313/pi-hole-dns-level-ad-blocker/</guid>
       <description>Getting pretty annoyed with keeping track of which browser on which machine has which add blockers installed, so it&amp;rsquo;s time for a more holistic approach. Enter, stage left, the Pi-hole. In short it:
 With a Rapsberry Pi 3 model b and a 64GB micro SD card, a set-up that is beefier than it needs to be, but who knows what the Pi will be used for in the future&amp;hellip;
 #1 Get Raspbian, and format micro SD card&amp;mdash; after much jiggling with the unlock tab on the adapter and delicatelyrepeatedly inserting-half-inserting into 2012 Macbook Pro&amp;rsquo;s gunked-up card reader port&amp;hellip;</description>
@@ -42,10 +42,10 @@ With a Rapsberry Pi 3 model b and a 64GB micro SD card, a set-up that is beefier
     
     <item>
       <title>Create root SSH keys OS X (MacOS High Sierra)</title>
-      <link>//localhost:1313/create-root-ssh-keys-os-x-macos-high-sierra/</link>
+      <link>http://localhost:1313/create-root-ssh-keys-os-x-macos-high-sierra/</link>
       <pubDate>Fri, 18 May 2018 10:19:13 +0000</pubDate>
       
-      <guid>//localhost:1313/create-root-ssh-keys-os-x-macos-high-sierra/</guid>
+      <guid>http://localhost:1313/create-root-ssh-keys-os-x-macos-high-sierra/</guid>
       <description>In all the years I&amp;rsquo;ve been running OS X (or MacOS as it is now called) I&amp;rsquo;ve never had the need to su,sudo was always good enough. And this is as it should be.
 Until now. Obvs, &amp;ldquo;root&amp;rdquo; is disabled in High Sierra. So&amp;hellip;
 $ cd /System/Library/CoreServices/Applications/ $ ls Some cool apps here&amp;hellip;
@@ -54,10 +54,10 @@ drwxr-xr-x 3 root wheel 96B Mar 30 12:48 About This Mac.app drwxr-xr-x 3 root wh
     
     <item>
       <title>Edgerouter X -- DNS issues</title>
-      <link>//localhost:1313/edgerouter-x-dns-issues/</link>
+      <link>http://localhost:1313/edgerouter-x-dns-issues/</link>
       <pubDate>Thu, 19 Apr 2018 13:25:28 +0000</pubDate>
       
-      <guid>//localhost:1313/edgerouter-x-dns-issues/</guid>
+      <guid>http://localhost:1313/edgerouter-x-dns-issues/</guid>
       <description>#1 plug laptop into eth0
 #2 Edgerouter X defaults to 192.168.1.1 as did the TG589vac, but that doesn&amp;rsquo;t matter as it is now just a modem
 #3 get on same net segment&amp;hellip; statically configure laptop to IP 192.168.1.42 (&amp;lsquo;cause Douglas Adams, obvs) NM 255.255.255.0 DG 192.168.1.1
@@ -68,20 +68,20 @@ OOH WHAT A PRETTY INTERFACE. Kinda overwhelming actually. Enable SSH, enable DNS
     
     <item>
       <title>Technicolor MediaAccess TG589vac in bridge mode</title>
-      <link>//localhost:1313/technicolor-mediaaccess-tg589vac-in-bridge-mode/</link>
+      <link>http://localhost:1313/technicolor-mediaaccess-tg589vac-in-bridge-mode/</link>
       <pubDate>Thu, 19 Apr 2018 12:17:19 +0000</pubDate>
       
-      <guid>//localhost:1313/technicolor-mediaaccess-tg589vac-in-bridge-mode/</guid>
+      <guid>http://localhost:1313/technicolor-mediaaccess-tg589vac-in-bridge-mode/</guid>
       <description>Like &amp;gt;90% of folk, I&amp;rsquo;ve typically used whatever POS modem/router/switch/WAP combo that my ISP supplied me with. These all-in-ones are pretty convenient, but there is something just not right about bundling so many features into a single unit&amp;hellip; it basically means that whilst is can do all these things it does not do any one thing particularly well.
 Wireless range, for example, is particularly bad (even on the 2.4MHz band). Time for a change.</description>
     </item>
     
     <item>
       <title>1500</title>
-      <link>//localhost:1313/1500/</link>
+      <link>http://localhost:1313/1500/</link>
       <pubDate>Wed, 08 Feb 2012 20:16:10 +0000</pubDate>
       
-      <guid>//localhost:1313/1500/</guid>
+      <guid>http://localhost:1313/1500/</guid>
       <description>It can take a wee while after getting &amp;ldquo;sage&amp;rdquo; to hit 1500. Lots of pretty mundane traceroute6-ing, ping-ing and such, but I stuck through it:
 
 Really I should have scripted something to chron submit the result entries when the command result was obviously valid, but by the time I had found a reliable list of valid ipv6 addrs that were alive and correctly reporting it was too late for me to bother&amp;hellip; and besides I sort of enjoyed the daily catharsis of taking five minutes to submit.</description>
@@ -89,20 +89,20 @@ Really I should have scripted something to chron submit the result entries when 
     
     <item>
       <title>Brokering with SIXXs</title>
-      <link>//localhost:1313/brokering-with-sixxs/</link>
+      <link>http://localhost:1313/brokering-with-sixxs/</link>
       <pubDate>Tue, 31 Jan 2012 14:05:01 +0000</pubDate>
       
-      <guid>//localhost:1313/brokering-with-sixxs/</guid>
+      <guid>http://localhost:1313/brokering-with-sixxs/</guid>
       <description>Going to be changing ipv4 addresses a lot over the next little while, so I&amp;rsquo;ve decided to try a different v4-6 brokering arrangement. he.net&amp;rsquo;s tunnelbroker has been rock solid and I&amp;rsquo;ve been using it on and off since &amp;lsquo;08, but I think it time to try something else.
 The ideal would be a self-monitoring client that identifies local ipv4 changes here (kind like a dynDNS client might), and renegotiate an ipv6 endpoint to tunnel through based on that change.</description>
     </item>
     
     <item>
       <title>HE.net IPV6 Certification questions and answers -- Guru</title>
-      <link>//localhost:1313/he.net-ipv6-certification-questions-and-answers-guru/</link>
+      <link>http://localhost:1313/he.net-ipv6-certification-questions-and-answers-guru/</link>
       <pubDate>Sat, 18 Jun 2011 19:21:32 +0000</pubDate>
       
-      <guid>//localhost:1313/he.net-ipv6-certification-questions-and-answers-guru/</guid>
+      <guid>http://localhost:1313/he.net-ipv6-certification-questions-and-answers-guru/</guid>
       <description>http://ipv6.he.net/certification/
   0. Newbie Test
   1. Enthusiast Test
@@ -115,10 +115,10 @@ The ideal would be a self-monitoring client that identifies local ipv4 changes h
     
     <item>
       <title>HE.net IPV6 Certification questions and answers -- Professional</title>
-      <link>//localhost:1313/he.net-ipv6-certification-questions-and-answers-professional/</link>
+      <link>http://localhost:1313/he.net-ipv6-certification-questions-and-answers-professional/</link>
       <pubDate>Sat, 18 Jun 2011 18:57:34 +0000</pubDate>
       
-      <guid>//localhost:1313/he.net-ipv6-certification-questions-and-answers-professional/</guid>
+      <guid>http://localhost:1313/he.net-ipv6-certification-questions-and-answers-professional/</guid>
       <description>http://ipv6.he.net/certification/
   0. Newbie Test
   1. Enthusiast Test
@@ -131,10 +131,10 @@ The ideal would be a self-monitoring client that identifies local ipv4 changes h
     
     <item>
       <title>HE.net IPV6 Certification questions and answers -- Administrator</title>
-      <link>//localhost:1313/he.net-ipv6-certification-questions-and-answers-administrator/</link>
+      <link>http://localhost:1313/he.net-ipv6-certification-questions-and-answers-administrator/</link>
       <pubDate>Sat, 18 Jun 2011 18:29:02 +0000</pubDate>
       
-      <guid>//localhost:1313/he.net-ipv6-certification-questions-and-answers-administrator/</guid>
+      <guid>http://localhost:1313/he.net-ipv6-certification-questions-and-answers-administrator/</guid>
       <description>http://ipv6.he.net/certification/
   0. Newbie Test
   1. Enthusiast Test
@@ -148,10 +148,10 @@ The ideal would be a self-monitoring client that identifies local ipv4 changes h
     
     <item>
       <title>HE.net IPV6 Certification questions and answers -- Enthusiast</title>
-      <link>//localhost:1313/he.net-ipv6-certification-questions-and-answers-enthusiast/</link>
+      <link>http://localhost:1313/he.net-ipv6-certification-questions-and-answers-enthusiast/</link>
       <pubDate>Sat, 18 Jun 2011 18:16:52 +0000</pubDate>
       
-      <guid>//localhost:1313/he.net-ipv6-certification-questions-and-answers-enthusiast/</guid>
+      <guid>http://localhost:1313/he.net-ipv6-certification-questions-and-answers-enthusiast/</guid>
       <description>http://ipv6.he.net/certification/
   0. Newbie Test
   2. Administrator Test
@@ -165,10 +165,10 @@ _ ping -A inet6 ping &amp;ndash;ipv6 ping6 X pingsix_</description>
     
     <item>
       <title>HE.net IPV6 Certification questions and answers -- Newbie</title>
-      <link>//localhost:1313/he.net-ipv6-certification-questions-and-answers-newbie/</link>
+      <link>http://localhost:1313/he.net-ipv6-certification-questions-and-answers-newbie/</link>
       <pubDate>Sat, 18 Jun 2011 18:11:23 +0000</pubDate>
       
-      <guid>//localhost:1313/he.net-ipv6-certification-questions-and-answers-newbie/</guid>
+      <guid>http://localhost:1313/he.net-ipv6-certification-questions-and-answers-newbie/</guid>
       <description>http://ipv6.he.net/certification/
   1. Enthusiast Test
   2. Administrator Test
@@ -183,10 +183,10 @@ _ ping -A inet6 ping &amp;ndash;ipv6 ping6 X pingsix_</description>
     
     <item>
       <title>Now to the ever elusive 1500</title>
-      <link>//localhost:1313/now-to-the-ever-elusive-1500/</link>
+      <link>http://localhost:1313/now-to-the-ever-elusive-1500/</link>
       <pubDate>Sat, 04 Jun 2011 13:08:03 +0000</pubDate>
       
-      <guid>//localhost:1313/now-to-the-ever-elusive-1500/</guid>
+      <guid>http://localhost:1313/now-to-the-ever-elusive-1500/</guid>
       <description>[caption id=&amp;ldquo;attachment_95&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;800&amp;rdquo;] IPV6 Cert. from Hurricane Electric[/caption]
 I hope the coveted T-shirt arrives before the celebration on board the USS Hornet.
 Update
@@ -196,28 +196,28 @@ It did not, but it did just in time for my England trip with the Samster&amp;hel
     
     <item>
       <title>CIDR -- Classless InterDomain Routing</title>
-      <link>//localhost:1313/cidr-classless-interdomain-routing/</link>
+      <link>http://localhost:1313/cidr-classless-interdomain-routing/</link>
       <pubDate>Mon, 16 May 2011 09:05:22 +0000</pubDate>
       
-      <guid>//localhost:1313/cidr-classless-interdomain-routing/</guid>
+      <guid>http://localhost:1313/cidr-classless-interdomain-routing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Administrative Distance</title>
-      <link>//localhost:1313/administrative-distance/</link>
+      <link>http://localhost:1313/administrative-distance/</link>
       <pubDate>Tue, 10 May 2011 12:16:04 +0000</pubDate>
       
-      <guid>//localhost:1313/administrative-distance/</guid>
+      <guid>http://localhost:1313/administrative-distance/</guid>
       <description>         Connected interface 0   Static route 1   Enhanced Interior Gateway Routing Protocol (EIGRP) summary route 5   External Border Gateway Protocol (BGP) 20   Internal EIGRP 90   IGRP 100   OSPF 110   Intermediate System-to-Intermediate System (IS-IS) 115   Routing Information Protocol (RIP) 120   Exterior Gateway Protocol (EGP) 140   On Demand Routing (ODR) 160   External EIGRP 170   Internal BGP 200   Unknown* 255    </description>
     </item>
     
     <item>
       <title>netmasks</title>
-      <link>//localhost:1313/netmasks/</link>
+      <link>http://localhost:1313/netmasks/</link>
       <pubDate>Thu, 28 Apr 2011 09:09:12 +0000</pubDate>
       
-      <guid>//localhost:1313/netmasks/</guid>
+      <guid>http://localhost:1313/netmasks/</guid>
       <description></description>
     </item>
     

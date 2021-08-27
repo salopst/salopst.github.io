@@ -3,1566 +3,1586 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>//localhost:1313/text-expansion-with-espanso/</loc>
+    <loc>http://localhost:1313/text-expansion-with-espanso/</loc>
     <lastmod>2020-05-22T11:29:35+01:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/level-1-org-heading/</loc>
+    <loc>http://localhost:1313/level-1-org-heading/</loc>
     <lastmod>2020-05-18T15:33:57+01:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2020-05-22T11:29:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="//localhost:1313/fr/"
+                href="http://localhost:1313/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="http://localhost:1313/it/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/"
+                href="http://localhost:1313/"
                 />
   </url>
   
   <url>
-    <loc>//localhost:1313/categories/blog/</loc>
+    <loc>http://localhost:1313/categories/blog/</loc>
     <lastmod>2020-05-22T11:29:35+01:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2020-05-22T11:29:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="//localhost:1313/fr/categories/"
+                href="http://localhost:1313/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="http://localhost:1313/it/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/categories/"
+                href="http://localhost:1313/categories/"
                 />
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/emacs/</loc>
+    <loc>http://localhost:1313/tags/emacs/</loc>
     <lastmod>2020-05-22T11:29:35+01:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/categories/emacs/</loc>
+    <loc>http://localhost:1313/categories/emacs/</loc>
     <lastmod>2020-05-22T11:29:35+01:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/espanso/</loc>
+    <loc>http://localhost:1313/tags/espanso/</loc>
     <lastmod>2020-05-22T11:29:35+01:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/hugo/</loc>
+    <loc>http://localhost:1313/tags/hugo/</loc>
     <lastmod>2020-05-22T11:29:35+01:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/categories/linux/</loc>
+    <loc>http://localhost:1313/categories/linux/</loc>
     <lastmod>2020-05-22T11:29:35+01:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/categories/macos/</loc>
+    <loc>http://localhost:1313/categories/macos/</loc>
     <lastmod>2020-05-22T11:29:35+01:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2020-05-22T11:29:35+01:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2020-05-22T11:29:35+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="//localhost:1313/fr/tags/"
+                href="http://localhost:1313/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="http://localhost:1313/it/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/tags/"
+                href="http://localhost:1313/tags/"
                 />
   </url>
   
   <url>
-    <loc>//localhost:1313/categories/tech/</loc>
+    <loc>http://localhost:1313/categories/tech/</loc>
     <lastmod>2020-05-22T11:29:35+01:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/test/</loc>
+    <loc>http://localhost:1313/tags/test/</loc>
     <lastmod>2020-05-22T11:29:35+01:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/categories/humour/</loc>
+    <loc>http://localhost:1313/categories/humour/</loc>
     <lastmod>2020-05-08T15:33:57+01:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/jokes/</loc>
+    <loc>http://localhost:1313/tags/jokes/</loc>
     <lastmod>2020-05-08T15:33:57+01:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/orgmode/</loc>
+    <loc>http://localhost:1313/tags/orgmode/</loc>
     <lastmod>2020-05-08T15:33:57+01:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/categories/random/</loc>
+    <loc>http://localhost:1313/categories/random/</loc>
     <lastmod>2020-05-08T15:33:57+01:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/science/</loc>
+    <loc>http://localhost:1313/tags/science/</loc>
     <lastmod>2020-05-08T15:33:57+01:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/science-jokes/</loc>
+    <loc>http://localhost:1313/science-jokes/</loc>
     <lastmod>2020-05-08T15:33:57+01:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/hardware/</loc>
+    <loc>http://localhost:1313/tags/hardware/</loc>
     <lastmod>2019-05-13T17:05:55+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/homeserver/</loc>
+    <loc>http://localhost:1313/tags/homeserver/</loc>
     <lastmod>2019-05-13T17:05:55+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/media/</loc>
+    <loc>http://localhost:1313/tags/media/</loc>
     <lastmod>2019-05-13T17:05:55+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/categories/networking/</loc>
+    <loc>http://localhost:1313/categories/networking/</loc>
     <lastmod>2019-05-13T17:05:55+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/openmediavault-4-server...-psu-died/</loc>
+    <loc>http://localhost:1313/openmediavault-4-server...-psu-died/</loc>
     <lastmod>2019-05-13T17:05:55+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/server/</loc>
+    <loc>http://localhost:1313/tags/server/</loc>
     <lastmod>2019-05-13T17:05:55+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/debian/</loc>
+    <loc>http://localhost:1313/tags/debian/</loc>
     <lastmod>2019-01-06T05:57:12+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/keyboard/</loc>
+    <loc>http://localhost:1313/tags/keyboard/</loc>
     <lastmod>2019-01-06T05:57:12+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/settings/</loc>
+    <loc>http://localhost:1313/tags/settings/</loc>
     <lastmod>2019-01-06T05:57:12+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/us-keyboard-uk-settings-aka-wheres-my-pipe/</loc>
+    <loc>http://localhost:1313/us-keyboard-uk-settings-aka-wheres-my-pipe/</loc>
     <lastmod>2019-01-06T05:57:12+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/openmediavault-4-arrakis-reinstall-and-apps-in-docker/</loc>
+    <loc>http://localhost:1313/openmediavault-4-arrakis-reinstall-and-apps-in-docker/</loc>
     <lastmod>2018-10-09T09:04:01+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/categories/apple/</loc>
+    <loc>http://localhost:1313/categories/apple/</loc>
     <lastmod>2018-10-06T16:17:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/apps/</loc>
+    <loc>http://localhost:1313/tags/apps/</loc>
     <lastmod>2018-10-06T16:17:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/audacity/</loc>
+    <loc>http://localhost:1313/tags/audacity/</loc>
     <lastmod>2018-10-06T16:17:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/audacity-is-already-running...-ps-ef-grep-aud-says-nada/</loc>
+    <loc>http://localhost:1313/audacity-is-already-running...-ps-ef-grep-aud-says-nada/</loc>
     <lastmod>2018-10-06T16:17:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/pi-hole-route-del/</loc>
+    <loc>http://localhost:1313/pi-hole-route-del/</loc>
     <lastmod>2018-09-21T11:42:50+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/categories/good-life/</loc>
+    <loc>http://localhost:1313/categories/good-life/</loc>
     <lastmod>2018-09-11T18:51:54+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/of-apple-pyes/</loc>
+    <loc>http://localhost:1313/of-apple-pyes/</loc>
     <lastmod>2018-09-11T18:51:54+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/categories/recipes/</loc>
+    <loc>http://localhost:1313/categories/recipes/</loc>
     <lastmod>2018-09-11T18:51:54+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/das-war-ein-befehl...-entwurf-des-freiheitsplans-...-erg#1/</loc>
+    <loc>http://localhost:1313/das-war-ein-befehl...-entwurf-des-freiheitsplans-...-erg1/</loc>
     <lastmod>2018-09-10T05:50:22+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/categories/french/</loc>
+    <loc>http://localhost:1313/categories/french/</loc>
     <lastmod>2018-08-24T20:32:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/categories/gluten-free/</loc>
+    <loc>http://localhost:1313/categories/gluten-free/</loc>
     <lastmod>2018-08-24T20:32:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/gluten-free-homemade-rustic-french-p%C3%A2t%C3%A9/</loc>
+    <loc>http://localhost:1313/gluten-free-homemade-rustic-french-p%C3%A2t%C3%A9/</loc>
     <lastmod>2018-08-24T20:32:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/ad-blocking/</loc>
+    <loc>http://localhost:1313/tags/ad-blocking/</loc>
     <lastmod>2018-06-16T07:18:05+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/dig-internetz/</loc>
+    <loc>http://localhost:1313/tags/dig-internetz/</loc>
     <lastmod>2018-06-16T07:18:05+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/dns/</loc>
+    <loc>http://localhost:1313/tags/dns/</loc>
     <lastmod>2018-06-16T07:18:05+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/pi-hole-dns-level-ad-blocker/</loc>
+    <loc>http://localhost:1313/pi-hole-dns-level-ad-blocker/</loc>
     <lastmod>2018-06-16T07:18:05+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/raspberry-pi/</loc>
+    <loc>http://localhost:1313/tags/raspberry-pi/</loc>
     <lastmod>2018-06-16T07:18:05+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/anagram/</loc>
+    <loc>http://localhost:1313/tags/anagram/</loc>
     <lastmod>2018-06-01T17:35:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/categories/ruby/</loc>
+    <loc>http://localhost:1313/categories/ruby/</loc>
     <lastmod>2018-06-01T17:35:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/words/</loc>
+    <loc>http://localhost:1313/tags/words/</loc>
     <lastmod>2018-06-01T17:35:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/wranglergram-decoder-in-ruby/</loc>
+    <loc>http://localhost:1313/wranglergram-decoder-in-ruby/</loc>
     <lastmod>2018-06-01T17:35:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/categories/dog/</loc>
+    <loc>http://localhost:1313/categories/dog/</loc>
     <lastmod>2018-05-27T17:43:13+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/dogge-play-time/</loc>
+    <loc>http://localhost:1313/dogge-play-time/</loc>
     <lastmod>2018-05-27T17:43:13+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/block-sites/domains-from-search-engine-results/</loc>
+    <loc>http://localhost:1313/block-sites/domains-from-search-engine-results/</loc>
     <lastmod>2018-05-25T06:44:17+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/internet/</loc>
+    <loc>http://localhost:1313/tags/internet/</loc>
     <lastmod>2018-05-25T06:44:17+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/search-engines/</loc>
+    <loc>http://localhost:1313/tags/search-engines/</loc>
     <lastmod>2018-05-25T06:44:17+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/apple/</loc>
+    <loc>http://localhost:1313/tags/apple/</loc>
     <lastmod>2018-05-18T10:19:13+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/create-root-ssh-keys-os-x-macos-high-sierra/</loc>
+    <loc>http://localhost:1313/create-root-ssh-keys-os-x-macos-high-sierra/</loc>
     <lastmod>2018-05-18T10:19:13+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/macos/</loc>
+    <loc>http://localhost:1313/tags/macos/</loc>
     <lastmod>2018-05-18T10:19:13+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/os-x/</loc>
+    <loc>http://localhost:1313/tags/os-x/</loc>
     <lastmod>2018-05-18T10:19:13+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/edgerouter/</loc>
+    <loc>http://localhost:1313/tags/edgerouter/</loc>
     <lastmod>2018-04-19T13:25:28+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/edgerouter-x-dns-issues/</loc>
+    <loc>http://localhost:1313/edgerouter-x-dns-issues/</loc>
     <lastmod>2018-04-19T13:25:28+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/ubiquiti/</loc>
+    <loc>http://localhost:1313/tags/ubiquiti/</loc>
     <lastmod>2018-04-19T13:25:28+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/technicolor-mediaaccess-tg589vac-in-bridge-mode/</loc>
+    <loc>http://localhost:1313/technicolor-mediaaccess-tg589vac-in-bridge-mode/</loc>
     <lastmod>2018-04-19T12:17:19+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/cli/</loc>
+    <loc>http://localhost:1313/tags/cli/</loc>
     <lastmod>2018-03-09T07:25:54+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/join-two-or-more-videos-on-the-command-line/</loc>
+    <loc>http://localhost:1313/join-two-or-more-videos-on-the-command-line/</loc>
     <lastmod>2018-03-09T07:25:54+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/tech/</loc>
+    <loc>http://localhost:1313/tags/tech/</loc>
     <lastmod>2018-03-09T07:25:54+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/video/</loc>
+    <loc>http://localhost:1313/tags/video/</loc>
     <lastmod>2018-03-09T07:25:54+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/ffmpeg/</loc>
+    <loc>http://localhost:1313/tags/ffmpeg/</loc>
     <lastmod>2018-03-08T23:23:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/categories/media/</loc>
+    <loc>http://localhost:1313/categories/media/</loc>
     <lastmod>2018-03-08T23:23:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/nas/</loc>
+    <loc>http://localhost:1313/tags/nas/</loc>
     <lastmod>2018-03-08T23:23:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/what-movie-files-are-not-1080p/</loc>
+    <loc>http://localhost:1313/what-movie-files-are-not-1080p/</loc>
     <lastmod>2018-03-08T23:23:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/installing-solus-linux-on-a-macbook-pro-91-a1286-part-2/</loc>
+    <loc>http://localhost:1313/installing-solus-linux-on-a-macbook-pro-91-a1286-part-2/</loc>
     <lastmod>2017-05-11T09:35:12+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/linux/</loc>
+    <loc>http://localhost:1313/tags/linux/</loc>
     <lastmod>2017-05-11T09:35:12+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/installing-solus-linux-on-a-macbook-pro-91-a1286/</loc>
+    <loc>http://localhost:1313/installing-solus-linux-on-a-macbook-pro-91-a1286/</loc>
     <lastmod>2017-05-08T07:03:14+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/categories/os-x/</loc>
+    <loc>http://localhost:1313/categories/os-x/</loc>
     <lastmod>2017-05-08T07:03:14+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/categories/solus/</loc>
+    <loc>http://localhost:1313/categories/solus/</loc>
     <lastmod>2017-05-08T07:03:14+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/create-a-bootable-iso-of-macos-sierra/</loc>
+    <loc>http://localhost:1313/create-a-bootable-iso-of-macos-sierra/</loc>
     <lastmod>2017-04-17T03:38:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/remapping-macbook-pro-eject-key-under-solus-linux/</loc>
+    <loc>http://localhost:1313/remapping-macbook-pro-eject-key-under-solus-linux/</loc>
     <lastmod>2017-03-19T12:35:43+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/compiling/</loc>
+    <loc>http://localhost:1313/tags/compiling/</loc>
     <lastmod>2017-03-11T03:20:04+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/librevault-on-solus-os/</loc>
+    <loc>http://localhost:1313/librevault-on-solus-os/</loc>
     <lastmod>2017-03-11T03:20:04+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/solus/</loc>
+    <loc>http://localhost:1313/tags/solus/</loc>
     <lastmod>2017-03-11T03:20:04+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/source-code/</loc>
+    <loc>http://localhost:1313/tags/source-code/</loc>
     <lastmod>2017-03-11T03:20:04+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/distro/</loc>
+    <loc>http://localhost:1313/tags/distro/</loc>
     <lastmod>2017-03-07T03:12:21+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/mounting-an-ios-10.2-device-in-solus-os/</loc>
+    <loc>http://localhost:1313/mounting-an-ios-10.2-device-in-solus-os/</loc>
     <lastmod>2017-03-07T03:12:21+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/source/</loc>
+    <loc>http://localhost:1313/tags/source/</loc>
     <lastmod>2017-03-07T03:12:21+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/eek-codecolorer-wordpress-plugin-and-php-7.1/</loc>
+    <loc>http://localhost:1313/eek-codecolorer-wordpress-plugin-and-php-7.1/</loc>
     <lastmod>2017-03-01T14:33:33+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/fsked-el-capitan-home-directory/</loc>
+    <loc>http://localhost:1313/fsked-el-capitan-home-directory/</loc>
     <lastmod>2016-05-23T05:41:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/install/</loc>
+    <loc>http://localhost:1313/tags/install/</loc>
     <lastmod>2016-05-23T05:41:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/ruby/</loc>
+    <loc>http://localhost:1313/tags/ruby/</loc>
     <lastmod>2016-05-23T05:41:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/sysadmin/</loc>
+    <loc>http://localhost:1313/tags/sysadmin/</loc>
     <lastmod>2016-05-23T05:41:31+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/animal/</loc>
+    <loc>http://localhost:1313/tags/animal/</loc>
     <lastmod>2016-04-25T19:57:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/behavior/</loc>
+    <loc>http://localhost:1313/tags/behavior/</loc>
     <lastmod>2016-04-25T19:57:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/canine/</loc>
+    <loc>http://localhost:1313/tags/canine/</loc>
     <lastmod>2016-04-25T19:57:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/dog/</loc>
+    <loc>http://localhost:1313/tags/dog/</loc>
     <lastmod>2016-04-25T19:57:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/rescue/</loc>
+    <loc>http://localhost:1313/tags/rescue/</loc>
     <lastmod>2016-04-25T19:57:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/rescue-doggie-diary-week-2/</loc>
+    <loc>http://localhost:1313/rescue-doggie-diary-week-2/</loc>
     <lastmod>2016-04-25T19:57:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/shelter/</loc>
+    <loc>http://localhost:1313/tags/shelter/</loc>
     <lastmod>2016-04-25T19:57:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/training/</loc>
+    <loc>http://localhost:1313/tags/training/</loc>
     <lastmod>2016-04-25T19:57:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/blog/</loc>
+    <loc>http://localhost:1313/tags/blog/</loc>
     <lastmod>2016-04-24T00:01:57+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/blogging/</loc>
+    <loc>http://localhost:1313/tags/blogging/</loc>
     <lastmod>2016-04-24T00:01:57+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/code/</loc>
+    <loc>http://localhost:1313/tags/code/</loc>
     <lastmod>2016-04-24T00:01:57+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/editors/</loc>
+    <loc>http://localhost:1313/tags/editors/</loc>
     <lastmod>2016-04-24T00:01:57+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/gem/</loc>
+    <loc>http://localhost:1313/tags/gem/</loc>
     <lastmod>2016-04-24T00:01:57+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/ia-writer/</loc>
+    <loc>http://localhost:1313/tags/ia-writer/</loc>
     <lastmod>2016-04-24T00:01:57+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/posting-from-ia-writer-to-wordpress-coleman/</loc>
+    <loc>http://localhost:1313/posting-from-ia-writer-to-wordpress-coleman/</loc>
     <lastmod>2016-04-24T00:01:57+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/rubypress/</loc>
+    <loc>http://localhost:1313/tags/rubypress/</loc>
     <lastmod>2016-04-24T00:01:57+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/text/</loc>
+    <loc>http://localhost:1313/tags/text/</loc>
     <lastmod>2016-04-24T00:01:57+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/text-editor/</loc>
+    <loc>http://localhost:1313/tags/text-editor/</loc>
     <lastmod>2016-04-24T00:01:57+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/wordpress/</loc>
+    <loc>http://localhost:1313/tags/wordpress/</loc>
     <lastmod>2016-04-24T00:01:57+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/workflow/</loc>
+    <loc>http://localhost:1313/tags/workflow/</loc>
     <lastmod>2016-04-24T00:01:57+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/rescue-doggie-diary/</loc>
+    <loc>http://localhost:1313/rescue-doggie-diary/</loc>
     <lastmod>2016-04-23T16:20:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/nom-nom/</loc>
+    <loc>http://localhost:1313/tags/nom-nom/</loc>
     <lastmod>2015-09-15T21:38:40+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/winging-a-damson-apple-and-custard-pie/</loc>
+    <loc>http://localhost:1313/winging-a-damson-apple-and-custard-pie/</loc>
     <lastmod>2015-09-15T21:38:40+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/categories/german/</loc>
+    <loc>http://localhost:1313/categories/german/</loc>
     <lastmod>2015-08-10T19:33:17+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/top-100-german-verbs/</loc>
+    <loc>http://localhost:1313/top-100-german-verbs/</loc>
     <lastmod>2015-08-10T19:33:17+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/new-public-key-old-key-revoked/</loc>
+    <loc>http://localhost:1313/new-public-key-old-key-revoked/</loc>
     <lastmod>2015-07-28T17:04:18+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/ffmpeg-transcode-iphone-videos-to-mp4/</loc>
+    <loc>http://localhost:1313/ffmpeg-transcode-iphone-videos-to-mp4/</loc>
     <lastmod>2015-07-27T10:19:46+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/customised-os-x-keybindings.-with-karabiner....-correct-shift-keys/</loc>
+    <loc>http://localhost:1313/customised-os-x-keybindings.-with-karabiner....-correct-shift-keys/</loc>
     <lastmod>2015-07-27T05:59:42+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/keybinding/</loc>
+    <loc>http://localhost:1313/tags/keybinding/</loc>
     <lastmod>2015-07-27T05:59:42+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/customised-os-x-keybindings....-with-karabiner/</loc>
+    <loc>http://localhost:1313/customised-os-x-keybindings....-with-karabiner/</loc>
     <lastmod>2015-07-23T11:29:29+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/remapping-caps-lock-with-seil/karabiner/</loc>
+    <loc>http://localhost:1313/remapping-caps-lock-with-seil/karabiner/</loc>
     <lastmod>2015-07-22T04:27:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/window-management/</loc>
+    <loc>http://localhost:1313/tags/window-management/</loc>
     <lastmod>2015-07-21T21:35:37+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/window-managers-for-os-x/</loc>
+    <loc>http://localhost:1313/window-managers-for-os-x/</loc>
     <lastmod>2015-07-21T21:35:37+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/dang-spliggetty/</loc>
+    <loc>http://localhost:1313/dang-spliggetty/</loc>
     <lastmod>2015-07-18T18:52:30+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/bwf/</loc>
+    <loc>http://localhost:1313/tags/bwf/</loc>
     <lastmod>2015-07-11T08:45:09+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/keto-started-yesterday/</loc>
+    <loc>http://localhost:1313/keto-started-yesterday/</loc>
     <lastmod>2015-07-11T08:45:09+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/everything-is-illegal-in-massachusetts-some-ffmpeg-examples/</loc>
+    <loc>http://localhost:1313/everything-is-illegal-in-massachusetts-some-ffmpeg-examples/</loc>
     <lastmod>2015-07-04T15:15:22+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/homebrew/</loc>
+    <loc>http://localhost:1313/tags/homebrew/</loc>
     <lastmod>2015-06-26T13:26:53+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/homebrew-woes.-wtf/</loc>
+    <loc>http://localhost:1313/homebrew-woes.-wtf/</loc>
     <lastmod>2015-06-26T13:26:53+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/sysdamin/</loc>
+    <loc>http://localhost:1313/tags/sysdamin/</loc>
     <lastmod>2015-06-26T13:26:53+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/.zshrc/</loc>
+    <loc>http://localhost:1313/.zshrc/</loc>
     <lastmod>2015-06-24T22:46:13+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/installing-hammerspoon/</loc>
+    <loc>http://localhost:1313/installing-hammerspoon/</loc>
     <lastmod>2015-06-24T19:03:04+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/npm-antigen-and-zsh-pure-prompt/</loc>
+    <loc>http://localhost:1313/npm-antigen-and-zsh-pure-prompt/</loc>
     <lastmod>2015-06-24T05:13:58+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/upgrading-kodi-on-fire-tv-from-macbook/</loc>
+    <loc>http://localhost:1313/upgrading-kodi-on-fire-tv-from-macbook/</loc>
     <lastmod>2015-06-15T05:42:34+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/.vimrc/</loc>
+    <loc>http://localhost:1313/.vimrc/</loc>
     <lastmod>2015-05-26T15:43:25+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/dot-file/</loc>
+    <loc>http://localhost:1313/tags/dot-file/</loc>
     <lastmod>2015-05-26T15:43:25+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/fontawesome-4.3.0-yearlusbitbucket/</loc>
+    <loc>http://localhost:1313/fontawesome-4.3.0-yearlusbitbucket/</loc>
     <lastmod>2015-05-10T14:41:32+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/latex/</loc>
+    <loc>http://localhost:1313/tags/latex/</loc>
     <lastmod>2015-05-10T14:41:32+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/first-ring-l-sit/</loc>
+    <loc>http://localhost:1313/first-ring-l-sit/</loc>
     <lastmod>2015-05-05T10:06:05+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/from-bibtex-to-biblatex-and-biber/</loc>
+    <loc>http://localhost:1313/from-bibtex-to-biblatex-and-biber/</loc>
     <lastmod>2015-05-05T06:52:08+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/confusing-iphoto/aperture-and-photo-libraries/</loc>
+    <loc>http://localhost:1313/confusing-iphoto/aperture-and-photo-libraries/</loc>
     <lastmod>2015-04-23T08:46:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/photos/</loc>
+    <loc>http://localhost:1313/tags/photos/</loc>
     <lastmod>2015-04-23T08:46:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/new-web-project-with-bootstrap/</loc>
+    <loc>http://localhost:1313/new-web-project-with-bootstrap/</loc>
     <lastmod>2015-04-21T17:55:36+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/atom/</loc>
+    <loc>http://localhost:1313/tags/atom/</loc>
     <lastmod>2015-03-30T11:09:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/atom-themes-and-packages-note-to-self/</loc>
+    <loc>http://localhost:1313/atom-themes-and-packages-note-to-self/</loc>
     <lastmod>2015-03-30T11:09:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/ssh/</loc>
+    <loc>http://localhost:1313/tags/ssh/</loc>
     <lastmod>2014-12-14T13:20:54+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/ssh-key-pair-authentication/</loc>
+    <loc>http://localhost:1313/ssh-key-pair-authentication/</loc>
     <lastmod>2014-12-14T13:20:54+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/terminal-colors/</loc>
+    <loc>http://localhost:1313/terminal-colors/</loc>
     <lastmod>2014-10-22T03:47:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/categories/greek/</loc>
+    <loc>http://localhost:1313/categories/greek/</loc>
     <lastmod>2014-10-07T05:14:42+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/greek/</loc>
+    <loc>http://localhost:1313/tags/greek/</loc>
     <lastmod>2014-10-07T05:14:42+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/koine/</loc>
+    <loc>http://localhost:1313/tags/koine/</loc>
     <lastmod>2014-10-07T05:14:42+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/language/</loc>
+    <loc>http://localhost:1313/tags/language/</loc>
     <lastmod>2014-10-07T05:14:42+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/the-last...-koin%C4%93-greek-word-of-the-day-%E1%BC%90%CF%80%CE%AF%CE%B8%CE%B5%CF%83%CE%B9%CF%82-%CE%B5%CF%89%CF%82-%E1%BC%A1/</loc>
+    <loc>http://localhost:1313/the-last...-koin%C4%93-greek-word-of-the-day-%E1%BC%90%CF%80%CE%AF%CE%B8%CE%B5%CF%83%CE%B9%CF%82-%CE%B5%CF%89%CF%82-%E1%BC%A1/</loc>
     <lastmod>2014-10-07T05:14:42+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/%CE%BA%CE%BF%CE%B9%CE%BD%CE%AE/</loc>
+    <loc>http://localhost:1313/tags/%CE%BA%CE%BF%CE%B9%CE%BD%CE%AE/</loc>
     <lastmod>2014-10-07T05:14:42+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/koin%C4%93-greek-word-of-the-day-%CF%80%CE%B1%CF%81%CE%AF%CE%B7%CE%BC%CE%B9/</loc>
+    <loc>http://localhost:1313/koin%C4%93-greek-word-of-the-day-%CF%80%CE%B1%CF%81%CE%AF%CE%B7%CE%BC%CE%B9/</loc>
     <lastmod>2014-10-06T13:15:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/koin%C4%93-greek-word-of-the-day-%E1%BD%91%CF%80%CE%BF%CE%BB%CE%B9%CE%BC%CF%80%CE%AC%CE%BD%CF%89/</loc>
+    <loc>http://localhost:1313/koin%C4%93-greek-word-of-the-day-%E1%BD%91%CF%80%CE%BF%CE%BB%CE%B9%CE%BC%CF%80%CE%AC%CE%BD%CF%89/</loc>
     <lastmod>2014-10-05T13:13:55+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/koin%C4%93-greek-word-of-the-day-%CE%B4%CE%B7%CE%BC%CE%AE%CF%84%CF%81%CE%B9%CE%BF%CF%82-%CE%BF%CF%85-%E1%BD%81/</loc>
+    <loc>http://localhost:1313/koin%C4%93-greek-word-of-the-day-%CE%B4%CE%B7%CE%BC%CE%AE%CF%84%CF%81%CE%B9%CE%BF%CF%82-%CE%BF%CF%85-%E1%BD%81/</loc>
     <lastmod>2014-10-04T13:11:49+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/koin%C4%93-greek-word-of-the-day-%CF%84%CE%AD%CF%81%CF%84%CF%85%CE%BB%CE%BB%CE%BF%CF%82-%CE%BF%CF%85-%E1%BD%81/</loc>
+    <loc>http://localhost:1313/koin%C4%93-greek-word-of-the-day-%CF%84%CE%AD%CF%81%CF%84%CF%85%CE%BB%CE%BB%CE%BF%CF%82-%CE%BF%CF%85-%E1%BD%81/</loc>
     <lastmod>2014-10-03T11:07:16+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/koin%C4%93-greek-word-of-the-day-%E1%BF%A5%CE%B1%CE%BA%CE%AC/</loc>
+    <loc>http://localhost:1313/koin%C4%93-greek-word-of-the-day-%E1%BF%A5%CE%B1%CE%BA%CE%AC/</loc>
     <lastmod>2014-10-02T10:35:34+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/koin%C4%93-greek-word-of-the-day-%E1%BD%91%CF%80%CE%B5%CE%AF%CE%BA%CF%89/</loc>
+    <loc>http://localhost:1313/koin%C4%93-greek-word-of-the-day-%E1%BD%91%CF%80%CE%B5%CE%AF%CE%BA%CF%89/</loc>
     <lastmod>2014-10-01T06:08:28+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/koin%C4%93-greek-word-of-the-day-%E1%BC%80%CF%80%CF%8C%CE%B4%CE%B5%CE%B9%CE%BE%CE%B9%CF%82-%CE%B5%CF%89%CF%82-%E1%BC%A1/</loc>
+    <loc>http://localhost:1313/koin%C4%93-greek-word-of-the-day-%E1%BC%80%CF%80%CF%8C%CE%B4%CE%B5%CE%B9%CE%BE%CE%B9%CF%82-%CE%B5%CF%89%CF%82-%E1%BC%A1/</loc>
     <lastmod>2014-09-30T12:05:28+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/koin%C4%93-greek-word-of-the-day-%E1%BC%90%CE%BC%CF%80%CE%AF%CF%80%CF%84%CF%89/</loc>
+    <loc>http://localhost:1313/koin%C4%93-greek-word-of-the-day-%E1%BC%90%CE%BC%CF%80%CE%AF%CF%80%CF%84%CF%89/</loc>
     <lastmod>2014-09-29T12:11:14+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/koin%C4%93-greek-word-of-the-day-%E1%BC%91%CE%BE%CE%B1%CE%BA%CF%8C%CF%83%CE%B9%CE%BF%CE%B9-%CE%B1%CE%B9-%CE%B1/</loc>
+    <loc>http://localhost:1313/koin%C4%93-greek-word-of-the-day-%E1%BC%91%CE%BE%CE%B1%CE%BA%CF%8C%CF%83%CE%B9%CE%BF%CE%B9-%CE%B1%CE%B9-%CE%B1/</loc>
     <lastmod>2014-09-28T18:50:22+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/koin%C4%93-greek-word-of-the-day-%CF%86%CE%B9%CE%BC%CF%8C%CF%89/</loc>
+    <loc>http://localhost:1313/koin%C4%93-greek-word-of-the-day-%CF%86%CE%B9%CE%BC%CF%8C%CF%89/</loc>
     <lastmod>2014-09-27T18:32:49+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/koin%C4%93-greek-word-of-the-day-%CE%B2%CE%B9%CE%B2%CE%BB%CE%AF%CE%BF%CE%BD-%CE%BF%CF%85-%CF%84%CF%8C/</loc>
+    <loc>http://localhost:1313/koin%C4%93-greek-word-of-the-day-%CE%B2%CE%B9%CE%B2%CE%BB%CE%AF%CE%BF%CE%BD-%CE%BF%CF%85-%CF%84%CF%8C/</loc>
     <lastmod>2014-09-26T12:34:47+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/education/</loc>
+    <loc>http://localhost:1313/tags/education/</loc>
     <lastmod>2014-09-24T09:11:11+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/exercism.io/</loc>
+    <loc>http://localhost:1313/exercism.io/</loc>
     <lastmod>2014-09-24T09:11:11+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/website/</loc>
+    <loc>http://localhost:1313/tags/website/</loc>
     <lastmod>2014-09-24T09:11:11+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/cleaning-up-a-homebrew-installation/</loc>
+    <loc>http://localhost:1313/cleaning-up-a-homebrew-installation/</loc>
     <lastmod>2014-09-23T23:31:02+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/scripts/</loc>
+    <loc>http://localhost:1313/tags/scripts/</loc>
     <lastmod>2014-09-23T23:31:02+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/categories/tech-os-x-apple/</loc>
+    <loc>http://localhost:1313/categories/tech-os-x-apple/</loc>
     <lastmod>2014-09-23T23:31:02+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/camels/</loc>
+    <loc>http://localhost:1313/camels/</loc>
     <lastmod>2014-09-07T12:09:08+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/borschtards/</loc>
+    <loc>http://localhost:1313/borschtards/</loc>
     <lastmod>2014-09-05T17:21:29+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/rubypress/</loc>
+    <loc>http://localhost:1313/rubypress/</loc>
     <lastmod>2014-09-01T18:35:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/koin%C4%93-greek-word-of-the-day/</loc>
+    <loc>http://localhost:1313/koin%C4%93-greek-word-of-the-day/</loc>
     <lastmod>2014-08-28T08:44:57+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/removing-google-auto-software-update/</loc>
+    <loc>http://localhost:1313/removing-google-auto-software-update/</loc>
     <lastmod>2014-08-02T17:45:01+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/about/about/</loc>
+    <loc>http://localhost:1313/about/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/miso-soup/</loc>
+    <loc>http://localhost:1313/miso-soup/</loc>
     <lastmod>2013-10-07T11:10:54+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/oopsies-iv/</loc>
+    <loc>http://localhost:1313/oopsies-iv/</loc>
     <lastmod>2013-07-23T23:54:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/automated-file-management-with-maid/</loc>
+    <loc>http://localhost:1313/automated-file-management-with-maid/</loc>
     <lastmod>2013-07-22T23:05:50+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/medical/</loc>
+    <loc>http://localhost:1313/tags/medical/</loc>
     <lastmod>2013-07-22T23:05:50+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/wrist/</loc>
+    <loc>http://localhost:1313/tags/wrist/</loc>
     <lastmod>2013-07-22T23:05:50+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/oopsies-iii/</loc>
+    <loc>http://localhost:1313/oopsies-iii/</loc>
     <lastmod>2013-07-18T17:37:12+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/narcojudicial-complex/</loc>
+    <loc>http://localhost:1313/narcojudicial-complex/</loc>
     <lastmod>2013-07-13T19:29:40+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/24-hour-clock/</loc>
+    <loc>http://localhost:1313/24-hour-clock/</loc>
     <lastmod>2013-07-10T01:07:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/odditity/</loc>
+    <loc>http://localhost:1313/tags/odditity/</loc>
     <lastmod>2013-07-10T01:07:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/oopsies-ii/</loc>
+    <loc>http://localhost:1313/oopsies-ii/</loc>
     <lastmod>2013-07-08T18:46:50+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/anatomy/</loc>
+    <loc>http://localhost:1313/tags/anatomy/</loc>
     <lastmod>2013-07-02T19:10:53+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/antebrachium/-cubital-fossa/</loc>
+    <loc>http://localhost:1313/antebrachium/-cubital-fossa/</loc>
     <lastmod>2013-07-02T19:10:53+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/oopsies/</loc>
+    <loc>http://localhost:1313/oopsies/</loc>
     <lastmod>2013-06-27T13:34:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/alfred-2-workflows/</loc>
+    <loc>http://localhost:1313/alfred-2-workflows/</loc>
     <lastmod>2013-06-15T21:12:16+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/external-usb-3-drive-woes/</loc>
+    <loc>http://localhost:1313/external-usb-3-drive-woes/</loc>
     <lastmod>2013-05-29T22:17:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/masa-chocolate-chip-cookies-gluten-free-of-course/</loc>
+    <loc>http://localhost:1313/masa-chocolate-chip-cookies-gluten-free-of-course/</loc>
     <lastmod>2013-05-05T22:42:21+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/greek-course/</loc>
+    <loc>http://localhost:1313/tags/greek-course/</loc>
     <lastmod>2013-04-25T09:13:19+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/u.-penn.-greek-myth-notes-week-1/</loc>
+    <loc>http://localhost:1313/u.-penn.-greek-myth-notes-week-1/</loc>
     <lastmod>2013-04-25T09:13:19+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/classical-greek/</loc>
+    <loc>http://localhost:1313/classical-greek/</loc>
     <lastmod>2013-04-24T21:13:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/course/</loc>
+    <loc>http://localhost:1313/tags/course/</loc>
     <lastmod>2013-04-24T21:13:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/python/</loc>
+    <loc>http://localhost:1313/tags/python/</loc>
     <lastmod>2013-04-22T21:46:40+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/rock-paper-scissors-lizard-spock/</loc>
+    <loc>http://localhost:1313/rock-paper-scissors-lizard-spock/</loc>
     <lastmod>2013-04-22T21:46:40+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/gluten-free-corn-dogs/</loc>
+    <loc>http://localhost:1313/gluten-free-corn-dogs/</loc>
     <lastmod>2013-04-04T22:32:18+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/boys/</loc>
+    <loc>http://localhost:1313/tags/boys/</loc>
     <lastmod>2013-04-03T17:10:43+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/holiday/</loc>
+    <loc>http://localhost:1313/tags/holiday/</loc>
     <lastmod>2013-04-03T17:10:43+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/hornet/</loc>
+    <loc>http://localhost:1313/tags/hornet/</loc>
     <lastmod>2013-04-03T17:10:43+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/categories/pics/</loc>
+    <loc>http://localhost:1313/categories/pics/</loc>
     <lastmod>2013-04-03T17:10:43+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/visiting-the-uss-hornet-june/july-2011/</loc>
+    <loc>http://localhost:1313/visiting-the-uss-hornet-june/july-2011/</loc>
     <lastmod>2013-04-03T17:10:43+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/74111101s-the-universe-questions/</loc>
+    <loc>http://localhost:1313/74111101s-the-universe-questions/</loc>
     <lastmod>2013-04-02T14:03:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/all-about-the-great-wall-by-sam/</loc>
+    <loc>http://localhost:1313/all-about-the-great-wall-by-sam/</loc>
     <lastmod>2013-04-02T00:16:02+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/osx/</loc>
+    <loc>http://localhost:1313/tags/osx/</loc>
     <lastmod>2013-03-14T22:01:16+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/vm/</loc>
+    <loc>http://localhost:1313/tags/vm/</loc>
     <lastmod>2013-03-14T22:01:16+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/windows-7/</loc>
+    <loc>http://localhost:1313/tags/windows-7/</loc>
     <lastmod>2013-03-14T22:01:16+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/windows-7-isos-and-parallels/</loc>
+    <loc>http://localhost:1313/windows-7-isos-and-parallels/</loc>
     <lastmod>2013-03-14T22:01:16+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/mathematica/minecraft/</loc>
+    <loc>http://localhost:1313/mathematica/minecraft/</loc>
     <lastmod>2013-02-18T17:28:22+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/online-latex-editing-tools/</loc>
+    <loc>http://localhost:1313/online-latex-editing-tools/</loc>
     <lastmod>2013-02-17T13:12:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/odds-and-sods/</loc>
+    <loc>http://localhost:1313/odds-and-sods/</loc>
     <lastmod>2013-02-17T04:11:39+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/shortcuts/</loc>
+    <loc>http://localhost:1313/tags/shortcuts/</loc>
     <lastmod>2013-02-17T04:11:39+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/snippets/</loc>
+    <loc>http://localhost:1313/tags/snippets/</loc>
     <lastmod>2013-02-17T04:11:39+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/from-posterous-to-wordpress/</loc>
+    <loc>http://localhost:1313/from-posterous-to-wordpress/</loc>
     <lastmod>2013-02-16T21:56:25+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/web/</loc>
+    <loc>http://localhost:1313/tags/web/</loc>
     <lastmod>2013-02-16T21:56:25+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/humour/</loc>
+    <loc>http://localhost:1313/tags/humour/</loc>
     <lastmod>2012-10-25T02:02:57+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/jokes/</loc>
+    <loc>http://localhost:1313/jokes/</loc>
     <lastmod>2012-10-25T02:02:57+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/gluten-free/</loc>
+    <loc>http://localhost:1313/tags/gluten-free/</loc>
     <lastmod>2012-10-13T14:16:39+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/gluten-free-tortillas-tlaxcali/</loc>
+    <loc>http://localhost:1313/gluten-free-tortillas-tlaxcali/</loc>
     <lastmod>2012-10-13T14:16:39+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/mexican/</loc>
+    <loc>http://localhost:1313/tags/mexican/</loc>
     <lastmod>2012-10-13T14:16:39+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/recipe/</loc>
+    <loc>http://localhost:1313/tags/recipe/</loc>
     <lastmod>2012-10-13T14:16:39+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/tortilla/</loc>
+    <loc>http://localhost:1313/tags/tortilla/</loc>
     <lastmod>2012-10-13T14:16:39+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/gf-oatcakes/</loc>
+    <loc>http://localhost:1313/gf-oatcakes/</loc>
     <lastmod>2012-10-12T19:28:04+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/gluten-free-oat-bread/</loc>
+    <loc>http://localhost:1313/gluten-free-oat-bread/</loc>
     <lastmod>2012-10-11T15:51:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/oat-bread/</loc>
+    <loc>http://localhost:1313/tags/oat-bread/</loc>
     <lastmod>2012-10-11T15:51:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/bread/</loc>
+    <loc>http://localhost:1313/tags/bread/</loc>
     <lastmod>2012-10-08T12:44:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/gluten-free-cornbread-with-almond-meal/</loc>
+    <loc>http://localhost:1313/gluten-free-cornbread-with-almond-meal/</loc>
     <lastmod>2012-10-08T12:44:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/gluten-free-granola/</loc>
+    <loc>http://localhost:1313/gluten-free-granola/</loc>
     <lastmod>2012-10-07T17:30:29+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/gluten-free-graham-cracker-crust/</loc>
+    <loc>http://localhost:1313/gluten-free-graham-cracker-crust/</loc>
     <lastmod>2012-10-07T16:49:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/pie/</loc>
+    <loc>http://localhost:1313/tags/pie/</loc>
     <lastmod>2012-10-07T16:49:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/lime-meringue-pie/</loc>
+    <loc>http://localhost:1313/lime-meringue-pie/</loc>
     <lastmod>2012-10-07T12:12:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/meringue/</loc>
+    <loc>http://localhost:1313/tags/meringue/</loc>
     <lastmod>2012-10-07T12:12:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/gluten-free-beef-pasties/</loc>
+    <loc>http://localhost:1313/gluten-free-beef-pasties/</loc>
     <lastmod>2012-07-15T18:10:53+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/online-tobacconists/</loc>
+    <loc>http://localhost:1313/online-tobacconists/</loc>
     <lastmod>2012-03-31T18:45:02+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/pipes/</loc>
+    <loc>http://localhost:1313/tags/pipes/</loc>
     <lastmod>2012-03-31T18:45:02+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/tobacco/</loc>
+    <loc>http://localhost:1313/tags/tobacco/</loc>
     <lastmod>2012-03-31T18:45:02+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/current-blends/</loc>
+    <loc>http://localhost:1313/current-blends/</loc>
     <lastmod>2012-03-30T18:49:23+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tobacco-types-and-cuts/</loc>
+    <loc>http://localhost:1313/tobacco-types-and-cuts/</loc>
     <lastmod>2012-03-24T14:34:35+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/pipe-rustication-experiment/</loc>
+    <loc>http://localhost:1313/pipe-rustication-experiment/</loc>
     <lastmod>2012-03-16T19:03:14+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/poetry/</loc>
+    <loc>http://localhost:1313/tags/poetry/</loc>
     <lastmod>2012-03-16T19:03:14+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/pipes-not-chained-data-streams/</loc>
+    <loc>http://localhost:1313/pipes-not-chained-data-streams/</loc>
     <lastmod>2012-03-05T14:26:14+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/installing-postfix-and-dovecot-on-debian-6-squeeze/</loc>
+    <loc>http://localhost:1313/installing-postfix-and-dovecot-on-debian-6-squeeze/</loc>
     <lastmod>2012-03-03T19:17:21+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/vps/</loc>
+    <loc>http://localhost:1313/tags/vps/</loc>
     <lastmod>2012-03-03T19:17:21+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/installing-openvpn-on-debian-6-squeeze/</loc>
+    <loc>http://localhost:1313/installing-openvpn-on-debian-6-squeeze/</loc>
     <lastmod>2012-02-28T21:54:30+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/enabling-airdrop-on-certain-unsupported-macs/</loc>
+    <loc>http://localhost:1313/enabling-airdrop-on-certain-unsupported-macs/</loc>
     <lastmod>2012-02-20T13:59:34+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/gluten-free-yorkshire-pudding/</loc>
+    <loc>http://localhost:1313/gluten-free-yorkshire-pudding/</loc>
     <lastmod>2012-02-18T04:35:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/gluten-free-dumplings-x2/</loc>
+    <loc>http://localhost:1313/gluten-free-dumplings-x2/</loc>
     <lastmod>2012-02-18T04:02:34+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/chocolate/</loc>
+    <loc>http://localhost:1313/tags/chocolate/</loc>
     <lastmod>2012-02-14T15:07:14+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/chocolate-peanut-butter-cups/</loc>
+    <loc>http://localhost:1313/chocolate-peanut-butter-cups/</loc>
     <lastmod>2012-02-14T15:07:14+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/peanut-butter/</loc>
+    <loc>http://localhost:1313/tags/peanut-butter/</loc>
     <lastmod>2012-02-14T15:07:14+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/vps-scratch/</loc>
+    <loc>http://localhost:1313/vps-scratch/</loc>
     <lastmod>2012-02-12T20:51:13+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/buckwheat/</loc>
+    <loc>http://localhost:1313/tags/buckwheat/</loc>
     <lastmod>2012-02-12T06:08:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/pizza/</loc>
+    <loc>http://localhost:1313/tags/pizza/</loc>
     <lastmod>2012-02-12T06:08:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/pizza-with-a-buckwheat-crust/</loc>
+    <loc>http://localhost:1313/pizza-with-a-buckwheat-crust/</loc>
     <lastmod>2012-02-12T06:08:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/buckwheat-pancakes/</loc>
+    <loc>http://localhost:1313/buckwheat-pancakes/</loc>
     <lastmod>2012-02-11T23:54:59+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/apple-macbook-air-usb-superdrive-on-a-non-air/</loc>
+    <loc>http://localhost:1313/apple-macbook-air-usb-superdrive-on-a-non-air/</loc>
     <lastmod>2012-02-09T13:53:37+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/1500/</loc>
+    <loc>http://localhost:1313/1500/</loc>
     <lastmod>2012-02-08T20:16:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/ipv6/</loc>
+    <loc>http://localhost:1313/tags/ipv6/</loc>
     <lastmod>2012-02-08T20:16:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/rockets/</loc>
+    <loc>http://localhost:1313/tags/rockets/</loc>
     <lastmod>2012-01-31T21:10:02+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/categories/rockets/</loc>
+    <loc>http://localhost:1313/categories/rockets/</loc>
     <lastmod>2012-01-31T21:10:02+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/sjy2/</loc>
+    <loc>http://localhost:1313/tags/sjy2/</loc>
     <lastmod>2012-01-31T21:10:02+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/sr-71-maiden-launch/</loc>
+    <loc>http://localhost:1313/sr-71-maiden-launch/</loc>
     <lastmod>2012-01-31T21:10:02+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/brokering-with-sixxs/</loc>
+    <loc>http://localhost:1313/brokering-with-sixxs/</loc>
     <lastmod>2012-01-31T14:05:01+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/sr-71-model-rocket-construction/</loc>
+    <loc>http://localhost:1313/sr-71-model-rocket-construction/</loc>
     <lastmod>2012-01-30T14:20:41+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/wordpress/</loc>
+    <loc>http://localhost:1313/wordpress/</loc>
     <lastmod>2012-01-29T14:02:46+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/gluten-free-naan-bread/</loc>
+    <loc>http://localhost:1313/gluten-free-naan-bread/</loc>
     <lastmod>2012-01-28T12:49:51+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/domain-transfer/</loc>
+    <loc>http://localhost:1313/domain-transfer/</loc>
     <lastmod>2012-01-25T14:17:25+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/christmas/</loc>
+    <loc>http://localhost:1313/tags/christmas/</loc>
     <lastmod>2011-12-26T17:50:34+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/gluten-free-christmas-pudding/</loc>
+    <loc>http://localhost:1313/gluten-free-christmas-pudding/</loc>
     <lastmod>2011-12-26T17:50:34+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/pudding/</loc>
+    <loc>http://localhost:1313/tags/pudding/</loc>
     <lastmod>2011-12-26T17:50:34+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/baking/</loc>
+    <loc>http://localhost:1313/tags/baking/</loc>
     <lastmod>2011-12-24T19:00:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/craving-a-mince-pie-but-youre-following-a-gluten-free-diet/</loc>
+    <loc>http://localhost:1313/craving-a-mince-pie-but-youre-following-a-gluten-free-diet/</loc>
     <lastmod>2011-12-24T19:00:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/mince-pie/</loc>
+    <loc>http://localhost:1313/tags/mince-pie/</loc>
     <lastmod>2011-12-24T19:00:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/christmas-pudding-without-the-gluten/</loc>
+    <loc>http://localhost:1313/christmas-pudding-without-the-gluten/</loc>
     <lastmod>2011-12-24T14:27:40+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/craving-a-mince-pie-but-youre-following-a-gluten-free-diet/</loc>
+    <loc>http://localhost:1313/craving-a-mince-pie-but-youre-following-a-gluten-free-diet/</loc>
     <lastmod>2011-12-21T14:38:46+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/c/</loc>
+    <loc>http://localhost:1313/tags/c/</loc>
     <lastmod>2011-10-28T14:51:58+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/installing-ruby-1.9.2-with-rvm-fails-on-os-x-lion/</loc>
+    <loc>http://localhost:1313/installing-ruby-1.9.2-with-rvm-fails-on-os-x-lion/</loc>
     <lastmod>2011-10-28T14:51:58+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/setting-gcc-4.2-as-the-default-compiler-on-mac-os-x-leopard/</loc>
+    <loc>http://localhost:1313/setting-gcc-4.2-as-the-default-compiler-on-mac-os-x-leopard/</loc>
     <lastmod>2011-10-27T15:00:01+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/he.net-shindig/</loc>
+    <loc>http://localhost:1313/he.net-shindig/</loc>
     <lastmod>2011-06-29T15:32:16+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/he.net-ipv6-certification-questions-and-answers-sage/</loc>
+    <loc>http://localhost:1313/he.net-ipv6-certification-questions-and-answers-sage/</loc>
     <lastmod>2011-06-18T19:27:14+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/he.net-ipv6-certification-questions-and-answers-guru/</loc>
+    <loc>http://localhost:1313/he.net-ipv6-certification-questions-and-answers-guru/</loc>
     <lastmod>2011-06-18T19:21:32+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/he.net-ipv6-certification-questions-and-answers-professional/</loc>
+    <loc>http://localhost:1313/he.net-ipv6-certification-questions-and-answers-professional/</loc>
     <lastmod>2011-06-18T18:57:34+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/he.net-ipv6-certification-questions-and-answers-administrator/</loc>
+    <loc>http://localhost:1313/he.net-ipv6-certification-questions-and-answers-administrator/</loc>
     <lastmod>2011-06-18T18:29:02+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/he.net-ipv6-certification-questions-and-answers-enthusiast/</loc>
+    <loc>http://localhost:1313/he.net-ipv6-certification-questions-and-answers-enthusiast/</loc>
     <lastmod>2011-06-18T18:16:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/he.net-ipv6-certification-questions-and-answers-newbie/</loc>
+    <loc>http://localhost:1313/he.net-ipv6-certification-questions-and-answers-newbie/</loc>
     <lastmod>2011-06-18T18:11:23+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/now-to-the-ever-elusive-1500/</loc>
+    <loc>http://localhost:1313/now-to-the-ever-elusive-1500/</loc>
     <lastmod>2011-06-04T13:08:03+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/the-english-mind/</loc>
+    <loc>http://localhost:1313/the-english-mind/</loc>
     <lastmod>2011-05-28T07:21:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/cidr/</loc>
+    <loc>http://localhost:1313/tags/cidr/</loc>
     <lastmod>2011-05-16T09:05:22+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/cidr-classless-interdomain-routing/</loc>
+    <loc>http://localhost:1313/cidr-classless-interdomain-routing/</loc>
     <lastmod>2011-05-16T09:05:22+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/ipv4/</loc>
+    <loc>http://localhost:1313/tags/ipv4/</loc>
     <lastmod>2011-05-16T09:05:22+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/subnetting/</loc>
+    <loc>http://localhost:1313/tags/subnetting/</loc>
     <lastmod>2011-05-16T09:05:22+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/administrative-distance/</loc>
+    <loc>http://localhost:1313/administrative-distance/</loc>
     <lastmod>2011-05-10T12:16:04+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/cisco/</loc>
+    <loc>http://localhost:1313/tags/cisco/</loc>
     <lastmod>2011-05-10T12:16:04+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/network/</loc>
+    <loc>http://localhost:1313/tags/network/</loc>
     <lastmod>2011-05-10T12:16:04+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/routing/</loc>
+    <loc>http://localhost:1313/tags/routing/</loc>
     <lastmod>2011-05-10T12:16:04+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/netmask/</loc>
+    <loc>http://localhost:1313/tags/netmask/</loc>
     <lastmod>2011-04-28T09:09:12+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/netmasks/</loc>
+    <loc>http://localhost:1313/netmasks/</loc>
     <lastmod>2011-04-28T09:09:12+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="//localhost:1313/fr/series/"
+                href="http://localhost:1313/fr/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="http://localhost:1313/it/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/series/"
+                href="http://localhost:1313/series/"
                 />
   </url>
   

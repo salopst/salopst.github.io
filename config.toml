@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://salopst.github.io/"
 title   = "[::1] yearl.us"
 languageCode = "en-us"
 theme = "hello-friend-ng"

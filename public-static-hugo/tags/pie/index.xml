@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>pie on [::1] YEARL.US</title>
-    <link>//localhost:1313/tags/pie/</link>
-    <description>Recent content in pie on [::1] YEARL.US</description>
+    <title>pie on [::1] yearl.us</title>
+    <link>http://localhost:1313/tags/pie/</link>
+    <description>Recent content in pie on [::1] yearl.us</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 07 Oct 2012 16:49:56 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/pie/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Oct 2012 16:49:56 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/pie/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gluten-free graham cracker crust</title>
-      <link>//localhost:1313/gluten-free-graham-cracker-crust/</link>
+      <link>http://localhost:1313/gluten-free-graham-cracker-crust/</link>
       <pubDate>Sun, 07 Oct 2012 16:49:56 +0000</pubDate>
       
-      <guid>//localhost:1313/gluten-free-graham-cracker-crust/</guid>
+      <guid>http://localhost:1313/gluten-free-graham-cracker-crust/</guid>
       <description>When we wanted a gluten-free graham cracker crust for our key lime meringue pie, we looked to Gluten-Free Girl because we wanted a recipe that included the making of graham crackers, rather than a trip to the store for ready-made, GF graham crackers. We followed that recipe pretty closely and came up with crackers that looked like this:
 
 I am often imprecise with measurements, but note them as closely as I can.</description>
@@ -21,19 +21,19 @@ I am often imprecise with measurements, but note them as closely as I can.</desc
     
     <item>
       <title>Lime meringue pie</title>
-      <link>//localhost:1313/lime-meringue-pie/</link>
+      <link>http://localhost:1313/lime-meringue-pie/</link>
       <pubDate>Sun, 07 Oct 2012 12:12:20 +0000</pubDate>
       
-      <guid>//localhost:1313/lime-meringue-pie/</guid>
+      <guid>http://localhost:1313/lime-meringue-pie/</guid>
       <description>We can thank STS-133 for our family&amp;rsquo;s appreciation of key lime pie. While we did see it launch in the end, our first journey to Florida included a trip to the Keys while we waited to hear whether the mission would go ahead. That first trip may end up being the first and last time we sample proper Key Lime Pie, but we&amp;rsquo;ll continue to experiment on our own versions that bring us back to Islamorada.</description>
     </item>
     
     <item>
       <title>Craving a mince pie but you&#39;re following a gluten-free diet?</title>
-      <link>//localhost:1313/craving-a-mince-pie-but-youre-following-a-gluten-free-diet/</link>
+      <link>http://localhost:1313/craving-a-mince-pie-but-youre-following-a-gluten-free-diet/</link>
       <pubDate>Sat, 24 Dec 2011 19:00:44 +0000</pubDate>
       
-      <guid>//localhost:1313/craving-a-mince-pie-but-youre-following-a-gluten-free-diet/</guid>
+      <guid>http://localhost:1313/craving-a-mince-pie-but-youre-following-a-gluten-free-diet/</guid>
       <description>How did we do it? First of all, I picked up a new kitchen scale. It&amp;rsquo;s digital and switches easily between metric and US standard units. This makes it easy to fool around with different types of gluten-free flour since the only thing that really matters is that there be double the mass of flour to fat.
 Right. What about those pies?
   Cranberry mince pies. For the filling, I pretty much followed the recipe given here.</description>

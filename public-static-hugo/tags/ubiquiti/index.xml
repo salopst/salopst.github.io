@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ubiquiti on [::1] YEARL.US</title>
-    <link>//localhost:1313/tags/ubiquiti/</link>
-    <description>Recent content in ubiquiti on [::1] YEARL.US</description>
+    <title>ubiquiti on [::1] yearl.us</title>
+    <link>http://localhost:1313/tags/ubiquiti/</link>
+    <description>Recent content in ubiquiti on [::1] yearl.us</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Thu, 19 Apr 2018 13:25:28 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/ubiquiti/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Apr 2018 13:25:28 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ubiquiti/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Edgerouter X -- DNS issues</title>
-      <link>//localhost:1313/edgerouter-x-dns-issues/</link>
+      <link>http://localhost:1313/edgerouter-x-dns-issues/</link>
       <pubDate>Thu, 19 Apr 2018 13:25:28 +0000</pubDate>
       
-      <guid>//localhost:1313/edgerouter-x-dns-issues/</guid>
+      <guid>http://localhost:1313/edgerouter-x-dns-issues/</guid>
       <description>#1 plug laptop into eth0
 #2 Edgerouter X defaults to 192.168.1.1 as did the TG589vac, but that doesn&amp;rsquo;t matter as it is now just a modem
 #3 get on same net segment&amp;hellip; statically configure laptop to IP 192.168.1.42 (&amp;lsquo;cause Douglas Adams, obvs) NM 255.255.255.0 DG 192.168.1.1

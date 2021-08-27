@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>medical on [::1] YEARL.US</title>
-    <link>//localhost:1313/tags/medical/</link>
-    <description>Recent content in medical on [::1] YEARL.US</description>
+    <title>medical on [::1] yearl.us</title>
+    <link>http://localhost:1313/tags/medical/</link>
+    <description>Recent content in medical on [::1] yearl.us</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 22 Jul 2013 23:05:50 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/medical/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Jul 2013 23:05:50 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/medical/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Automated file management with maid</title>
-      <link>//localhost:1313/automated-file-management-with-maid/</link>
+      <link>http://localhost:1313/automated-file-management-with-maid/</link>
       <pubDate>Mon, 22 Jul 2013 23:05:50 +0000</pubDate>
       
-      <guid>//localhost:1313/automated-file-management-with-maid/</guid>
+      <guid>http://localhost:1313/automated-file-management-with-maid/</guid>
       <description>I&amp;rsquo;ve been playing with Hazel a bit recently, mostly so I can get a handle on it to support others&#39; usage of a simple file automation/ housekeeping application. I like it, but it is somewhat limited in not allowed nested conditional and other basic logic statements. Anyway, what Hazel does is not much more&amp;ndash; and very frequently less&amp;ndash; that what I&amp;rsquo;ve been doing with ad hoc cron scripts. These are not very tidy having built built up over the years.</description>
     </item>
     
     <item>
       <title>Oopsies III</title>
-      <link>//localhost:1313/oopsies-iii/</link>
+      <link>http://localhost:1313/oopsies-iii/</link>
       <pubDate>Thu, 18 Jul 2013 17:37:12 +0000</pubDate>
       
-      <guid>//localhost:1313/oopsies-iii/</guid>
+      <guid>http://localhost:1313/oopsies-iii/</guid>
       <description>Butterfly stitches out now&amp;hellip;. Still in the Duran-friendly dorsal blocking splint, wrist cocked @ 20º. More exercises! Largely these are Duran/ modified Duran protocol, i.e. passive flexion, semi-active extension. The three main rehab protocols seem to be:
   Duran: Controlled Passive Motion Methods
   Kleinert: Active extension, passive flexion by rubber bands
@@ -32,10 +32,10 @@
     
     <item>
       <title>Oopsies II</title>
-      <link>//localhost:1313/oopsies-ii/</link>
+      <link>http://localhost:1313/oopsies-ii/</link>
       <pubDate>Mon, 08 Jul 2013 18:46:50 +0000</pubDate>
       
-      <guid>//localhost:1313/oopsies-ii/</guid>
+      <guid>http://localhost:1313/oopsies-ii/</guid>
       <description>They took out 25 stitches today and replaced them with the butterfly stitches to reduce superficial scaring. Nice of them, but skin scars do no really matter much to me. Anyway the big stuff:
   Flexor Digitalis Superficialis @ 2, 3 and 4 was completely severed as was the Flexor Carpi Radialis and the Flexor Digitalis Profundus of 3.
   FDP-2 and FDP-4 cut but not severed</description>
@@ -43,19 +43,19 @@
     
     <item>
       <title>Antebrachium/ cubital fossa</title>
-      <link>//localhost:1313/antebrachium/-cubital-fossa/</link>
+      <link>http://localhost:1313/antebrachium/-cubital-fossa/</link>
       <pubDate>Tue, 02 Jul 2013 19:10:53 +0000</pubDate>
       
-      <guid>//localhost:1313/antebrachium/-cubital-fossa/</guid>
+      <guid>http://localhost:1313/antebrachium/-cubital-fossa/</guid>
       <description>Prosection by me, 1994. All this wrist surgery nonsense got me to dig around old files&amp;hellip;</description>
     </item>
     
     <item>
       <title>Oopsies</title>
-      <link>//localhost:1313/oopsies/</link>
+      <link>http://localhost:1313/oopsies/</link>
       <pubDate>Thu, 27 Jun 2013 13:34:00 +0000</pubDate>
       
-      <guid>//localhost:1313/oopsies/</guid>
+      <guid>http://localhost:1313/oopsies/</guid>
       <description>Had surgery today to repair the severed tendons in my wrist yesterday. Full-on, no holds barred general anesthetic and two and a half hours under the knife of a very well respected orthopedic surgeon working out of New England Baptist Hospital. General anaesthetic worked like a charm, but I wish that i had more time to enjoy it. About 5 minuted of pre-anaesthesia sedative and then some pure oxygen. The last number I remember counting to was only 3!</description>
     </item>
     

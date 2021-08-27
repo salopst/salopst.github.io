@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>python on [::1] YEARL.US</title>
-    <link>//localhost:1313/tags/python/</link>
-    <description>Recent content in python on [::1] YEARL.US</description>
+    <title>python on [::1] yearl.us</title>
+    <link>http://localhost:1313/tags/python/</link>
+    <description>Recent content in python on [::1] yearl.us</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 22 Apr 2013 21:46:40 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Apr 2013 21:46:40 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rock-Paper-Scissors-Lizard-Spock</title>
-      <link>//localhost:1313/rock-paper-scissors-lizard-spock/</link>
+      <link>http://localhost:1313/rock-paper-scissors-lizard-spock/</link>
       <pubDate>Mon, 22 Apr 2013 21:46:40 +0000</pubDate>
       
-      <guid>//localhost:1313/rock-paper-scissors-lizard-spock/</guid>
+      <guid>http://localhost:1313/rock-paper-scissors-lizard-spock/</guid>
       <description>For an online coursera.org course on interactive python from Rice University. 1st project exercise.
 [ccn_python tab_size=&amp;ldquo;4&amp;rdquo; lines=&amp;ldquo;60&amp;rdquo;] import math import random
 def name_to_number(name): name = name.lower() if name == &amp;ldquo;rock&amp;rdquo;: return 0 elif name == &amp;ldquo;spock&amp;rdquo;: return 1 elif name == &amp;ldquo;paper&amp;rdquo;: return 2 elif name == &amp;ldquo;lizard&amp;rdquo;: return 3 elif name == &amp;ldquo;scissors&amp;rdquo;: return 4 else: return &amp;ldquo;Invalid hand sign &amp;lsquo;&amp;rdquo; + name + &amp;ldquo;&amp;rsquo;!\nplease choose: &amp;lsquo;rock&amp;rsquo;, &amp;lsquo;Spock&amp;rsquo;, &amp;lsquo;paper&amp;rsquo;, &amp;lsquo;lizard&amp;rsquo; or &amp;lsquo;scissors&amp;rsquo;&amp;rdquo;</description>

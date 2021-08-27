@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on [::1] YEARL.US</title>
-        <link>//localhost:1313/posts/</link>
-        <description>Recent content in Posts on [::1] YEARL.US</description>
+        <title>Posts on [::1] yearl.us</title>
+        <link>http://localhost:1313/posts/</link>
+        <description>Recent content in Posts on [::1] yearl.us</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
         <lastBuildDate>Fri, 22 May 2020 11:29:35 +0100</lastBuildDate>
-        <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Text expansion with espanso</title>
-            <link>//localhost:1313/text-expansion-with-espanso/</link>
+            <link>http://localhost:1313/text-expansion-with-espanso/</link>
             <pubDate>Fri, 22 May 2020 11:29:35 +0100</pubDate>
             
-            <guid>//localhost:1313/text-expansion-with-espanso/</guid>
+            <guid>http://localhost:1313/text-expansion-with-espanso/</guid>
             <description>This is from the &amp;ldquo;:EXPORT_HUGO_CUSTOM_FRONT_MATTER :summary&amp;rdquo;</description>
             <content type="html"><![CDATA[<h2 id="a-cross-platform-text-expander-written-in-rust">A cross-platform text expander written in Rust</h2>
 <p>I was searching the webs for a cross platform (well MacOS and Linux anyway) text-expander, and happened quite by serendipitous accident upon <a href="https://espanso.org/">espanso</a>. It is pretty much ideal for my needs. File-based configuration, can be run in either of my preferred OSes.</p>
@@ -36,10 +36,10 @@ Data: /Users/yearluk/Library/Application Support/espanso
         
         <item>
             <title>level 1 org heading</title>
-            <link>//localhost:1313/level-1-org-heading/</link>
+            <link>http://localhost:1313/level-1-org-heading/</link>
             <pubDate>Mon, 18 May 2020 15:33:57 +0100</pubDate>
             
-            <guid>//localhost:1313/level-1-org-heading/</guid>
+            <guid>http://localhost:1313/level-1-org-heading/</guid>
             <description>This is from the &amp;ldquo;:EXPORT_HUGO_CUSTOM_FRONT_MATTER :summary&amp;rdquo;</description>
             <content type="html"><![CDATA[
     <img src="/img/avatars/Leaping-baby-Brown-Trout.jpg"  alt="Hello Friend"  class="center"  style="border-radius: 8px;"  />
@@ -157,10 +157,10 @@ Add the following properties to specify the file name, date of exportation, and 
         
         <item>
             <title>Science jokes</title>
-            <link>//localhost:1313/science-jokes/</link>
+            <link>http://localhost:1313/science-jokes/</link>
             <pubDate>Fri, 08 May 2020 15:33:57 +0100</pubDate>
             
-            <guid>//localhost:1313/science-jokes/</guid>
+            <guid>http://localhost:1313/science-jokes/</guid>
             <description>a sucking fummary of the most awesomest collection of science-based jokes on the Interwebz&amp;hellip;</description>
             <content type="html"><![CDATA[<ul>
 <li>
@@ -307,10 +307,10 @@ All are quiet for a long while before the mathematician says, &ldquo;You know, i
         
         <item>
             <title>Openmediavault 4 server... PSU died</title>
-            <link>//localhost:1313/openmediavault-4-server...-psu-died/</link>
+            <link>http://localhost:1313/openmediavault-4-server...-psu-died/</link>
             <pubDate>Mon, 13 May 2019 17:05:55 +0000</pubDate>
             
-            <guid>//localhost:1313/openmediavault-4-server...-psu-died/</guid>
+            <guid>http://localhost:1313/openmediavault-4-server...-psu-died/</guid>
             <description>Oh, the sadness. Oh, the heartbreak. Never mind, stiff upper lip and all that, and remembering that I got the thing from the dump (sans disk and RAM) over a 18 months ago, it has not had a bad run.
 Aaand just in case I come across a PSU and get her running again, she was:
 Old OMV4 box DELL Inspiron 545 Serial: 839DK4J Model: DCMF Reg Type: 09040 Printed on mobo: DG33M06 SE0709</description>
@@ -371,10 +371,10 @@ HMT151R7TFR4C-H9 T7 AE - C 1123</p>
         
         <item>
             <title>US Keyboard, UK settings: AKA where&#39;s my pipe?</title>
-            <link>//localhost:1313/us-keyboard-uk-settings-aka-wheres-my-pipe/</link>
+            <link>http://localhost:1313/us-keyboard-uk-settings-aka-wheres-my-pipe/</link>
             <pubDate>Sun, 06 Jan 2019 05:57:12 +0000</pubDate>
             
-            <guid>//localhost:1313/us-keyboard-uk-settings-aka-wheres-my-pipe/</guid>
+            <guid>http://localhost:1313/us-keyboard-uk-settings-aka-wheres-my-pipe/</guid>
             <description>SSHed into a local Debian 9 server with a USB-attached US ANSI keyboard only to find the settings geared-up for a UK ISO keyboard. Not a biggie except for the location of the &amp;ldquo;|&amp;rdquo; &amp;hellip; pretty important as chars go 😋
 So&amp;hellip;
 sudo install console-common sudo dpkg-reconfigure keyboard-configuration Follow all the things
@@ -391,20 +391,20 @@ sudo dpkg-reconfigure keyboard-configuration
         
         <item>
             <title>Openmediavault (4, Arrakis) reinstall and apps in Docker</title>
-            <link>//localhost:1313/openmediavault-4-arrakis-reinstall-and-apps-in-docker/</link>
+            <link>http://localhost:1313/openmediavault-4-arrakis-reinstall-and-apps-in-docker/</link>
             <pubDate>Tue, 09 Oct 2018 09:04:01 +0000</pubDate>
             
-            <guid>//localhost:1313/openmediavault-4-arrakis-reinstall-and-apps-in-docker/</guid>
+            <guid>http://localhost:1313/openmediavault-4-arrakis-reinstall-and-apps-in-docker/</guid>
             <description></description>
             <content type="html"><![CDATA[]]></content>
         </item>
         
         <item>
             <title>Audacity is already running... ps -ef | grep aud says nada</title>
-            <link>//localhost:1313/audacity-is-already-running...-ps-ef-grep-aud-says-nada/</link>
+            <link>http://localhost:1313/audacity-is-already-running...-ps-ef-grep-aud-says-nada/</link>
             <pubDate>Sat, 06 Oct 2018 16:17:00 +0000</pubDate>
             
-            <guid>//localhost:1313/audacity-is-already-running...-ps-ef-grep-aud-says-nada/</guid>
+            <guid>http://localhost:1313/audacity-is-already-running...-ps-ef-grep-aud-says-nada/</guid>
             <description>Machine crashed&amp;ndash; well, hung&amp;ndash; after [insert reason]. Age? PS showed nothing, neither did &amp;ldquo;Activity Monitor&amp;rdquo;, and my googlefu must have been for /ʃaɪt/, since I found nothing there either.
 After some digging around the usual directories&amp;hellip; a lock file. Kill that, and we&amp;rsquo;re back in business.
 [caption id=&amp;ldquo;attachment_1460&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;300&amp;rdquo;] audacity-the-second-running[/caption]</description>
@@ -417,10 +417,10 @@ PS showed nothing, neither did &ldquo;Activity Monitor&rdquo;, and my googlefu m
         
         <item>
             <title>pi-hole route del</title>
-            <link>//localhost:1313/pi-hole-route-del/</link>
+            <link>http://localhost:1313/pi-hole-route-del/</link>
             <pubDate>Fri, 21 Sep 2018 11:42:50 +0000</pubDate>
             
-            <guid>//localhost:1313/pi-hole-route-del/</guid>
+            <guid>http://localhost:1313/pi-hole-route-del/</guid>
             <description>Sooo, my TP-Link Archer C8 AC1750 Gigabit router decided to not play nice after a short power outage. Didn&amp;rsquo;t do much anyway except keep a couple of machines in a their own little subnet in which the pi-hole was located.
 Replaced it with&amp;hellip; NETGEAR GS108Tv2 8-Port Gigabit managed switch and flatten the network a little. Everything was peachy with that set up, but the pihole was still on 172.16.0.0/24&amp;hellip; reconfigured that with [cc lang=&amp;ldquo;bash&amp;rdquo; inline=&amp;ldquo;true&amp;rdquo;]pihole -r[/cc] and all looked well except for the pi-hole could not ping outside of the LAN.</description>
             <content type="html"><![CDATA[<p>Sooo, my TP-Link Archer C8 AC1750 Gigabit router decided to not play nice after a short power outage. Didn&rsquo;t do much anyway except keep a couple of machines in a their own little subnet in which the <a href="http://stephen.yearl.us/pi-hole-dns-level-ad-blocker/">pi-hole</a> was located.</p>
@@ -470,10 +470,10 @@ PING 1.1.1.1 <span style="color:#f92672">(</span>1.1.1.1<span style="color:#f926
         
         <item>
             <title>Of Apple-Pyes</title>
-            <link>//localhost:1313/of-apple-pyes/</link>
+            <link>http://localhost:1313/of-apple-pyes/</link>
             <pubDate>Tue, 11 Sep 2018 18:51:54 +0000</pubDate>
             
-            <guid>//localhost:1313/of-apple-pyes/</guid>
+            <guid>http://localhost:1313/of-apple-pyes/</guid>
             <description>Of Apple-Pyes: A poem, by Mr. [Leonard] Welsted.
 OF all the delicates which Britons try, To please the palate, or delight the eye; Of all the several kinds of sumptuous fare, There’s none that can with apple-pye compare, For costly flavour, or substantial paste, For outward beauty, or for inward taste.
 WHEN first this infant dish in fashion came, Th’ ingredients were but coarse, and rude the frame; As yet, unpolish’d in the modern arts, Our fathers eat brown bread instead of tarts: Pyes were but indigested lumps of dough, ’Till time and just expence improv’d them so.</description>
@@ -560,11 +560,11 @@ To give a softness to the tarter juice.</p>
         </item>
         
         <item>
-            <title>Das war ein Befehl... Entwurf des Freiheitsplans ... ERG#1</title>
-            <link>//localhost:1313/das-war-ein-befehl...-entwurf-des-freiheitsplans-...-erg#1/</link>
+            <title>Das war ein Befehl... Entwurf des Freiheitsplans ... ERG1</title>
+            <link>http://localhost:1313/das-war-ein-befehl...-entwurf-des-freiheitsplans-...-erg1/</link>
             <pubDate>Mon, 10 Sep 2018 05:50:22 +0000</pubDate>
             
-            <guid>//localhost:1313/das-war-ein-befehl...-entwurf-des-freiheitsplans-...-erg#1/</guid>
+            <guid>http://localhost:1313/das-war-ein-befehl...-entwurf-des-freiheitsplans-...-erg1/</guid>
             <description>Column A: https://www.theguardian.com/politics/2018/sep/09/tory-eurosceptics-rival-brexit-plan-includes-missile-defence-system
 Column B: http://captiongenerator.com/1092322/The-ERG-Brexit-Plan-final-drafting-meeting</description>
             <content type="html"><![CDATA[<p>Column A: <a href="https://www.theguardian.com/politics/2018/sep/09/tory-eurosceptics-rival-brexit-plan-includes-missile-defence-system">https://www.theguardian.com/politics/2018/sep/09/tory-eurosceptics-rival-brexit-plan-includes-missile-defence-system</a></p>
@@ -574,10 +574,10 @@ Column B: http://captiongenerator.com/1092322/The-ERG-Brexit-Plan-final-drafting
         
         <item>
             <title>Gluten Free Homemade Rustic French Pâté</title>
-            <link>//localhost:1313/gluten-free-homemade-rustic-french-p%C3%A2t%C3%A9/</link>
+            <link>http://localhost:1313/gluten-free-homemade-rustic-french-p%C3%A2t%C3%A9/</link>
             <pubDate>Fri, 24 Aug 2018 20:32:07 +0000</pubDate>
             
-            <guid>//localhost:1313/gluten-free-homemade-rustic-french-p%C3%A2t%C3%A9/</guid>
+            <guid>http://localhost:1313/gluten-free-homemade-rustic-french-p%C3%A2t%C3%A9/</guid>
             <description>Delia Smith&amp;rsquo;s (kinda) &amp;mdash; le pâté grossier It&amp;rsquo;s in foreign because Number One Son with his most excellent French shamed me into realising that I have been resting on my regarde-mon-stylo, pre-O-level French for too long, and that I really should make more of an effort. How hard can it be, really? On the similarities betwixt English and French, did Dumas not say that English was just French badly pronounced?</description>
             <content type="html"><![CDATA[<h2 id="delia-smiths-kinda-----le-pâté-grossier">Delia Smith&rsquo;s (kinda) &mdash; le pâté grossier</h2>
 <p><img src="https://ws3.sinaimg.cn/large/006tNbRwgy1fululwjyh9j31kw16ou0x.jpg" alt="Gluten Free Homemade Rustic French Pâté"></p>
@@ -657,10 +657,10 @@ quelques baies de genièvre supplémentaires</p>
         
         <item>
             <title>Pi-hole DNS-level ad blocker</title>
-            <link>//localhost:1313/pi-hole-dns-level-ad-blocker/</link>
+            <link>http://localhost:1313/pi-hole-dns-level-ad-blocker/</link>
             <pubDate>Sat, 16 Jun 2018 07:18:05 +0000</pubDate>
             
-            <guid>//localhost:1313/pi-hole-dns-level-ad-blocker/</guid>
+            <guid>http://localhost:1313/pi-hole-dns-level-ad-blocker/</guid>
             <description>Getting pretty annoyed with keeping track of which browser on which machine has which add blockers installed, so it&amp;rsquo;s time for a more holistic approach. Enter, stage left, the Pi-hole. In short it:
 With a Rapsberry Pi 3 model b and a 64GB micro SD card, a set-up that is beefier than it needs to be, but who knows what the Pi will be used for in the future&amp;hellip;
 #1 Get Raspbian, and format micro SD card&amp;mdash; after much jiggling with the unlock tab on the adapter and delicatelyrepeatedly inserting-half-inserting into 2012 Macbook Pro&amp;rsquo;s gunked-up card reader port&amp;hellip;</description>
@@ -832,10 +832,10 @@ $ sudo /etc/init.d/networking restart
         
         <item>
             <title>Wranglergram decoder in ruby</title>
-            <link>//localhost:1313/wranglergram-decoder-in-ruby/</link>
+            <link>http://localhost:1313/wranglergram-decoder-in-ruby/</link>
             <pubDate>Fri, 01 Jun 2018 17:35:03 +0000</pubDate>
             
-            <guid>//localhost:1313/wranglergram-decoder-in-ruby/</guid>
+            <guid>http://localhost:1313/wranglergram-decoder-in-ruby/</guid>
             <description>My local radio station has a quiz every once in a while. The questions are hardly &amp;ldquo;University Challenge&amp;rdquo;, but there is one question that always is fiendishly tricksy and slippery: to identify a place in the county from an anagram of it.
 Constantly getting all but one question correct, it is, of course time to cheatuse lateral thinking.
 #1 get a list of place names. A gazetteer should do.
@@ -879,10 +879,10 @@ puts &ldquo;wrangler: #{wrangler} \n\nIt&rsquo;s probably&hellip; #{answer}&rdqu
         
         <item>
             <title>Dogge play time</title>
-            <link>//localhost:1313/dogge-play-time/</link>
+            <link>http://localhost:1313/dogge-play-time/</link>
             <pubDate>Sun, 27 May 2018 17:43:13 +0000</pubDate>
             
-            <guid>//localhost:1313/dogge-play-time/</guid>
+            <guid>http://localhost:1313/dogge-play-time/</guid>
             <description>And now for something completely different&amp;hellip;
 [video width=&amp;ldquo;1280&amp;rdquo; height=&amp;ldquo;720&amp;rdquo; mp4=&amp;ldquo;http://stephen.yearl.us/wp-content/uploads/2018/06/monty-self-play-football.mp4&amp;rdquo;][/video]</description>
             <content type="html"><![CDATA[<p>And now for something completely different&hellip;</p>
@@ -892,10 +892,10 @@ puts &ldquo;wrangler: #{wrangler} \n\nIt&rsquo;s probably&hellip; #{answer}&rdqu
         
         <item>
             <title>Block sites/domains from search engine results</title>
-            <link>//localhost:1313/block-sites/domains-from-search-engine-results/</link>
+            <link>http://localhost:1313/block-sites/domains-from-search-engine-results/</link>
             <pubDate>Fri, 25 May 2018 06:44:17 +0000</pubDate>
             
-            <guid>//localhost:1313/block-sites/domains-from-search-engine-results/</guid>
+            <guid>http://localhost:1313/block-sites/domains-from-search-engine-results/</guid>
             <description>Happy GDPR Day!
 With the slew of new cookie warnings and privacy notifications and such, it&amp;rsquo;s time to do something with those annoying domains from content farms that so often pepper search engine results.
 Step 1: install Tampermonkey extension
@@ -912,10 +912,10 @@ EDIT: Another script to restore &amp;ldquo;old&amp;rdquo; youtube.</description>
         
         <item>
             <title>Create root SSH keys OS X (MacOS High Sierra)</title>
-            <link>//localhost:1313/create-root-ssh-keys-os-x-macos-high-sierra/</link>
+            <link>http://localhost:1313/create-root-ssh-keys-os-x-macos-high-sierra/</link>
             <pubDate>Fri, 18 May 2018 10:19:13 +0000</pubDate>
             
-            <guid>//localhost:1313/create-root-ssh-keys-os-x-macos-high-sierra/</guid>
+            <guid>http://localhost:1313/create-root-ssh-keys-os-x-macos-high-sierra/</guid>
             <description>In all the years I&amp;rsquo;ve been running OS X (or MacOS as it is now called) I&amp;rsquo;ve never had the need to su,sudo was always good enough. And this is as it should be.
 Until now. Obvs, &amp;ldquo;root&amp;rdquo; is disabled in High Sierra. So&amp;hellip;
 $ cd /System/Library/CoreServices/Applications/ $ ls Some cool apps here&amp;hellip;
@@ -961,10 +961,10 @@ sh-3.2# exit
         
         <item>
             <title>Edgerouter X -- DNS issues</title>
-            <link>//localhost:1313/edgerouter-x-dns-issues/</link>
+            <link>http://localhost:1313/edgerouter-x-dns-issues/</link>
             <pubDate>Thu, 19 Apr 2018 13:25:28 +0000</pubDate>
             
-            <guid>//localhost:1313/edgerouter-x-dns-issues/</guid>
+            <guid>http://localhost:1313/edgerouter-x-dns-issues/</guid>
             <description>#1 plug laptop into eth0
 #2 Edgerouter X defaults to 192.168.1.1 as did the TG589vac, but that doesn&amp;rsquo;t matter as it is now just a modem
 #3 get on same net segment&amp;hellip; statically configure laptop to IP 192.168.1.42 (&amp;lsquo;cause Douglas Adams, obvs) NM 255.255.255.0 DG 192.168.1.1
@@ -1028,10 +1028,10 @@ ubnt@ubnt:~$
         
         <item>
             <title>Technicolor MediaAccess TG589vac in bridge mode</title>
-            <link>//localhost:1313/technicolor-mediaaccess-tg589vac-in-bridge-mode/</link>
+            <link>http://localhost:1313/technicolor-mediaaccess-tg589vac-in-bridge-mode/</link>
             <pubDate>Thu, 19 Apr 2018 12:17:19 +0000</pubDate>
             
-            <guid>//localhost:1313/technicolor-mediaaccess-tg589vac-in-bridge-mode/</guid>
+            <guid>http://localhost:1313/technicolor-mediaaccess-tg589vac-in-bridge-mode/</guid>
             <description>Like &amp;gt;90% of folk, I&amp;rsquo;ve typically used whatever POS modem/router/switch/WAP combo that my ISP supplied me with. These all-in-ones are pretty convenient, but there is something just not right about bundling so many features into a single unit&amp;hellip; it basically means that whilst is can do all these things it does not do any one thing particularly well.
 Wireless range, for example, is particularly bad (even on the 2.4MHz band). Time for a change.</description>
             <content type="html"><![CDATA[<p>Like &gt;90% of folk, I&rsquo;ve typically used whatever POS modem/router/switch/WAP combo that my ISP supplied me with. These all-in-ones are pretty convenient, but there is something just not right about bundling so many features into a single unit&hellip; it basically means that whilst is can do all these things it does not do any one thing particularly well.</p>
@@ -1049,10 +1049,10 @@ Wireless range, for example, is particularly bad (even on the 2.4MHz band). Time
         
         <item>
             <title>Join two or more videos on the command line</title>
-            <link>//localhost:1313/join-two-or-more-videos-on-the-command-line/</link>
+            <link>http://localhost:1313/join-two-or-more-videos-on-the-command-line/</link>
             <pubDate>Fri, 09 Mar 2018 07:25:54 +0000</pubDate>
             
-            <guid>//localhost:1313/join-two-or-more-videos-on-the-command-line/</guid>
+            <guid>http://localhost:1313/join-two-or-more-videos-on-the-command-line/</guid>
             <description>Having just dropped a couple of 4TB Western Digital NAS drives in the openmediavault box, I can now get around to adding more media. My Moby Dick is split over two DVD disks&amp;hellip; that&amp;rsquo;s a pain. Let&amp;rsquo;s join them&amp;hellip;
 The obvious, and lazy, and probably-will-not-work way:
 ~/MyRips/Moby Dick (1998) $ cat &amp;#34;Moby Dick (1998) - CD 1.avi&amp;#34; &amp;#34;Moby Dick (1998) - CD 2.avi&amp;#34; &amp;gt; &amp;#34;Moby Dick (1998).avi&amp;#34; Video will only play the length of the first file because this is where the avi header information is.</description>
@@ -1074,10 +1074,10 @@ $ ffmpeg -f concat -safe <span style="color:#ae81ff">0</span> -i manifest.txt -c
         
         <item>
             <title>What movie files are not 1080P?</title>
-            <link>//localhost:1313/what-movie-files-are-not-1080p/</link>
+            <link>http://localhost:1313/what-movie-files-are-not-1080p/</link>
             <pubDate>Thu, 08 Mar 2018 23:23:48 +0000</pubDate>
             
-            <guid>//localhost:1313/what-movie-files-are-not-1080p/</guid>
+            <guid>http://localhost:1313/what-movie-files-are-not-1080p/</guid>
             <description>Again with the Openmediavault NAS.
 A fair few movies I encoded to result in less than 1080P files in order to preserve disk space. That is not really an issue (for now). So, what movies have what resolution?
 (I feel like this should all been in shell script, but hey; whatever works right?!)
@@ -1122,10 +1122,10 @@ less than 1080P&hellip; reencode?
         
         <item>
             <title>Installing Solus linux on a Macbook Pro 9,1 (A1286): PART 2</title>
-            <link>//localhost:1313/installing-solus-linux-on-a-macbook-pro-91-a1286-part-2/</link>
+            <link>http://localhost:1313/installing-solus-linux-on-a-macbook-pro-91-a1286-part-2/</link>
             <pubDate>Thu, 11 May 2017 09:35:12 +0000</pubDate>
             
-            <guid>//localhost:1313/installing-solus-linux-on-a-macbook-pro-91-a1286-part-2/</guid>
+            <guid>http://localhost:1313/installing-solus-linux-on-a-macbook-pro-91-a1286-part-2/</guid>
             <description>Part 2 of installing Solus Linux on a 2012 Macbook Pro.
 Part 1- simply booting the liveCD to even allow installation is here: https://stephen.yearl.us/installing-solus-linux-on-a-macbook-pro-9
 Rebooting after install lead to, you guessed it, the Black Screen of Death again. Solus was installed, accepting all defaults (and therefore one humongous / paritiion), to /dev/sdb2, /dev/sda1 is the EFI partition on which rEFInd was installed when running OSXMacOS.
@@ -1167,10 +1167,10 @@ options root<span style="color:#f92672">=</span>PARTUUID<span style="color:#f926
         
         <item>
             <title>Installing Solus linux on a Macbook Pro 9,1 (A1286)</title>
-            <link>//localhost:1313/installing-solus-linux-on-a-macbook-pro-91-a1286/</link>
+            <link>http://localhost:1313/installing-solus-linux-on-a-macbook-pro-91-a1286/</link>
             <pubDate>Mon, 08 May 2017 07:03:14 +0000</pubDate>
             
-            <guid>//localhost:1313/installing-solus-linux-on-a-macbook-pro-91-a1286/</guid>
+            <guid>http://localhost:1313/installing-solus-linux-on-a-macbook-pro-91-a1286/</guid>
             <description>I&amp;rsquo;ve been sunning* Solus as guest in a Parallels virtual machine on a macOS Sierra 10.12.4 host for a couple of months now, and I am delighted and impressed, so impressed I bought the company** wanted to install this on Apple iron. Solus installed beautifully on an 2010 Lenovo X201 and on a new and cheap and plastically Dell Inspiron 14-3452, so it should have no probs installing on a mid-2012, 15.</description>
             <content type="html"><![CDATA[<p>I&rsquo;ve been sunning* <a href="https://solus-project.com">Solus</a> as guest in a Parallels virtual machine on a macOS Sierra 10.12.4 host for a couple of months now, and I am delighted and impressed, so impressed I <!-- raw HTML omitted -->bought the company<!-- raw HTML omitted -->** wanted to install this on Apple iron. Solus installed beautifully on an 2010 Lenovo X201 and on a new and cheap and plastically Dell Inspiron 14-3452, so it should have no probs installing on a mid-2012, 15.4&quot; Hi-Res MBP. Right? Right? Wrong!</p>
 <p>[*] s/sunning/running/ but gonna let that stand because, as typos go, this is pretty funny
@@ -1228,10 +1228,10 @@ initrd root<span style="color:#f92672">=</span>live:CDLABEL<span style="color:#f
         
         <item>
             <title>Create a bootable ISO of macOS Sierra</title>
-            <link>//localhost:1313/create-a-bootable-iso-of-macos-sierra/</link>
+            <link>http://localhost:1313/create-a-bootable-iso-of-macos-sierra/</link>
             <pubDate>Mon, 17 Apr 2017 03:38:31 +0000</pubDate>
             
-            <guid>//localhost:1313/create-a-bootable-iso-of-macos-sierra/</guid>
+            <guid>http://localhost:1313/create-a-bootable-iso-of-macos-sierra/</guid>
             <description>Playing with Solus recently got me to thinking that maybe I could live again in a Linux world, but rather than running Linux in a Virtual Machine (that would currently be Parallels 12 for me), what if I dit it the other way around? That is, run OS X 10.12.4 (macOS Sierra) as a guest and Linux as a host&amp;hellip;
 Download MacOS Sierra from AppStore.
 Reboot.
@@ -1258,10 +1258,10 @@ EDIT [2017-05-08]: Found you: <a href="https://gist.github.com/arobb/447a962af4f
         
         <item>
             <title>Remapping Macbook Pro eject key under Solus linux</title>
-            <link>//localhost:1313/remapping-macbook-pro-eject-key-under-solus-linux/</link>
+            <link>http://localhost:1313/remapping-macbook-pro-eject-key-under-solus-linux/</link>
             <pubDate>Sun, 19 Mar 2017 12:35:43 +0000</pubDate>
             
-            <guid>//localhost:1313/remapping-macbook-pro-eject-key-under-solus-linux/</guid>
+            <guid>http://localhost:1313/remapping-macbook-pro-eject-key-under-solus-linux/</guid>
             <description>Disable &amp;ldquo;Eject&amp;rdquo; in keyboard settings. It is the first entry under &amp;ldquo;Sound and Media&amp;rdquo; create a file, ~/.Xmodmap, adding the line: keycode 151 = BackSpace
 run xmodmap ~/.Xmodmap add that to wherever your startup scripts are for persistence The keycode mappings I got from xev, kind of like &amp;ldquo;keyboard viewer&amp;rdquo; in OS X. Its available in the Solus repo:
 sudo eopkg install xev </description>
@@ -1278,10 +1278,10 @@ sudo eopkg install xev </description>
         
         <item>
             <title>Librevault on Solus OS</title>
-            <link>//localhost:1313/librevault-on-solus-os/</link>
+            <link>http://localhost:1313/librevault-on-solus-os/</link>
             <pubDate>Sat, 11 Mar 2017 03:20:04 +0000</pubDate>
             
-            <guid>//localhost:1313/librevault-on-solus-os/</guid>
+            <guid>http://localhost:1313/librevault-on-solus-os/</guid>
             <description>Still playing with Solus OS, and liking it more and more. The eopkg repository of software is a little thin in comparison to the likes of Debian-based apt-get and Arch&amp;rsquo;s AUR, but most of the things I want are there. And if they are not there I am thinking maybe I should review my needs&amp;hellip; I am in the process of planning for a life without OS X/MacOS after all, so a prefect time for reflection.</description>
             <content type="html"><![CDATA[<p>Still playing with <a href="https://solus-project.com">Solus OS</a>, and liking it more and more. The <a href="https://wiki.solus-project.com/Package_Management">eopkg</a> repository of software is a little thin in comparison to the likes of Debian-based apt-get and Arch&rsquo;s AUR, but most of the things I want are there. And if they are not there I am thinking maybe I should review my needs&hellip; I am in the process of planning for a life without OS X/MacOS after all, so a prefect time for reflection. This is also part of the reason I am attracted to Solus&hellip; because not everything is there, and because not everything is answered by a quick google search, I have to take some effort to actually find things out again. Some nostalgia there.</p>
 <h2 id="cloudage">Cloudage</h2>
@@ -1314,10 +1314,10 @@ Install the project&hellip;
         
         <item>
             <title>Mounting an iOS 10.2 device in Solus OS</title>
-            <link>//localhost:1313/mounting-an-ios-10.2-device-in-solus-os/</link>
+            <link>http://localhost:1313/mounting-an-ios-10.2-device-in-solus-os/</link>
             <pubDate>Tue, 07 Mar 2017 03:12:21 +0000</pubDate>
             
-            <guid>//localhost:1313/mounting-an-ios-10.2-device-in-solus-os/</guid>
+            <guid>http://localhost:1313/mounting-an-ios-10.2-device-in-solus-os/</guid>
             <description>tl;dr I feel that after ten years I can no longer countenance the purchase of a new Apple laptop should my existing machine shit the bed. All that nonsense associated with the race to thinness and the resultant lack of expandability of the newer machines, where everything is soldered or glued into place, has me pretty upset. Oh, and the OS itself has been getting more annoying with each release since Snow Leopard.</description>
             <content type="html"><![CDATA[<h2 id="tldr">tl;dr</h2>
 <p>I feel that after ten years I can no longer countenance the purchase of a new Apple laptop should my existing machine shit the bed. All that nonsense associated with the race to thinness and the resultant lack of expandability of the newer machines, where everything is soldered or glued into place, has me pretty upset. Oh, and the OS itself has been getting more annoying with each release since Snow Leopard. So I am planning for a day without OS X/ MacOS. After a few distro trials (ongoing) I&rsquo;ve come down to:</p>
@@ -1365,10 +1365,10 @@ $ ls $ ls ~/usr/mnt/
         
         <item>
             <title>Eek! CodeColorer Wordpress plugin and PHP 7.1</title>
-            <link>//localhost:1313/eek-codecolorer-wordpress-plugin-and-php-7.1/</link>
+            <link>http://localhost:1313/eek-codecolorer-wordpress-plugin-and-php-7.1/</link>
             <pubDate>Wed, 01 Mar 2017 14:33:33 +0000</pubDate>
             
-            <guid>//localhost:1313/eek-codecolorer-wordpress-plugin-and-php-7.1/</guid>
+            <guid>http://localhost:1313/eek-codecolorer-wordpress-plugin-and-php-7.1/</guid>
             <description>Having used the most excellent Hurricane Electric for the longest time I decided to relocate. In so doing I realised that I was moving from a PHP 5.2 to a PHP 7.1 environment. Gulp! Has it been that long. Expecting lots o&#39; issues, but amazingly no. Just the tiniest of tiny issues:
 [cc]PHP Warning: preg_replace(): The /e modifier is no longer supported, use preg_replace_callback instead in /var/www/wp-content/plugins/codecolorer/codecolorer-core.php on line 50[/cc]</description>
             <content type="html"><![CDATA[<p>Having used the most excellent <a href="http://he.net/">Hurricane Electric</a> for the longest time I decided to relocate. In so doing I realised that I was moving from a PHP 5.2 to a PHP 7.1 environment. Gulp! Has it been that long. Expecting lots o' issues, but amazingly no. Just the tiniest of tiny issues:</p>
@@ -1398,10 +1398,10 @@ return $content;
         
         <item>
             <title>Fsked El Capitan home directory</title>
-            <link>//localhost:1313/fsked-el-capitan-home-directory/</link>
+            <link>http://localhost:1313/fsked-el-capitan-home-directory/</link>
             <pubDate>Mon, 23 May 2016 05:41:31 +0000</pubDate>
             
-            <guid>//localhost:1313/fsked-el-capitan-home-directory/</guid>
+            <guid>http://localhost:1313/fsked-el-capitan-home-directory/</guid>
             <description>Not entirely sure how I managed to hose my user directory, but I did, and it followed a boot into safe mode (reboot and SHIFT) in order to update an ancient MacPorts installation; homebrew sort of replaced that for my usage. OK, no biggie. I have back ups right? I do, but those back up in recent months have been based on Apple&amp;rsquo;s Time Machine. I changed to this from Carbon Copy Cloner by means of experiment.</description>
             <content type="html"><![CDATA[<p>Not entirely sure how I managed to hose my user directory, but I did, and it followed a boot into safe mode (reboot and SHIFT) in order to update an ancient <a href="https://www.macports.org/">MacPorts</a> installation; <a href="http://brew.sh/">homebrew</a> sort of replaced that for my usage. OK, no biggie. I have back ups right? I do, but those back up in recent months have been based on Apple&rsquo;s <a href="https://en.wikipedia.org/wiki/Time_Machine_%28OS_X%29">Time Machine</a>. I changed to this from <a href="https://bombich.com/">Carbon Copy Cloner</a> by means of experiment. CCC has been bullet-proof, and I have always used it for family members, but there was something enticing about the seeming simplicity of Time Machine&hellip; something that is great for restoring files, but not so great, it turns out, for a full system restore. Suffice to say that a combination of backup solutions really is the way to go.</p>
 <p>There&rsquo;s no point in documenting the failures of Time Machine to restore my system &ldquo;as was&rdquo;, better to say that from a hosed user directory (specifically something with ~/Applications and ~/Library), and after several attempts to restore:</p>
@@ -1480,10 +1480,10 @@ macports? Quite possibly the thing that got me into this mess, but then again th
         
         <item>
             <title>Rescue Doggie Diary -- Week 2</title>
-            <link>//localhost:1313/rescue-doggie-diary-week-2/</link>
+            <link>http://localhost:1313/rescue-doggie-diary-week-2/</link>
             <pubDate>Mon, 25 Apr 2016 19:57:52 +0000</pubDate>
             
-            <guid>//localhost:1313/rescue-doggie-diary-week-2/</guid>
+            <guid>http://localhost:1313/rescue-doggie-diary-week-2/</guid>
             <description>2016-04-25 Monday Another walk through Well Meadow, along the eastern bank of the Severn, late this morning. All pretty standard stuff. Monty&amp;rsquo;s leash walking is getting better. Did come across a male black lab&amp;ndash; off leash, of course&amp;ndash; who came over to invade his space again. Monts did kick off a little, as the other dog refused to be called back to his owner.
 More apologies from the other dog owner.</description>
             <content type="html"><![CDATA[<h3 id="2016-04-25-monday">2016-04-25 Monday</h3>
@@ -1541,10 +1541,10 @@ First week here: <a href="http://stephen.yearl.us/rescue-doggie-diary">http://st
         
         <item>
             <title>Posting from IA Writer to Wordpress (Coleman)</title>
-            <link>//localhost:1313/posting-from-ia-writer-to-wordpress-coleman/</link>
+            <link>http://localhost:1313/posting-from-ia-writer-to-wordpress-coleman/</link>
             <pubDate>Sun, 24 Apr 2016 00:01:57 +0000</pubDate>
             
-            <guid>//localhost:1313/posting-from-ia-writer-to-wordpress-coleman/</guid>
+            <guid>http://localhost:1313/posting-from-ia-writer-to-wordpress-coleman/</guid>
             <description>IA Writer to Wordpress 0. Wha? With the coming of the new doggie into the house, perhaps I will again add more content to the bloggy thing that I have kinda sorta not really been keeping over the last little while.
 Probably this has been done by someone else on the Intertubz, but ach, why not. I have some time on my hands, so here are running notes in IA Writer that will make its way to a Wordpress post by some means or other.</description>
             <content type="html"><![CDATA[<h1 id="ia-writer-to-wordpress">IA Writer to Wordpress</h1>
@@ -1648,10 +1648,10 @@ end
         
         <item>
             <title>Rescue Doggie Diary</title>
-            <link>//localhost:1313/rescue-doggie-diary/</link>
+            <link>http://localhost:1313/rescue-doggie-diary/</link>
             <pubDate>Sat, 23 Apr 2016 16:20:44 +0000</pubDate>
             
-            <guid>//localhost:1313/rescue-doggie-diary/</guid>
+            <guid>http://localhost:1313/rescue-doggie-diary/</guid>
             <description>2016-04-17 Sunday (Week two here: http://stephen.yearl.us/rescue-doggie-diary-week-2
 Rescue Dog event in Shrewsbury&amp;hellip;. thought it was at Grinshall Animal Rescue, but they were only sponsors, and the event itself was at the Quary in in town. Rather too late in the day to head to that, so went to Hilbrae Pets Hotel, about 10 mins away. Spent about 30 mins walking &amp;ldquo;Monty&amp;rdquo;:
 Inmate # A1850 Incarcerated: 2016-03-07 Microchip ID: 958000001334904 B&amp;amp;W Collie Cross&amp;ndash; with what?</description>
@@ -1744,10 +1744,10 @@ Slightly longer loop down Vicarage Lane and up through the village. More livesto
         
         <item>
             <title>Winging a damson, apple and custard pie</title>
-            <link>//localhost:1313/winging-a-damson-apple-and-custard-pie/</link>
+            <link>http://localhost:1313/winging-a-damson-apple-and-custard-pie/</link>
             <pubDate>Tue, 15 Sep 2015 21:38:40 +0000</pubDate>
             
-            <guid>//localhost:1313/winging-a-damson-apple-and-custard-pie/</guid>
+            <guid>http://localhost:1313/winging-a-damson-apple-and-custard-pie/</guid>
             <description>My mother seems to have had rather a lot of damsons on her tree this year. This heavy cropping combined with heavy rain over the last few days has lead to some immediate load-reduction on the broken limb. Fsck the impecunious nature of the (lack of?) pruning over recent years.
 
 I think some kind of everything-damson is in order. But let&amp;rsquo;s start with a pie. Now, I cannot bake for toffee so this should be fun&amp;hellip;</description>
@@ -1787,10 +1787,10 @@ Too much sugar.</p>
         
         <item>
             <title>Top 100 German verbs</title>
-            <link>//localhost:1313/top-100-german-verbs/</link>
+            <link>http://localhost:1313/top-100-german-verbs/</link>
             <pubDate>Mon, 10 Aug 2015 19:33:17 +0000</pubDate>
             
-            <guid>//localhost:1313/top-100-german-verbs/</guid>
+            <guid>http://localhost:1313/top-100-german-verbs/</guid>
             <description>From Randall Jones &amp;amp; Erwin Tschirner’s A Frequency Dictionary of German: Core Vocabulary for Learners.
   sein &amp;ndash; to be
   haben &amp;ndash; to have
@@ -2109,10 +2109,10 @@ Too much sugar.</p>
         
         <item>
             <title>New public key-- old key revoked</title>
-            <link>//localhost:1313/new-public-key-old-key-revoked/</link>
+            <link>http://localhost:1313/new-public-key-old-key-revoked/</link>
             <pubDate>Tue, 28 Jul 2015 17:04:18 +0000</pubDate>
             
-            <guid>//localhost:1313/new-public-key-old-key-revoked/</guid>
+            <guid>http://localhost:1313/new-public-key-old-key-revoked/</guid>
             <description>[cc land=&amp;ldquo;bash&amp;rdquo;]$ gpg &amp;ndash;keyserver hkp://pgp.mit.edu &amp;ndash;send-keys A3E66077 &amp;amp;&amp;amp; gpg &amp;ndash;keyserver hkp://pool.sks-keyservers.net &amp;ndash;send-keys A3E66077
 $ gpg &amp;ndash;armor &amp;ndash;export A3E66077 &amp;mdash;&amp;ndash;BEGIN PGP PUBLIC KEY BLOCK&amp;mdash;&amp;ndash; Comment: GPGTools - http://gpgtools.org
 mQINBFW3hcQBEADPXsJmdH7HprCUlLRQr8zUSWEp+Q4M+aryzd8KHyGe+WWLnZ/F x4/tzaHiOrsWBw6aGyVbBYzmOSIyi/RGwPwTPtmLPhtFL6xvWluurcgNbOQZLMk/ ZUkIVPgtlFgJW1V76IGSa1aI3yI1jAsQ1jBrgBzNuXH3tCypMYryzdnlWa+FrHNe nQy18nQPhgrslF+aw42mvxN5MU3j1qCyk09V5ZQ11zUKu7TnJmcZq/rd+PCHF8bM H8cxcrI9H2AWPu6dPOEZVJNyghXdS7G2vt3lwBzqwSyb5RokaIxFpl/Y0r+rH580 tkwlYVJqdqXW9ESlTIobutuH7YsWTuoX9oAfBSvWpXftkrCpoPfWXqH3h05Hobds HEXObbtFXw05WDpuLguFN5+bM8GCyxiXC1Wv6D9c1yI8v9zj+wblvx9h5JGpXQ6w T80Wtn4aOKzawUbpPfCScS3MBhe6+PaOfa8y5oTG+N1R3wWlImdqldfVuMtMbfQe mxHvnyQJu2ue4m83sEPP9GKJd+yZZUjZpDlplBhVpMXMxSA6n2d8qjJqb1ZiGxAY zsEoG5saq5DmpMlhJcVy37YndXYCB9+rqGESBCwuD62y3wcyL7rXpqklUoYQeDmS 7bPwUV1NC4Vsnztv3JXx5XUL0bf2WSgGapG3uVyNBbmDYaJu3U89Idp2kQARAQAB tCdTdGVwaGVuIFllYXJsIDxzdGVwaGVuLnllYXJsQGdtYWlsLmNvbT6JAj8EEwEI ACkFAlW3hcQCGwMFCQeGH4AHCwkIBwMCAQYVCAIJCgsEFgIDAQIeAQIXgAAKCRCq tkzfo+Zgd5U6EACcxCMCmPheEIfJw8cOynnxDDcMmMmKjkAol720ceq6S7LSjLrR RB0pWUKixtaq0nsTBEcRLSKeSMSNb1tMM2mDWw4BqMCNexWuvnXEZ+J4KmUWpFdL uClIeMne52txsxK20UyZXmv5otI/GqgNfqFhatl7m1T3E4Vx93YVe+2FGRpmGQ5n mpwSL5ejrK236V95C6rXT6w1DvuNxbEVARUaZD0P4+w0vbQApBoVPmcG/HX5Su8/ mDIDWAz72GtyEgqHf1exPY8ZgUk+GW7HqhXyTeinIRZTRNLS1s+X54sMwCktfe/g 7vHtb1c8/eR1kEmes3FgNgnG07ifmrj14HmVA92/s5gAL9gs9xKNgKzcKPDbauzC ipRR4NdMQdWc1Y9yoMKlhZyraKeMUZZFe1c9zt7KCQJX1qXamMziF8D0bbKzEwhT c2TGwtr3R1mRHqVp3e6DGVTjKp2F84pMsHTNnoYvVN6pSazzYQGWdSVNixz0lzyc jjVEwzVfxh92hZXmXcj3mIgCV6AJeYY/fv9kViH5sSpLILcGCI8+T3mTd+sZzopp iFKkeGKmFPmhmMxFna7jC2sad7JEguDIP0NM8L8VLvPxCP+Lr0aWTkra9DNhOxR3 /+JeEkKj2gRbYOc41/AcZFVkqmR0qkuvYUQRbUT+LOI0qoYbXNxm3pQkR7kCDQRV t4XEARAAwYtSy8jYfMv46a8wvHkpsxALwYCo0QAcWidM2vw92ERoQmbH0/xy9WMo z1Ej0cqPwkSooVk0T3GFOnl4cP2QRVOtolFB8MwI9nhxNB78XsrMLvAd2CKmZV4s CWR9NwApIeIkRhcWwVXUk7TduHwBc1aegMyPvsKRX24FyBRs7YmcjfmgCKJBOCNB TYnUZxRco1G9LQ2Hi0nmuQ/9wM8r5ZnC5nj3uXq7L19ebWGEBLerMzu6bownewc4 WnjTSLsG1IqvYfxenNLOiMZ+zCxkd9rLbbKGbK9xw1QjKboQ8rL70lWomaDxIFph U7wB90tqY86kytj7/lV7WktdV/MfoA+TqG4uuC83Cg5OjobuM4w2YcVPdsEw+F8p f9RVcMkwssOFbMNVMDW4j0co76nm9IL+ilPKuScaMYRA1kdpTZJ7vjI3nVoiOz3X 9xt02/sF3acvpcdVWpykZ8B0a2sSE6BpPryIjcP7cQoLdGOnR2XsokzsKFLDmKue 7g1SvN+/fui0ereUoojOAozK0g4mkbq/hh1eOgyZ5gwtIlTRe0PjFv8BaiYT4nZ8 Gbrwn9KAObVTnibhjx9v9ZDigiNqs6Hb7G4KeKr9J9WAVoU9m5qofhwrb6hqGcEd EsbPOiilBBz9MPRL9Fbr3k6t2dwbN4ZAPF/CIfHBszaGatgk7kkAEQEAAYkCJQQY AQgADwUCVbeFxAIbDAUJB4YfgAAKCRCqtkzfo+Zgdyg8D/0bFIN5EelMZwng2IAC IoVtuFFGGDR7VrMBcnaJJ9gGw1LnSBdM+NeuyfJxzxobBmwwBAvCaXB5dVOoRMCm 93h/LbS6TKzfdXEQoNfTE0tirh3DANGQeiwWzqWmy9SVTIe2zvmu8wkqaeu2ynNV mQiKN3bpI9wQAB2CTzRHiAEVOqm5nyt9ounID9mS3BAqjgHjvjSs0jfJhqPIsMei U09lIBH3WdxgiVHzAE+n1IRx1SSDWtMIBUacUYEJ2hid+FUleVpvUr15YYyeTS/c th/b2+CSzIGu2uyX5XxKFrc5ZFK7/rNVMO3MFecEqqnLMUx/XizrOuaBwFufr01g dkfbicGiK16BFkufK27UcSVV/9iBd7knEXB/zCA0+AJ3Oxplerv+S+O8UX2aYYxw gcThGi5FRewkjOzihiRJ+9P/dQNUf7snEFLnVbKM37ByrbUIOXRn51iCcNycCw/w vmhvuNvj30KphN37dbzPlRbKJkt0bReKg0sOj13jVIS6PuQu9lL9MgyN0kgxB/gc FDEM2NM04keQeQyIEZu5xUZPgNvE57tqmCAqDkLkaOmUF8+q2Bh60FxlhQj7sGN7 C/Bve4hev7mWPneaEaS5MZ7XbxMUAsk2BjOaaKxRDPP6xOuFmgcwnk0saw01hZPJ p/293arnv/+zFmUZhypS6y4Ldw== =MqCG &amp;mdash;&amp;ndash;END PGP PUBLIC KEY BLOCK&amp;mdash;&amp;ndash; [/cc]</description>
@@ -2175,10 +2175,10 @@ p/293arnv/+zFmUZhypS6y4Ldw==
         
         <item>
             <title>FFMPEG transcode iPhone videos to mp4</title>
-            <link>//localhost:1313/ffmpeg-transcode-iphone-videos-to-mp4/</link>
+            <link>http://localhost:1313/ffmpeg-transcode-iphone-videos-to-mp4/</link>
             <pubDate>Mon, 27 Jul 2015 10:19:46 +0000</pubDate>
             
-            <guid>//localhost:1313/ffmpeg-transcode-iphone-videos-to-mp4/</guid>
+            <guid>http://localhost:1313/ffmpeg-transcode-iphone-videos-to-mp4/</guid>
             <description>Assuming one has homebrew installed:
 $ brew update &amp;amp;&amp;amp; brew upgrade $ brew install ffmpeg --with-fdk-aac --with-ffplay --with-freetype --with-frei0r --with-libass --with-libvo-aacenc --with-libvorbis --with-libvpx --with-opencore-amr --with-openjpeg --with-opus --with-rtmpdump --with-schroedinger --with-speex --with-theora --with-tools $ cd ~/dropbox $ for video in *.MOV; do ffmpeg -i &amp;#34;$video&amp;#34; -vcodec h264 -acodec aac -strict -2 &amp;#34;${video%.*}.mp4&amp;#34; ; done $ rm *.MOV </description>
             <content type="html"><![CDATA[<p>Assuming one has <a href="http://brew.sh/">homebrew</a> installed:</p>
@@ -2193,10 +2193,10 @@ $ rm *.MOV
         
         <item>
             <title>Customised OS X Keybindings…. with Karabiner.... &#39;correct&#39; shift keys</title>
-            <link>//localhost:1313/customised-os-x-keybindings.-with-karabiner....-correct-shift-keys/</link>
+            <link>http://localhost:1313/customised-os-x-keybindings.-with-karabiner....-correct-shift-keys/</link>
             <pubDate>Mon, 27 Jul 2015 05:59:42 +0000</pubDate>
             
-            <guid>//localhost:1313/customised-os-x-keybindings.-with-karabiner....-correct-shift-keys/</guid>
+            <guid>http://localhost:1313/customised-os-x-keybindings.-with-karabiner....-correct-shift-keys/</guid>
             <description>Like this fellow, Steve Losh &amp;ndash; better shifting, I&amp;rsquo;ve been using the wrong shift keys for upper-case letters for as long as I&amp;rsquo;ve been using a keyboard&amp;hellip; as well as some even more egregious errors (right ring finger for &amp;lsquo;p&amp;rsquo;, right index for &amp;lsquo;b&amp;rsquo;&amp;hellip; the list is nigh endless). Lo, his Karabiner solution:
 Arghh!&amp;hellip;.. It has only been a couple of hours and this is devilishly frustrating!!
 [cc lang=&amp;ldquo;xml&amp;rdquo;]
@@ -2244,10 +2244,10 @@ private.correct_shift_keys
         
         <item>
             <title>Customised OS X Keybindings.... with Karabiner</title>
-            <link>//localhost:1313/customised-os-x-keybindings....-with-karabiner/</link>
+            <link>http://localhost:1313/customised-os-x-keybindings....-with-karabiner/</link>
             <pubDate>Thu, 23 Jul 2015 11:29:29 +0000</pubDate>
             
-            <guid>//localhost:1313/customised-os-x-keybindings....-with-karabiner/</guid>
+            <guid>http://localhost:1313/customised-os-x-keybindings....-with-karabiner/</guid>
             <description>Apparently low-level keybindings in OS X used to be managed through [cc]~/Library/KeyBindings/DefaultKeyBinding.dict[/cc] which did not exist on this 10.10.4 system. So after having created it and added
 [cc lang=&amp;ldquo;properties&amp;rdquo;]{ /* Context Menu */ &amp;ldquo;\U0x3fc&amp;rdquo; = &amp;ldquo;rightMouseDown:&amp;quot;; /* Fun-C */ &amp;ldquo;^;&amp;rdquo; = &amp;ldquo;rightMouseDown:&amp;quot;; /* Ctrl-; */
 /* Vim movement while Ctrl key down */ &amp;ldquo;^h&amp;rdquo; = (&amp;ldquo;moveLeft:&amp;quot;); &amp;ldquo;^j&amp;rdquo; = (&amp;ldquo;moveDown:&amp;quot;); &amp;ldquo;^k&amp;rdquo; = (&amp;ldquo;moveUp:&amp;quot;); &amp;ldquo;^l&amp;rdquo; = (&amp;ldquo;moveRight:&amp;quot;);
@@ -2311,10 +2311,10 @@ it did, of course, not work.</description>
         
         <item>
             <title>Remapping CAPS LOCK with seil/karabiner</title>
-            <link>//localhost:1313/remapping-caps-lock-with-seil/karabiner/</link>
+            <link>http://localhost:1313/remapping-caps-lock-with-seil/karabiner/</link>
             <pubDate>Wed, 22 Jul 2015 04:27:20 +0000</pubDate>
             
-            <guid>//localhost:1313/remapping-caps-lock-with-seil/karabiner/</guid>
+            <guid>http://localhost:1313/remapping-caps-lock-with-seil/karabiner/</guid>
             <description>For the longest time I have had caps lock set to “no action” in System Preferences &amp;raquo; Keyboard&amp;raquo; Modifier Keys:
 
 But recently I’ve been playing with Vim (and also finally getting around to learning how to touch type) a little more now that I have some time on my hands, and decided that I needed an escape key that wasn’t such a PITA to get to without risking breaking my left pinkie.</description>
@@ -2344,10 +2344,10 @@ But recently I’ve been playing with Vim (and also finally getting around to le
         
         <item>
             <title>Window Managers for OS X</title>
-            <link>//localhost:1313/window-managers-for-os-x/</link>
+            <link>http://localhost:1313/window-managers-for-os-x/</link>
             <pubDate>Tue, 21 Jul 2015 21:35:37 +0000</pubDate>
             
-            <guid>//localhost:1313/window-managers-for-os-x/</guid>
+            <guid>http://localhost:1313/window-managers-for-os-x/</guid>
             <description>Playing with Karabiner and searching for others&#39; keybindings has led me somewhat down the rabbit hole of window management on OS X. There seem to be a bunch, some light-weight, some heavy. Some under active development, others that seem to be abandoned.
 managing windows can be a PITA, lots of precision dragging and resizing and all to get the windows into the desired position. Several window managers exist for OS X, and a short, short list would include:</description>
             <content type="html"><![CDATA[<p>Playing with <a href="https://pqrs.org/osx/karabiner/">Karabiner</a> and searching for others' keybindings has led me somewhat down the rabbit hole of window management on OS X. There seem to be a bunch, some light-weight, some heavy. Some under active development, others that seem to be abandoned.</p>
@@ -2371,10 +2371,10 @@ managing windows can be a PITA, lots of precision dragging and resizing and all 
         
         <item>
             <title>Dang Spliggetty</title>
-            <link>//localhost:1313/dang-spliggetty/</link>
+            <link>http://localhost:1313/dang-spliggetty/</link>
             <pubDate>Sat, 18 Jul 2015 18:52:30 +0000</pubDate>
             
-            <guid>//localhost:1313/dang-spliggetty/</guid>
+            <guid>http://localhost:1313/dang-spliggetty/</guid>
             <description>I am claiming that as my own new phrase to go in to the Urbane Dictionary. It means “awesomely wonderful”.</description>
             <content type="html"><![CDATA[<p>I am claiming that as my own new phrase to go in to the Urbane Dictionary.  It means “awesomely wonderful”.</p>
 ]]></content>
@@ -2382,10 +2382,10 @@ managing windows can be a PITA, lots of precision dragging and resizing and all 
         
         <item>
             <title>keto started yesterday</title>
-            <link>//localhost:1313/keto-started-yesterday/</link>
+            <link>http://localhost:1313/keto-started-yesterday/</link>
             <pubDate>Sat, 11 Jul 2015 08:45:09 +0000</pubDate>
             
-            <guid>//localhost:1313/keto-started-yesterday/</guid>
+            <guid>http://localhost:1313/keto-started-yesterday/</guid>
             <description>[caption id=&amp;ldquo;attachment_921&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;695&amp;rdquo;] jul-2015-mass[/caption]</description>
             <content type="html"><![CDATA[<p>[caption id=&ldquo;attachment_921&rdquo; align=&ldquo;aligncenter&rdquo; width=&ldquo;695&rdquo;]<a href="http://stephen.yearl.us/wp-content/uploads/2015/07/Screen-Shot-2015-07-11-at-09.19.25.png"><img src="http://stephen.yearl.us/wp-content/uploads/2015/07/Screen-Shot-2015-07-11-at-09.19.25-1024x538.png" alt="jul-2015-mass"></a> jul-2015-mass[/caption]</p>
 ]]></content>
@@ -2393,10 +2393,10 @@ managing windows can be a PITA, lots of precision dragging and resizing and all 
         
         <item>
             <title>Everything is illegal in Massachusetts -- some FFMPEG examples</title>
-            <link>//localhost:1313/everything-is-illegal-in-massachusetts-some-ffmpeg-examples/</link>
+            <link>http://localhost:1313/everything-is-illegal-in-massachusetts-some-ffmpeg-examples/</link>
             <pubDate>Sat, 04 Jul 2015 15:15:22 +0000</pubDate>
             
-            <guid>//localhost:1313/everything-is-illegal-in-massachusetts-some-ffmpeg-examples/</guid>
+            <guid>http://localhost:1313/everything-is-illegal-in-massachusetts-some-ffmpeg-examples/</guid>
             <description>The general format of invoking ffmpeg from the command line is:
 [cc lang=&amp;ldquo;bash&amp;rdquo; nowrap=&amp;ldquo;false&amp;rdquo;]ffmpeg -i in.mp4 -ss [start] -t [duration] -c:v copy -c:a copy out.mp4[/cc]
 Of the below, #5a seemed to work the best&amp;hellip;
@@ -2438,10 +2438,10 @@ Of the below, #5a seemed to work the best&amp;hellip;
         
         <item>
             <title>homebrew woes. WTF?</title>
-            <link>//localhost:1313/homebrew-woes.-wtf/</link>
+            <link>http://localhost:1313/homebrew-woes.-wtf/</link>
             <pubDate>Fri, 26 Jun 2015 13:26:53 +0000</pubDate>
             
-            <guid>//localhost:1313/homebrew-woes.-wtf/</guid>
+            <guid>http://localhost:1313/homebrew-woes.-wtf/</guid>
             <description>sudo chown -R $(whoami):admin /usr/local/lib/node_modules sudo chown -R $(whoami):admin $(brew &amp;ndash;prefix) brew update &amp;ndash; fails with &amp;ldquo;error: Your local changes to the following files would be overwritten by merge:&amp;rdquo; cd $(brew &amp;ndash;prefix) brew cleanup &amp;ndash;force brew untap homebrew/dupes brew untap homebrew/versions brew untap caskroom/cask brew untap phinze/cask brew prune brew cleanup &amp;ndash;force -s rm -rf &amp;ldquo;$(brew &amp;ndash;cache)&amp;rdquo; brew tap phinze/cask brew tap caskroom/cask brew tap homebrew/dupes ==&amp;gt; Tapping homebrew/dupes Cloning into &amp;lsquo;/usr/local/Library/Taps/homebrew/homebrew-dupes&amp;rsquo;&amp;hellip; remote: Counting objects: 40, done.</description>
             <content type="html"><![CDATA[<h1 id="sudo-chown--r-whoamiadmin-brew---prefix">sudo chown -R $(whoami):admin /usr/local/lib/node_modules
 sudo chown -R $(whoami):admin $(brew &ndash;prefix)</h1>
@@ -2490,20 +2490,20 @@ as of a <a href="https://github.com/Homebrew/homebrew/blob/master/share/doc/home
         
         <item>
             <title>.zshrc</title>
-            <link>//localhost:1313/.zshrc/</link>
+            <link>http://localhost:1313/.zshrc/</link>
             <pubDate>Wed, 24 Jun 2015 22:46:13 +0000</pubDate>
             
-            <guid>//localhost:1313/.zshrc/</guid>
+            <guid>http://localhost:1313/.zshrc/</guid>
             <description></description>
             <content type="html"><![CDATA[]]></content>
         </item>
         
         <item>
             <title>Installing hammerspoon</title>
-            <link>//localhost:1313/installing-hammerspoon/</link>
+            <link>http://localhost:1313/installing-hammerspoon/</link>
             <pubDate>Wed, 24 Jun 2015 19:03:04 +0000</pubDate>
             
-            <guid>//localhost:1313/installing-hammerspoon/</guid>
+            <guid>http://localhost:1313/installing-hammerspoon/</guid>
             <description>What is Hammerspoon?  A tool for powerful automation of OS X. At its core, Hammerspoon is just a bridge between the operating system and a Lua scripting engine. What gives Hammerspoon its power is a set of extensions that expose specific pieces of system functionality, to the user.</description>
             <content type="html"><![CDATA[<!-- raw HTML omitted -->
 <blockquote>
@@ -2516,10 +2516,10 @@ as of a <a href="https://github.com/Homebrew/homebrew/blob/master/share/doc/home
         
         <item>
             <title>NPM, antigen and ZSH pure prompt</title>
-            <link>//localhost:1313/npm-antigen-and-zsh-pure-prompt/</link>
+            <link>http://localhost:1313/npm-antigen-and-zsh-pure-prompt/</link>
             <pubDate>Wed, 24 Jun 2015 05:13:58 +0000</pubDate>
             
-            <guid>//localhost:1313/npm-antigen-and-zsh-pure-prompt/</guid>
+            <guid>http://localhost:1313/npm-antigen-and-zsh-pure-prompt/</guid>
             <description>So somehow I managed to mess up my install of the pure prompt such that it was not loading async.
 prompt_pure_setup:10: async: function definition file not found prompt_pure_async_tasks:3: command not found: async_start_worker prompt_pure_async_tasks:4: command not found: async_register_callback
 How or why this happened I know not. Easy peasy to fix with npm, right?
@@ -2563,10 +2563,10 @@ antigen bundle git</p>
         
         <item>
             <title>Upgrading Kodi on Fire TV from Macbook</title>
-            <link>//localhost:1313/upgrading-kodi-on-fire-tv-from-macbook/</link>
+            <link>http://localhost:1313/upgrading-kodi-on-fire-tv-from-macbook/</link>
             <pubDate>Mon, 15 Jun 2015 05:42:34 +0000</pubDate>
             
-            <guid>//localhost:1313/upgrading-kodi-on-fire-tv-from-macbook/</guid>
+            <guid>http://localhost:1313/upgrading-kodi-on-fire-tv-from-macbook/</guid>
             <description>From: http://kodi.wiki/view/HOW-TO:Install_Kodi_on_Fire_TV#tab=OS_X
 Download APK: https://www.apkmirror.com/apk/xbmc-foundation/kodi/kodi-15-0-beta1-android-apk-download/ (Or from wherever future versions of it happen to be) [cc] ❯ adb kill-server ❯ adb start-server
  daemon not running. starting it now on port 5037 * daemon started successfully * ❯ adb connect 192.168.1.203 connected to 192.168.1.203:5555 ❯ cd ~/Downloads  ❯ adb install kodi-14.2-Helix-armeabi-v7a.apk 1285 KB/s (62638253 bytes in 47.572s) pkg: /data/local/tmp/kodi-14.2-Helix-armeabi-v7a.apk
@@ -2595,20 +2595,20 @@ Success!</p>
         
         <item>
             <title>.vimrc</title>
-            <link>//localhost:1313/.vimrc/</link>
+            <link>http://localhost:1313/.vimrc/</link>
             <pubDate>Tue, 26 May 2015 15:43:25 +0000</pubDate>
             
-            <guid>//localhost:1313/.vimrc/</guid>
+            <guid>http://localhost:1313/.vimrc/</guid>
             <description></description>
             <content type="html"><![CDATA[]]></content>
         </item>
         
         <item>
             <title>fontawesome 4.3.0 (yearlus@bitbucket)</title>
-            <link>//localhost:1313/fontawesome-4.3.0-yearlusbitbucket/</link>
+            <link>http://localhost:1313/fontawesome-4.3.0-yearlusbitbucket/</link>
             <pubDate>Sun, 10 May 2015 14:41:32 +0000</pubDate>
             
-            <guid>//localhost:1313/fontawesome-4.3.0-yearlusbitbucket/</guid>
+            <guid>http://localhost:1313/fontawesome-4.3.0-yearlusbitbucket/</guid>
             <description>EDIT:: 2015-07-11:: please see ==&amp;gt; https://github.com/xdanaux/fontawesome-latex **** THIS IS BY NO MEANS TO BE CONSIDERED CANONICAL **** **** USE AT YOUR OWN DISCRETION ****
 Listing by hex value: (https://bytebucket.org/yearlus/fontawesome/raw/a7338a6dde9e3caeae5f0ddd3439d230c4675b3e/fontawesome.pdf&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;bitbucket PDF)
 Source:</description>
@@ -2623,10 +2623,10 @@ Source:</description>
         
         <item>
             <title>First ring L-sit</title>
-            <link>//localhost:1313/first-ring-l-sit/</link>
+            <link>http://localhost:1313/first-ring-l-sit/</link>
             <pubDate>Tue, 05 May 2015 10:06:05 +0000</pubDate>
             
-            <guid>//localhost:1313/first-ring-l-sit/</guid>
+            <guid>http://localhost:1313/first-ring-l-sit/</guid>
             <description>First L-sit on rings, May 5 2015.
 TBH I am quite proud of this. Writing this as of Jul. 11, but sticking with the May date because, frankly, I have not improved by much in the interim&amp;hellip; a couple more seconds maybe.</description>
             <content type="html"><![CDATA[<p>First L-sit on rings, May 5 2015.</p>
@@ -2636,10 +2636,10 @@ TBH I am quite proud of this. Writing this as of Jul. 11, but sticking with the 
         
         <item>
             <title>From BibTeX to biblatex and biber</title>
-            <link>//localhost:1313/from-bibtex-to-biblatex-and-biber/</link>
+            <link>http://localhost:1313/from-bibtex-to-biblatex-and-biber/</link>
             <pubDate>Tue, 05 May 2015 06:52:08 +0000</pubDate>
             
-            <guid>//localhost:1313/from-bibtex-to-biblatex-and-biber/</guid>
+            <guid>http://localhost:1313/from-bibtex-to-biblatex-and-biber/</guid>
             <description>I had occasion to look over some old dissertation-related files from twenty-years ago to this month&amp;hellip; The directory was an odd mix of half-baked [latexpage]$\LaTeX$ and $\textsc{Bib}\TeX $, readable but clearly incomplete *.RTF, *.DOC, and, of course *.SAM. *.SAM files were created by Ami Pro word processor from Lotus that I had running under windows 3.1 on my almost state-of-the-art Dell i486DX2-S. The *.SAM files were what were printed for submission, the $\LaTeX$ stuff was just for giggles, but I did maintain my bibliographies in $\textsc{Bib}\TeX $ format.</description>
             <content type="html"><![CDATA[<p>I had occasion to look over some old dissertation-related files from twenty-years ago to this month&hellip; The directory was an odd mix of half-baked [latexpage]$\LaTeX$ and $\textsc{Bib}\TeX $, readable but clearly incomplete *.RTF, *.DOC, and, of course *.SAM. *.SAM files were created by Ami Pro word processor from Lotus that I had running under windows 3.1 on my almost state-of-the-art Dell i486DX2-S. The *.SAM files were what were printed for submission, the $\LaTeX$ stuff was just for giggles, but I <em>did</em> maintain my bibliographies in $\textsc{Bib}\TeX $ format.</p>
 <p>More on those *.SAM files in another post, when I have time to look at the content of this ancient work; for now some bib. stuff.</p>
@@ -2677,10 +2677,10 @@ Author = {\textemdash},
         
         <item>
             <title>Confusing iPhoto/Aperture and Photo libraries</title>
-            <link>//localhost:1313/confusing-iphoto/aperture-and-photo-libraries/</link>
+            <link>http://localhost:1313/confusing-iphoto/aperture-and-photo-libraries/</link>
             <pubDate>Thu, 23 Apr 2015 08:46:06 +0000</pubDate>
             
-            <guid>//localhost:1313/confusing-iphoto/aperture-and-photo-libraries/</guid>
+            <guid>http://localhost:1313/confusing-iphoto/aperture-and-photo-libraries/</guid>
             <description>So, with Apple&amp;rsquo;s release of OS X 10.10.3 on Monday came the new Photo&amp;rsquo;s &amp;ldquo;app&amp;rdquo;. In their misguided wisdom our cousins in Cupertino have continued along the path of dumbing-down Mac programs that are inching ever closer to their iOS equivalents.
 Their consumer editing program was iPhoto, the &amp;ldquo;pro&amp;rdquo; version, Aperture. Both are to be replaced with the very iOS/iCloud looking Photos, and whilst iPhoto and Aperture could happily share the same photo library, Photos will not.</description>
             <content type="html"><![CDATA[<p>So, with Apple&rsquo;s release of OS X 10.10.3 on Monday came the new Photo&rsquo;s &ldquo;app&rdquo;. In their misguided wisdom our cousins in Cupertino have continued along the path of dumbing-down Mac programs that are inching ever closer to their iOS equivalents.</p>
@@ -2704,20 +2704,20 @@ Their consumer editing program was iPhoto, the &amp;ldquo;pro&amp;rdquo; version
         
         <item>
             <title>New web project with bootstrap</title>
-            <link>//localhost:1313/new-web-project-with-bootstrap/</link>
+            <link>http://localhost:1313/new-web-project-with-bootstrap/</link>
             <pubDate>Tue, 21 Apr 2015 17:55:36 +0000</pubDate>
             
-            <guid>//localhost:1313/new-web-project-with-bootstrap/</guid>
+            <guid>http://localhost:1313/new-web-project-with-bootstrap/</guid>
             <description></description>
             <content type="html"><![CDATA[]]></content>
         </item>
         
         <item>
             <title>Atom themes and packages; note to self</title>
-            <link>//localhost:1313/atom-themes-and-packages-note-to-self/</link>
+            <link>http://localhost:1313/atom-themes-and-packages-note-to-self/</link>
             <pubDate>Mon, 30 Mar 2015 11:09:10 +0000</pubDate>
             
-            <guid>//localhost:1313/atom-themes-and-packages-note-to-self/</guid>
+            <guid>http://localhost:1313/atom-themes-and-packages-note-to-self/</guid>
             <description>I never really did manage to get into the swing of things with Sublime Text everyone&amp;rsquo;s favourite general-purpose editor since, well TextMate fell out of favour ca. 2009-ish, and generally stuck to TextMate. Sure there&amp;rsquo;s VIM (and it is awesome), but really? Life is better with a pretty and functional editor.
 And then along came Atom&amp;hellip; as well as a few others: Brackets and Light Table to name the other two newbies, all better described at SitePoint.</description>
             <content type="html"><![CDATA[<p>I never really did manage to get into the swing of things with <a href="http://www.sublimetext.com/">Sublime Text</a> everyone&rsquo;s favourite general-purpose editor since, well <a href="https://macromates.com/">TextMate</a> fell out of favour ca. 2009-ish, and generally stuck to TextMate. Sure there&rsquo;s <a href="http://www.vim.org/">VIM</a> (and it is awesome), but really? Life <em>is</em> better with a pretty and functional editor.</p>
@@ -2758,10 +2758,10 @@ Themes (basically unused; railscasts for nostalgia; github, because wihout it th
         
         <item>
             <title>SSH key pair authentication</title>
-            <link>//localhost:1313/ssh-key-pair-authentication/</link>
+            <link>http://localhost:1313/ssh-key-pair-authentication/</link>
             <pubDate>Sun, 14 Dec 2014 13:20:54 +0000</pubDate>
             
-            <guid>//localhost:1313/ssh-key-pair-authentication/</guid>
+            <guid>http://localhost:1313/ssh-key-pair-authentication/</guid>
             <description>Well flummery. It&amp;rsquo;s been a while since I had to do this, so here, future self, some awesome notes&amp;hellip;
 LOCAL
 [cc lang=bash]$ ssh-keygen -t rsa -b 4096 -f ~/.ssh/id_rsa_4096 $ scp -P 2222 192.168.0.108:/home/yearluk/.ssh/yearluk.ehecatl.pub[/cc]
@@ -2778,10 +2778,10 @@ $ scp -P 2222 192.168.0.108:/home/yearluk/.ssh/yearluk.ehecatl.pub[/cc]</p>
         
         <item>
             <title>Terminal Colors</title>
-            <link>//localhost:1313/terminal-colors/</link>
+            <link>http://localhost:1313/terminal-colors/</link>
             <pubDate>Wed, 22 Oct 2014 03:47:44 +0000</pubDate>
             
-            <guid>//localhost:1313/terminal-colors/</guid>
+            <guid>http://localhost:1313/terminal-colors/</guid>
             <description>Before and after coloration of the pure prompt.
 
 #1. Get the Tomorow Night Eighties Theme, and
@@ -2798,10 +2798,10 @@ $ scp -P 2222 192.168.0.108:/home/yearluk/.ssh/yearluk.ehecatl.pub[/cc]</p>
         
         <item>
             <title>The Last... Koinē Greek Word of the Day: ἐπίθεσις, εως, ἡ</title>
-            <link>//localhost:1313/the-last...-koin%C4%93-greek-word-of-the-day-%E1%BC%90%CF%80%CE%AF%CE%B8%CE%B5%CF%83%CE%B9%CF%82-%CE%B5%CF%89%CF%82-%E1%BC%A1/</link>
+            <link>http://localhost:1313/the-last...-koin%C4%93-greek-word-of-the-day-%E1%BC%90%CF%80%CE%AF%CE%B8%CE%B5%CF%83%CE%B9%CF%82-%CE%B5%CF%89%CF%82-%E1%BC%A1/</link>
             <pubDate>Tue, 07 Oct 2014 05:14:42 +0000</pubDate>
             
-            <guid>//localhost:1313/the-last...-koin%C4%93-greek-word-of-the-day-%E1%BC%90%CF%80%CE%AF%CE%B8%CE%B5%CF%83%CE%B9%CF%82-%CE%B5%CF%89%CF%82-%E1%BC%A1/</guid>
+            <guid>http://localhost:1313/the-last...-koin%C4%93-greek-word-of-the-day-%E1%BC%90%CF%80%CE%AF%CE%B8%CE%B5%CF%83%CE%B9%CF%82-%CE%B5%CF%89%CF%82-%E1%BC%A1/</guid>
             <description>Yeah, so the program runs just fine, but it seems a little silly to clog up the blogosphere (do people still use that term?) with such nonsense, so I&amp;rsquo;ll limit this to this, and just have it mailed to me instead. Seems more polite, really, doesn&amp;rsquo;t it?
 ἐπίθεσις, εως, ἡ epithesis
 Noun, Feminine
@@ -2834,10 +2834,10 @@ Strong&rsquo;s: <strong>1936</strong></p>
         
         <item>
             <title>Koinē Greek Word of the Day: παρίημι</title>
-            <link>//localhost:1313/koin%C4%93-greek-word-of-the-day-%CF%80%CE%B1%CF%81%CE%AF%CE%B7%CE%BC%CE%B9/</link>
+            <link>http://localhost:1313/koin%C4%93-greek-word-of-the-day-%CF%80%CE%B1%CF%81%CE%AF%CE%B7%CE%BC%CE%B9/</link>
             <pubDate>Mon, 06 Oct 2014 13:15:00 +0000</pubDate>
             
-            <guid>//localhost:1313/koin%C4%93-greek-word-of-the-day-%CF%80%CE%B1%CF%81%CE%AF%CE%B7%CE%BC%CE%B9/</guid>
+            <guid>http://localhost:1313/koin%C4%93-greek-word-of-the-day-%CF%80%CE%B1%CF%81%CE%AF%CE%B7%CE%BC%CE%B9/</guid>
             <description>παρίημι pariémi
 Verb
 I let pass, neglect, omit, disregard, (b) I slacken, loosen; pass: I am wearied.
@@ -2867,10 +2867,10 @@ Strong&rsquo;s: <strong>3935</strong></p>
         
         <item>
             <title>Koinē Greek Word of the Day: ὑπολιμπάνω</title>
-            <link>//localhost:1313/koin%C4%93-greek-word-of-the-day-%E1%BD%91%CF%80%CE%BF%CE%BB%CE%B9%CE%BC%CF%80%CE%AC%CE%BD%CF%89/</link>
+            <link>http://localhost:1313/koin%C4%93-greek-word-of-the-day-%E1%BD%91%CF%80%CE%BF%CE%BB%CE%B9%CE%BC%CF%80%CE%AC%CE%BD%CF%89/</link>
             <pubDate>Sun, 05 Oct 2014 13:13:55 +0000</pubDate>
             
-            <guid>//localhost:1313/koin%C4%93-greek-word-of-the-day-%E1%BD%91%CF%80%CE%BF%CE%BB%CE%B9%CE%BC%CF%80%CE%AC%CE%BD%CF%89/</guid>
+            <guid>http://localhost:1313/koin%C4%93-greek-word-of-the-day-%E1%BD%91%CF%80%CE%BF%CE%BB%CE%B9%CE%BC%CF%80%CE%AC%CE%BD%CF%89/</guid>
             <description>ὑπολιμπάνω hupolimpanó
 Verb
 I leave behind.
@@ -2900,10 +2900,10 @@ Strong&rsquo;s: <strong>5277</strong></p>
         
         <item>
             <title>Koinē Greek Word of the Day: Δημήτριος, ου, ὁ</title>
-            <link>//localhost:1313/koin%C4%93-greek-word-of-the-day-%CE%B4%CE%B7%CE%BC%CE%AE%CF%84%CF%81%CE%B9%CE%BF%CF%82-%CE%BF%CF%85-%E1%BD%81/</link>
+            <link>http://localhost:1313/koin%C4%93-greek-word-of-the-day-%CE%B4%CE%B7%CE%BC%CE%AE%CF%84%CF%81%CE%B9%CE%BF%CF%82-%CE%BF%CF%85-%E1%BD%81/</link>
             <pubDate>Sat, 04 Oct 2014 13:11:49 +0000</pubDate>
             
-            <guid>//localhost:1313/koin%C4%93-greek-word-of-the-day-%CE%B4%CE%B7%CE%BC%CE%AE%CF%84%CF%81%CE%B9%CE%BF%CF%82-%CE%BF%CF%85-%E1%BD%81/</guid>
+            <guid>http://localhost:1313/koin%C4%93-greek-word-of-the-day-%CE%B4%CE%B7%CE%BC%CE%AE%CF%84%CF%81%CE%B9%CE%BF%CF%82-%CE%BF%CF%85-%E1%BD%81/</guid>
             <description>Δημήτριος, ου, ὁ Démétrios
 Noun, Masculine
 Demetrius, a silversmith of Ephesus.
@@ -2934,10 +2934,10 @@ Strong&rsquo;s: <strong>1216</strong></p>
         
         <item>
             <title>Koinē Greek Word of the Day: Τέρτυλλος, ου, ὁ</title>
-            <link>//localhost:1313/koin%C4%93-greek-word-of-the-day-%CF%84%CE%AD%CF%81%CF%84%CF%85%CE%BB%CE%BB%CE%BF%CF%82-%CE%BF%CF%85-%E1%BD%81/</link>
+            <link>http://localhost:1313/koin%C4%93-greek-word-of-the-day-%CF%84%CE%AD%CF%81%CF%84%CF%85%CE%BB%CE%BB%CE%BF%CF%82-%CE%BF%CF%85-%E1%BD%81/</link>
             <pubDate>Fri, 03 Oct 2014 11:07:16 +0000</pubDate>
             
-            <guid>//localhost:1313/koin%C4%93-greek-word-of-the-day-%CF%84%CE%AD%CF%81%CF%84%CF%85%CE%BB%CE%BB%CE%BF%CF%82-%CE%BF%CF%85-%E1%BD%81/</guid>
+            <guid>http://localhost:1313/koin%C4%93-greek-word-of-the-day-%CF%84%CE%AD%CF%81%CF%84%CF%85%CE%BB%CE%BB%CE%BF%CF%82-%CE%BF%CF%85-%E1%BD%81/</guid>
             <description>Τέρτυλλος, ου, ὁ Tertullos
 Noun, Masculine
 Tertullus, a barrister acting as professional prosecutor of Paul at Caesarea.
@@ -2967,10 +2967,10 @@ Strong&rsquo;s: <strong>5061</strong></p>
         
         <item>
             <title>Koinē Greek Word of the Day: ῥακά</title>
-            <link>//localhost:1313/koin%C4%93-greek-word-of-the-day-%E1%BF%A5%CE%B1%CE%BA%CE%AC/</link>
+            <link>http://localhost:1313/koin%C4%93-greek-word-of-the-day-%E1%BF%A5%CE%B1%CE%BA%CE%AC/</link>
             <pubDate>Thu, 02 Oct 2014 10:35:34 +0000</pubDate>
             
-            <guid>//localhost:1313/koin%C4%93-greek-word-of-the-day-%E1%BF%A5%CE%B1%CE%BA%CE%AC/</guid>
+            <guid>http://localhost:1313/koin%C4%93-greek-word-of-the-day-%E1%BF%A5%CE%B1%CE%BA%CE%AC/</guid>
             <description>ῥακά rhaka
 Aramaic Transliterated Word (Indeclinable)
 empty, foolish.
@@ -2999,10 +2999,10 @@ Strong&rsquo;s: <strong>4469</strong></p>
         
         <item>
             <title>Koinē Greek Word of the Day: ὑπείκω</title>
-            <link>//localhost:1313/koin%C4%93-greek-word-of-the-day-%E1%BD%91%CF%80%CE%B5%CE%AF%CE%BA%CF%89/</link>
+            <link>http://localhost:1313/koin%C4%93-greek-word-of-the-day-%E1%BD%91%CF%80%CE%B5%CE%AF%CE%BA%CF%89/</link>
             <pubDate>Wed, 01 Oct 2014 06:08:28 +0000</pubDate>
             
-            <guid>//localhost:1313/koin%C4%93-greek-word-of-the-day-%E1%BD%91%CF%80%CE%B5%CE%AF%CE%BA%CF%89/</guid>
+            <guid>http://localhost:1313/koin%C4%93-greek-word-of-the-day-%E1%BD%91%CF%80%CE%B5%CE%AF%CE%BA%CF%89/</guid>
             <description>ὑπείκω hupeikó
 Verb
 I yield, submit to authority.
@@ -3030,10 +3030,10 @@ Strong&rsquo;s: <strong>5226</strong></p>
         
         <item>
             <title>Koinē Greek Word of the Day: ἀπόδειξις, εως, ἡ</title>
-            <link>//localhost:1313/koin%C4%93-greek-word-of-the-day-%E1%BC%80%CF%80%CF%8C%CE%B4%CE%B5%CE%B9%CE%BE%CE%B9%CF%82-%CE%B5%CF%89%CF%82-%E1%BC%A1/</link>
+            <link>http://localhost:1313/koin%C4%93-greek-word-of-the-day-%E1%BC%80%CF%80%CF%8C%CE%B4%CE%B5%CE%B9%CE%BE%CE%B9%CF%82-%CE%B5%CF%89%CF%82-%E1%BC%A1/</link>
             <pubDate>Tue, 30 Sep 2014 12:05:28 +0000</pubDate>
             
-            <guid>//localhost:1313/koin%C4%93-greek-word-of-the-day-%E1%BC%80%CF%80%CF%8C%CE%B4%CE%B5%CE%B9%CE%BE%CE%B9%CF%82-%CE%B5%CF%89%CF%82-%E1%BC%A1/</guid>
+            <guid>http://localhost:1313/koin%C4%93-greek-word-of-the-day-%E1%BC%80%CF%80%CF%8C%CE%B4%CE%B5%CE%B9%CE%BE%CE%B9%CF%82-%CE%B5%CF%89%CF%82-%E1%BC%A1/</guid>
             <description>ἀπόδειξις, εως, ἡ apodeixis
 Noun, Feminine
 demonstration, proof; a showing off.
@@ -3061,10 +3061,10 @@ Strong&rsquo;s: <strong>585</strong></p>
         
         <item>
             <title>Koinē Greek Word of the Day: ἐμπίπτω</title>
-            <link>//localhost:1313/koin%C4%93-greek-word-of-the-day-%E1%BC%90%CE%BC%CF%80%CE%AF%CF%80%CF%84%CF%89/</link>
+            <link>http://localhost:1313/koin%C4%93-greek-word-of-the-day-%E1%BC%90%CE%BC%CF%80%CE%AF%CF%80%CF%84%CF%89/</link>
             <pubDate>Mon, 29 Sep 2014 12:11:14 +0000</pubDate>
             
-            <guid>//localhost:1313/koin%C4%93-greek-word-of-the-day-%E1%BC%90%CE%BC%CF%80%CE%AF%CF%80%CF%84%CF%89/</guid>
+            <guid>http://localhost:1313/koin%C4%93-greek-word-of-the-day-%E1%BC%90%CE%BC%CF%80%CE%AF%CF%80%CF%84%CF%89/</guid>
             <description>ἐμπίπτω empiptó
 Verb
 I fall in, am cast in, am involved in.
@@ -3096,10 +3096,10 @@ Strong&rsquo;s: <strong>1706</strong></p>
         
         <item>
             <title>Koinē Greek Word of the Day: ἑξακόσιοι, αι, α</title>
-            <link>//localhost:1313/koin%C4%93-greek-word-of-the-day-%E1%BC%91%CE%BE%CE%B1%CE%BA%CF%8C%CF%83%CE%B9%CE%BF%CE%B9-%CE%B1%CE%B9-%CE%B1/</link>
+            <link>http://localhost:1313/koin%C4%93-greek-word-of-the-day-%E1%BC%91%CE%BE%CE%B1%CE%BA%CF%8C%CF%83%CE%B9%CE%BF%CE%B9-%CE%B1%CE%B9-%CE%B1/</link>
             <pubDate>Sun, 28 Sep 2014 18:50:22 +0000</pubDate>
             
-            <guid>//localhost:1313/koin%C4%93-greek-word-of-the-day-%E1%BC%91%CE%BE%CE%B1%CE%BA%CF%8C%CF%83%CE%B9%CE%BF%CE%B9-%CE%B1%CE%B9-%CE%B1/</guid>
+            <guid>http://localhost:1313/koin%C4%93-greek-word-of-the-day-%E1%BC%91%CE%BE%CE%B1%CE%BA%CF%8C%CF%83%CE%B9%CE%BF%CE%B9-%CE%B1%CE%B9-%CE%B1/</guid>
             <description>ἑξακόσιοι, αι, α asd hexakosioi
 Adjective
 six hundred.
@@ -3128,10 +3128,10 @@ Strong&rsquo;s: <strong>1812</strong><br>
         
         <item>
             <title>Koinē Greek Word of the Day: φιμόω</title>
-            <link>//localhost:1313/koin%C4%93-greek-word-of-the-day-%CF%86%CE%B9%CE%BC%CF%8C%CF%89/</link>
+            <link>http://localhost:1313/koin%C4%93-greek-word-of-the-day-%CF%86%CE%B9%CE%BC%CF%8C%CF%89/</link>
             <pubDate>Sat, 27 Sep 2014 18:32:49 +0000</pubDate>
             
-            <guid>//localhost:1313/koin%C4%93-greek-word-of-the-day-%CF%86%CE%B9%CE%BC%CF%8C%CF%89/</guid>
+            <guid>http://localhost:1313/koin%C4%93-greek-word-of-the-day-%CF%86%CE%B9%CE%BC%CF%8C%CF%89/</guid>
             <description>φιμόω phimoó
 Verb
 I muzzle, silence.
@@ -3158,10 +3158,10 @@ Strong&rsquo;s: <strong>5392</strong></p>
         
         <item>
             <title>Koinē Greek Word of the Day: βιβλίον, ου, τό</title>
-            <link>//localhost:1313/koin%C4%93-greek-word-of-the-day-%CE%B2%CE%B9%CE%B2%CE%BB%CE%AF%CE%BF%CE%BD-%CE%BF%CF%85-%CF%84%CF%8C/</link>
+            <link>http://localhost:1313/koin%C4%93-greek-word-of-the-day-%CE%B2%CE%B9%CE%B2%CE%BB%CE%AF%CE%BF%CE%BD-%CE%BF%CF%85-%CF%84%CF%8C/</link>
             <pubDate>Fri, 26 Sep 2014 12:34:47 +0000</pubDate>
             
-            <guid>//localhost:1313/koin%C4%93-greek-word-of-the-day-%CE%B2%CE%B9%CE%B2%CE%BB%CE%AF%CE%BF%CE%BD-%CE%BF%CF%85-%CF%84%CF%8C/</guid>
+            <guid>http://localhost:1313/koin%C4%93-greek-word-of-the-day-%CE%B2%CE%B9%CE%B2%CE%BB%CE%AF%CE%BF%CE%BD-%CE%BF%CF%85-%CF%84%CF%8C/</guid>
             <description>βιβλίον, ου, τό biblion
 Noun, Neuter
 a papyrus roll.
@@ -3193,10 +3193,10 @@ Acc:  τό βιβλίον________τά βιβλία
         
         <item>
             <title>exercism.io</title>
-            <link>//localhost:1313/exercism.io/</link>
+            <link>http://localhost:1313/exercism.io/</link>
             <pubDate>Wed, 24 Sep 2014 09:11:11 +0000</pubDate>
             
-            <guid>//localhost:1313/exercism.io/</guid>
+            <guid>http://localhost:1313/exercism.io/</guid>
             <description>So, I came across this site last night when scouting around for tools/sites that Eldest child might like to use as he gets to grips with programming, that is to do so without my necessarily having to hold his hand. The decisions I might make may or may not be reasonable or even appropriate. Better that he get a variety of experienced feedback from others (I will always be there), and in whatever language he chooses.</description>
             <content type="html"><![CDATA[<p>So, I came across this site last night when scouting around for tools/sites that Eldest child might like to use as he gets to grips with programming, that is to do so without my necessarily having to hold his hand. The decisions I might make may or may not be reasonable or even appropriate. Better that he get a variety of experienced feedback from others (I will always be there), and in whatever language he chooses.</p>
 <p><a href="http://exercism.io">exercism.io</a> is, essentially a community. Programming exercise sets, in numerous languages, are submitted and vetted by the community. One downloads these exercises, writes code, and submits waiting for feedback. It is not a learning environment <em>per se</em>, well not in the &ldquo;instruct me&rdquo; sense at least.</p>
@@ -3207,10 +3207,10 @@ Acc:  τό βιβλίον________τά βιβλία
         
         <item>
             <title>cleaning up a homebrew installation</title>
-            <link>//localhost:1313/cleaning-up-a-homebrew-installation/</link>
+            <link>http://localhost:1313/cleaning-up-a-homebrew-installation/</link>
             <pubDate>Tue, 23 Sep 2014 23:31:02 +0000</pubDate>
             
-            <guid>//localhost:1313/cleaning-up-a-homebrew-installation/</guid>
+            <guid>http://localhost:1313/cleaning-up-a-homebrew-installation/</guid>
             <description>I keep meaning to get around to do this, but never do. This evening I took a look at exercism.io and the installation of its CLI program had a homebrew option, so then was a good a moment as any, that and with the imminent relsease of OS 42 (X.10.10)&amp;hellip;
 $brew -v[/cc] ==&amp;gt; 0.9.5
 $sudo chown -R `whoami` /usr/local $cd /usr/local $git fetch origin $git reset --hard origin/master $brew cleanup $brew upgrade ==&amp;gt; ALL OK!</description>
@@ -3245,10 +3245,10 @@ $brew install exercism
         
         <item>
             <title>Camels</title>
-            <link>//localhost:1313/camels/</link>
+            <link>http://localhost:1313/camels/</link>
             <pubDate>Sun, 07 Sep 2014 12:09:08 +0000</pubDate>
             
-            <guid>//localhost:1313/camels/</guid>
+            <guid>http://localhost:1313/camels/</guid>
             <description>A man left to his three sons seventeen camels.
 To the first son, he left half the camels. To the second son, he left a third of the camels, and to the youngest son, he left a ninth of the camels.
 The three sons began to argue for seventeen doesn&amp;rsquo;t divide by two. It doesn&amp;rsquo;t divide by three. It doesn&amp;rsquo;t divide by nine. In desperation, they went and they consulted a wise woman.</description>
@@ -3262,10 +3262,10 @@ The three sons began to argue for seventeen doesn&amp;rsquo;t divide by two. It 
         
         <item>
             <title>Borschtards</title>
-            <link>//localhost:1313/borschtards/</link>
+            <link>http://localhost:1313/borschtards/</link>
             <pubDate>Fri, 05 Sep 2014 17:21:29 +0000</pubDate>
             
-            <guid>//localhost:1313/borschtards/</guid>
+            <guid>http://localhost:1313/borschtards/</guid>
             <description>As of posting there is no result from google search for “borschtard”; I sort of lay claim, therefore, to this portmanteau. This blend of borscht and bastard has no meaning. One could take it as a Russian racial slur, I suppose. Or, it could be indicative of very bad, borsctardized, eastern European cooking. Either way, &amp;ldquo;I like it” and, like General Sir Cecil Hogmany Melchett, shall “want to use it more often in conversation.</description>
             <content type="html"><![CDATA[<p>As of posting there is no result from google search for “borschtard”; I sort of lay claim, therefore, to this portmanteau. This blend of borscht and bastard has no meaning. One could take it as a Russian racial slur, I suppose. Or, it could be indicative of very bad, borsctardized, eastern European cooking. Either way, &ldquo;I like it” and, like General Sir Cecil Hogmany Melchett, shall “want to use it more often in conversation.&rdquo;</p>
 ]]></content>
@@ -3273,10 +3273,10 @@ The three sons began to argue for seventeen doesn&amp;rsquo;t divide by two. It 
         
         <item>
             <title>rubypress</title>
-            <link>//localhost:1313/rubypress/</link>
+            <link>http://localhost:1313/rubypress/</link>
             <pubDate>Mon, 01 Sep 2014 18:35:07 +0000</pubDate>
             
-            <guid>//localhost:1313/rubypress/</guid>
+            <guid>http://localhost:1313/rubypress/</guid>
             <description>Happy enough with the output of koiné word of the day for the time being. Maybe I&amp;rsquo;ll make it into a wordpress plugin or something at some point in the future, but probably not. For now it makes sense to have the local script interface with Wordpress&#39; APIs. ONe of the more commonly used and updated rubygem is rubypress, so let&amp;rsquo;s start there.
 $gem install rubypress ==&amp;gt; write permission error</description>
             <content type="html"><![CDATA[<p>Happy enough with the output of koiné word of the day for the time being. Maybe I&rsquo;ll make it into a wordpress plugin or something at some point in the future, but probably not. For now it makes sense to have the local script interface with Wordpress' APIs. ONe of the more commonly used and updated rubygem is <a href="https://github.com/zachfeldman/rubypress">rubypress</a>, so let&rsquo;s start there.</p>
@@ -3349,10 +3349,10 @@ $cd /Library/Ruby/Gems/2.0.0/gems/rubypress-1.0.8/lib/
         
         <item>
             <title>Koinē Greek : word of the day</title>
-            <link>//localhost:1313/koin%C4%93-greek-word-of-the-day/</link>
+            <link>http://localhost:1313/koin%C4%93-greek-word-of-the-day/</link>
             <pubDate>Thu, 28 Aug 2014 08:44:57 +0000</pubDate>
             
-            <guid>//localhost:1313/koin%C4%93-greek-word-of-the-day/</guid>
+            <guid>http://localhost:1313/koin%C4%93-greek-word-of-the-day/</guid>
             <description>====== DATA ======
 Strongs: 2341
 θηριομαχέω
@@ -3407,10 +3407,10 @@ If after the manner of men I have fought with beasts at Ephesus, what advantaget
         
         <item>
             <title>Removing Google auto-software-update</title>
-            <link>//localhost:1313/removing-google-auto-software-update/</link>
+            <link>http://localhost:1313/removing-google-auto-software-update/</link>
             <pubDate>Sat, 02 Aug 2014 17:45:01 +0000</pubDate>
             
-            <guid>//localhost:1313/removing-google-auto-software-update/</guid>
+            <guid>http://localhost:1313/removing-google-auto-software-update/</guid>
             <description>Not really that insidious (googles-secret-update-software), IMHO, but, just in case:
 [cc lang=bash]/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle/Contents/Resources/GoogleSoftwareUpdateAgent.app/Contents/Resources/ksinstall –nuke[/cc]</description>
             <content type="html"><![CDATA[<p>Not really that insidious (<a href="http://applehelpwriter.com/2014/07/13/how-to-remove-googles-secret-update-software-from-your-mac/">googles-secret-update-software)</a>, IMHO, but, just in case:</p>
@@ -3420,10 +3420,10 @@ If after the manner of men I have fought with beasts at Ephesus, what advantaget
         
         <item>
             <title>Miso Soup</title>
-            <link>//localhost:1313/miso-soup/</link>
+            <link>http://localhost:1313/miso-soup/</link>
             <pubDate>Mon, 07 Oct 2013 11:10:54 +0000</pubDate>
             
-            <guid>//localhost:1313/miso-soup/</guid>
+            <guid>http://localhost:1313/miso-soup/</guid>
             <description>We have been making miso soup for so long that, like many other cooked (rather than baked) dishes, we no longer follow recipes so much as we follow principles. Miso has been a winner in our house with the boys, and is a &amp;lsquo;go to&amp;rsquo; soup. It is a relatively rare day when there is not a pot simmering on the stove. It works as a warming drink around about breakfast time, a soothing drink about bed time, and it works as a decent starter to any meal.</description>
             <content type="html"><![CDATA[<p>We have been making miso soup for so long that, like many other cooked (rather than baked) dishes, we no longer follow recipes so much as we follow principles. Miso has been a winner in our house with the boys, and is a &lsquo;go to&rsquo; soup. It is a relatively rare day when there is not a pot simmering on the stove. It works as a warming drink around about breakfast time, a soothing drink about bed time, and it works as a decent starter to any meal. &lsquo;Porked up&rsquo; a little, it can even stand as a main, especially with a side of rice.</p>
 <p>I cannot think of a dish that is lower in calories than this, but is equally filling. Like fresh tortillas the ingredients are simple (if you can get them), but there is some technique involved. If you cannot get the ingedients then don&rsquo;t bother; instant miso soup is an abomination, and is without doubt the foulest thing you will ever taste outside of a cucumber.</p>
@@ -3455,10 +3455,10 @@ Again we are without accurate measurements, so these are &lsquo;ballpark&rsquo; 
         
         <item>
             <title>Oopsies IV</title>
-            <link>//localhost:1313/oopsies-iv/</link>
+            <link>http://localhost:1313/oopsies-iv/</link>
             <pubDate>Tue, 23 Jul 2013 23:54:45 +0000</pubDate>
             
-            <guid>//localhost:1313/oopsies-iv/</guid>
+            <guid>http://localhost:1313/oopsies-iv/</guid>
             <description>Another consultation with surgeon again today&amp;ndash; he&amp;rsquo;s not happy with the scarring; not happy at all. All kinds of adhesions going on in that Zone V of mine. The plan now is for another month of increasing exercises, vibration and ultrasound therapy, then, maybe, cortisone injections. At that point a determination will be made about his potentially opening me up again for remedial tenolytic work.
 &amp;ldquo;It has been documented the up to 20% of patients will develop adhesions which requires tenolysis or tendon grafts [2]&amp;rdquo;</description>
             <content type="html"><![CDATA[<p><a href="http://sjy.yearl.us/wp-content/uploads/2013/07/suck-meter.jpg"><img src="http://sjy.yearl.us/wp-content/uploads/2013/07/suck-meter.jpg" alt="suck-meter"></a>
@@ -3487,10 +3487,10 @@ Another consultation with surgeon again today&ndash; he&rsquo;s not happy with t
         
         <item>
             <title>Automated file management with maid</title>
-            <link>//localhost:1313/automated-file-management-with-maid/</link>
+            <link>http://localhost:1313/automated-file-management-with-maid/</link>
             <pubDate>Mon, 22 Jul 2013 23:05:50 +0000</pubDate>
             
-            <guid>//localhost:1313/automated-file-management-with-maid/</guid>
+            <guid>http://localhost:1313/automated-file-management-with-maid/</guid>
             <description>I&amp;rsquo;ve been playing with Hazel a bit recently, mostly so I can get a handle on it to support others&#39; usage of a simple file automation/ housekeeping application. I like it, but it is somewhat limited in not allowed nested conditional and other basic logic statements. Anyway, what Hazel does is not much more&amp;ndash; and very frequently less&amp;ndash; that what I&amp;rsquo;ve been doing with ad hoc cron scripts. These are not very tidy having built built up over the years.</description>
             <content type="html"><![CDATA[<p>I&rsquo;ve been playing with <a href="http://www.noodlesoft.com/hazel.php">Hazel</a> a bit recently, mostly so I can get a handle on it to support others' usage of a simple file automation/ housekeeping application. I like it, but it is somewhat limited in not allowed nested conditional and other basic logic statements. Anyway, what Hazel does is not much more&ndash; and very frequently less&ndash; that what I&rsquo;ve been doing with ad hoc cron scripts. These are not very tidy having built built up over the years. And so I Googled and I found a x-platform, ruby based Hazel alternative in <a href="http://rubygems.org/gems/maid">maid</a>.</p>
 <p>[cc_dos]$ gem install maid[/cc_dos]</p>
@@ -3579,10 +3579,10 @@ $ sudo gem update[/cc_dos]</p>
         
         <item>
             <title>Oopsies III</title>
-            <link>//localhost:1313/oopsies-iii/</link>
+            <link>http://localhost:1313/oopsies-iii/</link>
             <pubDate>Thu, 18 Jul 2013 17:37:12 +0000</pubDate>
             
-            <guid>//localhost:1313/oopsies-iii/</guid>
+            <guid>http://localhost:1313/oopsies-iii/</guid>
             <description>Butterfly stitches out now&amp;hellip;. Still in the Duran-friendly dorsal blocking splint, wrist cocked @ 20º. More exercises! Largely these are Duran/ modified Duran protocol, i.e. passive flexion, semi-active extension. The three main rehab protocols seem to be:
   Duran: Controlled Passive Motion Methods
   Kleinert: Active extension, passive flexion by rubber bands
@@ -3608,10 +3608,10 @@ $ sudo gem update[/cc_dos]</p>
         
         <item>
             <title>Narcojudicial complex</title>
-            <link>//localhost:1313/narcojudicial-complex/</link>
+            <link>http://localhost:1313/narcojudicial-complex/</link>
             <pubDate>Sat, 13 Jul 2013 19:29:40 +0000</pubDate>
             
-            <guid>//localhost:1313/narcojudicial-complex/</guid>
+            <guid>http://localhost:1313/narcojudicial-complex/</guid>
             <description>In his exit speech on Jan. 17, 1961 Dwight D. Eisenhower warned us to be wary of the growing military industrial complex. Prescient words:
 We must never let the weight of this combination endanger our liberties or democratic processes. We should take nothing for granted. Only an alert and knowledgeable citizenry can compel the proper meshing of the huge industrial and military machinery of defense with our peaceful methods and goals, so that security and liberty may prosper together.</description>
             <content type="html"><![CDATA[<p>In his exit speech on Jan. 17, 1961 <a href="https://en.wikipedia.org/wiki/Dwight_D._Eisenhower">Dwight D. Eisenhower</a> warned us to be wary of the growing military industrial complex. Prescient words:</p>
@@ -3624,10 +3624,10 @@ We must never let the weight of this combination endanger our liberties or democ
         
         <item>
             <title>24 Hour clock</title>
-            <link>//localhost:1313/24-hour-clock/</link>
+            <link>http://localhost:1313/24-hour-clock/</link>
             <pubDate>Wed, 10 Jul 2013 01:07:45 +0000</pubDate>
             
-            <guid>//localhost:1313/24-hour-clock/</guid>
+            <guid>http://localhost:1313/24-hour-clock/</guid>
             <description>24-hour analog dial Clock in Rescue Me, Season 4 Episode 8, &amp;ldquo;Solo&amp;rdquo;
 Now I want one! But @ basically $50 I think the Pegasus 6NN63 Clock, Quartz, Round is a little too pricey. Frankly there&amp;rsquo;s not really any point since we all use &amp;ldquo;military&amp;rdquo; time in this house anyway; it&amp;rsquo;s only purpose would be to remind the boys that there are many ways to visualize so common an object as a clock face… and maybe fsck with American visitors.</description>
             <content type="html"><![CDATA[<p><img src="http://sjy.yearl.us/wp-content/uploads/2013/07/wpid-Screen-Shot-2013-07-09-at-21.07.06-1.png" alt=""></p>
@@ -3640,10 +3640,10 @@ Now I want one! But @ basically $50 I think the Pegasus 6NN63 Clock, Quartz, Rou
         
         <item>
             <title>Oopsies II</title>
-            <link>//localhost:1313/oopsies-ii/</link>
+            <link>http://localhost:1313/oopsies-ii/</link>
             <pubDate>Mon, 08 Jul 2013 18:46:50 +0000</pubDate>
             
-            <guid>//localhost:1313/oopsies-ii/</guid>
+            <guid>http://localhost:1313/oopsies-ii/</guid>
             <description>They took out 25 stitches today and replaced them with the butterfly stitches to reduce superficial scaring. Nice of them, but skin scars do no really matter much to me. Anyway the big stuff:
   Flexor Digitalis Superficialis @ 2, 3 and 4 was completely severed as was the Flexor Carpi Radialis and the Flexor Digitalis Profundus of 3.
   FDP-2 and FDP-4 cut but not severed</description>
@@ -3675,10 +3675,10 @@ Now I want one! But @ basically $50 I think the Pegasus 6NN63 Clock, Quartz, Rou
         
         <item>
             <title>Antebrachium/ cubital fossa</title>
-            <link>//localhost:1313/antebrachium/-cubital-fossa/</link>
+            <link>http://localhost:1313/antebrachium/-cubital-fossa/</link>
             <pubDate>Tue, 02 Jul 2013 19:10:53 +0000</pubDate>
             
-            <guid>//localhost:1313/antebrachium/-cubital-fossa/</guid>
+            <guid>http://localhost:1313/antebrachium/-cubital-fossa/</guid>
             <description>Prosection by me, 1994. All this wrist surgery nonsense got me to dig around old files&amp;hellip;</description>
             <content type="html"><![CDATA[<p>Prosection by me, 1994. All this wrist surgery nonsense got me to dig around old files&hellip;</p>
 <p><img src="http://sjy.yearl.us/wp-content/uploads/2013/07/brachium_prosection.jpeg" alt="antebrachium prosection cubital fossa"></p>
@@ -3687,10 +3687,10 @@ Now I want one! But @ basically $50 I think the Pegasus 6NN63 Clock, Quartz, Rou
         
         <item>
             <title>Oopsies</title>
-            <link>//localhost:1313/oopsies/</link>
+            <link>http://localhost:1313/oopsies/</link>
             <pubDate>Thu, 27 Jun 2013 13:34:00 +0000</pubDate>
             
-            <guid>//localhost:1313/oopsies/</guid>
+            <guid>http://localhost:1313/oopsies/</guid>
             <description>Had surgery today to repair the severed tendons in my wrist yesterday. Full-on, no holds barred general anesthetic and two and a half hours under the knife of a very well respected orthopedic surgeon working out of New England Baptist Hospital. General anaesthetic worked like a charm, but I wish that i had more time to enjoy it. About 5 minuted of pre-anaesthesia sedative and then some pure oxygen. The last number I remember counting to was only 3!</description>
             <content type="html"><![CDATA[<p>Had surgery today to repair the severed tendons in  my wrist yesterday. Full-on, no holds barred general anesthetic and two and a half hours under the knife of a very well respected orthopedic surgeon working out of New England Baptist Hospital. General anaesthetic worked like a charm, but I wish that i had more time to enjoy it. About 5 minuted of pre-anaesthesia sedative and then some pure oxygen. The last number I remember counting to was only 3!</p>
 <p><img src="http://sjy.yearl.us/wp-content/uploads/2013/07/wpid-ER_stitchup.jpg" alt=""></p>
@@ -3704,10 +3704,10 @@ Now I want one! But @ basically $50 I think the Pegasus 6NN63 Clock, Quartz, Rou
         
         <item>
             <title>Alfred 2 workflows</title>
-            <link>//localhost:1313/alfred-2-workflows/</link>
+            <link>http://localhost:1313/alfred-2-workflows/</link>
             <pubDate>Sat, 15 Jun 2013 21:12:16 +0000</pubDate>
             
-            <guid>//localhost:1313/alfred-2-workflows/</guid>
+            <guid>http://localhost:1313/alfred-2-workflows/</guid>
             <description>2016-05-23 update: Due to recent woes I had to revisit Alfred Workflows&amp;hellip; basically the below remains the same with the addition of:
 http://www.packal.org/workflow/packal-updater http://www.packal.org/workflow/datetime-format-converter http://www.packal.org/workflow/toggle-keyboard-viewer http://www.packal.org/workflow/leo-dictionary http://www.packal.org/workflow/eggtimer-2 http://www.packal.org/workflow/units
  Wolfram Alpha:   Get Alfred 2, buy the Powerpack! http://www.alfredapp.com/
@@ -3773,10 +3773,10 @@ http://www.packal.org/workflow/packal-updater http://www.packal.org/workflow/dat
         
         <item>
             <title>External USB 3 drive woes</title>
-            <link>//localhost:1313/external-usb-3-drive-woes/</link>
+            <link>http://localhost:1313/external-usb-3-drive-woes/</link>
             <pubDate>Wed, 29 May 2013 22:17:00 +0000</pubDate>
             
-            <guid>//localhost:1313/external-usb-3-drive-woes/</guid>
+            <guid>http://localhost:1313/external-usb-3-drive-woes/</guid>
             <description>External HFS + USB drive could not be found HFS.
   Disk Utility, Disk Warrior and Drive Genius could not repair or rebuild the drive.
   Tried to reformat under Disk Utility, but the &amp;ldquo;drive could not be unmounted&amp;rdquo;.
@@ -3811,10 +3811,10 @@ reveals &amp;ldquo;Untitled&amp;rdquo; to be [cc inline=&amp;ldquo;true&amp;rdqu
         
         <item>
             <title>Masa chocolate chip cookies (gluten-free, of course)</title>
-            <link>//localhost:1313/masa-chocolate-chip-cookies-gluten-free-of-course/</link>
+            <link>http://localhost:1313/masa-chocolate-chip-cookies-gluten-free-of-course/</link>
             <pubDate>Sun, 05 May 2013 22:42:21 +0000</pubDate>
             
-            <guid>//localhost:1313/masa-chocolate-chip-cookies-gluten-free-of-course/</guid>
+            <guid>http://localhost:1313/masa-chocolate-chip-cookies-gluten-free-of-course/</guid>
             <description>It&amp;rsquo;s been a while since we&amp;rsquo;ve baked cookies in this house. In honour of 5 de mayo, we decided to try our hand at some masa-based cookies. The result? Gluten free goodies that went down in the GF and non-GF corners of the house, and that were appealing to the sweet tooth and those who prefer things less sweet.
 
 The recipe I used for guidance was this one.
@@ -3878,10 +3878,10 @@ We tend to reduce the added sugar by about one half, so the resulting recipe was
         
         <item>
             <title>U. Penn. Greek Myth: Notes (Week 1)</title>
-            <link>//localhost:1313/u.-penn.-greek-myth-notes-week-1/</link>
+            <link>http://localhost:1313/u.-penn.-greek-myth-notes-week-1/</link>
             <pubDate>Thu, 25 Apr 2013 09:13:19 +0000</pubDate>
             
-            <guid>//localhost:1313/u.-penn.-greek-myth-notes-week-1/</guid>
+            <guid>http://localhost:1313/u.-penn.-greek-myth-notes-week-1/</guid>
             <description>1.1/1.2 Myth (Μυτηος):  A falsehood &amp;ldquo;bucket&amp;rdquo; containing all that is important to a given culture&amp;ndash; may be universally true; it certainly is specific to a given cultural identity Something fundamental (or primal) about our condition. Also primal as in &amp;ldquo;old&amp;rdquo;, &amp;ldquo;primitive&amp;rdquo; μυτηος&amp;ndash; literally speech; later a narrative speech/story; still later, specifically a false story; later still&amp;ndash; a tall tale, but with some elemental truth Constantly re-invented for the ages/different cultures; always a re-telling.</description>
             <content type="html"><![CDATA[<h5 id="1112-myth-μυτηος">1.1/1.2 Myth (Μυτηος):</h5>
 <ul>
@@ -3925,10 +3925,10 @@ We tend to reduce the added sugar by about one half, so the resulting recipe was
         
         <item>
             <title>Classical Greek</title>
-            <link>//localhost:1313/classical-greek/</link>
+            <link>http://localhost:1313/classical-greek/</link>
             <pubDate>Wed, 24 Apr 2013 21:13:27 +0000</pubDate>
             
-            <guid>//localhost:1313/classical-greek/</guid>
+            <guid>http://localhost:1313/classical-greek/</guid>
             <description>So, I&amp;rsquo;ve signed up for &amp;ldquo;Greek and Latin Mythology&amp;rdquo; from U. Penn at coursera.org. It should be an interesting diversion in these times of my doing relatively little. A little Homer, Aristarchus, Thucydides, Aristophanes, Vergil, Ovid and the like would be welcome relief. Read all&amp;ndash; or almost all&amp;ndash; of these in English translation as a late teenager, and some of the Latin authors in the original. The Greek however… well, I never got very far with that in High School.</description>
             <content type="html"><![CDATA[<p>So, I&rsquo;ve signed up for &ldquo;Greek and Latin Mythology&rdquo; from U. Penn at <a href="http://www.coursera.org">coursera.org</a>. It should be an interesting diversion in these times of my doing relatively little. A little Homer, Aristarchus, Thucydides, Aristophanes, Vergil, Ovid and the like would be welcome relief. Read all&ndash; or almost all&ndash; of these in English translation as a late teenager, and some of the Latin authors in the original. The Greek however… well, I never got very far with that in High School. Not saying I will this time, but there&rsquo;s a niggling thing at the back of my mind saying that any time learning more of the aorist and the optative etc. would not entirely be wasted.</p>
 <p>I may get around to posting my &ldquo;lecture&rdquo; notes, but in the meantime some links.</p>
@@ -3963,10 +3963,10 @@ We tend to reduce the added sugar by about one half, so the resulting recipe was
         
         <item>
             <title>Rock-Paper-Scissors-Lizard-Spock</title>
-            <link>//localhost:1313/rock-paper-scissors-lizard-spock/</link>
+            <link>http://localhost:1313/rock-paper-scissors-lizard-spock/</link>
             <pubDate>Mon, 22 Apr 2013 21:46:40 +0000</pubDate>
             
-            <guid>//localhost:1313/rock-paper-scissors-lizard-spock/</guid>
+            <guid>http://localhost:1313/rock-paper-scissors-lizard-spock/</guid>
             <description>For an online coursera.org course on interactive python from Rice University. 1st project exercise.
 [ccn_python tab_size=&amp;ldquo;4&amp;rdquo; lines=&amp;ldquo;60&amp;rdquo;] import math import random
 def name_to_number(name): name = name.lower() if name == &amp;ldquo;rock&amp;rdquo;: return 0 elif name == &amp;ldquo;spock&amp;rdquo;: return 1 elif name == &amp;ldquo;paper&amp;rdquo;: return 2 elif name == &amp;ldquo;lizard&amp;rdquo;: return 3 elif name == &amp;ldquo;scissors&amp;rdquo;: return 4 else: return &amp;ldquo;Invalid hand sign &amp;lsquo;&amp;rdquo; + name + &amp;ldquo;&amp;rsquo;!\nplease choose: &amp;lsquo;rock&amp;rsquo;, &amp;lsquo;Spock&amp;rsquo;, &amp;lsquo;paper&amp;rsquo;, &amp;lsquo;lizard&amp;rsquo; or &amp;lsquo;scissors&amp;rsquo;&amp;rdquo;</description>
@@ -4029,10 +4029,10 @@ rpsls(&ldquo;spock&rdquo;)
         
         <item>
             <title>Gluten Free Corn Dogs</title>
-            <link>//localhost:1313/gluten-free-corn-dogs/</link>
+            <link>http://localhost:1313/gluten-free-corn-dogs/</link>
             <pubDate>Thu, 04 Apr 2013 22:32:18 +0000</pubDate>
             
-            <guid>//localhost:1313/gluten-free-corn-dogs/</guid>
+            <guid>http://localhost:1313/gluten-free-corn-dogs/</guid>
             <description>[caption id=&amp;ldquo;attachment_456&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;695&amp;rdquo;] Masa dogs[/caption]
 Hmmm. 45 minutes until soccer/football practice. Warm-ish spring evening. We need something filling, something quick, so why not try something I&amp;rsquo;ve never made before: corn dogs. So, with Simply Red&amp;rsquo;s Fairground on loop in the background we begin&amp;hellip;
 Slice 4 lamb sausages lengthways, and fry. Remove them before they are fully cooked, and set aside to cool on an absorbent material to soak up the excess fat.</description>
@@ -4072,10 +4072,10 @@ Slice 4 lamb sausages lengthways, and fry. Remove them before they are fully coo
         
         <item>
             <title>Visiting the USS Hornet (June/July 2011)</title>
-            <link>//localhost:1313/visiting-the-uss-hornet-june/july-2011/</link>
+            <link>http://localhost:1313/visiting-the-uss-hornet-june/july-2011/</link>
             <pubDate>Wed, 03 Apr 2013 17:10:43 +0000</pubDate>
             
-            <guid>//localhost:1313/visiting-the-uss-hornet-june/july-2011/</guid>
+            <guid>http://localhost:1313/visiting-the-uss-hornet-june/july-2011/</guid>
             <description>Below, a verbatim transcript of Joe&amp;rsquo;s trip to see the USS Hornet in Alameda CA., recently re-discovered.
  Visiting the Hornet Day 1 &amp;ndash; June 27
 I got up early and had some breakfast with my brother, Sammy. Then Mimi drove us to the airport in Boston. The flight lasted 6 hours. On the flight I played games and looked at the Rocky Mountains. We met my cousin, Tiger, at the airport in San Francisco.</description>
@@ -4171,10 +4171,10 @@ I made two new friends</p>
         
         <item>
             <title>74111101&#39;s The Universe questions</title>
-            <link>//localhost:1313/74111101s-the-universe-questions/</link>
+            <link>http://localhost:1313/74111101s-the-universe-questions/</link>
             <pubDate>Tue, 02 Apr 2013 14:03:45 +0000</pubDate>
             
-            <guid>//localhost:1313/74111101s-the-universe-questions/</guid>
+            <guid>http://localhost:1313/74111101s-the-universe-questions/</guid>
             <description>74111101&amp;ndash; yes, my eldest insists on representing himself as the ASCII decimal code point values for his name&amp;ndash; and I have been watching the History Channel&amp;rsquo;s The Universe. Below some of 74&amp;rsquo;s questions (typed verbatim from his notes) that he hopes to have answered after writing to some of the presenters in the series.
 Questions   If the Universe keeps on expanding will it eventually rip apart the things that make up dark energy?</description>
             <content type="html"><![CDATA[<p>74111101&ndash; yes, my eldest insists on representing himself as the <a href="http://en.wikipedia.org/wiki/ASCII">ASCII</a> decimal <a href="http://en.wikipedia.org/wiki/Code_point">code point</a> values for his name&ndash; and I have been watching the History Channel&rsquo;s <a href="http://www.imdb.com/title/tt1051155/">The Universe</a>. Below some of 74&rsquo;s questions (typed verbatim from his notes) that he hopes to have answered after writing to some of the presenters in the series.</p>
@@ -4237,10 +4237,10 @@ Questions   If the Universe keeps on expanding will it eventually rip apart the 
         
         <item>
             <title>All about the Great Wall (by Sam)</title>
-            <link>//localhost:1313/all-about-the-great-wall-by-sam/</link>
+            <link>http://localhost:1313/all-about-the-great-wall-by-sam/</link>
             <pubDate>Tue, 02 Apr 2013 00:16:02 +0000</pubDate>
             
-            <guid>//localhost:1313/all-about-the-great-wall-by-sam/</guid>
+            <guid>http://localhost:1313/all-about-the-great-wall-by-sam/</guid>
             <description>This is a picture of my aunt Beth on a broken part of the Great Wall. My mom took this picture. This is the wall at Shanhaiguan. That is where the wall meets the sea. This does not look like pictures of the Great Wall I have seen because it does not really look like the Great Wall. It does not have the watch towers or the fence-like things on the sides of the wall.</description>
             <content type="html"><![CDATA[<p><a href="http://sjy.yearl.us/wp-content/uploads/2013/04/Great-wall_010.jpg"><img src="http://sjy.yearl.us/wp-content/uploads/2013/04/Great-wall_010-1024x662.jpg" alt="Great wall_010"></a> <a href="http://sjy.yearl.us/wp-content/uploads/2013/04/Great-wall_020.jpg"><img src="http://sjy.yearl.us/wp-content/uploads/2013/04/Great-wall_020-1024x662.jpg" alt="Great wall_020"></a></p>
 <p>This is a picture of my aunt Beth on a broken part of the Great Wall. My mom took this picture. This is the wall at <a href="http://www.travelchinaguide.com/china_great_wall/scene/hebei/shanhaiguan/">Shanhaiguan</a>. That is where the wall meets the sea. This does not look like pictures of the Great Wall I have seen because it does not really look like the Great Wall. It does not have the watch towers or the fence-like things on the sides of the wall. It looks like an ordinary rock bunched into a wall. My mom used to have a piece of the wall from here, but she can&rsquo;t find it now.</p>
@@ -4258,10 +4258,10 @@ Questions   If the Universe keeps on expanding will it eventually rip apart the 
         
         <item>
             <title>Windows 7, ISOs, and Parallels</title>
-            <link>//localhost:1313/windows-7-isos-and-parallels/</link>
+            <link>http://localhost:1313/windows-7-isos-and-parallels/</link>
             <pubDate>Thu, 14 Mar 2013 22:01:16 +0000</pubDate>
             
-            <guid>//localhost:1313/windows-7-isos-and-parallels/</guid>
+            <guid>http://localhost:1313/windows-7-isos-and-parallels/</guid>
             <description>I&amp;rsquo;ve had Windows 7 running under the Parallels VM for quite some time now&amp;ndash; just for those odd occasions when I might need to do something on that platform like, err, watching streaming European association football matches from servers in the the Middle East. (I am perhaps one of few Brits who do not bristle when I hear North Americans call football &amp;ldquo;soccer&amp;rdquo;, because, &amp;ldquo;soccer&amp;rdquo; is derived from &amp;ldquo;association&amp;rdquo; football, and was used once upon a time to distinguish itself from that other footballing code: rugby.</description>
             <content type="html"><![CDATA[<p>I&rsquo;ve had Windows 7 running under the Parallels VM for quite some time now&ndash; just for those odd occasions when I might need to do something on that platform like, err, watching streaming European association football matches from servers in the the Middle East. (I am perhaps one of few Brits who do not bristle when I hear North Americans call football &ldquo;soccer&rdquo;, because, &ldquo;soccer&rdquo; is derived from &ldquo;association&rdquo; football, and was used once upon a time to distinguish itself from that other footballing code: rugby.</p>
 <p>I never particularly worried about internal backup of the Windows stuff, because it is a pretty naked install, with the usual stuff added:</p>
@@ -4313,10 +4313,10 @@ rd /s temp[/cc]</p>
         
         <item>
             <title>Mathematica/Minecraft</title>
-            <link>//localhost:1313/mathematica/minecraft/</link>
+            <link>http://localhost:1313/mathematica/minecraft/</link>
             <pubDate>Mon, 18 Feb 2013 17:28:22 +0000</pubDate>
             
-            <guid>//localhost:1313/mathematica/minecraft/</guid>
+            <guid>http://localhost:1313/mathematica/minecraft/</guid>
             <description>Since summer I&amp;rsquo;ve been running a little minecraft server on a VPS in the UK. It is a pretty low-end system, and I didn&amp;rsquo;t imagine more than a handful of the primary school chums of 74111101 playing on it. A nice, secure, white-listed place away from the craziness of the net. As is inevitable with such things, numbers grew and shrank. I was waiting for a stable population before setting something more concrete&amp;ndash; allocating relevant resources, branching out into mods and so forth.</description>
             <content type="html"><![CDATA[<p>Since summer I&rsquo;ve been running a little minecraft server on a VPS in the UK. It is a pretty low-end system, and I didn&rsquo;t imagine more than a handful of the primary school chums of 74111101 playing on it. A nice, secure, white-listed place away from the craziness of the net. As is inevitable with such things, numbers grew and shrank. I was waiting for a stable population before setting something more concrete&ndash; allocating relevant resources, branching out into mods and so forth.</p>
 <p>Well, the population is yet to stabilise. I neglected to factor-in the the volatility of elementary school relationships, and how flat-out nasty little boys can be. Some of the wonderful worlds created by x player have been thoroughly destroyed by y and z&hellip;. and on and on. EVERYONE wants to be an &lsquo;op&rsquo;, and of course it just take one rogue op to spoil the fun for all. Why a single user on a multiplayer server would want to ban everyone else is beyond me. OK, so you have the server to yourself. Have fun. Next time try playing off-line.</p>
@@ -4328,10 +4328,10 @@ rd /s temp[/cc]</p>
         
         <item>
             <title>Online LaTeX editing tools</title>
-            <link>//localhost:1313/online-latex-editing-tools/</link>
+            <link>http://localhost:1313/online-latex-editing-tools/</link>
             <pubDate>Sun, 17 Feb 2013 13:12:07 +0000</pubDate>
             
-            <guid>//localhost:1313/online-latex-editing-tools/</guid>
+            <guid>http://localhost:1313/online-latex-editing-tools/</guid>
             <description>For whatever reason, I&amp;rsquo;ve bumped into a number of in-browser [latex]\LaTeX[/latex] editing tools recently. I guess these are mostly useful for collaborative efforts, and I can see a reason why one would not want to use Subversion or Git. I mean Eldest is just coming of an age where he&amp;rsquo;s seeing computers as tools for his own use rather than just vectors of games/educational materials/movies. Because I am a benevolent father-dictator, he&amp;rsquo;s already familiar with [latex]\LaTeX[/latex] (and actually loves Computer Modern), and has decided to set all his writings in [latex]\LaTeX[/latex] prior to submission.</description>
             <content type="html"><![CDATA[<p>For whatever reason, I&rsquo;ve bumped into a number of in-browser [latex]\LaTeX[/latex] editing tools recently. I guess these are mostly useful for collaborative efforts, and I can see a reason why one would not want to use Subversion or Git. I mean Eldest is just coming of an age where he&rsquo;s seeing computers as tools for his own use rather than just vectors of games/educational materials/movies. Because I am a benevolent father-dictator, he&rsquo;s already familiar with [latex]\LaTeX[/latex] (and actually loves Computer Modern), and has decided to set all his writings in [latex]\LaTeX[/latex] prior to submission. Good for him. I love the fact that he was complaining about fonts on the MacBook Airs at school, and the pain of writing in MS Word. Good boy!</p>
 <p>So, rather than having him use my tool chain, which is very much tied to my laptop and <a href="http://texstudio.sourceforge.net/">TeXstudio</a>, we could use one of these. I might even be able to persuade his Grade IV teacher that [latex]\LaTeX[/latex] is something worth introducing to the kids in its own right. She was, after all, blown away by 74111101&rsquo;s Christmas writing piece that we set in [latex]\LaTeX[/latex]. I guess I&rsquo;ll make notes as I evaluate each below and add them here.</p>
@@ -4353,10 +4353,10 @@ $latex \LaTeX$[/cc]</p>
         
         <item>
             <title>Odds and sods</title>
-            <link>//localhost:1313/odds-and-sods/</link>
+            <link>http://localhost:1313/odds-and-sods/</link>
             <pubDate>Sun, 17 Feb 2013 04:11:39 +0000</pubDate>
             
-            <guid>//localhost:1313/odds-and-sods/</guid>
+            <guid>http://localhost:1313/odds-and-sods/</guid>
             <description>Compile of KDE4 keeps failing on FreeBSD 9.1 whether by
 # cd /usr/ports/x11/kde4 # make install clean or
 # pkg_add -r kde4 after STOP tried
@@ -4419,10 +4419,10 @@ $ clear
         
         <item>
             <title>From Posterous to Wordpress</title>
-            <link>//localhost:1313/from-posterous-to-wordpress/</link>
+            <link>http://localhost:1313/from-posterous-to-wordpress/</link>
             <pubDate>Sat, 16 Feb 2013 21:56:25 +0000</pubDate>
             
-            <guid>//localhost:1313/from-posterous-to-wordpress/</guid>
+            <guid>http://localhost:1313/from-posterous-to-wordpress/</guid>
             <description>The not-very-much-used-by-me Posterous is going offline on April 30th 2013, roughly 12 months after its acquisition by Twitter. I had a few on-and-off posts there, and I guess it would sort of be a shame to loose them, so this is an attempted replacement. The Posterous blog is copied here: http://sjy.yearl.us/sjy/posterous/blog.yearl.us/ &amp;hellip; that was a simple [ccI_bash]wget -r -l inf -k -E -p -nc blog.yearl.us [/cc] but I thought I&amp;rsquo;d also try and group these pages into Wordpress itself a lá http://en.</description>
             <content type="html"><![CDATA[<p>The not-very-much-used-by-me Posterous is <a href="http://blog.posterous.com/thanks-from-posterous">going offline</a> on April 30th 2013, roughly 12 months after its acquisition by Twitter. I had a few on-and-off posts there, and I guess it would sort of be a shame to loose them, so this is an attempted replacement. The Posterous blog is copied here: <a href="http://sjy.yearl.us/sjy/posterous/blog.yearl.us/">http://sjy.yearl.us/sjy/posterous/blog.yearl.us/</a> &hellip; that was a simple [ccI_bash]wget -r -l inf -k -E -p -nc blog.yearl.us [/cc] but I thought I&rsquo;d also try and group these pages into Wordpress itself a lá <a href="http://en.support.wordpress.com/import/import-from-posterous/">http://en.support.wordpress.com/import/import-from-posterous/</a></p>
 <p>Of course setting up Wordpress was a breeze.</p>
@@ -4451,10 +4451,10 @@ vi wp-config[/cc]</p>
         
         <item>
             <title>Jokes</title>
-            <link>//localhost:1313/jokes/</link>
+            <link>http://localhost:1313/jokes/</link>
             <pubDate>Thu, 25 Oct 2012 02:02:57 +0000</pubDate>
             
-            <guid>//localhost:1313/jokes/</guid>
+            <guid>http://localhost:1313/jokes/</guid>
             <description>A running list of the boys&#39; favourite jokes.
   Q: Why did the tachyon cross the road? A:Because it was on the other side.
   G. A. Custer wasn&amp;rsquo;t murdered; he committed Siouxicide.
@@ -4477,10 +4477,10 @@ vi wp-config[/cc]</p>
         
         <item>
             <title>Gluten-free tortillas (tlaxcali)</title>
-            <link>//localhost:1313/gluten-free-tortillas-tlaxcali/</link>
+            <link>http://localhost:1313/gluten-free-tortillas-tlaxcali/</link>
             <pubDate>Sat, 13 Oct 2012 14:16:39 +0000</pubDate>
             
-            <guid>//localhost:1313/gluten-free-tortillas-tlaxcali/</guid>
+            <guid>http://localhost:1313/gluten-free-tortillas-tlaxcali/</guid>
             <description>[caption id=&amp;ldquo;attachment_327&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;695&amp;rdquo;] Tortilladora de madera mezquite[/caption]
 Corn (maize) tortillas have to be the quintessential American bread. American as in &amp;lsquo;from the Americas&amp;rsquo;, not &amp;lsquo;USiAn&amp;rsquo;. Several highly organized civilizations flourished in North, Central and South America, all without wheat which was unknown to them. Maize was their staple, and alongside beans, a grass somewhat resembling rice, and potatoes in the South. With these sources of complex carbohydrates who would want for wheat (or barley)?</description>
             <content type="html"><![CDATA[<p>[caption id=&ldquo;attachment_327&rdquo; align=&ldquo;aligncenter&rdquo; width=&ldquo;695&rdquo;]<a href="http://sjy.yearl.us/wp-content/uploads/2012/10/antique_tortilla_press.jpg"><img src="http://sjy.yearl.us/wp-content/uploads/2012/10/antique_tortilla_press-1024x768.jpg" alt="tortilladora de madera mezquite"></a> Tortilladora de madera mezquite[/caption]</p>
@@ -4535,10 +4535,10 @@ Corn (maize) tortillas have to be the quintessential American bread. American as
         
         <item>
             <title>GF Oatcakes</title>
-            <link>//localhost:1313/gf-oatcakes/</link>
+            <link>http://localhost:1313/gf-oatcakes/</link>
             <pubDate>Fri, 12 Oct 2012 19:28:04 +0000</pubDate>
             
-            <guid>//localhost:1313/gf-oatcakes/</guid>
+            <guid>http://localhost:1313/gf-oatcakes/</guid>
             <description>Well it does not get any simpler than this, well maybe the granola is, but it is yet another example of a face-plant. Almost every trip to the supermarket in the UK led to the purchase of several boxes of oatcakes. Why? Why did we not think of making these before? Again the impetus has been going gluten-free since, as you might have guessed, the majority of easily/commercially available oatcakes have wheat flour in them.</description>
             <content type="html"><![CDATA[<p>Well it does not get any simpler than this, well maybe the <a href="http://mary.yearl.us/gluten-free-granola/">granola</a> is, but it is yet another example of a face-plant. Almost every trip to the supermarket in the UK led to the purchase of several boxes of oatcakes. Why? Why did we not think of making these before? Again the impetus has been going gluten-free since, as you might have guessed, the majority of easily/commercially available oatcakes have wheat flour in them.</p>
 <p><strong>Ingredients:</strong></p>
@@ -4610,10 +4610,10 @@ Corn (maize) tortillas have to be the quintessential American bread. American as
         
         <item>
             <title>Gluten-Free Oat Bread</title>
-            <link>//localhost:1313/gluten-free-oat-bread/</link>
+            <link>http://localhost:1313/gluten-free-oat-bread/</link>
             <pubDate>Thu, 11 Oct 2012 15:51:03 +0000</pubDate>
             
-            <guid>//localhost:1313/gluten-free-oat-bread/</guid>
+            <guid>http://localhost:1313/gluten-free-oat-bread/</guid>
             <description>Lest y&amp;rsquo;all think that everything works out in our GF kitchen, I&amp;rsquo;ve decided to add that the following did not. Well, not quite. The bread is darned tasty, and is wonderful toasted with a bit of fresh butter. We are BIG butter fans, especially locally made stuff (not Cabots or Land o&#39; Lakes, or anything &amp;lsquo;stick&amp;rsquo; form, really), the sort of butter that is pretty close to tasting of cheese.</description>
             <content type="html"><![CDATA[<p>Lest y&rsquo;all think that everything works out in our GF kitchen, I&rsquo;ve decided to add that the following did not. Well, not quite. The bread is darned tasty, and is wonderful toasted with a bit of fresh butter. We are BIG butter fans, especially locally made stuff (not Cabots or Land o' Lakes, or anything &lsquo;stick&rsquo; form, really), the sort of butter that is pretty close to tasting of cheese.</p>
 <p>I think it is really just a question of getting the right flour combination down, and practising technique. Bread making is hard enough to get right with regular wheat flour, let alone with the added complexity of a bread sans gluten.</p>
@@ -4689,10 +4689,10 @@ Corn (maize) tortillas have to be the quintessential American bread. American as
         
         <item>
             <title>Gluten-free cornbread (with almond meal)</title>
-            <link>//localhost:1313/gluten-free-cornbread-with-almond-meal/</link>
+            <link>http://localhost:1313/gluten-free-cornbread-with-almond-meal/</link>
             <pubDate>Mon, 08 Oct 2012 12:44:44 +0000</pubDate>
             
-            <guid>//localhost:1313/gluten-free-cornbread-with-almond-meal/</guid>
+            <guid>http://localhost:1313/gluten-free-cornbread-with-almond-meal/</guid>
             <description>One can&amp;rsquo;t have Thanksgiving without cornbread. This recipe comes as a surprise: I picked up a bag of almond meal whilst shopping and decided to try it as a straight substitute for flour in cornbread. Normally, I use some combination of tapioca flour, garbanzo flour, masa, or any of the other GF powders I have lying around.
 With almond meal in hand, I surfed up a couple of recipes, and used this one for inspiration.</description>
             <content type="html"><![CDATA[<p>One can&rsquo;t have Thanksgiving without cornbread. This recipe comes as a surprise: I picked up a bag of almond meal whilst shopping and decided to try it as a straight substitute for flour in cornbread. Normally, I use some combination of tapioca flour, garbanzo flour, masa, or any of the other GF powders I have lying around.</p>
@@ -4766,10 +4766,10 @@ With almond meal in hand, I surfed up a couple of recipes, and used this one for
         
         <item>
             <title>Gluten-free granola</title>
-            <link>//localhost:1313/gluten-free-granola/</link>
+            <link>http://localhost:1313/gluten-free-granola/</link>
             <pubDate>Sun, 07 Oct 2012 17:30:29 +0000</pubDate>
             
-            <guid>//localhost:1313/gluten-free-granola/</guid>
+            <guid>http://localhost:1313/gluten-free-granola/</guid>
             <description>Please, someone, tell me why I did not make granola earlier: for years, I have shied away from purchasing the stuff at the store because it all seems too “fancy” with artificial fruit flavours, etc., that simply do not appeal. What set me to work was seeing “GF granola” on our shopping lists, and realizing just how expensive it is. Really? For what is basically glorified oats? So, I set to; and behold:</description>
             <content type="html"><![CDATA[<p>Please, someone, tell me why I did not make granola earlier: for years, I have shied away from purchasing the stuff at the store because it all seems too “fancy” with artificial fruit flavours, etc., that simply do not appeal. What set me to work was seeing “GF granola” on our shopping lists, and realizing just how expensive it is. Really? For what is basically glorified oats? So, I set to; and behold:</p>
 <p>[caption id=&ldquo;attachment_279&rdquo; align=&ldquo;aligncenter&rdquo; width=&ldquo;300&rdquo;]<a href="http://sjy.yearl.us/wp-content/uploads/2012/10/Final_product.jpg"><img src="http://sjy.yearl.us/wp-content/uploads/2012/10/Final_product-300x225.jpg" alt=""></a> GF granola made to order![/caption]</p>
@@ -4838,10 +4838,10 @@ With almond meal in hand, I surfed up a couple of recipes, and used this one for
         
         <item>
             <title>Gluten-free graham cracker crust</title>
-            <link>//localhost:1313/gluten-free-graham-cracker-crust/</link>
+            <link>http://localhost:1313/gluten-free-graham-cracker-crust/</link>
             <pubDate>Sun, 07 Oct 2012 16:49:56 +0000</pubDate>
             
-            <guid>//localhost:1313/gluten-free-graham-cracker-crust/</guid>
+            <guid>http://localhost:1313/gluten-free-graham-cracker-crust/</guid>
             <description>When we wanted a gluten-free graham cracker crust for our key lime meringue pie, we looked to Gluten-Free Girl because we wanted a recipe that included the making of graham crackers, rather than a trip to the store for ready-made, GF graham crackers. We followed that recipe pretty closely and came up with crackers that looked like this:
 
 I am often imprecise with measurements, but note them as closely as I can.</description>
@@ -4953,10 +4953,10 @@ I am often imprecise with measurements, but note them as closely as I can.</desc
         
         <item>
             <title>Lime meringue pie</title>
-            <link>//localhost:1313/lime-meringue-pie/</link>
+            <link>http://localhost:1313/lime-meringue-pie/</link>
             <pubDate>Sun, 07 Oct 2012 12:12:20 +0000</pubDate>
             
-            <guid>//localhost:1313/lime-meringue-pie/</guid>
+            <guid>http://localhost:1313/lime-meringue-pie/</guid>
             <description>We can thank STS-133 for our family&amp;rsquo;s appreciation of key lime pie. While we did see it launch in the end, our first journey to Florida included a trip to the Keys while we waited to hear whether the mission would go ahead. That first trip may end up being the first and last time we sample proper Key Lime Pie, but we&amp;rsquo;ll continue to experiment on our own versions that bring us back to Islamorada.</description>
             <content type="html"><![CDATA[<p>We can thank <a href="http://www.nasa.gov/mission_pages/shuttle/shuttlemissions/sts133/main/index.html">STS-133</a> for our family&rsquo;s appreciation of key lime pie. While we did see it launch in the end, our first journey to Florida included a trip to the Keys while we waited to hear whether the mission would go ahead. That first trip may end up being the first and last time we sample proper Key Lime Pie, but we&rsquo;ll continue to experiment on our own versions that bring us back to Islamorada. The current recipe is not key lime pie, even if it was inspired by that dessert. First, key limes were out of season and therefore not available. Secondly, we decided to add a meringue using the leftover egg whites. That and Joseph was very much into the &lsquo;science&rsquo; of meringues.</p>
 <p>[caption id=&ldquo;attachment_241&rdquo; align=&ldquo;aligncenter&rdquo; width=&ldquo;225&rdquo;]<a href="http://sjy.yearl.us/wp-content/uploads/2012/10/Cooked_Lime_meringue1.jpg"><img src="http://sjy.yearl.us/wp-content/uploads/2012/10/Cooked_Lime_meringue1-225x300.jpg" alt=""></a> The finished product[/caption]</p>
@@ -5002,10 +5002,10 @@ I am often imprecise with measurements, but note them as closely as I can.</desc
         
         <item>
             <title>Gluten-free beef pasties</title>
-            <link>//localhost:1313/gluten-free-beef-pasties/</link>
+            <link>http://localhost:1313/gluten-free-beef-pasties/</link>
             <pubDate>Sun, 15 Jul 2012 18:10:53 +0000</pubDate>
             
-            <guid>//localhost:1313/gluten-free-beef-pasties/</guid>
+            <guid>http://localhost:1313/gluten-free-beef-pasties/</guid>
             <description>Gluten-free beef pasties. (This is one where you’ll have to use your own judgment regarding amounts: we just threw it together, but the addition of lamb stock made the filling especially rich. The point of this post? You can be gluten-free and still feed that craving for a pasty.)
 [caption id=&amp;ldquo;attachment_142&amp;rdquo; align=&amp;ldquo;alignright&amp;rdquo; width=&amp;ldquo;225&amp;rdquo; caption=&amp;ldquo;Beef fresh from the village butcher&amp;rdquo;][/caption]
 Filling (ingredients):
@@ -5087,10 +5087,10 @@ Filling (ingredients):
         
         <item>
             <title>Online tobacconists</title>
-            <link>//localhost:1313/online-tobacconists/</link>
+            <link>http://localhost:1313/online-tobacconists/</link>
             <pubDate>Sat, 31 Mar 2012 18:45:02 +0000</pubDate>
             
-            <guid>//localhost:1313/online-tobacconists/</guid>
+            <guid>http://localhost:1313/online-tobacconists/</guid>
             <description>Online retailers I have used thus far:
 UK
   James Barber &amp;hellip; http://www.smoke.co.uk/
@@ -5166,10 +5166,10 @@ UK
         
         <item>
             <title>Current Blends</title>
-            <link>//localhost:1313/current-blends/</link>
+            <link>http://localhost:1313/current-blends/</link>
             <pubDate>Fri, 30 Mar 2012 18:49:23 +0000</pubDate>
             
-            <guid>//localhost:1313/current-blends/</guid>
+            <guid>http://localhost:1313/current-blends/</guid>
             <description>A listing of the tobacco blends tried, roughly in order. Some of my reviews
   == unsmoked, but in the &amp;lsquo;cellar&amp;rsquo;.
   Seven Seas Royal Blend(MacBaren)
@@ -5271,10 +5271,10 @@ Some of my <a href="http://tobaccoreviews.com/reviewer_detail.cfm?UID=12203">rev
         
         <item>
             <title>Tobacco Types (and cuts)</title>
-            <link>//localhost:1313/tobacco-types-and-cuts/</link>
+            <link>http://localhost:1313/tobacco-types-and-cuts/</link>
             <pubDate>Sat, 24 Mar 2012 14:34:35 +0000</pubDate>
             
-            <guid>//localhost:1313/tobacco-types-and-cuts/</guid>
+            <guid>http://localhost:1313/tobacco-types-and-cuts/</guid>
             <description>[TYPES]
 Virginias usually represent the highest percentage in a blend. Although there&amp;rsquo;s a wide range of Virginias to choose from, including bright VA&amp;rsquo;s, matured VA&amp;rsquo;s, and stoved VA&amp;rsquo;s, in general the lighter the color the tangier the taste, with the darker VA&amp;rsquo;s lending a deep, rich note to the blend. Unprocessed VA&amp;rsquo;s tend to produce tongue bite, and stoved VA&amp;rsquo;s tend to bite much less.
 Burley, like VA, is a good base tobacco.</description>
@@ -5307,10 +5307,10 @@ Burley, like VA, is a good base tobacco.</description>
         
         <item>
             <title>Pipe rustication experiment</title>
-            <link>//localhost:1313/pipe-rustication-experiment/</link>
+            <link>http://localhost:1313/pipe-rustication-experiment/</link>
             <pubDate>Fri, 16 Mar 2012 19:03:14 +0000</pubDate>
             
-            <guid>//localhost:1313/pipe-rustication-experiment/</guid>
+            <guid>http://localhost:1313/pipe-rustication-experiment/</guid>
             <description>[caption id=&amp;ldquo;attachment_210&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;500&amp;rdquo;] Capt. Kidd pipe[/caption]
 So, I purchased this pipe from Ebay at a reasonable price. This was the only picture of the pipe, and I was a little dissapointed to find that on the shank (on the other side, obviously) there was a sizeable chunk of filler, about 2mm in width, 1mm in height rouhtly in the shape of the outline of Autralia.
 I was tempted to repackage it and list the item as described by the original seller and just hope that I managed to get my money back.</description>
@@ -5346,10 +5346,10 @@ Or was it the men o' Kay?&quot;</em></p>
         
         <item>
             <title>Pipes (not chained data streams)</title>
-            <link>//localhost:1313/pipes-not-chained-data-streams/</link>
+            <link>http://localhost:1313/pipes-not-chained-data-streams/</link>
             <pubDate>Mon, 05 Mar 2012 14:26:14 +0000</pubDate>
             
-            <guid>//localhost:1313/pipes-not-chained-data-streams/</guid>
+            <guid>http://localhost:1313/pipes-not-chained-data-streams/</guid>
             <description>So. I inherited a few Peterson tobacco pipes from my father who has been gone a couple of years now. He had what one might call a modest collection, and all were smoked regularly. Nothing fancy &amp;lsquo;just for show&amp;rsquo; except one piece. Anyway, I decided that I would do my level best to clean a few of them. I did this just because I was bored&amp;hellip; but the more I read, the more interested I became.</description>
             <content type="html"><![CDATA[<p>So. I inherited a few <a href="http://www.peterson.ie/pipes/">Peterson</a> tobacco pipes from my father who has been gone a couple of years now. He had what one might call a modest collection, and all were smoked regularly. Nothing fancy &lsquo;just for show&rsquo; except one piece. Anyway, I decided that I would do my level best to clean a few of them. I did this just because I was bored&hellip; but the more I read, the more interested I became. To the point at which I have listed one on Ebay (pictured below), and have several of the remainer on what pipe smokers call a rotation. I&rsquo;ve been enjoying a bowl or two every night recently.</p>
 <p>There&rsquo;s something a bit geeky about pipe smoking, so many avenues to venture down. It is anything but casual, and surely the pipe smoker is the most encumbered of smokers with reamers and tampers and pouches, let alone the pipe itself. The arcanery of tobaccos, the lore, the literary allusions; the peace, the relaxation. It requires substantially more effort to enjoy a bowl of tobacco than to grab a quick ciggie at a rest stop on the highway. I like that.<a href="http://sjy.yearl.us/wp-content/uploads/2013/04/FILE0028.png"><img src="http://sjy.yearl.us/wp-content/uploads/2013/04/FILE0028.png" alt="FILE0028"></a> <a href="http://sjy.yearl.us/wp-content/uploads/2013/04/FILE0026.png"><img src="http://sjy.yearl.us/wp-content/uploads/2013/04/FILE0026.png" alt="FILE0026"></a></p>
@@ -5359,10 +5359,10 @@ Or was it the men o' Kay?&quot;</em></p>
         
         <item>
             <title>Installing Postfix and Dovecot on Debian 6 (Squeeze)</title>
-            <link>//localhost:1313/installing-postfix-and-dovecot-on-debian-6-squeeze/</link>
+            <link>http://localhost:1313/installing-postfix-and-dovecot-on-debian-6-squeeze/</link>
             <pubDate>Sat, 03 Mar 2012 19:17:21 +0000</pubDate>
             
-            <guid>//localhost:1313/installing-postfix-and-dovecot-on-debian-6-squeeze/</guid>
+            <guid>http://localhost:1313/installing-postfix-and-dovecot-on-debian-6-squeeze/</guid>
             <description>Add MX records (A and AAAA) to zone file for vps.yearl.us at HE Primary files involved:
   /etc/postfix/main.cf
   /etc/postfix/sasl/smtpd.conf
@@ -5525,10 +5525,10 @@ $adduser postfix sasl
         
         <item>
             <title>Installing OpenVPN on Debian 6 (Squeeze)</title>
-            <link>//localhost:1313/installing-openvpn-on-debian-6-squeeze/</link>
+            <link>http://localhost:1313/installing-openvpn-on-debian-6-squeeze/</link>
             <pubDate>Tue, 28 Feb 2012 21:54:30 +0000</pubDate>
             
-            <guid>//localhost:1313/installing-openvpn-on-debian-6-squeeze/</guid>
+            <guid>http://localhost:1313/installing-openvpn-on-debian-6-squeeze/</guid>
             <description>1. Ensure everything up to date (as / ): #apt-get update #apt-get upgrade --show-upgraded  2. Install OpenVPN and the udev dependency #apt-get install openvpn udev  3. Configure Public Key Infrastructure Variables $nano /etc/openvpn/easy-rsa/2.0/vars edited the default to (roughly as CA_Cert: ipv6_yearl.us.txt NB to update CACerts): export KEY_COUNTRY=&amp;quot;US&amp;quot; export KEY_PROVINCE=&amp;quot;MA&amp;quot; export KEY_CITY=&amp;quot;Newton&amp;quot; export KEY_ORG=&amp;quot;US.Yearl&amp;quot; #perhaps should have used myname@yearl.us? export KEY_EMAIL=&amp;quot;myname@gmail.com&amp;quot;  4. initialize PKI Issued All 3 commands in sequence.</description>
             <content type="html"><![CDATA[<h3 id="1-ensure-everything-up-to-date-as--">1. Ensure everything up to date (as / ):</h3>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash"><span style="color:#75715e">#apt-get update</span>
@@ -5634,10 +5634,10 @@ net.ipv6.conf.all.forwarding=1</p>
         
         <item>
             <title>Enabling AirDrop on (certain) unsupported Macs</title>
-            <link>//localhost:1313/enabling-airdrop-on-certain-unsupported-macs/</link>
+            <link>http://localhost:1313/enabling-airdrop-on-certain-unsupported-macs/</link>
             <pubDate>Mon, 20 Feb 2012 13:59:34 +0000</pubDate>
             
-            <guid>//localhost:1313/enabling-airdrop-on-certain-unsupported-macs/</guid>
+            <guid>http://localhost:1313/enabling-airdrop-on-certain-unsupported-macs/</guid>
             <description>Macs that support AirDrop ( must have OS X Lion):
 MacBook Pro (Late 2008 or newer)* MacBook Air (Late 2010 or newer) MacBook (Late 2008 or newer)* iMac (Early 2009 or newer) Mac Mini (Mid 2010 or newer) Mac Pro (Early 2009 with AirPort Extreme card, or Mid 2010)
  The MacBook Pro (17-Inch Late 2008) and the white MacBook (Late  do not support AirDrop.  ================ My early 2008 Macbook pro does not but&amp;hellip;.</description>
@@ -5665,10 +5665,10 @@ killall Finder <span style="color:#f92672">&amp;&amp;</span> open /System/Librar
         
         <item>
             <title>Gluten-free Yorkshire pudding</title>
-            <link>//localhost:1313/gluten-free-yorkshire-pudding/</link>
+            <link>http://localhost:1313/gluten-free-yorkshire-pudding/</link>
             <pubDate>Sat, 18 Feb 2012 04:35:07 +0000</pubDate>
             
-            <guid>//localhost:1313/gluten-free-yorkshire-pudding/</guid>
+            <guid>http://localhost:1313/gluten-free-yorkshire-pudding/</guid>
             <description>As if a Yorkshire pudding can be gluten-free: please send suggestions of a suitable name for a GF version of something akin to a Yorkshire pudding.
 [caption id=&amp;ldquo;attachment_133&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;695&amp;rdquo; caption=&amp;ldquo;The pudding, still reasonably puffed up.&amp;quot;][/caption]
 Ingredients:
@@ -5745,10 +5745,10 @@ Ingredients:
         
         <item>
             <title>Gluten free dumplings (x2)</title>
-            <link>//localhost:1313/gluten-free-dumplings-x2/</link>
+            <link>http://localhost:1313/gluten-free-dumplings-x2/</link>
             <pubDate>Sat, 18 Feb 2012 04:02:34 +0000</pubDate>
             
-            <guid>//localhost:1313/gluten-free-dumplings-x2/</guid>
+            <guid>http://localhost:1313/gluten-free-dumplings-x2/</guid>
             <description>The first time I tried to make gluten-free dumplings, they worked out beautifully. Indeed, the existence of this blog is largely down to our desire to record those things that go well. For the record: I have not yet replicated those wonderful dumplings, but am working on it.
 
 Cornmeal buckwheat dumplings.
@@ -5857,10 +5857,10 @@ Recipe 1: Cornmeal buckwheat soy dumplings
         
         <item>
             <title>Chocolate peanut butter cups</title>
-            <link>//localhost:1313/chocolate-peanut-butter-cups/</link>
+            <link>http://localhost:1313/chocolate-peanut-butter-cups/</link>
             <pubDate>Tue, 14 Feb 2012 15:07:14 +0000</pubDate>
             
-            <guid>//localhost:1313/chocolate-peanut-butter-cups/</guid>
+            <guid>http://localhost:1313/chocolate-peanut-butter-cups/</guid>
             <description>The boys like peanut butter and they like chocolate, but the peanut butter cups from the store are too sweet and too salty. Moreover, we like bittersweet chocolate, so we decided to make our own. After all, I had a bunch of mini muffin cups I&amp;rsquo;d picked up in the post-Christmas sale at IKEA.
 
 This is a project the kids can help with: mine not only helped fill the cups, they were wholly responsible for the decorations.</description>
@@ -5935,10 +5935,10 @@ This is a project the kids can help with: mine not only helped fill the cups, th
         
         <item>
             <title>VPS Scratch</title>
-            <link>//localhost:1313/vps-scratch/</link>
+            <link>http://localhost:1313/vps-scratch/</link>
             <pubDate>Sun, 12 Feb 2012 20:51:13 +0000</pubDate>
             
-            <guid>//localhost:1313/vps-scratch/</guid>
+            <guid>http://localhost:1313/vps-scratch/</guid>
             <description>New VPS ordered today: £7 per quarter, 256MB OpenVZ, Deb. 5 (Lenny), 1 ipv4, 10 ipv6 from allsimple.net.
 general setup:
   update, upgrade-stable, update
@@ -6057,10 +6057,10 @@ $ /etc/nginx/nginx.conf
         
         <item>
             <title>Pizza with a buckwheat crust</title>
-            <link>//localhost:1313/pizza-with-a-buckwheat-crust/</link>
+            <link>http://localhost:1313/pizza-with-a-buckwheat-crust/</link>
             <pubDate>Sun, 12 Feb 2012 06:08:20 +0000</pubDate>
             
-            <guid>//localhost:1313/pizza-with-a-buckwheat-crust/</guid>
+            <guid>http://localhost:1313/pizza-with-a-buckwheat-crust/</guid>
             <description>Shortly after going gluten-free, we tried Bob&amp;rsquo;s Red Mill gluten-free pizza crust. Having lived in New Haven for many years, we like pizza. Bob&amp;rsquo;s didn&amp;rsquo;t measure up, so that was it&amp;hellip;until now. This might not be apizza, but as long as we&amp;rsquo;re gluten-free we may have to settle for a bit less.
 
 Having found a hit with buckwheat pancakes, I decided to try a buckwheat pizza crust. The recipe I adopted was basically the one described here, but without the garlic powder.</description>
@@ -6149,10 +6149,10 @@ Having found a hit with buckwheat pancakes, I decided to try a buckwheat pizza c
         
         <item>
             <title>Buckwheat pancakes</title>
-            <link>//localhost:1313/buckwheat-pancakes/</link>
+            <link>http://localhost:1313/buckwheat-pancakes/</link>
             <pubDate>Sat, 11 Feb 2012 23:54:59 +0000</pubDate>
             
-            <guid>//localhost:1313/buckwheat-pancakes/</guid>
+            <guid>http://localhost:1313/buckwheat-pancakes/</guid>
             <description>We are big lovers of cornmeal pancakes in our family, but the boys were hankering for something closer to traditional wheat ones, so we figured it was time to throw together a batch of buckwheat pancakes.
 
 Yield: 7 large pancakes
@@ -6224,10 +6224,10 @@ The ingredients:
         
         <item>
             <title>Apple Macbook Air USB &#34;superdrive&#34; on a non-Air</title>
-            <link>//localhost:1313/apple-macbook-air-usb-superdrive-on-a-non-air/</link>
+            <link>http://localhost:1313/apple-macbook-air-usb-superdrive-on-a-non-air/</link>
             <pubDate>Thu, 09 Feb 2012 13:53:37 +0000</pubDate>
             
-            <guid>//localhost:1313/apple-macbook-air-usb-superdrive-on-a-non-air/</guid>
+            <guid>http://localhost:1313/apple-macbook-air-usb-superdrive-on-a-non-air/</guid>
             <description>So I borrowed a mate&amp;rsquo;s external USB superdrive in order to get some old files off of archived CDs, and the internal optical drive in my April &amp;lsquo;08 MacBook Pro has long since shit the bed. Requirements for the drive suggest that an Air is required (Apple website, original packaging and a call to an Apple store), and sure enough when plugged into the MBP running Lion (10.7.2)&amp;hellip; no dice.</description>
             <content type="html"><![CDATA[<p>So I borrowed a mate&rsquo;s external USB superdrive in order to get some old files off of archived CDs,  and the internal optical drive in my April &lsquo;08 MacBook Pro has long since shit the bed. Requirements for the drive suggest that an Air is required (Apple website, original packaging and a  call to an Apple store), and sure enough when plugged into the MBP running Lion (10.7.2)&hellip; no  dice.</p>
 <p>I&rsquo;ve been toying with geting some sort of Apple certification/credential, so I&rsquo;ve a not  unreasonable collection of old (and new tech docs from them). Reading through that I came to the following:</p>
@@ -6243,10 +6243,10 @@ add entry:
         
         <item>
             <title>1500</title>
-            <link>//localhost:1313/1500/</link>
+            <link>http://localhost:1313/1500/</link>
             <pubDate>Wed, 08 Feb 2012 20:16:10 +0000</pubDate>
             
-            <guid>//localhost:1313/1500/</guid>
+            <guid>http://localhost:1313/1500/</guid>
             <description>It can take a wee while after getting &amp;ldquo;sage&amp;rdquo; to hit 1500. Lots of pretty mundane traceroute6-ing, ping-ing and such, but I stuck through it:
 
 Really I should have scripted something to chron submit the result entries when the command result was obviously valid, but by the time I had found a reliable list of valid ipv6 addrs that were alive and correctly reporting it was too late for me to bother&amp;hellip; and besides I sort of enjoyed the daily catharsis of taking five minutes to submit.</description>
@@ -6260,10 +6260,10 @@ Really I should have scripted something to chron submit the result entries when 
         
         <item>
             <title>SR-71 Maiden launch</title>
-            <link>//localhost:1313/sr-71-maiden-launch/</link>
+            <link>http://localhost:1313/sr-71-maiden-launch/</link>
             <pubDate>Tue, 31 Jan 2012 21:10:02 +0000</pubDate>
             
-            <guid>//localhost:1313/sr-71-maiden-launch/</guid>
+            <guid>http://localhost:1313/sr-71-maiden-launch/</guid>
             <description>[singlepic id=69 w=320 h=240 float=center]
 So, school for Joe and Sam was out early today and we thought this afternoon an appropriate time to put the model rocket that Joe and Stephen put together over the weekend out for its maiden launch. There was quite some interest amongst Joe&amp;rsquo;s 3rd Grade class as Mary yesterday had helped Joe at his &amp;ldquo;show and tell&amp;rdquo;, where he told his peers about the launches he has been apart of, both at structured events like at Goddard Space Flight Center, MD, and also private launches with his friends and family.</description>
             <content type="html"><![CDATA[<p>[singlepic id=69 w=320 h=240 float=center]</p>
@@ -6278,10 +6278,10 @@ So, school for Joe and Sam was out early today and we thought this afternoon an 
         
         <item>
             <title>Brokering with SIXXs</title>
-            <link>//localhost:1313/brokering-with-sixxs/</link>
+            <link>http://localhost:1313/brokering-with-sixxs/</link>
             <pubDate>Tue, 31 Jan 2012 14:05:01 +0000</pubDate>
             
-            <guid>//localhost:1313/brokering-with-sixxs/</guid>
+            <guid>http://localhost:1313/brokering-with-sixxs/</guid>
             <description>Going to be changing ipv4 addresses a lot over the next little while, so I&amp;rsquo;ve decided to try a different v4-6 brokering arrangement. he.net&amp;rsquo;s tunnelbroker has been rock solid and I&amp;rsquo;ve been using it on and off since &amp;lsquo;08, but I think it time to try something else.
 The ideal would be a self-monitoring client that identifies local ipv4 changes here (kind like a dynDNS client might), and renegotiate an ipv6 endpoint to tunnel through based on that change.</description>
             <content type="html"><![CDATA[<p>Going to be changing ipv4 addresses a lot over the next little while, so I&rsquo;ve decided to try a different v4-6 brokering arrangement. he.net&rsquo;s tunnelbroker has been rock solid and I&rsquo;ve been using it on and off since &lsquo;08, but I think it time to try something else.</p>
@@ -6324,10 +6324,10 @@ $ ifconfig -a
         
         <item>
             <title>SR-71 Model Rocket Construction</title>
-            <link>//localhost:1313/sr-71-model-rocket-construction/</link>
+            <link>http://localhost:1313/sr-71-model-rocket-construction/</link>
             <pubDate>Mon, 30 Jan 2012 14:20:41 +0000</pubDate>
             
-            <guid>//localhost:1313/sr-71-model-rocket-construction/</guid>
+            <guid>http://localhost:1313/sr-71-model-rocket-construction/</guid>
             <description>TiGeRrrr gave me a model SR-71 Blackbird for Christmas and Aye-Dye built it this weekend. Thank you Tiger and AyeDye. I hope we can launch it on Tuesday because that&amp;rsquo;s when we get home from school early. Mimi found out we can launch it at the baseball diamond. My favorite plane is the F-14A Tomcat. Sammy&amp;rsquo;s is the Blackbird because it is faster but it cannot land on an aircraft carrier like the CVA-12 Hornet we went on in Alameda California.</description>
             <content type="html"><![CDATA[<p><img src="http://yearl.us/mary/wp-content/gallery/sr-71-blackbird-model/img_2515.png" alt="25_cest_finis"></p>
 <p>TiGeRrrr gave me a model SR-71 Blackbird for Christmas and Aye-Dye built it this weekend. Thank you Tiger and AyeDye. I hope we can launch it on Tuesday because that&rsquo;s when we get home from school early. Mimi found out we can launch it at the baseball diamond. My favorite plane is the F-14A Tomcat. Sammy&rsquo;s is the Blackbird because it is faster but it cannot land on an aircraft carrier like the CVA-12 Hornet we went on in Alameda California.</p>
@@ -6381,10 +6381,10 @@ $ ifconfig -a
         
         <item>
             <title>Wordpress</title>
-            <link>//localhost:1313/wordpress/</link>
+            <link>http://localhost:1313/wordpress/</link>
             <pubDate>Sun, 29 Jan 2012 14:02:46 +0000</pubDate>
             
-            <guid>//localhost:1313/wordpress/</guid>
+            <guid>http://localhost:1313/wordpress/</guid>
             <description>Fsked the http://mary.yearl.us WP install last night whilst arsing with names. One single bloody typo in &amp;ldquo;site URL&amp;rdquo; and good luck getting back into the admin panel. WP does not even offer a warning that changing this might be a bad thing, or potentially so.
 Fortunately having access to the database I could edit the value in-place in the tables&amp;hellip; now all is well again with the world.
 &amp;hellip;except for the fact that I felt I had to sign up&amp;ndash;finally&amp;ndash; for a twitter account just so I could get an API key in order to explore some things on Mar&amp;rsquo;s blog.</description>
@@ -6396,10 +6396,10 @@ Fortunately having access to the database I could edit the value in-place in the
         
         <item>
             <title>Gluten-free naan bread?</title>
-            <link>//localhost:1313/gluten-free-naan-bread/</link>
+            <link>http://localhost:1313/gluten-free-naan-bread/</link>
             <pubDate>Sat, 28 Jan 2012 12:49:51 +0000</pubDate>
             
-            <guid>//localhost:1313/gluten-free-naan-bread/</guid>
+            <guid>http://localhost:1313/gluten-free-naan-bread/</guid>
             <description>There is a chicken curry bubbling on the stove, saffron rice steaming away in the rice cooker: how can I not think of naan bread?
 
 I surfed up a recipe for gluten-free naan bread, and this is what I found: http://www.food.com/recipe/gluten-free-naan-roti-indian-flat-bread-version-1-189334
@@ -6492,10 +6492,10 @@ I spent less than 30 minutes from start to finish, and in the end we had 2 large
         
         <item>
             <title>Domain transfer</title>
-            <link>//localhost:1313/domain-transfer/</link>
+            <link>http://localhost:1313/domain-transfer/</link>
             <pubDate>Wed, 25 Jan 2012 14:17:25 +0000</pubDate>
             
-            <guid>//localhost:1313/domain-transfer/</guid>
+            <guid>http://localhost:1313/domain-transfer/</guid>
             <description>Can&amp;rsquo;t recall through the fog of my own stupidy why I felt it necessaey to whois yearl.us. Anyway, suprised to see Enom Inc in the response, and I don&amp;rsquo;t recall them from the initial registration though &amp;ldquo;registry rocket&amp;rdquo;, a link followed from the ever-so-awesome folks at http://freedns.afraid.org. So, being clouded I thought &amp;ldquo;scam&amp;rdquo;, &amp;ldquo;buyout&amp;rdquo;. &amp;ldquo;Oh, woes&amp;rdquo;!, and cast around for a registrar to which to transfer.
 Cloudy fog of indignation made somewhat more insideous in that I could not log into hregistryrocket.</description>
             <content type="html"><![CDATA[<p>Can&rsquo;t recall through the fog of my own stupidy why I felt it necessaey to whois yearl.us. Anyway, suprised to see Enom Inc in the response, and I don&rsquo;t recall them from the initial registration though &ldquo;registry rocket&rdquo;, a link followed from the ever-so-awesome folks at <a href="http://freedns.afraid.org">http://freedns.afraid.org</a>. So, being clouded I thought &ldquo;scam&rdquo;, &ldquo;buyout&rdquo;. &ldquo;Oh, woes&rdquo;!, and cast around for a registrar to which to transfer.</p>
@@ -6507,10 +6507,10 @@ Cloudy fog of indignation made somewhat more insideous in that I could not log i
         
         <item>
             <title>Gluten-free Christmas pudding</title>
-            <link>//localhost:1313/gluten-free-christmas-pudding/</link>
+            <link>http://localhost:1313/gluten-free-christmas-pudding/</link>
             <pubDate>Mon, 26 Dec 2011 17:50:34 +0000</pubDate>
             
-            <guid>//localhost:1313/gluten-free-christmas-pudding/</guid>
+            <guid>http://localhost:1313/gluten-free-christmas-pudding/</guid>
             <description>Even though this is our first gluten-free Christmas, we didn&amp;rsquo;t want to miss out on the pudding. So, we made our own. I was apprehensive, but need not have been.
 
 The basic recipe I followed was this one. Note that you have to scroll down the page quite a ways to actually reach the recipe.
@@ -6529,10 +6529,10 @@ I also had this one on hand and my final result combined aspects of both and may
         
         <item>
             <title>Craving a mince pie but you&#39;re following a gluten-free diet?</title>
-            <link>//localhost:1313/craving-a-mince-pie-but-youre-following-a-gluten-free-diet/</link>
+            <link>http://localhost:1313/craving-a-mince-pie-but-youre-following-a-gluten-free-diet/</link>
             <pubDate>Sat, 24 Dec 2011 19:00:44 +0000</pubDate>
             
-            <guid>//localhost:1313/craving-a-mince-pie-but-youre-following-a-gluten-free-diet/</guid>
+            <guid>http://localhost:1313/craving-a-mince-pie-but-youre-following-a-gluten-free-diet/</guid>
             <description>How did we do it? First of all, I picked up a new kitchen scale. It&amp;rsquo;s digital and switches easily between metric and US standard units. This makes it easy to fool around with different types of gluten-free flour since the only thing that really matters is that there be double the mass of flour to fat.
 Right. What about those pies?
   Cranberry mince pies. For the filling, I pretty much followed the recipe given here.</description>
@@ -6591,10 +6591,10 @@ Right. What about those pies?
         
         <item>
             <title>Christmas pudding, without the gluten</title>
-            <link>//localhost:1313/christmas-pudding-without-the-gluten/</link>
+            <link>http://localhost:1313/christmas-pudding-without-the-gluten/</link>
             <pubDate>Sat, 24 Dec 2011 14:27:40 +0000</pubDate>
             
-            <guid>//localhost:1313/christmas-pudding-without-the-gluten/</guid>
+            <guid>http://localhost:1313/christmas-pudding-without-the-gluten/</guid>
             <description>See http://mary.yearl.us/gluten-free-christmas-pudding/
 Even though this is our first gluten-free Christmas, we didn&amp;rsquo;t want to miss out on the pudding. So, we made our own. I was apprehensive, but need not have been.
 [caption id=&amp;ldquo;attachment_113&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;695&amp;rdquo;] Gluten-free Christmas pudding.[/caption]
@@ -6622,10 +6622,10 @@ Note that you have to scroll down the page quite a ways to actually reach the re
         
         <item>
             <title>Craving a mince pie but you&#39;re following a gluten-free diet?</title>
-            <link>//localhost:1313/craving-a-mince-pie-but-youre-following-a-gluten-free-diet/</link>
+            <link>http://localhost:1313/craving-a-mince-pie-but-youre-following-a-gluten-free-diet/</link>
             <pubDate>Wed, 21 Dec 2011 14:38:46 +0000</pubDate>
             
-            <guid>//localhost:1313/craving-a-mince-pie-but-youre-following-a-gluten-free-diet/</guid>
+            <guid>http://localhost:1313/craving-a-mince-pie-but-youre-following-a-gluten-free-diet/</guid>
             <description>See: http://mary.yearl.us/gluten-free-mince-pies/
 [caption id=&amp;ldquo;attachment_118&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;1000&amp;rdquo;] GF Mice Pies[/caption]
 How did we do it? First of all, I picked up a new kitchen scale. It&amp;rsquo;s digital and switches easily between metric and US standard units. This makes it easy to fool around with different types of gluten-free flour since the only thing that really matters is that there be double the mass of flour to fat.
@@ -6674,10 +6674,10 @@ Right. What about those pies?</description>
         
         <item>
             <title>Installing Ruby 1.9.2 with RVM fails on OS X Lion</title>
-            <link>//localhost:1313/installing-ruby-1.9.2-with-rvm-fails-on-os-x-lion/</link>
+            <link>http://localhost:1313/installing-ruby-1.9.2-with-rvm-fails-on-os-x-lion/</link>
             <pubDate>Fri, 28 Oct 2011 14:51:58 +0000</pubDate>
             
-            <guid>//localhost:1313/installing-ruby-1.9.2-with-rvm-fails-on-os-x-lion/</guid>
+            <guid>http://localhost:1313/installing-ruby-1.9.2-with-rvm-fails-on-os-x-lion/</guid>
             <description>Remove RVM, thus making for a cleaner install later:
 $ RVM implode Remove XCode:
 $ sudo /Developer/Library/uninstall-devtools –mode=all XCode is removed since in 4.2, at least, all references to gcc are linked to llvm-gcc (Apple&amp;rsquo;s) own fork of gcc. llvm will NOT compile ruby.
@@ -6707,10 +6707,10 @@ backup <code>/usr/local/lib/libiconv.2.dylib[/cci], and copy </code>/usr/local/c
         
         <item>
             <title>Setting GCC 4.2 as the default compiler on Mac OS X Leopard</title>
-            <link>//localhost:1313/setting-gcc-4.2-as-the-default-compiler-on-mac-os-x-leopard/</link>
+            <link>http://localhost:1313/setting-gcc-4.2-as-the-default-compiler-on-mac-os-x-leopard/</link>
             <pubDate>Thu, 27 Oct 2011 15:00:01 +0000</pubDate>
             
-            <guid>//localhost:1313/setting-gcc-4.2-as-the-default-compiler-on-mac-os-x-leopard/</guid>
+            <guid>http://localhost:1313/setting-gcc-4.2-as-the-default-compiler-on-mac-os-x-leopard/</guid>
             <description>Im my experience (limited), changing CC in .profile does not change Lion&amp;rsquo;s (10.7.2) defaulting to i686-apple-darwin11-llvm-gcc-4.2. I wonder if this has anything to do with Apple&amp;rsquo;s own sym linking: a partial: $ls -la /usr/bin | grep .*gcc.*:
 lrwxr-xr-x 1 root wheel 12 25 oct 19:31 cc -&amp;gt; llvm-gcc-4.2lrwxr-xr-x 1 root wheel 12 25 oct 19:31 gcc -&amp;gt; llvm-gcc-4.2lrwxr-xr-x 1 root admin 32 25 oct 19:31 llvm-gcc-4.2 -&amp;gt; ../llvm-gcc-4.2/bin/llvm-gcc-4.2 I am wary about breaking these and adding my own to usr/bin/gcc-4.</description>
             <content type="html"><![CDATA[<p>Im my experience (limited), changing CC in .profile does not change Lion&rsquo;s (10.7.2) defaulting to i686-apple-darwin11-llvm-gcc-4.2. I wonder if this has anything to do with Apple&rsquo;s own sym linking:
@@ -6724,10 +6724,10 @@ a partial: <code>$ls -la /usr/bin | grep .*gcc.*</code>:</p>
         
         <item>
             <title>he.net shindig</title>
-            <link>//localhost:1313/he.net-shindig/</link>
+            <link>http://localhost:1313/he.net-shindig/</link>
             <pubDate>Wed, 29 Jun 2011 15:32:16 +0000</pubDate>
             
-            <guid>//localhost:1313/he.net-shindig/</guid>
+            <guid>http://localhost:1313/he.net-shindig/</guid>
             <description>So, these are the only few pics I took of the shindig aboard the Hornet last night. Plenty of others of the Hornet and us on it, and I&amp;rsquo;m sure there will be plenty in teh days to come, but these are the very few taken during the event itself. 2003-03-04 update: 74111101&amp;rsquo;s journal for the trip has been transcribed @ http://mary.yearl.us/visiting-the-uss-hornet-junejuly-2011/
 [nggallery id=1]
 I am pretty sure that is a good thing&amp;hellip; it meant I spent more time with people than in behind a lens.</description>
@@ -6745,10 +6745,10 @@ Splash pineapple juice</p>
         
         <item>
             <title>HE.net IPV6 Certification questions and answers -- Sage</title>
-            <link>//localhost:1313/he.net-ipv6-certification-questions-and-answers-sage/</link>
+            <link>http://localhost:1313/he.net-ipv6-certification-questions-and-answers-sage/</link>
             <pubDate>Sat, 18 Jun 2011 19:27:14 +0000</pubDate>
             
-            <guid>//localhost:1313/he.net-ipv6-certification-questions-and-answers-sage/</guid>
+            <guid>http://localhost:1313/he.net-ipv6-certification-questions-and-answers-sage/</guid>
             <description>http://ipv6.he.net/certification/
   0. Newbie Test
   1. Enthusiast Test
@@ -6841,10 +6841,10 @@ True X</p>
         
         <item>
             <title>HE.net IPV6 Certification questions and answers -- Guru</title>
-            <link>//localhost:1313/he.net-ipv6-certification-questions-and-answers-guru/</link>
+            <link>http://localhost:1313/he.net-ipv6-certification-questions-and-answers-guru/</link>
             <pubDate>Sat, 18 Jun 2011 19:21:32 +0000</pubDate>
             
-            <guid>//localhost:1313/he.net-ipv6-certification-questions-and-answers-guru/</guid>
+            <guid>http://localhost:1313/he.net-ipv6-certification-questions-and-answers-guru/</guid>
             <description>http://ipv6.he.net/certification/
   0. Newbie Test
   1. Enthusiast Test
@@ -6993,10 +6993,10 @@ sh ipv6 bgp</p>
         
         <item>
             <title>HE.net IPV6 Certification questions and answers -- Professional</title>
-            <link>//localhost:1313/he.net-ipv6-certification-questions-and-answers-professional/</link>
+            <link>http://localhost:1313/he.net-ipv6-certification-questions-and-answers-professional/</link>
             <pubDate>Sat, 18 Jun 2011 18:57:34 +0000</pubDate>
             
-            <guid>//localhost:1313/he.net-ipv6-certification-questions-and-answers-professional/</guid>
+            <guid>http://localhost:1313/he.net-ipv6-certification-questions-and-answers-professional/</guid>
             <description>http://ipv6.he.net/certification/
   0. Newbie Test
   1. Enthusiast Test
@@ -7182,10 +7182,10 @@ mtr4 he.net[/ccW]</p>
         
         <item>
             <title>HE.net IPV6 Certification questions and answers -- Administrator</title>
-            <link>//localhost:1313/he.net-ipv6-certification-questions-and-answers-administrator/</link>
+            <link>http://localhost:1313/he.net-ipv6-certification-questions-and-answers-administrator/</link>
             <pubDate>Sat, 18 Jun 2011 18:29:02 +0000</pubDate>
             
-            <guid>//localhost:1313/he.net-ipv6-certification-questions-and-answers-administrator/</guid>
+            <guid>http://localhost:1313/he.net-ipv6-certification-questions-and-answers-administrator/</guid>
             <description>http://ipv6.he.net/certification/
   0. Newbie Test
   1. Enthusiast Test
@@ -7296,10 +7296,10 @@ dig -x 2001:470:0:76::2 X</p>
         
         <item>
             <title>HE.net IPV6 Certification questions and answers -- Enthusiast</title>
-            <link>//localhost:1313/he.net-ipv6-certification-questions-and-answers-enthusiast/</link>
+            <link>http://localhost:1313/he.net-ipv6-certification-questions-and-answers-enthusiast/</link>
             <pubDate>Sat, 18 Jun 2011 18:16:52 +0000</pubDate>
             
-            <guid>//localhost:1313/he.net-ipv6-certification-questions-and-answers-enthusiast/</guid>
+            <guid>http://localhost:1313/he.net-ipv6-certification-questions-and-answers-enthusiast/</guid>
             <description>http://ipv6.he.net/certification/
   0. Newbie Test
   2. Administrator Test
@@ -7375,10 +7375,10 @@ decimal (base 10)</p>
         
         <item>
             <title>HE.net IPV6 Certification questions and answers -- Newbie</title>
-            <link>//localhost:1313/he.net-ipv6-certification-questions-and-answers-newbie/</link>
+            <link>http://localhost:1313/he.net-ipv6-certification-questions-and-answers-newbie/</link>
             <pubDate>Sat, 18 Jun 2011 18:11:23 +0000</pubDate>
             
-            <guid>//localhost:1313/he.net-ipv6-certification-questions-and-answers-newbie/</guid>
+            <guid>http://localhost:1313/he.net-ipv6-certification-questions-and-answers-newbie/</guid>
             <description>http://ipv6.he.net/certification/
   1. Enthusiast Test
   2. Administrator Test
@@ -7453,10 +7453,10 @@ All of the these support IPv6 X</p>
         
         <item>
             <title>Now to the ever elusive 1500</title>
-            <link>//localhost:1313/now-to-the-ever-elusive-1500/</link>
+            <link>http://localhost:1313/now-to-the-ever-elusive-1500/</link>
             <pubDate>Sat, 04 Jun 2011 13:08:03 +0000</pubDate>
             
-            <guid>//localhost:1313/now-to-the-ever-elusive-1500/</guid>
+            <guid>http://localhost:1313/now-to-the-ever-elusive-1500/</guid>
             <description>[caption id=&amp;ldquo;attachment_95&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;800&amp;rdquo;] IPV6 Cert. from Hurricane Electric[/caption]
 I hope the coveted T-shirt arrives before the celebration on board the USS Hornet.
 Update
@@ -7472,10 +7472,10 @@ It did not, but it did just in time for my England trip with the Samster&amp;hel
         
         <item>
             <title>the English mind</title>
-            <link>//localhost:1313/the-english-mind/</link>
+            <link>http://localhost:1313/the-english-mind/</link>
             <pubDate>Sat, 28 May 2011 07:21:10 +0000</pubDate>
             
-            <guid>//localhost:1313/the-english-mind/</guid>
+            <guid>http://localhost:1313/the-english-mind/</guid>
             <description>—Charles Babbage, Computer dude. &amp;mdash; Somewhere in: Collier, B. and MacLachlan, J. &amp;mdash; Charles Babbage: And the Engines of Perfection. OUP. 1999.</description>
             <content type="html"><![CDATA[<!-- raw HTML omitted -->
 <p>—Charles Babbage, Computer dude.
@@ -7485,10 +7485,10 @@ It did not, but it did just in time for my England trip with the Samster&amp;hel
         
         <item>
             <title>CIDR -- Classless InterDomain Routing</title>
-            <link>//localhost:1313/cidr-classless-interdomain-routing/</link>
+            <link>http://localhost:1313/cidr-classless-interdomain-routing/</link>
             <pubDate>Mon, 16 May 2011 09:05:22 +0000</pubDate>
             
-            <guid>//localhost:1313/cidr-classless-interdomain-routing/</guid>
+            <guid>http://localhost:1313/cidr-classless-interdomain-routing/</guid>
             <description></description>
             <content type="html"><![CDATA[<!-- raw HTML omitted -->
 <!-- raw HTML omitted -->
@@ -7629,10 +7629,10 @@ It did not, but it did just in time for my England trip with the Samster&amp;hel
         
         <item>
             <title>Administrative Distance</title>
-            <link>//localhost:1313/administrative-distance/</link>
+            <link>http://localhost:1313/administrative-distance/</link>
             <pubDate>Tue, 10 May 2011 12:16:04 +0000</pubDate>
             
-            <guid>//localhost:1313/administrative-distance/</guid>
+            <guid>http://localhost:1313/administrative-distance/</guid>
             <description>         Connected interface 0   Static route 1   Enhanced Interior Gateway Routing Protocol (EIGRP) summary route 5   External Border Gateway Protocol (BGP) 20   Internal EIGRP 90   IGRP 100   OSPF 110   Intermediate System-to-Intermediate System (IS-IS) 115   Routing Information Protocol (RIP) 120   Exterior Gateway Protocol (EGP) 140   On Demand Routing (ODR) 160   External EIGRP 170   Internal BGP 200   Unknown* 255    </description>
             <content type="html"><![CDATA[<table>
 <thead>
@@ -7705,10 +7705,10 @@ It did not, but it did just in time for my England trip with the Samster&amp;hel
         
         <item>
             <title>netmasks</title>
-            <link>//localhost:1313/netmasks/</link>
+            <link>http://localhost:1313/netmasks/</link>
             <pubDate>Thu, 28 Apr 2011 09:09:12 +0000</pubDate>
             
-            <guid>//localhost:1313/netmasks/</guid>
+            <guid>http://localhost:1313/netmasks/</guid>
             <description></description>
             <content type="html"><![CDATA[<!-- raw HTML omitted -->
 <!-- raw HTML omitted -->

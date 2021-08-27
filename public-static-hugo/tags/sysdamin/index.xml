@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sysdamin on [::1] YEARL.US</title>
-    <link>//localhost:1313/tags/sysdamin/</link>
-    <description>Recent content in sysdamin on [::1] YEARL.US</description>
+    <title>sysdamin on [::1] yearl.us</title>
+    <link>http://localhost:1313/tags/sysdamin/</link>
+    <description>Recent content in sysdamin on [::1] yearl.us</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Fri, 26 Jun 2015 13:26:53 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/sysdamin/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Jun 2015 13:26:53 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/sysdamin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>homebrew woes. WTF?</title>
-      <link>//localhost:1313/homebrew-woes.-wtf/</link>
+      <link>http://localhost:1313/homebrew-woes.-wtf/</link>
       <pubDate>Fri, 26 Jun 2015 13:26:53 +0000</pubDate>
       
-      <guid>//localhost:1313/homebrew-woes.-wtf/</guid>
+      <guid>http://localhost:1313/homebrew-woes.-wtf/</guid>
       <description>sudo chown -R $(whoami):admin /usr/local/lib/node_modules sudo chown -R $(whoami):admin $(brew &amp;ndash;prefix) brew update &amp;ndash; fails with &amp;ldquo;error: Your local changes to the following files would be overwritten by merge:&amp;rdquo; cd $(brew &amp;ndash;prefix) brew cleanup &amp;ndash;force brew untap homebrew/dupes brew untap homebrew/versions brew untap caskroom/cask brew untap phinze/cask brew prune brew cleanup &amp;ndash;force -s rm -rf &amp;ldquo;$(brew &amp;ndash;cache)&amp;rdquo; brew tap phinze/cask brew tap caskroom/cask brew tap homebrew/dupes ==&amp;gt; Tapping homebrew/dupes Cloning into &amp;lsquo;/usr/local/Library/Taps/homebrew/homebrew-dupes&amp;rsquo;&amp;hellip; remote: Counting objects: 40, done.</description>
     </item>
     

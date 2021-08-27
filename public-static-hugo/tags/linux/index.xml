@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Linux on [::1] YEARL.US</title>
-    <link>//localhost:1313/tags/linux/</link>
-    <description>Recent content in Linux on [::1] YEARL.US</description>
+    <title>Linux on [::1] yearl.us</title>
+    <link>http://localhost:1313/tags/linux/</link>
+    <description>Recent content in Linux on [::1] yearl.us</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Thu, 11 May 2017 09:35:12 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 May 2017 09:35:12 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Installing Solus linux on a Macbook Pro 9,1 (A1286): PART 2</title>
-      <link>//localhost:1313/installing-solus-linux-on-a-macbook-pro-91-a1286-part-2/</link>
+      <link>http://localhost:1313/installing-solus-linux-on-a-macbook-pro-91-a1286-part-2/</link>
       <pubDate>Thu, 11 May 2017 09:35:12 +0000</pubDate>
       
-      <guid>//localhost:1313/installing-solus-linux-on-a-macbook-pro-91-a1286-part-2/</guid>
+      <guid>http://localhost:1313/installing-solus-linux-on-a-macbook-pro-91-a1286-part-2/</guid>
       <description>Part 2 of installing Solus Linux on a 2012 Macbook Pro.
 Part 1- simply booting the liveCD to even allow installation is here: https://stephen.yearl.us/installing-solus-linux-on-a-macbook-pro-9
 Rebooting after install lead to, you guessed it, the Black Screen of Death again. Solus was installed, accepting all defaults (and therefore one humongous / paritiion), to /dev/sdb2, /dev/sda1 is the EFI partition on which rEFInd was installed when running OSXMacOS.
@@ -22,10 +22,10 @@ Rebooting after install lead to, you guessed it, the Black Screen of Death again
     
     <item>
       <title>Create a bootable ISO of macOS Sierra</title>
-      <link>//localhost:1313/create-a-bootable-iso-of-macos-sierra/</link>
+      <link>http://localhost:1313/create-a-bootable-iso-of-macos-sierra/</link>
       <pubDate>Mon, 17 Apr 2017 03:38:31 +0000</pubDate>
       
-      <guid>//localhost:1313/create-a-bootable-iso-of-macos-sierra/</guid>
+      <guid>http://localhost:1313/create-a-bootable-iso-of-macos-sierra/</guid>
       <description>Playing with Solus recently got me to thinking that maybe I could live again in a Linux world, but rather than running Linux in a Virtual Machine (that would currently be Parallels 12 for me), what if I dit it the other way around? That is, run OS X 10.12.4 (macOS Sierra) as a guest and Linux as a host&amp;hellip;
 Download MacOS Sierra from AppStore.
 Reboot.
@@ -34,28 +34,28 @@ Reboot.
     
     <item>
       <title>Librevault on Solus OS</title>
-      <link>//localhost:1313/librevault-on-solus-os/</link>
+      <link>http://localhost:1313/librevault-on-solus-os/</link>
       <pubDate>Sat, 11 Mar 2017 03:20:04 +0000</pubDate>
       
-      <guid>//localhost:1313/librevault-on-solus-os/</guid>
+      <guid>http://localhost:1313/librevault-on-solus-os/</guid>
       <description>Still playing with Solus OS, and liking it more and more. The eopkg repository of software is a little thin in comparison to the likes of Debian-based apt-get and Arch&amp;rsquo;s AUR, but most of the things I want are there. And if they are not there I am thinking maybe I should review my needs&amp;hellip; I am in the process of planning for a life without OS X/MacOS after all, so a prefect time for reflection.</description>
     </item>
     
     <item>
       <title>Mounting an iOS 10.2 device in Solus OS</title>
-      <link>//localhost:1313/mounting-an-ios-10.2-device-in-solus-os/</link>
+      <link>http://localhost:1313/mounting-an-ios-10.2-device-in-solus-os/</link>
       <pubDate>Tue, 07 Mar 2017 03:12:21 +0000</pubDate>
       
-      <guid>//localhost:1313/mounting-an-ios-10.2-device-in-solus-os/</guid>
+      <guid>http://localhost:1313/mounting-an-ios-10.2-device-in-solus-os/</guid>
       <description>tl;dr I feel that after ten years I can no longer countenance the purchase of a new Apple laptop should my existing machine shit the bed. All that nonsense associated with the race to thinness and the resultant lack of expandability of the newer machines, where everything is soldered or glued into place, has me pretty upset. Oh, and the OS itself has been getting more annoying with each release since Snow Leopard.</description>
     </item>
     
     <item>
       <title>Installing Postfix and Dovecot on Debian 6 (Squeeze)</title>
-      <link>//localhost:1313/installing-postfix-and-dovecot-on-debian-6-squeeze/</link>
+      <link>http://localhost:1313/installing-postfix-and-dovecot-on-debian-6-squeeze/</link>
       <pubDate>Sat, 03 Mar 2012 19:17:21 +0000</pubDate>
       
-      <guid>//localhost:1313/installing-postfix-and-dovecot-on-debian-6-squeeze/</guid>
+      <guid>http://localhost:1313/installing-postfix-and-dovecot-on-debian-6-squeeze/</guid>
       <description>Add MX records (A and AAAA) to zone file for vps.yearl.us at HE Primary files involved:
   /etc/postfix/main.cf
   /etc/postfix/sasl/smtpd.conf
@@ -70,19 +70,19 @@ $ sudo apt-get update $ sudoapt-get install postfix $dpkg-reconfigure postfix $ 
     
     <item>
       <title>Installing OpenVPN on Debian 6 (Squeeze)</title>
-      <link>//localhost:1313/installing-openvpn-on-debian-6-squeeze/</link>
+      <link>http://localhost:1313/installing-openvpn-on-debian-6-squeeze/</link>
       <pubDate>Tue, 28 Feb 2012 21:54:30 +0000</pubDate>
       
-      <guid>//localhost:1313/installing-openvpn-on-debian-6-squeeze/</guid>
+      <guid>http://localhost:1313/installing-openvpn-on-debian-6-squeeze/</guid>
       <description>1. Ensure everything up to date (as / ): #apt-get update #apt-get upgrade --show-upgraded  2. Install OpenVPN and the udev dependency #apt-get install openvpn udev  3. Configure Public Key Infrastructure Variables $nano /etc/openvpn/easy-rsa/2.0/vars edited the default to (roughly as CA_Cert: ipv6_yearl.us.txt NB to update CACerts): export KEY_COUNTRY=&amp;quot;US&amp;quot; export KEY_PROVINCE=&amp;quot;MA&amp;quot; export KEY_CITY=&amp;quot;Newton&amp;quot; export KEY_ORG=&amp;quot;US.Yearl&amp;quot; #perhaps should have used myname@yearl.us? export KEY_EMAIL=&amp;quot;myname@gmail.com&amp;quot;  4. initialize PKI Issued All 3 commands in sequence.</description>
     </item>
     
     <item>
       <title>VPS Scratch</title>
-      <link>//localhost:1313/vps-scratch/</link>
+      <link>http://localhost:1313/vps-scratch/</link>
       <pubDate>Sun, 12 Feb 2012 20:51:13 +0000</pubDate>
       
-      <guid>//localhost:1313/vps-scratch/</guid>
+      <guid>http://localhost:1313/vps-scratch/</guid>
       <description>New VPS ordered today: £7 per quarter, 256MB OpenVZ, Deb. 5 (Lenny), 1 ipv4, 10 ipv6 from allsimple.net.
 general setup:
   update, upgrade-stable, update

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>keybinding on [::1] YEARL.US</title>
-    <link>//localhost:1313/tags/keybinding/</link>
-    <description>Recent content in keybinding on [::1] YEARL.US</description>
+    <title>keybinding on [::1] yearl.us</title>
+    <link>http://localhost:1313/tags/keybinding/</link>
+    <description>Recent content in keybinding on [::1] yearl.us</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 27 Jul 2015 05:59:42 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/keybinding/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Jul 2015 05:59:42 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/keybinding/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Customised OS X Keybindings…. with Karabiner.... &#39;correct&#39; shift keys</title>
-      <link>//localhost:1313/customised-os-x-keybindings.-with-karabiner....-correct-shift-keys/</link>
+      <link>http://localhost:1313/customised-os-x-keybindings.-with-karabiner....-correct-shift-keys/</link>
       <pubDate>Mon, 27 Jul 2015 05:59:42 +0000</pubDate>
       
-      <guid>//localhost:1313/customised-os-x-keybindings.-with-karabiner....-correct-shift-keys/</guid>
+      <guid>http://localhost:1313/customised-os-x-keybindings.-with-karabiner....-correct-shift-keys/</guid>
       <description>Like this fellow, Steve Losh &amp;ndash; better shifting, I&amp;rsquo;ve been using the wrong shift keys for upper-case letters for as long as I&amp;rsquo;ve been using a keyboard&amp;hellip; as well as some even more egregious errors (right ring finger for &amp;lsquo;p&amp;rsquo;, right index for &amp;lsquo;b&amp;rsquo;&amp;hellip; the list is nigh endless). Lo, his Karabiner solution:
 Arghh!&amp;hellip;.. It has only been a couple of hours and this is devilishly frustrating!!
 [cc lang=&amp;ldquo;xml&amp;rdquo;]
@@ -22,10 +22,10 @@ Use the correct shift keys.</description>
     
     <item>
       <title>Customised OS X Keybindings.... with Karabiner</title>
-      <link>//localhost:1313/customised-os-x-keybindings....-with-karabiner/</link>
+      <link>http://localhost:1313/customised-os-x-keybindings....-with-karabiner/</link>
       <pubDate>Thu, 23 Jul 2015 11:29:29 +0000</pubDate>
       
-      <guid>//localhost:1313/customised-os-x-keybindings....-with-karabiner/</guid>
+      <guid>http://localhost:1313/customised-os-x-keybindings....-with-karabiner/</guid>
       <description>Apparently low-level keybindings in OS X used to be managed through [cc]~/Library/KeyBindings/DefaultKeyBinding.dict[/cc] which did not exist on this 10.10.4 system. So after having created it and added
 [cc lang=&amp;ldquo;properties&amp;rdquo;]{ /* Context Menu */ &amp;ldquo;\U0x3fc&amp;rdquo; = &amp;ldquo;rightMouseDown:&amp;quot;; /* Fun-C */ &amp;ldquo;^;&amp;rdquo; = &amp;ldquo;rightMouseDown:&amp;quot;; /* Ctrl-; */
 /* Vim movement while Ctrl key down */ &amp;ldquo;^h&amp;rdquo; = (&amp;ldquo;moveLeft:&amp;quot;); &amp;ldquo;^j&amp;rdquo; = (&amp;ldquo;moveDown:&amp;quot;); &amp;ldquo;^k&amp;rdquo; = (&amp;ldquo;moveUp:&amp;quot;); &amp;ldquo;^l&amp;rdquo; = (&amp;ldquo;moveRight:&amp;quot;);
@@ -35,10 +35,10 @@ it did, of course, not work.</description>
     
     <item>
       <title>Remapping CAPS LOCK with seil/karabiner</title>
-      <link>//localhost:1313/remapping-caps-lock-with-seil/karabiner/</link>
+      <link>http://localhost:1313/remapping-caps-lock-with-seil/karabiner/</link>
       <pubDate>Wed, 22 Jul 2015 04:27:20 +0000</pubDate>
       
-      <guid>//localhost:1313/remapping-caps-lock-with-seil/karabiner/</guid>
+      <guid>http://localhost:1313/remapping-caps-lock-with-seil/karabiner/</guid>
       <description>For the longest time I have had caps lock set to “no action” in System Preferences &amp;raquo; Keyboard&amp;raquo; Modifier Keys:
 
 But recently I’ve been playing with Vim (and also finally getting around to learning how to touch type) a little more now that I have some time on my hands, and decided that I needed an escape key that wasn’t such a PITA to get to without risking breaking my left pinkie.</description>

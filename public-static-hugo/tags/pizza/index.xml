@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>pizza on [::1] YEARL.US</title>
-    <link>//localhost:1313/tags/pizza/</link>
-    <description>Recent content in pizza on [::1] YEARL.US</description>
+    <title>pizza on [::1] yearl.us</title>
+    <link>http://localhost:1313/tags/pizza/</link>
+    <description>Recent content in pizza on [::1] yearl.us</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 12 Feb 2012 06:08:20 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/pizza/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Feb 2012 06:08:20 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/pizza/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pizza with a buckwheat crust</title>
-      <link>//localhost:1313/pizza-with-a-buckwheat-crust/</link>
+      <link>http://localhost:1313/pizza-with-a-buckwheat-crust/</link>
       <pubDate>Sun, 12 Feb 2012 06:08:20 +0000</pubDate>
       
-      <guid>//localhost:1313/pizza-with-a-buckwheat-crust/</guid>
+      <guid>http://localhost:1313/pizza-with-a-buckwheat-crust/</guid>
       <description>Shortly after going gluten-free, we tried Bob&amp;rsquo;s Red Mill gluten-free pizza crust. Having lived in New Haven for many years, we like pizza. Bob&amp;rsquo;s didn&amp;rsquo;t measure up, so that was it&amp;hellip;until now. This might not be apizza, but as long as we&amp;rsquo;re gluten-free we may have to settle for a bit less.
 
 Having found a hit with buckwheat pancakes, I decided to try a buckwheat pizza crust. The recipe I adopted was basically the one described here, but without the garlic powder.</description>

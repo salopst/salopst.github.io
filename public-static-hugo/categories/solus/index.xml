@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Solus on [::1] YEARL.US</title>
-    <link>//localhost:1313/categories/solus/</link>
-    <description>Recent content in Solus on [::1] YEARL.US</description>
+    <title>Solus on [::1] yearl.us</title>
+    <link>http://localhost:1313/categories/solus/</link>
+    <description>Recent content in Solus on [::1] yearl.us</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 08 May 2017 07:03:14 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/solus/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 May 2017 07:03:14 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/solus/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Installing Solus linux on a Macbook Pro 9,1 (A1286)</title>
-      <link>//localhost:1313/installing-solus-linux-on-a-macbook-pro-91-a1286/</link>
+      <link>http://localhost:1313/installing-solus-linux-on-a-macbook-pro-91-a1286/</link>
       <pubDate>Mon, 08 May 2017 07:03:14 +0000</pubDate>
       
-      <guid>//localhost:1313/installing-solus-linux-on-a-macbook-pro-91-a1286/</guid>
+      <guid>http://localhost:1313/installing-solus-linux-on-a-macbook-pro-91-a1286/</guid>
       <description>I&amp;rsquo;ve been sunning* Solus as guest in a Parallels virtual machine on a macOS Sierra 10.12.4 host for a couple of months now, and I am delighted and impressed, so impressed I bought the company** wanted to install this on Apple iron. Solus installed beautifully on an 2010 Lenovo X201 and on a new and cheap and plastically Dell Inspiron 14-3452, so it should have no probs installing on a mid-2012, 15.</description>
     </item>
     
     <item>
       <title>Remapping Macbook Pro eject key under Solus linux</title>
-      <link>//localhost:1313/remapping-macbook-pro-eject-key-under-solus-linux/</link>
+      <link>http://localhost:1313/remapping-macbook-pro-eject-key-under-solus-linux/</link>
       <pubDate>Sun, 19 Mar 2017 12:35:43 +0000</pubDate>
       
-      <guid>//localhost:1313/remapping-macbook-pro-eject-key-under-solus-linux/</guid>
+      <guid>http://localhost:1313/remapping-macbook-pro-eject-key-under-solus-linux/</guid>
       <description>Disable &amp;ldquo;Eject&amp;rdquo; in keyboard settings. It is the first entry under &amp;ldquo;Sound and Media&amp;rdquo; create a file, ~/.Xmodmap, adding the line: keycode 151 = BackSpace
 run xmodmap ~/.Xmodmap add that to wherever your startup scripts are for persistence The keycode mappings I got from xev, kind of like &amp;ldquo;keyboard viewer&amp;rdquo; in OS X. Its available in the Solus repo:
 sudo eopkg install xev </description>
@@ -30,19 +30,19 @@ sudo eopkg install xev </description>
     
     <item>
       <title>Librevault on Solus OS</title>
-      <link>//localhost:1313/librevault-on-solus-os/</link>
+      <link>http://localhost:1313/librevault-on-solus-os/</link>
       <pubDate>Sat, 11 Mar 2017 03:20:04 +0000</pubDate>
       
-      <guid>//localhost:1313/librevault-on-solus-os/</guid>
+      <guid>http://localhost:1313/librevault-on-solus-os/</guid>
       <description>Still playing with Solus OS, and liking it more and more. The eopkg repository of software is a little thin in comparison to the likes of Debian-based apt-get and Arch&amp;rsquo;s AUR, but most of the things I want are there. And if they are not there I am thinking maybe I should review my needs&amp;hellip; I am in the process of planning for a life without OS X/MacOS after all, so a prefect time for reflection.</description>
     </item>
     
     <item>
       <title>Mounting an iOS 10.2 device in Solus OS</title>
-      <link>//localhost:1313/mounting-an-ios-10.2-device-in-solus-os/</link>
+      <link>http://localhost:1313/mounting-an-ios-10.2-device-in-solus-os/</link>
       <pubDate>Tue, 07 Mar 2017 03:12:21 +0000</pubDate>
       
-      <guid>//localhost:1313/mounting-an-ios-10.2-device-in-solus-os/</guid>
+      <guid>http://localhost:1313/mounting-an-ios-10.2-device-in-solus-os/</guid>
       <description>tl;dr I feel that after ten years I can no longer countenance the purchase of a new Apple laptop should my existing machine shit the bed. All that nonsense associated with the race to thinness and the resultant lack of expandability of the newer machines, where everything is soldered or glued into place, has me pretty upset. Oh, and the OS itself has been getting more annoying with each release since Snow Leopard.</description>
     </item>
     

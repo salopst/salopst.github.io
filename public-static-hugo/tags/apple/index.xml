@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Apple on [::1] YEARL.US</title>
-    <link>//localhost:1313/tags/apple/</link>
-    <description>Recent content in Apple on [::1] YEARL.US</description>
+    <title>Apple on [::1] yearl.us</title>
+    <link>http://localhost:1313/tags/apple/</link>
+    <description>Recent content in Apple on [::1] yearl.us</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Fri, 18 May 2018 10:19:13 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/apple/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 May 2018 10:19:13 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/apple/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Create root SSH keys OS X (MacOS High Sierra)</title>
-      <link>//localhost:1313/create-root-ssh-keys-os-x-macos-high-sierra/</link>
+      <link>http://localhost:1313/create-root-ssh-keys-os-x-macos-high-sierra/</link>
       <pubDate>Fri, 18 May 2018 10:19:13 +0000</pubDate>
       
-      <guid>//localhost:1313/create-root-ssh-keys-os-x-macos-high-sierra/</guid>
+      <guid>http://localhost:1313/create-root-ssh-keys-os-x-macos-high-sierra/</guid>
       <description>In all the years I&amp;rsquo;ve been running OS X (or MacOS as it is now called) I&amp;rsquo;ve never had the need to su,sudo was always good enough. And this is as it should be.
 Until now. Obvs, &amp;ldquo;root&amp;rdquo; is disabled in High Sierra. So&amp;hellip;
 $ cd /System/Library/CoreServices/Applications/ $ ls Some cool apps here&amp;hellip;
@@ -22,10 +22,10 @@ drwxr-xr-x 3 root wheel 96B Mar 30 12:48 About This Mac.app drwxr-xr-x 3 root wh
     
     <item>
       <title>Installing Solus linux on a Macbook Pro 9,1 (A1286): PART 2</title>
-      <link>//localhost:1313/installing-solus-linux-on-a-macbook-pro-91-a1286-part-2/</link>
+      <link>http://localhost:1313/installing-solus-linux-on-a-macbook-pro-91-a1286-part-2/</link>
       <pubDate>Thu, 11 May 2017 09:35:12 +0000</pubDate>
       
-      <guid>//localhost:1313/installing-solus-linux-on-a-macbook-pro-91-a1286-part-2/</guid>
+      <guid>http://localhost:1313/installing-solus-linux-on-a-macbook-pro-91-a1286-part-2/</guid>
       <description>Part 2 of installing Solus Linux on a 2012 Macbook Pro.
 Part 1- simply booting the liveCD to even allow installation is here: https://stephen.yearl.us/installing-solus-linux-on-a-macbook-pro-9
 Rebooting after install lead to, you guessed it, the Black Screen of Death again. Solus was installed, accepting all defaults (and therefore one humongous / paritiion), to /dev/sdb2, /dev/sda1 is the EFI partition on which rEFInd was installed when running OSXMacOS.
@@ -34,10 +34,10 @@ Rebooting after install lead to, you guessed it, the Black Screen of Death again
     
     <item>
       <title>Remapping CAPS LOCK with seil/karabiner</title>
-      <link>//localhost:1313/remapping-caps-lock-with-seil/karabiner/</link>
+      <link>http://localhost:1313/remapping-caps-lock-with-seil/karabiner/</link>
       <pubDate>Wed, 22 Jul 2015 04:27:20 +0000</pubDate>
       
-      <guid>//localhost:1313/remapping-caps-lock-with-seil/karabiner/</guid>
+      <guid>http://localhost:1313/remapping-caps-lock-with-seil/karabiner/</guid>
       <description>For the longest time I have had caps lock set to “no action” in System Preferences &amp;raquo; Keyboard&amp;raquo; Modifier Keys:
 
 But recently I’ve been playing with Vim (and also finally getting around to learning how to touch type) a little more now that I have some time on my hands, and decided that I needed an escape key that wasn’t such a PITA to get to without risking breaking my left pinkie.</description>
@@ -45,10 +45,10 @@ But recently I’ve been playing with Vim (and also finally getting around to le
     
     <item>
       <title>Apple Macbook Air USB &#34;superdrive&#34; on a non-Air</title>
-      <link>//localhost:1313/apple-macbook-air-usb-superdrive-on-a-non-air/</link>
+      <link>http://localhost:1313/apple-macbook-air-usb-superdrive-on-a-non-air/</link>
       <pubDate>Thu, 09 Feb 2012 13:53:37 +0000</pubDate>
       
-      <guid>//localhost:1313/apple-macbook-air-usb-superdrive-on-a-non-air/</guid>
+      <guid>http://localhost:1313/apple-macbook-air-usb-superdrive-on-a-non-air/</guid>
       <description>So I borrowed a mate&amp;rsquo;s external USB superdrive in order to get some old files off of archived CDs, and the internal optical drive in my April &amp;lsquo;08 MacBook Pro has long since shit the bed. Requirements for the drive suggest that an Air is required (Apple website, original packaging and a call to an Apple store), and sure enough when plugged into the MBP running Lion (10.7.2)&amp;hellip; no dice.</description>
     </item>
     

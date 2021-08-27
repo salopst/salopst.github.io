@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>OS X on [::1] YEARL.US</title>
-    <link>//localhost:1313/tags/os-x/</link>
-    <description>Recent content in OS X on [::1] YEARL.US</description>
+    <title>OS X on [::1] yearl.us</title>
+    <link>http://localhost:1313/tags/os-x/</link>
+    <description>Recent content in OS X on [::1] yearl.us</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Fri, 18 May 2018 10:19:13 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/os-x/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 May 2018 10:19:13 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/os-x/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Create root SSH keys OS X (MacOS High Sierra)</title>
-      <link>//localhost:1313/create-root-ssh-keys-os-x-macos-high-sierra/</link>
+      <link>http://localhost:1313/create-root-ssh-keys-os-x-macos-high-sierra/</link>
       <pubDate>Fri, 18 May 2018 10:19:13 +0000</pubDate>
       
-      <guid>//localhost:1313/create-root-ssh-keys-os-x-macos-high-sierra/</guid>
+      <guid>http://localhost:1313/create-root-ssh-keys-os-x-macos-high-sierra/</guid>
       <description>In all the years I&amp;rsquo;ve been running OS X (or MacOS as it is now called) I&amp;rsquo;ve never had the need to su,sudo was always good enough. And this is as it should be.
 Until now. Obvs, &amp;ldquo;root&amp;rdquo; is disabled in High Sierra. So&amp;hellip;
 $ cd /System/Library/CoreServices/Applications/ $ ls Some cool apps here&amp;hellip;
@@ -22,10 +22,10 @@ drwxr-xr-x 3 root wheel 96B Mar 30 12:48 About This Mac.app drwxr-xr-x 3 root wh
     
     <item>
       <title>Installing Solus linux on a Macbook Pro 9,1 (A1286): PART 2</title>
-      <link>//localhost:1313/installing-solus-linux-on-a-macbook-pro-91-a1286-part-2/</link>
+      <link>http://localhost:1313/installing-solus-linux-on-a-macbook-pro-91-a1286-part-2/</link>
       <pubDate>Thu, 11 May 2017 09:35:12 +0000</pubDate>
       
-      <guid>//localhost:1313/installing-solus-linux-on-a-macbook-pro-91-a1286-part-2/</guid>
+      <guid>http://localhost:1313/installing-solus-linux-on-a-macbook-pro-91-a1286-part-2/</guid>
       <description>Part 2 of installing Solus Linux on a 2012 Macbook Pro.
 Part 1- simply booting the liveCD to even allow installation is here: https://stephen.yearl.us/installing-solus-linux-on-a-macbook-pro-9
 Rebooting after install lead to, you guessed it, the Black Screen of Death again. Solus was installed, accepting all defaults (and therefore one humongous / paritiion), to /dev/sdb2, /dev/sda1 is the EFI partition on which rEFInd was installed when running OSXMacOS.
@@ -34,10 +34,10 @@ Rebooting after install lead to, you guessed it, the Black Screen of Death again
     
     <item>
       <title>Create a bootable ISO of macOS Sierra</title>
-      <link>//localhost:1313/create-a-bootable-iso-of-macos-sierra/</link>
+      <link>http://localhost:1313/create-a-bootable-iso-of-macos-sierra/</link>
       <pubDate>Mon, 17 Apr 2017 03:38:31 +0000</pubDate>
       
-      <guid>//localhost:1313/create-a-bootable-iso-of-macos-sierra/</guid>
+      <guid>http://localhost:1313/create-a-bootable-iso-of-macos-sierra/</guid>
       <description>Playing with Solus recently got me to thinking that maybe I could live again in a Linux world, but rather than running Linux in a Virtual Machine (that would currently be Parallels 12 for me), what if I dit it the other way around? That is, run OS X 10.12.4 (macOS Sierra) as a guest and Linux as a host&amp;hellip;
 Download MacOS Sierra from AppStore.
 Reboot.
@@ -46,19 +46,19 @@ Reboot.
     
     <item>
       <title>Fsked El Capitan home directory</title>
-      <link>//localhost:1313/fsked-el-capitan-home-directory/</link>
+      <link>http://localhost:1313/fsked-el-capitan-home-directory/</link>
       <pubDate>Mon, 23 May 2016 05:41:31 +0000</pubDate>
       
-      <guid>//localhost:1313/fsked-el-capitan-home-directory/</guid>
+      <guid>http://localhost:1313/fsked-el-capitan-home-directory/</guid>
       <description>Not entirely sure how I managed to hose my user directory, but I did, and it followed a boot into safe mode (reboot and SHIFT) in order to update an ancient MacPorts installation; homebrew sort of replaced that for my usage. OK, no biggie. I have back ups right? I do, but those back up in recent months have been based on Apple&amp;rsquo;s Time Machine. I changed to this from Carbon Copy Cloner by means of experiment.</description>
     </item>
     
     <item>
       <title>Remapping CAPS LOCK with seil/karabiner</title>
-      <link>//localhost:1313/remapping-caps-lock-with-seil/karabiner/</link>
+      <link>http://localhost:1313/remapping-caps-lock-with-seil/karabiner/</link>
       <pubDate>Wed, 22 Jul 2015 04:27:20 +0000</pubDate>
       
-      <guid>//localhost:1313/remapping-caps-lock-with-seil/karabiner/</guid>
+      <guid>http://localhost:1313/remapping-caps-lock-with-seil/karabiner/</guid>
       <description>For the longest time I have had caps lock set to “no action” in System Preferences &amp;raquo; Keyboard&amp;raquo; Modifier Keys:
 
 But recently I’ve been playing with Vim (and also finally getting around to learning how to touch type) a little more now that I have some time on my hands, and decided that I needed an escape key that wasn’t such a PITA to get to without risking breaking my left pinkie.</description>
@@ -66,30 +66,30 @@ But recently I’ve been playing with Vim (and also finally getting around to le
     
     <item>
       <title>Window Managers for OS X</title>
-      <link>//localhost:1313/window-managers-for-os-x/</link>
+      <link>http://localhost:1313/window-managers-for-os-x/</link>
       <pubDate>Tue, 21 Jul 2015 21:35:37 +0000</pubDate>
       
-      <guid>//localhost:1313/window-managers-for-os-x/</guid>
+      <guid>http://localhost:1313/window-managers-for-os-x/</guid>
       <description>Playing with Karabiner and searching for others&#39; keybindings has led me somewhat down the rabbit hole of window management on OS X. There seem to be a bunch, some light-weight, some heavy. Some under active development, others that seem to be abandoned.
 managing windows can be a PITA, lots of precision dragging and resizing and all to get the windows into the desired position. Several window managers exist for OS X, and a short, short list would include:</description>
     </item>
     
     <item>
       <title>Confusing iPhoto/Aperture and Photo libraries</title>
-      <link>//localhost:1313/confusing-iphoto/aperture-and-photo-libraries/</link>
+      <link>http://localhost:1313/confusing-iphoto/aperture-and-photo-libraries/</link>
       <pubDate>Thu, 23 Apr 2015 08:46:06 +0000</pubDate>
       
-      <guid>//localhost:1313/confusing-iphoto/aperture-and-photo-libraries/</guid>
+      <guid>http://localhost:1313/confusing-iphoto/aperture-and-photo-libraries/</guid>
       <description>So, with Apple&amp;rsquo;s release of OS X 10.10.3 on Monday came the new Photo&amp;rsquo;s &amp;ldquo;app&amp;rdquo;. In their misguided wisdom our cousins in Cupertino have continued along the path of dumbing-down Mac programs that are inching ever closer to their iOS equivalents.
 Their consumer editing program was iPhoto, the &amp;ldquo;pro&amp;rdquo; version, Aperture. Both are to be replaced with the very iOS/iCloud looking Photos, and whilst iPhoto and Aperture could happily share the same photo library, Photos will not.</description>
     </item>
     
     <item>
       <title>cleaning up a homebrew installation</title>
-      <link>//localhost:1313/cleaning-up-a-homebrew-installation/</link>
+      <link>http://localhost:1313/cleaning-up-a-homebrew-installation/</link>
       <pubDate>Tue, 23 Sep 2014 23:31:02 +0000</pubDate>
       
-      <guid>//localhost:1313/cleaning-up-a-homebrew-installation/</guid>
+      <guid>http://localhost:1313/cleaning-up-a-homebrew-installation/</guid>
       <description>I keep meaning to get around to do this, but never do. This evening I took a look at exercism.io and the installation of its CLI program had a homebrew option, so then was a good a moment as any, that and with the imminent relsease of OS 42 (X.10.10)&amp;hellip;
 $brew -v[/cc] ==&amp;gt; 0.9.5
 $sudo chown -R `whoami` /usr/local $cd /usr/local $git fetch origin $git reset --hard origin/master $brew cleanup $brew upgrade ==&amp;gt; ALL OK!</description>
@@ -97,19 +97,19 @@ $sudo chown -R `whoami` /usr/local $cd /usr/local $git fetch origin $git reset -
     
     <item>
       <title>Automated file management with maid</title>
-      <link>//localhost:1313/automated-file-management-with-maid/</link>
+      <link>http://localhost:1313/automated-file-management-with-maid/</link>
       <pubDate>Mon, 22 Jul 2013 23:05:50 +0000</pubDate>
       
-      <guid>//localhost:1313/automated-file-management-with-maid/</guid>
+      <guid>http://localhost:1313/automated-file-management-with-maid/</guid>
       <description>I&amp;rsquo;ve been playing with Hazel a bit recently, mostly so I can get a handle on it to support others&#39; usage of a simple file automation/ housekeeping application. I like it, but it is somewhat limited in not allowed nested conditional and other basic logic statements. Anyway, what Hazel does is not much more&amp;ndash; and very frequently less&amp;ndash; that what I&amp;rsquo;ve been doing with ad hoc cron scripts. These are not very tidy having built built up over the years.</description>
     </item>
     
     <item>
       <title>Alfred 2 workflows</title>
-      <link>//localhost:1313/alfred-2-workflows/</link>
+      <link>http://localhost:1313/alfred-2-workflows/</link>
       <pubDate>Sat, 15 Jun 2013 21:12:16 +0000</pubDate>
       
-      <guid>//localhost:1313/alfred-2-workflows/</guid>
+      <guid>http://localhost:1313/alfred-2-workflows/</guid>
       <description>2016-05-23 update: Due to recent woes I had to revisit Alfred Workflows&amp;hellip; basically the below remains the same with the addition of:
 http://www.packal.org/workflow/packal-updater http://www.packal.org/workflow/datetime-format-converter http://www.packal.org/workflow/toggle-keyboard-viewer http://www.packal.org/workflow/leo-dictionary http://www.packal.org/workflow/eggtimer-2 http://www.packal.org/workflow/units
  Wolfram Alpha:   Get Alfred 2, buy the Powerpack! http://www.alfredapp.com/
@@ -120,10 +120,10 @@ http://www.packal.org/workflow/packal-updater http://www.packal.org/workflow/dat
     
     <item>
       <title>Odds and sods</title>
-      <link>//localhost:1313/odds-and-sods/</link>
+      <link>http://localhost:1313/odds-and-sods/</link>
       <pubDate>Sun, 17 Feb 2013 04:11:39 +0000</pubDate>
       
-      <guid>//localhost:1313/odds-and-sods/</guid>
+      <guid>http://localhost:1313/odds-and-sods/</guid>
       <description>Compile of KDE4 keeps failing on FreeBSD 9.1 whether by
 # cd /usr/ports/x11/kde4 # make install clean or
 # pkg_add -r kde4 after STOP tried
@@ -136,10 +136,10 @@ Works like a charm!
     
     <item>
       <title>Enabling AirDrop on (certain) unsupported Macs</title>
-      <link>//localhost:1313/enabling-airdrop-on-certain-unsupported-macs/</link>
+      <link>http://localhost:1313/enabling-airdrop-on-certain-unsupported-macs/</link>
       <pubDate>Mon, 20 Feb 2012 13:59:34 +0000</pubDate>
       
-      <guid>//localhost:1313/enabling-airdrop-on-certain-unsupported-macs/</guid>
+      <guid>http://localhost:1313/enabling-airdrop-on-certain-unsupported-macs/</guid>
       <description>Macs that support AirDrop ( must have OS X Lion):
 MacBook Pro (Late 2008 or newer)* MacBook Air (Late 2010 or newer) MacBook (Late 2008 or newer)* iMac (Early 2009 or newer) Mac Mini (Mid 2010 or newer) Mac Pro (Early 2009 with AirPort Extreme card, or Mid 2010)
  The MacBook Pro (17-Inch Late 2008) and the white MacBook (Late  do not support AirDrop.  ================ My early 2008 Macbook pro does not but&amp;hellip;.</description>
@@ -147,19 +147,19 @@ MacBook Pro (Late 2008 or newer)* MacBook Air (Late 2010 or newer) MacBook (Late
     
     <item>
       <title>Apple Macbook Air USB &#34;superdrive&#34; on a non-Air</title>
-      <link>//localhost:1313/apple-macbook-air-usb-superdrive-on-a-non-air/</link>
+      <link>http://localhost:1313/apple-macbook-air-usb-superdrive-on-a-non-air/</link>
       <pubDate>Thu, 09 Feb 2012 13:53:37 +0000</pubDate>
       
-      <guid>//localhost:1313/apple-macbook-air-usb-superdrive-on-a-non-air/</guid>
+      <guid>http://localhost:1313/apple-macbook-air-usb-superdrive-on-a-non-air/</guid>
       <description>So I borrowed a mate&amp;rsquo;s external USB superdrive in order to get some old files off of archived CDs, and the internal optical drive in my April &amp;lsquo;08 MacBook Pro has long since shit the bed. Requirements for the drive suggest that an Air is required (Apple website, original packaging and a call to an Apple store), and sure enough when plugged into the MBP running Lion (10.7.2)&amp;hellip; no dice.</description>
     </item>
     
     <item>
       <title>Installing Ruby 1.9.2 with RVM fails on OS X Lion</title>
-      <link>//localhost:1313/installing-ruby-1.9.2-with-rvm-fails-on-os-x-lion/</link>
+      <link>http://localhost:1313/installing-ruby-1.9.2-with-rvm-fails-on-os-x-lion/</link>
       <pubDate>Fri, 28 Oct 2011 14:51:58 +0000</pubDate>
       
-      <guid>//localhost:1313/installing-ruby-1.9.2-with-rvm-fails-on-os-x-lion/</guid>
+      <guid>http://localhost:1313/installing-ruby-1.9.2-with-rvm-fails-on-os-x-lion/</guid>
       <description>Remove RVM, thus making for a cleaner install later:
 $ RVM implode Remove XCode:
 $ sudo /Developer/Library/uninstall-devtools –mode=all XCode is removed since in 4.2, at least, all references to gcc are linked to llvm-gcc (Apple&amp;rsquo;s) own fork of gcc. llvm will NOT compile ruby.
@@ -169,10 +169,10 @@ This will install just the bare-bones GCC compiler. It can safely be overwritten
     
     <item>
       <title>Setting GCC 4.2 as the default compiler on Mac OS X Leopard</title>
-      <link>//localhost:1313/setting-gcc-4.2-as-the-default-compiler-on-mac-os-x-leopard/</link>
+      <link>http://localhost:1313/setting-gcc-4.2-as-the-default-compiler-on-mac-os-x-leopard/</link>
       <pubDate>Thu, 27 Oct 2011 15:00:01 +0000</pubDate>
       
-      <guid>//localhost:1313/setting-gcc-4.2-as-the-default-compiler-on-mac-os-x-leopard/</guid>
+      <guid>http://localhost:1313/setting-gcc-4.2-as-the-default-compiler-on-mac-os-x-leopard/</guid>
       <description>Im my experience (limited), changing CC in .profile does not change Lion&amp;rsquo;s (10.7.2) defaulting to i686-apple-darwin11-llvm-gcc-4.2. I wonder if this has anything to do with Apple&amp;rsquo;s own sym linking: a partial: $ls -la /usr/bin | grep .*gcc.*:
 lrwxr-xr-x 1 root wheel 12 25 oct 19:31 cc -&amp;gt; llvm-gcc-4.2lrwxr-xr-x 1 root wheel 12 25 oct 19:31 gcc -&amp;gt; llvm-gcc-4.2lrwxr-xr-x 1 root admin 32 25 oct 19:31 llvm-gcc-4.2 -&amp;gt; ../llvm-gcc-4.2/bin/llvm-gcc-4.2 I am wary about breaking these and adding my own to usr/bin/gcc-4.</description>
     </item>

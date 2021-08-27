@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>keyboard on [::1] YEARL.US</title>
-    <link>//localhost:1313/tags/keyboard/</link>
-    <description>Recent content in keyboard on [::1] YEARL.US</description>
+    <title>keyboard on [::1] yearl.us</title>
+    <link>http://localhost:1313/tags/keyboard/</link>
+    <description>Recent content in keyboard on [::1] yearl.us</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 06 Jan 2019 05:57:12 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/keyboard/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Jan 2019 05:57:12 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/keyboard/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>US Keyboard, UK settings: AKA where&#39;s my pipe?</title>
-      <link>//localhost:1313/us-keyboard-uk-settings-aka-wheres-my-pipe/</link>
+      <link>http://localhost:1313/us-keyboard-uk-settings-aka-wheres-my-pipe/</link>
       <pubDate>Sun, 06 Jan 2019 05:57:12 +0000</pubDate>
       
-      <guid>//localhost:1313/us-keyboard-uk-settings-aka-wheres-my-pipe/</guid>
+      <guid>http://localhost:1313/us-keyboard-uk-settings-aka-wheres-my-pipe/</guid>
       <description>SSHed into a local Debian 9 server with a USB-attached US ANSI keyboard only to find the settings geared-up for a UK ISO keyboard. Not a biggie except for the location of the &amp;ldquo;|&amp;rdquo; &amp;hellip; pretty important as chars go 😋
 So&amp;hellip;
 sudo install console-common sudo dpkg-reconfigure keyboard-configuration Follow all the things

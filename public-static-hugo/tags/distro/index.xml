@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>distro on [::1] YEARL.US</title>
-    <link>//localhost:1313/tags/distro/</link>
-    <description>Recent content in distro on [::1] YEARL.US</description>
+    <title>distro on [::1] yearl.us</title>
+    <link>http://localhost:1313/tags/distro/</link>
+    <description>Recent content in distro on [::1] yearl.us</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Tue, 07 Mar 2017 03:12:21 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/distro/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Mar 2017 03:12:21 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/distro/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mounting an iOS 10.2 device in Solus OS</title>
-      <link>//localhost:1313/mounting-an-ios-10.2-device-in-solus-os/</link>
+      <link>http://localhost:1313/mounting-an-ios-10.2-device-in-solus-os/</link>
       <pubDate>Tue, 07 Mar 2017 03:12:21 +0000</pubDate>
       
-      <guid>//localhost:1313/mounting-an-ios-10.2-device-in-solus-os/</guid>
+      <guid>http://localhost:1313/mounting-an-ios-10.2-device-in-solus-os/</guid>
       <description>tl;dr I feel that after ten years I can no longer countenance the purchase of a new Apple laptop should my existing machine shit the bed. All that nonsense associated with the race to thinness and the resultant lack of expandability of the newer machines, where everything is soldered or glued into place, has me pretty upset. Oh, and the OS itself has been getting more annoying with each release since Snow Leopard.</description>
     </item>
     

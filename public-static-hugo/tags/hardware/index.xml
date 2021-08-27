@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hardware on [::1] YEARL.US</title>
-    <link>//localhost:1313/tags/hardware/</link>
-    <description>Recent content in hardware on [::1] YEARL.US</description>
+    <title>hardware on [::1] yearl.us</title>
+    <link>http://localhost:1313/tags/hardware/</link>
+    <description>Recent content in hardware on [::1] yearl.us</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 13 May 2019 17:05:55 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 May 2019 17:05:55 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Openmediavault 4 server... PSU died</title>
-      <link>//localhost:1313/openmediavault-4-server...-psu-died/</link>
+      <link>http://localhost:1313/openmediavault-4-server...-psu-died/</link>
       <pubDate>Mon, 13 May 2019 17:05:55 +0000</pubDate>
       
-      <guid>//localhost:1313/openmediavault-4-server...-psu-died/</guid>
+      <guid>http://localhost:1313/openmediavault-4-server...-psu-died/</guid>
       <description>Oh, the sadness. Oh, the heartbreak. Never mind, stiff upper lip and all that, and remembering that I got the thing from the dump (sans disk and RAM) over a 18 months ago, it has not had a bad run.
 Aaand just in case I come across a PSU and get her running again, she was:
 Old OMV4 box DELL Inspiron 545 Serial: 839DK4J Model: DCMF Reg Type: 09040 Printed on mobo: DG33M06 SE0709</description>
@@ -21,10 +21,10 @@ Old OMV4 box DELL Inspiron 545 Serial: 839DK4J Model: DCMF Reg Type: 09040 Print
     
     <item>
       <title>External USB 3 drive woes</title>
-      <link>//localhost:1313/external-usb-3-drive-woes/</link>
+      <link>http://localhost:1313/external-usb-3-drive-woes/</link>
       <pubDate>Wed, 29 May 2013 22:17:00 +0000</pubDate>
       
-      <guid>//localhost:1313/external-usb-3-drive-woes/</guid>
+      <guid>http://localhost:1313/external-usb-3-drive-woes/</guid>
       <description>External HFS + USB drive could not be found HFS.
   Disk Utility, Disk Warrior and Drive Genius could not repair or rebuild the drive.
   Tried to reformat under Disk Utility, but the &amp;ldquo;drive could not be unmounted&amp;rdquo;.

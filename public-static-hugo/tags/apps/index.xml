@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>apps on [::1] YEARL.US</title>
-    <link>//localhost:1313/tags/apps/</link>
-    <description>Recent content in apps on [::1] YEARL.US</description>
+    <title>apps on [::1] yearl.us</title>
+    <link>http://localhost:1313/tags/apps/</link>
+    <description>Recent content in apps on [::1] yearl.us</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 06 Oct 2018 16:17:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/apps/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Oct 2018 16:17:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/apps/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Audacity is already running... ps -ef | grep aud says nada</title>
-      <link>//localhost:1313/audacity-is-already-running...-ps-ef-grep-aud-says-nada/</link>
+      <link>http://localhost:1313/audacity-is-already-running...-ps-ef-grep-aud-says-nada/</link>
       <pubDate>Sat, 06 Oct 2018 16:17:00 +0000</pubDate>
       
-      <guid>//localhost:1313/audacity-is-already-running...-ps-ef-grep-aud-says-nada/</guid>
+      <guid>http://localhost:1313/audacity-is-already-running...-ps-ef-grep-aud-says-nada/</guid>
       <description>Machine crashed&amp;ndash; well, hung&amp;ndash; after [insert reason]. Age? PS showed nothing, neither did &amp;ldquo;Activity Monitor&amp;rdquo;, and my googlefu must have been for /ʃaɪt/, since I found nothing there either.
 After some digging around the usual directories&amp;hellip; a lock file. Kill that, and we&amp;rsquo;re back in business.
 [caption id=&amp;ldquo;attachment_1460&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;300&amp;rdquo;] audacity-the-second-running[/caption]</description>
@@ -21,19 +21,19 @@ After some digging around the usual directories&amp;hellip; a lock file. Kill th
     
     <item>
       <title>Automated file management with maid</title>
-      <link>//localhost:1313/automated-file-management-with-maid/</link>
+      <link>http://localhost:1313/automated-file-management-with-maid/</link>
       <pubDate>Mon, 22 Jul 2013 23:05:50 +0000</pubDate>
       
-      <guid>//localhost:1313/automated-file-management-with-maid/</guid>
+      <guid>http://localhost:1313/automated-file-management-with-maid/</guid>
       <description>I&amp;rsquo;ve been playing with Hazel a bit recently, mostly so I can get a handle on it to support others&#39; usage of a simple file automation/ housekeeping application. I like it, but it is somewhat limited in not allowed nested conditional and other basic logic statements. Anyway, what Hazel does is not much more&amp;ndash; and very frequently less&amp;ndash; that what I&amp;rsquo;ve been doing with ad hoc cron scripts. These are not very tidy having built built up over the years.</description>
     </item>
     
     <item>
       <title>Alfred 2 workflows</title>
-      <link>//localhost:1313/alfred-2-workflows/</link>
+      <link>http://localhost:1313/alfred-2-workflows/</link>
       <pubDate>Sat, 15 Jun 2013 21:12:16 +0000</pubDate>
       
-      <guid>//localhost:1313/alfred-2-workflows/</guid>
+      <guid>http://localhost:1313/alfred-2-workflows/</guid>
       <description>2016-05-23 update: Due to recent woes I had to revisit Alfred Workflows&amp;hellip; basically the below remains the same with the addition of:
 http://www.packal.org/workflow/packal-updater http://www.packal.org/workflow/datetime-format-converter http://www.packal.org/workflow/toggle-keyboard-viewer http://www.packal.org/workflow/leo-dictionary http://www.packal.org/workflow/eggtimer-2 http://www.packal.org/workflow/units
  Wolfram Alpha:   Get Alfred 2, buy the Powerpack! http://www.alfredapp.com/

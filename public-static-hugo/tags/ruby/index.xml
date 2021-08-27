@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ruby on [::1] YEARL.US</title>
-    <link>//localhost:1313/tags/ruby/</link>
-    <description>Recent content in ruby on [::1] YEARL.US</description>
+    <title>ruby on [::1] yearl.us</title>
+    <link>http://localhost:1313/tags/ruby/</link>
+    <description>Recent content in ruby on [::1] yearl.us</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Mon, 23 May 2016 05:41:31 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 May 2016 05:41:31 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ruby/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fsked El Capitan home directory</title>
-      <link>//localhost:1313/fsked-el-capitan-home-directory/</link>
+      <link>http://localhost:1313/fsked-el-capitan-home-directory/</link>
       <pubDate>Mon, 23 May 2016 05:41:31 +0000</pubDate>
       
-      <guid>//localhost:1313/fsked-el-capitan-home-directory/</guid>
+      <guid>http://localhost:1313/fsked-el-capitan-home-directory/</guid>
       <description>Not entirely sure how I managed to hose my user directory, but I did, and it followed a boot into safe mode (reboot and SHIFT) in order to update an ancient MacPorts installation; homebrew sort of replaced that for my usage. OK, no biggie. I have back ups right? I do, but those back up in recent months have been based on Apple&amp;rsquo;s Time Machine. I changed to this from Carbon Copy Cloner by means of experiment.</description>
     </item>
     
     <item>
       <title>Posting from IA Writer to Wordpress (Coleman)</title>
-      <link>//localhost:1313/posting-from-ia-writer-to-wordpress-coleman/</link>
+      <link>http://localhost:1313/posting-from-ia-writer-to-wordpress-coleman/</link>
       <pubDate>Sun, 24 Apr 2016 00:01:57 +0000</pubDate>
       
-      <guid>//localhost:1313/posting-from-ia-writer-to-wordpress-coleman/</guid>
+      <guid>http://localhost:1313/posting-from-ia-writer-to-wordpress-coleman/</guid>
       <description>IA Writer to Wordpress 0. Wha? With the coming of the new doggie into the house, perhaps I will again add more content to the bloggy thing that I have kinda sorta not really been keeping over the last little while.
 Probably this has been done by someone else on the Intertubz, but ach, why not. I have some time on my hands, so here are running notes in IA Writer that will make its way to a Wordpress post by some means or other.</description>
     </item>
     
     <item>
       <title>cleaning up a homebrew installation</title>
-      <link>//localhost:1313/cleaning-up-a-homebrew-installation/</link>
+      <link>http://localhost:1313/cleaning-up-a-homebrew-installation/</link>
       <pubDate>Tue, 23 Sep 2014 23:31:02 +0000</pubDate>
       
-      <guid>//localhost:1313/cleaning-up-a-homebrew-installation/</guid>
+      <guid>http://localhost:1313/cleaning-up-a-homebrew-installation/</guid>
       <description>I keep meaning to get around to do this, but never do. This evening I took a look at exercism.io and the installation of its CLI program had a homebrew option, so then was a good a moment as any, that and with the imminent relsease of OS 42 (X.10.10)&amp;hellip;
 $brew -v[/cc] ==&amp;gt; 0.9.5
 $sudo chown -R `whoami` /usr/local $cd /usr/local $git fetch origin $git reset --hard origin/master $brew cleanup $brew upgrade ==&amp;gt; ALL OK!</description>
@@ -40,19 +40,19 @@ $sudo chown -R `whoami` /usr/local $cd /usr/local $git fetch origin $git reset -
     
     <item>
       <title>Automated file management with maid</title>
-      <link>//localhost:1313/automated-file-management-with-maid/</link>
+      <link>http://localhost:1313/automated-file-management-with-maid/</link>
       <pubDate>Mon, 22 Jul 2013 23:05:50 +0000</pubDate>
       
-      <guid>//localhost:1313/automated-file-management-with-maid/</guid>
+      <guid>http://localhost:1313/automated-file-management-with-maid/</guid>
       <description>I&amp;rsquo;ve been playing with Hazel a bit recently, mostly so I can get a handle on it to support others&#39; usage of a simple file automation/ housekeeping application. I like it, but it is somewhat limited in not allowed nested conditional and other basic logic statements. Anyway, what Hazel does is not much more&amp;ndash; and very frequently less&amp;ndash; that what I&amp;rsquo;ve been doing with ad hoc cron scripts. These are not very tidy having built built up over the years.</description>
     </item>
     
     <item>
       <title>Installing Ruby 1.9.2 with RVM fails on OS X Lion</title>
-      <link>//localhost:1313/installing-ruby-1.9.2-with-rvm-fails-on-os-x-lion/</link>
+      <link>http://localhost:1313/installing-ruby-1.9.2-with-rvm-fails-on-os-x-lion/</link>
       <pubDate>Fri, 28 Oct 2011 14:51:58 +0000</pubDate>
       
-      <guid>//localhost:1313/installing-ruby-1.9.2-with-rvm-fails-on-os-x-lion/</guid>
+      <guid>http://localhost:1313/installing-ruby-1.9.2-with-rvm-fails-on-os-x-lion/</guid>
       <description>Remove RVM, thus making for a cleaner install later:
 $ RVM implode Remove XCode:
 $ sudo /Developer/Library/uninstall-devtools –mode=all XCode is removed since in 4.2, at least, all references to gcc are linked to llvm-gcc (Apple&amp;rsquo;s) own fork of gcc. llvm will NOT compile ruby.

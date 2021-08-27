@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MacOS on [::1] YEARL.US</title>
-    <link>//localhost:1313/tags/macos/</link>
-    <description>Recent content in MacOS on [::1] YEARL.US</description>
+    <title>MacOS on [::1] yearl.us</title>
+    <link>http://localhost:1313/tags/macos/</link>
+    <description>Recent content in MacOS on [::1] yearl.us</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Fri, 18 May 2018 10:19:13 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/macos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 May 2018 10:19:13 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/macos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Create root SSH keys OS X (MacOS High Sierra)</title>
-      <link>//localhost:1313/create-root-ssh-keys-os-x-macos-high-sierra/</link>
+      <link>http://localhost:1313/create-root-ssh-keys-os-x-macos-high-sierra/</link>
       <pubDate>Fri, 18 May 2018 10:19:13 +0000</pubDate>
       
-      <guid>//localhost:1313/create-root-ssh-keys-os-x-macos-high-sierra/</guid>
+      <guid>http://localhost:1313/create-root-ssh-keys-os-x-macos-high-sierra/</guid>
       <description>In all the years I&amp;rsquo;ve been running OS X (or MacOS as it is now called) I&amp;rsquo;ve never had the need to su,sudo was always good enough. And this is as it should be.
 Until now. Obvs, &amp;ldquo;root&amp;rdquo; is disabled in High Sierra. So&amp;hellip;
 $ cd /System/Library/CoreServices/Applications/ $ ls Some cool apps here&amp;hellip;
