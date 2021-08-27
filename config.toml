@@ -1,4 +1,5 @@
 # baseURL = "https://salopst.github.io/"
+baseURL = ""
 title   = "[::1] yearl.us"
 languageCode = "en-us"
 theme = "hello-friend-ng"
@@ -55,7 +56,7 @@ posts = ":title/"
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "[description] A random personal ported from Wordpress"
+  description = "[description] A random personalrambling ported from Wordpress"
   keywords = "[keywords] blog, Emacs, Hugo, technology, recipes, yearl"
   images = [""]
 
