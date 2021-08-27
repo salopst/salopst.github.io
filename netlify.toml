@@ -15,7 +15,7 @@
   # root directory if a base has not been set. This sample publishes the
   # directory located at the absolute path "root/project/build-output"
   
-   publish = "public-static-hugo"
+  # publish = "public-static-hugo"
 
   # Default build command.
   # command = "echo 'default context'"

@@ -1,4 +1,4 @@
-baseURL = "https://salopst.github.io/"
+# baseURL = "https://salopst.github.io/"
 title   = "[::1] yearl.us"
 languageCode = "en-us"
 theme = "hello-friend-ng"
@@ -17,7 +17,7 @@ archetypeDir = "archetypes"
 contentDir   = "content"
 dataDir      = "data"
 layoutDir    = "layouts"
-publishDir   = "public-static-hugo"
+# publishDir   = "public-static-hugo"
 
 buildDrafts  = false
 buildFuture  = false
