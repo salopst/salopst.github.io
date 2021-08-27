@@ -2,7 +2,7 @@
 title = "Voglio andare a vivere in campagna"
 author = ["yearluk"]
 date = 2021-08-27T19:36:45
-tags = ["italian", "hugo", "song", "canzone" "lyrics"]
+tags = ["italian", "hugo", "song", "canzone" , "lyrics"]
 categories = ["blog", "language", "Italian", "media", "music"]
 draft = false
 weight = 1001
