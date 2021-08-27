@@ -1,6 +1,5 @@
-#baseURL = "http://localhost:1313/"
-baseUrl = ""
-title   = "[::1] YEARL.US"
+baseURL = ""
+title   = "[::1] yearl.us"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -19,7 +18,6 @@ contentDir   = "content"
 dataDir      = "data"
 layoutDir    = "layouts"
 publishDir   = "public-static-hugo"
-publishdir   = "public-static-hugo-wank"
 
 buildDrafts  = false
 buildFuture  = false
@@ -139,6 +137,11 @@ posts = ":title/"
 
   [languages.fr]
     subtitle  = "Bonjour, mon ami."
+    weight    = 2
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+
+[languages.it]
+    subtitle  = "Ciao, amico!"
     weight    = 2
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
