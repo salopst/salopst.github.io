@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+        <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="author" content="admin">
+<meta name="description" content="I had occasion to look over some old dissertation-related files from twenty-years ago to this month&amp;hellip; The directory was an odd mix of half-baked [latexpage]$\LaTeX$ and $\textsc{Bib}\TeX $, readable but clearly incomplete *.RTF, *.DOC, and, of course *.SAM. *.SAM files were created by Ami Pro word processor from Lotus that I had running under windows 3.1 on my almost state-of-the-art Dell i486DX2-S. The *.SAM files were what were printed for submission, the $\LaTeX$ stuff was just for giggles, but I did maintain my bibliographies in $\textsc{Bib}\TeX $ format." />
+<meta name="keywords" content="[keywords] blog, Emacs, Hugo, technology, recipes, yearl, latex" />
+<meta name="robots" content="noodp" />
+<meta name="theme-color" content="#223835" />
+<link rel="canonical" href="//localhost:1313/from-bibtex-to-biblatex-and-biber/" />
+
+
+    <title>
+        
+            From BibTeX to biblatex and biber :: [::1] YEARL.US  — Hello, friendo.
+        
+    </title>
+
+
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/css/flag-icon.min.css" rel="stylesheet"
+    type="text/css">
+
+
+
+<link rel="stylesheet" href="//localhost:1313/main.dede02da9537a98158079c023e83573e18127834838ef08172acce888341a797.css">
+
+
+
+
+    <link rel="apple-touch-icon" sizes="180x180" href="//localhost:1313/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="//localhost:1313/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="//localhost:1313/favicon-16x16.png">
+    <link rel="manifest" href="//localhost:1313/site.webmanifest">
+    <link rel="mask-icon" href="//localhost:1313/safari-pinned-tab.svg" color="#223835">
+    <link rel="shortcut icon" href="//localhost:1313/favicon.ico">
+    <meta name="msapplication-TileColor" content="#223835">
+    <meta name="theme-color" content="#223835">
+
+
+
+<meta itemprop="name" content="From BibTeX to biblatex and biber">
+<meta itemprop="description" content="I had occasion to look over some old dissertation-related files from twenty-years ago to this month&hellip; The directory was an odd mix of half-baked [latexpage]$\LaTeX$ and $\textsc{Bib}\TeX $, readable but clearly incomplete *.RTF, *.DOC, and, of course *.SAM. *.SAM files were created by Ami Pro word processor from Lotus that I had running under windows 3.1 on my almost state-of-the-art Dell i486DX2-S. The *.SAM files were what were printed for submission, the $\LaTeX$ stuff was just for giggles, but I did maintain my bibliographies in $\textsc{Bib}\TeX $ format.">
+<meta itemprop="datePublished" content="2015-05-05T06:52:08+00:00" />
+<meta itemprop="dateModified" content="2015-05-05T06:52:08+00:00" />
+<meta itemprop="wordCount" content="419">
+<meta itemprop="image" content="//localhost:1313/"/>
+
+
+
+<meta itemprop="keywords" content="latex," />
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="//localhost:1313/"/>
+
+<meta name="twitter:title" content="From BibTeX to biblatex and biber"/>
+<meta name="twitter:description" content="I had occasion to look over some old dissertation-related files from twenty-years ago to this month&hellip; The directory was an odd mix of half-baked [latexpage]$\LaTeX$ and $\textsc{Bib}\TeX $, readable but clearly incomplete *.RTF, *.DOC, and, of course *.SAM. *.SAM files were created by Ami Pro word processor from Lotus that I had running under windows 3.1 on my almost state-of-the-art Dell i486DX2-S. The *.SAM files were what were printed for submission, the $\LaTeX$ stuff was just for giggles, but I did maintain my bibliographies in $\textsc{Bib}\TeX $ format."/>
+
+
+
+    <meta property="og:title" content="From BibTeX to biblatex and biber" />
+<meta property="og:description" content="I had occasion to look over some old dissertation-related files from twenty-years ago to this month&hellip; The directory was an odd mix of half-baked [latexpage]$\LaTeX$ and $\textsc{Bib}\TeX $, readable but clearly incomplete *.RTF, *.DOC, and, of course *.SAM. *.SAM files were created by Ami Pro word processor from Lotus that I had running under windows 3.1 on my almost state-of-the-art Dell i486DX2-S. The *.SAM files were what were printed for submission, the $\LaTeX$ stuff was just for giggles, but I did maintain my bibliographies in $\textsc{Bib}\TeX $ format." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="//localhost:1313/from-bibtex-to-biblatex-and-biber/" />
+<meta property="og:image" content="//localhost:1313/"/>
+<meta property="article:published_time" content="2015-05-05T06:52:08+00:00" />
+<meta property="article:modified_time" content="2015-05-05T06:52:08+00:00" />
+
+
+
+
+    <meta property="article:section" content="tech" />
+
+
+
+    <meta property="article:published_time" content="2015-05-05 06:52:08 &#43;0000 &#43;0000" />
+
+
+
+
+
+
+
+
+    </head>
+
+    <body class="dark-theme">
+        <div class="container">
+            <header class="header">
+    <span class="header__inner">
+        <a href="//localhost:1313/" style="text-decoration: none;">
+    <div class="logo">
+        
+            <span class="logo__mark">></span>
+            <span class="logo__text"> ~</span>
+            <span class="logo__cursor" style=
+                  "
+                   background-color:#8fbcbb;
+                   ">
+            </span>
+        
+    </div>
+</a>
+
+
+        <span class="header__right">
+            
+                <nav class="menu">
+    <ul class="menu__inner"><li><a href="//localhost:1313/about/">About</a></li><li><a href="//localhost:1313/posts/">Stephen</a></li>
+    </ul>
+</nav>
+
+                <span class="menu-trigger">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                        <path d="M0 0h24v24H0z" fill="none"/>
+                        <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+                    </svg>
+                </span>
+            
+
+            <span class="theme-toggle unselectable"><svg class="theme-toggler" width="24" height="24" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M22 41C32.4934 41 41 32.4934 41 22C41 11.5066 32.4934 3 22
+  3C11.5066 3 3 11.5066 3 22C3 32.4934 11.5066 41 22 41ZM7 22C7
+  13.7157 13.7157 7 22 7V37C13.7157 37 7 30.2843 7 22Z"/>
+</svg>
+</span>
+        </span>
+    </span>
+</header>
+
+
+            <div class="content">
+                
+    <main class="post">
+        <div class="post-info">
+            <p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-clock"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>2 minutes
+
+            
+
+            </p>
+        </div>
+
+        <article>
+            <h1 class="post-title">
+                <a href="//localhost:1313/from-bibtex-to-biblatex-and-biber/">From BibTeX to biblatex and biber</a>
+            </h1>
+
+            
+
+            <div class="post-content">
+                <p>I had occasion to look over some old dissertation-related files from twenty-years ago to this month&hellip; The directory was an odd mix of half-baked [latexpage]$\LaTeX$ and $\textsc{Bib}\TeX $, readable but clearly incomplete *.RTF, *.DOC, and, of course *.SAM. *.SAM files were created by Ami Pro word processor from Lotus that I had running under windows 3.1 on my almost state-of-the-art Dell i486DX2-S. The *.SAM files were what were printed for submission, the $\LaTeX$ stuff was just for giggles, but I <em>did</em> maintain my bibliographies in $\textsc{Bib}\TeX $ format.</p>
+<p>More on those *.SAM files in another post, when I have time to look at the content of this ancient work; for now some bib. stuff.</p>
+<p><em>New</em> essay3.tex file has in the preamble:
+[cc lang=&ldquo;latex&rdquo;]
+\usepackage[backend=biber,style=apa,citestyle=authoryear]{biblatex}
+\addbibresource{essay3.bib} %no .bib extension if backend=bibtex
+[/cc]
+and the last six lines of essay3.tex read:
+[cc lang=&ldquo;ruby&rdquo;]
+\nocite{*}
+\printbibliography
+\begin{center}
+Typeset in \href{http://www.latex-project.org/}{\LaTeX}
+\end{center}
+\end{document}
+[/cc]
+So, there are no great shakes to get this file to start using <a href="http://biblatex-biber.sourceforge.net/">biber</a> under $\textsc{Bib}\LaTeX $. And biber is the way to go forward&hellip; Unicode support, ease of style editing, and so forth. (The student of things archival will wonder if I am now messing with the <em>record</em> here. Err, sure, but then I was doing that as soon as the files were moved from those 3.5&quot; floppies. And, anyway, is not <em>every</em> representation different?)</p>
+<p>BUT&hellip; essay3.tex would not compile! Now I expected <em>not</em> to be able to read the olde Ami Pro files after twenty years, but I expected more from these arcane plain text files. I bashed (pun intended) around for a couple of hours, tearing hair, wondering if anyone <em>really</em> understands $*\TeX$ anyway, went for a bike ride, and thought about the last twenty years. What had changed? Blair, obviously. Married to a decent, smart, sometimes funny woman. Two lovely boys. Unicode! Unicode happened. Nope. All files UTF-8.</p>
+<p>I start going over the *.bib file (which validates using all the usual tools) entry by entry until:</p>
+<p>[cc lang=&ldquo;latex&rdquo;]
+@pamphlet{lstm_1920,
+Author = {&mdash;},
+Location = {Liverpool},
+Title = {Liverpool School of Tropical Medicine: Historic Record, 1898-1920},
+Year = {1920}}
+[/cc]</p>
+<p>Here I have an &ldquo;&ndash;&rdquo;, an m-dash (three hyphens), and I suddenly recall that biber is written in Perl. In PCREs the hyphen &ldquo;-&rdquo; is a non-letter character, and in the bowels of biber somewhere there is prolly a regexp checking the contents of the &ldquo;author&rdquo; field. Quickfix?
+[cc lang=&ldquo;latex&rdquo;]
+Author = {\textemdash},
+[/cc]</p>
+<p>Dice! So there you go&hellip;. looking stupid so you don&rsquo;t have to!</p>
+
+            </div>
+        </article>
+
+        <hr />
+
+        <div class="post-info">
+                <p>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-tag meta-icon"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7" y2="7"></line></svg><span class="tag"><a href="//localhost:1313/tags/latex">latex</a></span>
+                </p>
+
+            <p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>419 Words</p>
+
+            <p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-calendar"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>2015-05-05 07:52 &#43;0100</p>
+        </div>
+
+        
+            <div class="pagination">
+                <div class="pagination__title">
+                    <span class="pagination__title-h"></span>
+                    <hr />
+                </div>
+
+                <div class="pagination__buttons">
+                    
+                        <span class="button previous">
+                            <a href="//localhost:1313/first-ring-l-sit/">
+                                <span class="button__icon">←</span>
+                                <span class="button__text">First ring L-sit</span>
+                            </a>
+                        </span>
+                    
+
+                    
+                        <span class="button next">
+                            <a href="//localhost:1313/confusing-iphoto/aperture-and-photo-libraries/">
+                                <span class="button__text">Confusing iPhoto/Aperture and Photo libraries</span>
+                                <span class="button__icon">→</span>
+                            </a>
+                        </span>
+                    
+                </div>
+            </div>
+        
+            <div id="comments" class="thin">
+                <div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "@usyearlsjy" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+            </div>
+    </main>
+
+            </div>
+
+            
+                <footer class="footer">
+    <div class="footer__inner">
+        <div class="footer__content">
+            <span>&copy; 2021</span>
+            
+                <span><a href="//localhost:1313/">yearlus</a></span>
+            
+            <span><a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a></span>
+            
+        </div>
+    </div>
+    
+</footer>
+
+            
+        </div>
+
+        
+
+
+
+
+<script type="text/javascript" src="//localhost:1313/bundle.min.dc716e9092c9820b77f96da294d0120aeeb189b5bcea9752309ebea27fd53bbe6b13cffb2aca8ecf32525647ceb7001f76091de4199ac5a3caa432c070247f5b.js" integrity="sha512-3HFukJLJggt3&#43;W2ilNASCu6xibW86pdSMJ6&#43;on/VO75rE8/7KsqOzzJSVkfOtwAfdgkd5BmaxaPKpDLAcCR/Ww=="></script>
+
+
+
+    </body>
+</html>

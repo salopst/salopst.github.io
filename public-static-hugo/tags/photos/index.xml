@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>photos on [::1] YEARL.US</title>
+    <link>//localhost:1313/tags/photos/</link>
+    <description>Recent content in photos on [::1] YEARL.US</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Thu, 23 Apr 2015 08:46:06 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/photos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Confusing iPhoto/Aperture and Photo libraries</title>
+      <link>//localhost:1313/confusing-iphoto/aperture-and-photo-libraries/</link>
+      <pubDate>Thu, 23 Apr 2015 08:46:06 +0000</pubDate>
+      
+      <guid>//localhost:1313/confusing-iphoto/aperture-and-photo-libraries/</guid>
+      <description>So, with Apple&amp;rsquo;s release of OS X 10.10.3 on Monday came the new Photo&amp;rsquo;s &amp;ldquo;app&amp;rdquo;. In their misguided wisdom our cousins in Cupertino have continued along the path of dumbing-down Mac programs that are inching ever closer to their iOS equivalents.
+Their consumer editing program was iPhoto, the &amp;ldquo;pro&amp;rdquo; version, Aperture. Both are to be replaced with the very iOS/iCloud looking Photos, and whilst iPhoto and Aperture could happily share the same photo library, Photos will not.</description>
+    </item>
+    
+  </channel>
+</rss>

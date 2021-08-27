@@ -18,7 +18,8 @@ archetypeDir = "archetypes"
 contentDir   = "content"
 dataDir      = "data"
 layoutDir    = "layouts"
-publishDir   = "public"
+publishDir   = "public-static-hugo"
+publishdir   = "public-static-hugo-wank"
 
 buildDrafts  = false
 buildFuture  = false

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>German on [::1] YEARL.US</title>
+    <link>//localhost:1313/categories/german/</link>
+    <description>Recent content in German on [::1] YEARL.US</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 10 Aug 2015 19:33:17 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/german/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Top 100 German verbs</title>
+      <link>//localhost:1313/top-100-german-verbs/</link>
+      <pubDate>Mon, 10 Aug 2015 19:33:17 +0000</pubDate>
+      
+      <guid>//localhost:1313/top-100-german-verbs/</guid>
+      <description>From Randall Jones &amp;amp; Erwin Tschirner’s A Frequency Dictionary of German: Core Vocabulary for Learners.
+  sein &amp;ndash; to be
+  haben &amp;ndash; to have
+  werden &amp;ndash; to become
+  können &amp;ndash; can, to be able to
+  müssen &amp;ndash; must, to have to
+  sagen &amp;ndash; to say
+  machen &amp;ndash; to do, make
+  geben &amp;ndash; to give
+  kommen &amp;ndash; to come</description>
+    </item>
+    
+  </channel>
+</rss>

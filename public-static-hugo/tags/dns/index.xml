@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DNS on [::1] YEARL.US</title>
+    <link>//localhost:1313/tags/dns/</link>
+    <description>Recent content in DNS on [::1] YEARL.US</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 16 Jun 2018 07:18:05 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/dns/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pi-hole DNS-level ad blocker</title>
+      <link>//localhost:1313/pi-hole-dns-level-ad-blocker/</link>
+      <pubDate>Sat, 16 Jun 2018 07:18:05 +0000</pubDate>
+      
+      <guid>//localhost:1313/pi-hole-dns-level-ad-blocker/</guid>
+      <description>Getting pretty annoyed with keeping track of which browser on which machine has which add blockers installed, so it&amp;rsquo;s time for a more holistic approach. Enter, stage left, the Pi-hole. In short it:
+With a Rapsberry Pi 3 model b and a 64GB micro SD card, a set-up that is beefier than it needs to be, but who knows what the Pi will be used for in the future&amp;hellip;
+#1 Get Raspbian, and format micro SD card&amp;mdash; after much jiggling with the unlock tab on the adapter and delicatelyrepeatedly inserting-half-inserting into 2012 Macbook Pro&amp;rsquo;s gunked-up card reader port&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

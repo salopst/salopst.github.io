@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>humour on [::1] YEARL.US</title>
+    <link>//localhost:1313/tags/humour/</link>
+    <description>Recent content in humour on [::1] YEARL.US</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Thu, 25 Oct 2012 02:02:57 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/humour/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jokes</title>
+      <link>//localhost:1313/jokes/</link>
+      <pubDate>Thu, 25 Oct 2012 02:02:57 +0000</pubDate>
+      
+      <guid>//localhost:1313/jokes/</guid>
+      <description>A running list of the boys&#39; favourite jokes.
+  Q: Why did the tachyon cross the road? A:Because it was on the other side.
+  G. A. Custer wasn&amp;rsquo;t murdered; he committed Siouxicide.
+  Oh yeah? Well, what&amp;rsquo;s the speed of dark?
+  </description>
+    </item>
+    
+  </channel>
+</rss>

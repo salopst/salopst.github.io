@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>snippets on [::1] YEARL.US</title>
+    <link>//localhost:1313/tags/snippets/</link>
+    <description>Recent content in snippets on [::1] YEARL.US</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 17 Feb 2013 04:11:39 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/snippets/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Odds and sods</title>
+      <link>//localhost:1313/odds-and-sods/</link>
+      <pubDate>Sun, 17 Feb 2013 04:11:39 +0000</pubDate>
+      
+      <guid>//localhost:1313/odds-and-sods/</guid>
+      <description>Compile of KDE4 keeps failing on FreeBSD 9.1 whether by
+# cd /usr/ports/x11/kde4 # make install clean or
+# pkg_add -r kde4 after STOP tried
+# cd /usr/ports/x11/xorg # make install clean &amp;ndash;&amp;gt; OK. Then: # cd /usr/ports/x11/kde4 # make install clean
+Works like a charm!
+ ⌘ – ⌘ – ⌘ – Cmd
+⌥ – ⌥ – ⌥ – Opt / Alt
+⇧ – ⇧ – ⇧ – Shift</description>
+    </item>
+    
+  </channel>
+</rss>

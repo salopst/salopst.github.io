@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+        <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="author" content="admin">
+<meta name="description" content="I&amp;rsquo;ve had Windows 7 running under the Parallels VM for quite some time now&amp;ndash; just for those odd occasions when I might need to do something on that platform like, err, watching streaming European association football matches from servers in the the Middle East. (I am perhaps one of few Brits who do not bristle when I hear North Americans call football &amp;ldquo;soccer&amp;rdquo;, because, &amp;ldquo;soccer&amp;rdquo; is derived from &amp;ldquo;association&amp;rdquo; football, and was used once upon a time to distinguish itself from that other footballing code: rugby." />
+<meta name="keywords" content="[keywords] blog, Emacs, Hugo, technology, recipes, yearl, OSX, VM, Windows 7" />
+<meta name="robots" content="noodp" />
+<meta name="theme-color" content="#223835" />
+<link rel="canonical" href="//localhost:1313/windows-7-isos-and-parallels/" />
+
+
+    <title>
+        
+            Windows 7, ISOs, and Parallels :: [::1] YEARL.US  — Hello, friendo.
+        
+    </title>
+
+
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/css/flag-icon.min.css" rel="stylesheet"
+    type="text/css">
+
+
+
+<link rel="stylesheet" href="//localhost:1313/main.dede02da9537a98158079c023e83573e18127834838ef08172acce888341a797.css">
+
+
+
+
+    <link rel="apple-touch-icon" sizes="180x180" href="//localhost:1313/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="//localhost:1313/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="//localhost:1313/favicon-16x16.png">
+    <link rel="manifest" href="//localhost:1313/site.webmanifest">
+    <link rel="mask-icon" href="//localhost:1313/safari-pinned-tab.svg" color="#223835">
+    <link rel="shortcut icon" href="//localhost:1313/favicon.ico">
+    <meta name="msapplication-TileColor" content="#223835">
+    <meta name="theme-color" content="#223835">
+
+
+
+<meta itemprop="name" content="Windows 7, ISOs, and Parallels">
+<meta itemprop="description" content="I&rsquo;ve had Windows 7 running under the Parallels VM for quite some time now&ndash; just for those odd occasions when I might need to do something on that platform like, err, watching streaming European association football matches from servers in the the Middle East. (I am perhaps one of few Brits who do not bristle when I hear North Americans call football &ldquo;soccer&rdquo;, because, &ldquo;soccer&rdquo; is derived from &ldquo;association&rdquo; football, and was used once upon a time to distinguish itself from that other footballing code: rugby.">
+<meta itemprop="datePublished" content="2013-03-14T22:01:16+00:00" />
+<meta itemprop="dateModified" content="2013-03-14T22:01:16+00:00" />
+<meta itemprop="wordCount" content="576">
+<meta itemprop="image" content="//localhost:1313/"/>
+
+
+
+<meta itemprop="keywords" content="OSX,VM,Windows 7," />
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="//localhost:1313/"/>
+
+<meta name="twitter:title" content="Windows 7, ISOs, and Parallels"/>
+<meta name="twitter:description" content="I&rsquo;ve had Windows 7 running under the Parallels VM for quite some time now&ndash; just for those odd occasions when I might need to do something on that platform like, err, watching streaming European association football matches from servers in the the Middle East. (I am perhaps one of few Brits who do not bristle when I hear North Americans call football &ldquo;soccer&rdquo;, because, &ldquo;soccer&rdquo; is derived from &ldquo;association&rdquo; football, and was used once upon a time to distinguish itself from that other footballing code: rugby."/>
+
+
+
+    <meta property="og:title" content="Windows 7, ISOs, and Parallels" />
+<meta property="og:description" content="I&rsquo;ve had Windows 7 running under the Parallels VM for quite some time now&ndash; just for those odd occasions when I might need to do something on that platform like, err, watching streaming European association football matches from servers in the the Middle East. (I am perhaps one of few Brits who do not bristle when I hear North Americans call football &ldquo;soccer&rdquo;, because, &ldquo;soccer&rdquo; is derived from &ldquo;association&rdquo; football, and was used once upon a time to distinguish itself from that other footballing code: rugby." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="//localhost:1313/windows-7-isos-and-parallels/" />
+<meta property="og:image" content="//localhost:1313/"/>
+<meta property="article:published_time" content="2013-03-14T22:01:16+00:00" />
+<meta property="article:modified_time" content="2013-03-14T22:01:16+00:00" />
+
+
+
+
+
+
+    <meta property="article:published_time" content="2013-03-14 22:01:16 &#43;0000 WET" />
+
+
+
+
+
+
+
+
+    </head>
+
+    <body class="dark-theme">
+        <div class="container">
+            <header class="header">
+    <span class="header__inner">
+        <a href="//localhost:1313/" style="text-decoration: none;">
+    <div class="logo">
+        
+            <span class="logo__mark">></span>
+            <span class="logo__text"> ~</span>
+            <span class="logo__cursor" style=
+                  "
+                   background-color:#8fbcbb;
+                   ">
+            </span>
+        
+    </div>
+</a>
+
+
+        <span class="header__right">
+            
+                <nav class="menu">
+    <ul class="menu__inner"><li><a href="//localhost:1313/about/">About</a></li><li><a href="//localhost:1313/posts/">Stephen</a></li>
+    </ul>
+</nav>
+
+                <span class="menu-trigger">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                        <path d="M0 0h24v24H0z" fill="none"/>
+                        <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+                    </svg>
+                </span>
+            
+
+            <span class="theme-toggle unselectable"><svg class="theme-toggler" width="24" height="24" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M22 41C32.4934 41 41 32.4934 41 22C41 11.5066 32.4934 3 22
+  3C11.5066 3 3 11.5066 3 22C3 32.4934 11.5066 41 22 41ZM7 22C7
+  13.7157 13.7157 7 22 7V37C13.7157 37 7 30.2843 7 22Z"/>
+</svg>
+</span>
+        </span>
+    </span>
+</header>
+
+
+            <div class="content">
+                
+    <main class="post">
+        <div class="post-info">
+            <p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-clock"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>3 minutes
+
+            
+
+            </p>
+        </div>
+
+        <article>
+            <h1 class="post-title">
+                <a href="//localhost:1313/windows-7-isos-and-parallels/">Windows 7, ISOs, and Parallels</a>
+            </h1>
+
+            
+
+            <div class="post-content">
+                <p>I&rsquo;ve had Windows 7 running under the Parallels VM for quite some time now&ndash; just for those odd occasions when I might need to do something on that platform like, err, watching streaming European association football matches from servers in the the Middle East. (I am perhaps one of few Brits who do not bristle when I hear North Americans call football &ldquo;soccer&rdquo;, because, &ldquo;soccer&rdquo; is derived from &ldquo;association&rdquo; football, and was used once upon a time to distinguish itself from that other footballing code: rugby.</p>
+<p>I never particularly worried about internal backup of the Windows stuff, because it is a pretty naked install, with the usual stuff added:</p>
+<p><a href="www.clamav.net/">ClamAV
+</a><a href="http://www.cygwin.com/">Cygwin
+</a><a href="http://windirstat.info/">WinDirStat
+</a><a href="http://www.piriform.com/ccleaner">CCleaner
+</a><a href="http://notepad-plus-plus.org/">Notepad++
+</a><a href="https://www.google.com/intl/en/chrome/browser/">Chrome
+</a><a href="http://www.emptyloop.com/unlocker/">Unlocker
+</a><a href="http://www.macrium.com/reflectfree.aspx">Macrium Reflect Free</a><a href="http://www.emptyloop.com/unlocker/">
+</a><a href="http://www.poweriso.com/">PowerISO
+</a><a href="http://www.daemon-tools.cc/eng/products/dtLite">DAEMON Tools Lite</a></p>
+<p><em>MSFT Office 2010&hellip; and Visio</em></p>
+<p>and the whole VM was backed up as part of the usual Mac backup (via <a href="http://www.bombich.com/">Carbon Copy Cloner</a>). However, I found the need for an image of this system this morning, and in going through the usual route of creating an ISO in Win 7 I was somewhat surprised to see that the outcome would be a whopping 46GB. What to do? WellI found a pretty damned helpful page at Scott Hanselman&rsquo;s Computer Zen, <a href="http://www.hanselman.com/blog/GuideToFreeingUpDiskSpaceUnderWindows7.aspx">Guide to Freeing up Disk Space under Windows 7</a>. Particularly:</p>
+<p>[cc_dos]cd /d %TEMP%
+cd ../
+rd /s temp[/cc]</p>
+<p>couple of files could not be deleted in this directory&hellip; one that was open by ClamAV, so shutting that down did the trick. Also [cc inline=&ldquo;true&rdquo;]FXSAPIDebugLogFile.txt[/cc] was locked. The following steps fixed that:</p>
+<ul>
+<li>
+<p>Go to Control Panel</p>
+</li>
+<li>
+<p>Click on Program</p>
+</li>
+<li>
+<p>Click On “Turn Windows Features On and Off”.</p>
+</li>
+<li>
+<p>Navigate to Print and Document Services</p>
+</li>
+<li>
+<p>Now uncheck that option</p>
+</li>
+<li>
+<p>Now click Ok to confirm</p>
+</li>
+<li>
+<p>Restart the computer</p>
+</li>
+</ul>
+<p>Identifying the processes that had these files open was pretty straightforward, but oftentimes this is <em>not</em> the case, then I recommend the free <a href="http://www.emptyloop.com/unlocker/">Unlocker</a>. It adda a contextual menu to Windows Explorer that will identify the process that is using any particular file: very useful if one ever comes across &ldquo;The file is in use by another program or user&rdquo;, or &ldquo;Cannot delete file: Access is denied&rdquo;, or some such.</p>
+<p>After following Scott&rsquo;s advice, I&rsquo;d saved about 10GB. Not enough. A running of WinDirStat identified one huge file and one large directory. The file was [cc inline=&ldquo;true&rdquo;]20100314201842.vdmk[/cc], the directory [cc inline=&ldquo;true&rdquo;]arc_20100314201842[/cc]. Being prudent I duplicated my Win732.pvm, deleted these files, crossed my fingers and restarted Parallels. And all was good with the world! Win 7 ran faster in the VM, and the size of the resulting ISO was a <em>much</em> improved 12GB, 3 DVDs worth.</p>
+<p>If you find these files (your names will be different, these are obviously timestamps) in your Parallels VM, IT IS SAFE TO REMOVE THEM! I suspect they are left over from when I was toying with <a href="http://www.vmware.com/products/fusion/overview.html">VMWare Fusion</a> and <a href="https://www.virtualbox.org/">VirtualBox</a>. If[cc_bash inline=&ldquo;true&rdquo;]*vmdk[/cc] does not look like &ldquo;Virtual Machine DisK&rdquo; I do not know what does.</p>
+<p>And as for the initial ISO creation when I installed win 7 in parallels back in 2010: The contents of the install CD were copied to a temp dir on the Mac, Disk Utility was used to create a DMG file, and then an ISO was created using [cc_bash]hdiutil convert /path/to/file.dmg -format UDTO -o /path/to/file.iso[/cc] It seemed faster to go this route as I had a soft copy of the install disk, and anything coming of off the hard drive was obviously going to install faster that the original install medium.</p>
+
+            </div>
+        </article>
+
+        <hr />
+
+        <div class="post-info">
+                <p>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-tag meta-icon"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7" y2="7"></line></svg><span class="tag"><a href="//localhost:1313/tags/osx">OSX</a></span><span class="tag"><a href="//localhost:1313/tags/vm">VM</a></span><span class="tag"><a href="//localhost:1313/tags/windows-7">Windows 7</a></span>
+                </p>
+
+            <p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>576 Words</p>
+
+            <p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-calendar"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>2013-03-14 22:01 &#43;0000</p>
+        </div>
+
+        
+            <div class="pagination">
+                <div class="pagination__title">
+                    <span class="pagination__title-h"></span>
+                    <hr />
+                </div>
+
+                <div class="pagination__buttons">
+                    
+                        <span class="button previous">
+                            <a href="//localhost:1313/all-about-the-great-wall-by-sam/">
+                                <span class="button__icon">←</span>
+                                <span class="button__text">All about the Great Wall (by Sam)</span>
+                            </a>
+                        </span>
+                    
+
+                    
+                        <span class="button next">
+                            <a href="//localhost:1313/mathematica/minecraft/">
+                                <span class="button__text">Mathematica/Minecraft</span>
+                                <span class="button__icon">→</span>
+                            </a>
+                        </span>
+                    
+                </div>
+            </div>
+        
+            <div id="comments" class="thin">
+                <div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "@usyearlsjy" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+            </div>
+    </main>
+
+            </div>
+
+            
+                <footer class="footer">
+    <div class="footer__inner">
+        <div class="footer__content">
+            <span>&copy; 2021</span>
+            
+                <span><a href="//localhost:1313/">yearlus</a></span>
+            
+            <span><a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a></span>
+            
+        </div>
+    </div>
+    
+</footer>
+
+            
+        </div>
+
+        
+
+
+
+
+<script type="text/javascript" src="//localhost:1313/bundle.min.dc716e9092c9820b77f96da294d0120aeeb189b5bcea9752309ebea27fd53bbe6b13cffb2aca8ecf32525647ceb7001f76091de4199ac5a3caa432c070247f5b.js" integrity="sha512-3HFukJLJggt3&#43;W2ilNASCu6xibW86pdSMJ6&#43;on/VO75rE8/7KsqOzzJSVkfOtwAfdgkd5BmaxaPKpDLAcCR/Ww=="></script>
+
+
+
+    </body>
+</html>

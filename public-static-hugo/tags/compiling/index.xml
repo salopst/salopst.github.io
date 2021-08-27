@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>compiling on [::1] YEARL.US</title>
+    <link>//localhost:1313/tags/compiling/</link>
+    <description>Recent content in compiling on [::1] YEARL.US</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 11 Mar 2017 03:20:04 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/compiling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Librevault on Solus OS</title>
+      <link>//localhost:1313/librevault-on-solus-os/</link>
+      <pubDate>Sat, 11 Mar 2017 03:20:04 +0000</pubDate>
+      
+      <guid>//localhost:1313/librevault-on-solus-os/</guid>
+      <description>Still playing with Solus OS, and liking it more and more. The eopkg repository of software is a little thin in comparison to the likes of Debian-based apt-get and Arch&amp;rsquo;s AUR, but most of the things I want are there. And if they are not there I am thinking maybe I should review my needs&amp;hellip; I am in the process of planning for a life without OS X/MacOS after all, so a prefect time for reflection.</description>
+    </item>
+    
+    <item>
+      <title>Mounting an iOS 10.2 device in Solus OS</title>
+      <link>//localhost:1313/mounting-an-ios-10.2-device-in-solus-os/</link>
+      <pubDate>Tue, 07 Mar 2017 03:12:21 +0000</pubDate>
+      
+      <guid>//localhost:1313/mounting-an-ios-10.2-device-in-solus-os/</guid>
+      <description>tl;dr I feel that after ten years I can no longer countenance the purchase of a new Apple laptop should my existing machine shit the bed. All that nonsense associated with the race to thinness and the resultant lack of expandability of the newer machines, where everything is soldered or glued into place, has me pretty upset. Oh, and the OS itself has been getting more annoying with each release since Snow Leopard.</description>
+    </item>
+    
+  </channel>
+</rss>

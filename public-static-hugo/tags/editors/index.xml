@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>editors on [::1] YEARL.US</title>
+    <link>//localhost:1313/tags/editors/</link>
+    <description>Recent content in editors on [::1] YEARL.US</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 24 Apr 2016 00:01:57 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/editors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Posting from IA Writer to Wordpress (Coleman)</title>
+      <link>//localhost:1313/posting-from-ia-writer-to-wordpress-coleman/</link>
+      <pubDate>Sun, 24 Apr 2016 00:01:57 +0000</pubDate>
+      
+      <guid>//localhost:1313/posting-from-ia-writer-to-wordpress-coleman/</guid>
+      <description>IA Writer to Wordpress 0. Wha? With the coming of the new doggie into the house, perhaps I will again add more content to the bloggy thing that I have kinda sorta not really been keeping over the last little while.
+Probably this has been done by someone else on the Intertubz, but ach, why not. I have some time on my hands, so here are running notes in IA Writer that will make its way to a Wordpress post by some means or other.</description>
+    </item>
+    
+    <item>
+      <title>Atom themes and packages; note to self</title>
+      <link>//localhost:1313/atom-themes-and-packages-note-to-self/</link>
+      <pubDate>Mon, 30 Mar 2015 11:09:10 +0000</pubDate>
+      
+      <guid>//localhost:1313/atom-themes-and-packages-note-to-self/</guid>
+      <description>I never really did manage to get into the swing of things with Sublime Text everyone&amp;rsquo;s favourite general-purpose editor since, well TextMate fell out of favour ca. 2009-ish, and generally stuck to TextMate. Sure there&amp;rsquo;s VIM (and it is awesome), but really? Life is better with a pretty and functional editor.
+And then along came Atom&amp;hellip; as well as a few others: Brackets and Light Table to name the other two newbies, all better described at SitePoint.</description>
+    </item>
+    
+    <item>
+      <title>Online LaTeX editing tools</title>
+      <link>//localhost:1313/online-latex-editing-tools/</link>
+      <pubDate>Sun, 17 Feb 2013 13:12:07 +0000</pubDate>
+      
+      <guid>//localhost:1313/online-latex-editing-tools/</guid>
+      <description>For whatever reason, I&amp;rsquo;ve bumped into a number of in-browser [latex]\LaTeX[/latex] editing tools recently. I guess these are mostly useful for collaborative efforts, and I can see a reason why one would not want to use Subversion or Git. I mean Eldest is just coming of an age where he&amp;rsquo;s seeing computers as tools for his own use rather than just vectors of games/educational materials/movies. Because I am a benevolent father-dictator, he&amp;rsquo;s already familiar with [latex]\LaTeX[/latex] (and actually loves Computer Modern), and has decided to set all his writings in [latex]\LaTeX[/latex] prior to submission.</description>
+    </item>
+    
+  </channel>
+</rss>

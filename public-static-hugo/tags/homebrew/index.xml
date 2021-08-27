@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>homebrew on [::1] YEARL.US</title>
+    <link>//localhost:1313/tags/homebrew/</link>
+    <description>Recent content in homebrew on [::1] YEARL.US</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Fri, 26 Jun 2015 13:26:53 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/homebrew/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>homebrew woes. WTF?</title>
+      <link>//localhost:1313/homebrew-woes.-wtf/</link>
+      <pubDate>Fri, 26 Jun 2015 13:26:53 +0000</pubDate>
+      
+      <guid>//localhost:1313/homebrew-woes.-wtf/</guid>
+      <description>sudo chown -R $(whoami):admin /usr/local/lib/node_modules sudo chown -R $(whoami):admin $(brew &amp;ndash;prefix) brew update &amp;ndash; fails with &amp;ldquo;error: Your local changes to the following files would be overwritten by merge:&amp;rdquo; cd $(brew &amp;ndash;prefix) brew cleanup &amp;ndash;force brew untap homebrew/dupes brew untap homebrew/versions brew untap caskroom/cask brew untap phinze/cask brew prune brew cleanup &amp;ndash;force -s rm -rf &amp;ldquo;$(brew &amp;ndash;cache)&amp;rdquo; brew tap phinze/cask brew tap caskroom/cask brew tap homebrew/dupes ==&amp;gt; Tapping homebrew/dupes Cloning into &amp;lsquo;/usr/local/Library/Taps/homebrew/homebrew-dupes&amp;rsquo;&amp;hellip; remote: Counting objects: 40, done.</description>
+    </item>
+    
+    <item>
+      <title>cleaning up a homebrew installation</title>
+      <link>//localhost:1313/cleaning-up-a-homebrew-installation/</link>
+      <pubDate>Tue, 23 Sep 2014 23:31:02 +0000</pubDate>
+      
+      <guid>//localhost:1313/cleaning-up-a-homebrew-installation/</guid>
+      <description>I keep meaning to get around to do this, but never do. This evening I took a look at exercism.io and the installation of its CLI program had a homebrew option, so then was a good a moment as any, that and with the imminent relsease of OS 42 (X.10.10)&amp;hellip;
+$brew -v[/cc] ==&amp;gt; 0.9.5
+$sudo chown -R `whoami` /usr/local $cd /usr/local $git fetch origin $git reset --hard origin/master $brew cleanup $brew upgrade ==&amp;gt; ALL OK!</description>
+    </item>
+    
+  </channel>
+</rss>

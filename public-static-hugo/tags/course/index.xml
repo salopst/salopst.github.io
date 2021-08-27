@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>course on [::1] YEARL.US</title>
+    <link>//localhost:1313/tags/course/</link>
+    <description>Recent content in course on [::1] YEARL.US</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Wed, 24 Apr 2013 21:13:27 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/course/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Classical Greek</title>
+      <link>//localhost:1313/classical-greek/</link>
+      <pubDate>Wed, 24 Apr 2013 21:13:27 +0000</pubDate>
+      
+      <guid>//localhost:1313/classical-greek/</guid>
+      <description>So, I&amp;rsquo;ve signed up for &amp;ldquo;Greek and Latin Mythology&amp;rdquo; from U. Penn at coursera.org. It should be an interesting diversion in these times of my doing relatively little. A little Homer, Aristarchus, Thucydides, Aristophanes, Vergil, Ovid and the like would be welcome relief. Read all&amp;ndash; or almost all&amp;ndash; of these in English translation as a late teenager, and some of the Latin authors in the original. The Greek however… well, I never got very far with that in High School.</description>
+    </item>
+    
+    <item>
+      <title>Rock-Paper-Scissors-Lizard-Spock</title>
+      <link>//localhost:1313/rock-paper-scissors-lizard-spock/</link>
+      <pubDate>Mon, 22 Apr 2013 21:46:40 +0000</pubDate>
+      
+      <guid>//localhost:1313/rock-paper-scissors-lizard-spock/</guid>
+      <description>For an online coursera.org course on interactive python from Rice University. 1st project exercise.
+[ccn_python tab_size=&amp;ldquo;4&amp;rdquo; lines=&amp;ldquo;60&amp;rdquo;] import math import random
+def name_to_number(name): name = name.lower() if name == &amp;ldquo;rock&amp;rdquo;: return 0 elif name == &amp;ldquo;spock&amp;rdquo;: return 1 elif name == &amp;ldquo;paper&amp;rdquo;: return 2 elif name == &amp;ldquo;lizard&amp;rdquo;: return 3 elif name == &amp;ldquo;scissors&amp;rdquo;: return 4 else: return &amp;ldquo;Invalid hand sign &amp;lsquo;&amp;rdquo; + name + &amp;ldquo;&amp;rsquo;!\nplease choose: &amp;lsquo;rock&amp;rsquo;, &amp;lsquo;Spock&amp;rsquo;, &amp;lsquo;paper&amp;rsquo;, &amp;lsquo;lizard&amp;rsquo; or &amp;lsquo;scissors&amp;rsquo;&amp;rdquo;</description>
+    </item>
+    
+  </channel>
+</rss>

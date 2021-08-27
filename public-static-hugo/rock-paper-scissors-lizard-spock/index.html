@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+        <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="author" content="admin">
+<meta name="description" content="For an online coursera.org course on interactive python from Rice University. 1st project exercise.
+[ccn_python tab_size=&amp;ldquo;4&amp;rdquo; lines=&amp;ldquo;60&amp;rdquo;] import math import random
+def name_to_number(name): name = name.lower() if name == &amp;ldquo;rock&amp;rdquo;: return 0 elif name == &amp;ldquo;spock&amp;rdquo;: return 1 elif name == &amp;ldquo;paper&amp;rdquo;: return 2 elif name == &amp;ldquo;lizard&amp;rdquo;: return 3 elif name == &amp;ldquo;scissors&amp;rdquo;: return 4 else: return &amp;ldquo;Invalid hand sign &amp;lsquo;&amp;rdquo; &#43; name &#43; &amp;ldquo;&amp;rsquo;!\nplease choose: &amp;lsquo;rock&amp;rsquo;, &amp;lsquo;Spock&amp;rsquo;, &amp;lsquo;paper&amp;rsquo;, &amp;lsquo;lizard&amp;rsquo; or &amp;lsquo;scissors&amp;rsquo;&amp;rdquo;" />
+<meta name="keywords" content="[keywords] blog, Emacs, Hugo, technology, recipes, yearl, code, course, python" />
+<meta name="robots" content="noodp" />
+<meta name="theme-color" content="#223835" />
+<link rel="canonical" href="//localhost:1313/rock-paper-scissors-lizard-spock/" />
+
+
+    <title>
+        
+            Rock-Paper-Scissors-Lizard-Spock :: [::1] YEARL.US  — Hello, friendo.
+        
+    </title>
+
+
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/css/flag-icon.min.css" rel="stylesheet"
+    type="text/css">
+
+
+
+<link rel="stylesheet" href="//localhost:1313/main.dede02da9537a98158079c023e83573e18127834838ef08172acce888341a797.css">
+
+
+
+
+    <link rel="apple-touch-icon" sizes="180x180" href="//localhost:1313/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="//localhost:1313/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="//localhost:1313/favicon-16x16.png">
+    <link rel="manifest" href="//localhost:1313/site.webmanifest">
+    <link rel="mask-icon" href="//localhost:1313/safari-pinned-tab.svg" color="#223835">
+    <link rel="shortcut icon" href="//localhost:1313/favicon.ico">
+    <meta name="msapplication-TileColor" content="#223835">
+    <meta name="theme-color" content="#223835">
+
+
+
+<meta itemprop="name" content="Rock-Paper-Scissors-Lizard-Spock">
+<meta itemprop="description" content="For an online coursera.org course on interactive python from Rice University. 1st project exercise.
+[ccn_python tab_size=&ldquo;4&rdquo; lines=&ldquo;60&rdquo;] import math import random
+def name_to_number(name): name = name.lower() if name == &ldquo;rock&rdquo;: return 0 elif name == &ldquo;spock&rdquo;: return 1 elif name == &ldquo;paper&rdquo;: return 2 elif name == &ldquo;lizard&rdquo;: return 3 elif name == &ldquo;scissors&rdquo;: return 4 else: return &ldquo;Invalid hand sign &lsquo;&rdquo; &#43; name &#43; &ldquo;&rsquo;!\nplease choose: &lsquo;rock&rsquo;, &lsquo;Spock&rsquo;, &lsquo;paper&rsquo;, &lsquo;lizard&rsquo; or &lsquo;scissors&rsquo;&rdquo;">
+<meta itemprop="datePublished" content="2013-04-22T21:46:40+00:00" />
+<meta itemprop="dateModified" content="2013-04-22T21:46:40+00:00" />
+<meta itemprop="wordCount" content="186">
+<meta itemprop="image" content="//localhost:1313/"/>
+
+
+
+<meta itemprop="keywords" content="code,course,python," />
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="//localhost:1313/"/>
+
+<meta name="twitter:title" content="Rock-Paper-Scissors-Lizard-Spock"/>
+<meta name="twitter:description" content="For an online coursera.org course on interactive python from Rice University. 1st project exercise.
+[ccn_python tab_size=&ldquo;4&rdquo; lines=&ldquo;60&rdquo;] import math import random
+def name_to_number(name): name = name.lower() if name == &ldquo;rock&rdquo;: return 0 elif name == &ldquo;spock&rdquo;: return 1 elif name == &ldquo;paper&rdquo;: return 2 elif name == &ldquo;lizard&rdquo;: return 3 elif name == &ldquo;scissors&rdquo;: return 4 else: return &ldquo;Invalid hand sign &lsquo;&rdquo; &#43; name &#43; &ldquo;&rsquo;!\nplease choose: &lsquo;rock&rsquo;, &lsquo;Spock&rsquo;, &lsquo;paper&rsquo;, &lsquo;lizard&rsquo; or &lsquo;scissors&rsquo;&rdquo;"/>
+
+
+
+    <meta property="og:title" content="Rock-Paper-Scissors-Lizard-Spock" />
+<meta property="og:description" content="For an online coursera.org course on interactive python from Rice University. 1st project exercise.
+[ccn_python tab_size=&ldquo;4&rdquo; lines=&ldquo;60&rdquo;] import math import random
+def name_to_number(name): name = name.lower() if name == &ldquo;rock&rdquo;: return 0 elif name == &ldquo;spock&rdquo;: return 1 elif name == &ldquo;paper&rdquo;: return 2 elif name == &ldquo;lizard&rdquo;: return 3 elif name == &ldquo;scissors&rdquo;: return 4 else: return &ldquo;Invalid hand sign &lsquo;&rdquo; &#43; name &#43; &ldquo;&rsquo;!\nplease choose: &lsquo;rock&rsquo;, &lsquo;Spock&rsquo;, &lsquo;paper&rsquo;, &lsquo;lizard&rsquo; or &lsquo;scissors&rsquo;&rdquo;" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="//localhost:1313/rock-paper-scissors-lizard-spock/" />
+<meta property="og:image" content="//localhost:1313/"/>
+<meta property="article:published_time" content="2013-04-22T21:46:40+00:00" />
+<meta property="article:modified_time" content="2013-04-22T21:46:40+00:00" />
+
+
+
+
+
+
+    <meta property="article:published_time" content="2013-04-22 21:46:40 &#43;0000 &#43;0000" />
+
+
+
+
+
+
+
+
+    </head>
+
+    <body class="dark-theme">
+        <div class="container">
+            <header class="header">
+    <span class="header__inner">
+        <a href="//localhost:1313/" style="text-decoration: none;">
+    <div class="logo">
+        
+            <span class="logo__mark">></span>
+            <span class="logo__text"> ~</span>
+            <span class="logo__cursor" style=
+                  "
+                   background-color:#8fbcbb;
+                   ">
+            </span>
+        
+    </div>
+</a>
+
+
+        <span class="header__right">
+            
+                <nav class="menu">
+    <ul class="menu__inner"><li><a href="//localhost:1313/about/">About</a></li><li><a href="//localhost:1313/posts/">Stephen</a></li>
+    </ul>
+</nav>
+
+                <span class="menu-trigger">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                        <path d="M0 0h24v24H0z" fill="none"/>
+                        <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+                    </svg>
+                </span>
+            
+
+            <span class="theme-toggle unselectable"><svg class="theme-toggler" width="24" height="24" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M22 41C32.4934 41 41 32.4934 41 22C41 11.5066 32.4934 3 22
+  3C11.5066 3 3 11.5066 3 22C3 32.4934 11.5066 41 22 41ZM7 22C7
+  13.7157 13.7157 7 22 7V37C13.7157 37 7 30.2843 7 22Z"/>
+</svg>
+</span>
+        </span>
+    </span>
+</header>
+
+
+            <div class="content">
+                
+    <main class="post">
+        <div class="post-info">
+            <p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-clock"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>One minute
+
+            
+
+            </p>
+        </div>
+
+        <article>
+            <h1 class="post-title">
+                <a href="//localhost:1313/rock-paper-scissors-lizard-spock/">Rock-Paper-Scissors-Lizard-Spock</a>
+            </h1>
+
+            
+
+            <div class="post-content">
+                <p>For an online <a href="http://www.coursera.org">coursera.org</a> course on interactive python from Rice University. 1st project exercise.</p>
+<p>[ccn_python tab_size=&ldquo;4&rdquo; lines=&ldquo;60&rdquo;]
+import math
+import random</p>
+<p>def name_to_number(name):
+name = name.lower()
+if name == &ldquo;rock&rdquo;:
+return 0
+elif name == &ldquo;spock&rdquo;:
+return 1
+elif name == &ldquo;paper&rdquo;:
+return 2
+elif name == &ldquo;lizard&rdquo;:
+return 3
+elif name == &ldquo;scissors&rdquo;:
+return 4
+else:
+return &ldquo;Invalid hand sign &lsquo;&rdquo; + name + &ldquo;&rsquo;!\nplease choose: &lsquo;rock&rsquo;, &lsquo;Spock&rsquo;, &lsquo;paper&rsquo;, &lsquo;lizard&rsquo; or &lsquo;scissors&rsquo;&rdquo;</p>
+<p>def number_to_name(number):
+if number == 0:
+return &ldquo;rock&rdquo;
+elif number == 1:
+return &ldquo;Spock&rdquo;
+elif number == 2:
+return &ldquo;paper&rdquo;
+elif number == 3:
+return &ldquo;lizard&rdquo;
+else:
+number == 4
+return &ldquo;scissors&rdquo;</p>
+<p>def rpsls(name):
+player_val = name_to_number(name)
+computer_val = random.randrange(0,5)</p>
+<pre><code>mod_val = (player_val - computer_val) % 5  
+if mod_val == 0:
+    winner = &quot;Player and computer tie!&quot;
+elif mod_val &gt; 0  and mod_val &lt; 3:
+    winner = &quot;Player wins!&quot;
+else:
+    winner = &quot;Computer wins!&quot;
+
+print &quot;Player choosses &quot; + number_to_name(player_val) #+ &quot; (&quot; + str(player_val) + &quot;)&quot;
+print &quot;Computer chooses &quot; + number_to_name(computer_val) #+ &quot; (&quot; + str(computer_val) + &quot;)&quot;
+print winner
+#print mod_val
+print &quot;\n&quot;
+</code></pre>
+<h3 id="output">OUTPUT</h3>
+<p>rpsls(&ldquo;Rock&rdquo;)
+rpsls(&ldquo;scissors&rdquo;)
+rpsls(&ldquo;paper&rdquo;)
+rpsls(&ldquo;lizard&rdquo;)
+rpsls(&ldquo;spock&rdquo;)
+[/ccn_python]</p>
+
+            </div>
+        </article>
+
+        <hr />
+
+        <div class="post-info">
+                <p>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-tag meta-icon"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7" y2="7"></line></svg><span class="tag"><a href="//localhost:1313/tags/code">code</a></span><span class="tag"><a href="//localhost:1313/tags/course">course</a></span><span class="tag"><a href="//localhost:1313/tags/python">python</a></span>
+                </p>
+
+            <p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>186 Words</p>
+
+            <p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-calendar"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>2013-04-22 22:46 &#43;0100</p>
+        </div>
+
+        
+            <div class="pagination">
+                <div class="pagination__title">
+                    <span class="pagination__title-h"></span>
+                    <hr />
+                </div>
+
+                <div class="pagination__buttons">
+                    
+                        <span class="button previous">
+                            <a href="//localhost:1313/classical-greek/">
+                                <span class="button__icon">←</span>
+                                <span class="button__text">Classical Greek</span>
+                            </a>
+                        </span>
+                    
+
+                    
+                        <span class="button next">
+                            <a href="//localhost:1313/gluten-free-corn-dogs/">
+                                <span class="button__text">Gluten Free Corn Dogs</span>
+                                <span class="button__icon">→</span>
+                            </a>
+                        </span>
+                    
+                </div>
+            </div>
+        
+            <div id="comments" class="thin">
+                <div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "@usyearlsjy" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+            </div>
+    </main>
+
+            </div>
+
+            
+                <footer class="footer">
+    <div class="footer__inner">
+        <div class="footer__content">
+            <span>&copy; 2021</span>
+            
+                <span><a href="//localhost:1313/">yearlus</a></span>
+            
+            <span><a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a></span>
+            
+        </div>
+    </div>
+    
+</footer>
+
+            
+        </div>
+
+        
+
+
+
+
+<script type="text/javascript" src="//localhost:1313/bundle.min.dc716e9092c9820b77f96da294d0120aeeb189b5bcea9752309ebea27fd53bbe6b13cffb2aca8ecf32525647ceb7001f76091de4199ac5a3caa432c070247f5b.js" integrity="sha512-3HFukJLJggt3&#43;W2ilNASCu6xibW86pdSMJ6&#43;on/VO75rE8/7KsqOzzJSVkfOtwAfdgkd5BmaxaPKpDLAcCR/Ww=="></script>
+
+
+
+    </body>
+</html>

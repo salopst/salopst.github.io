@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SSH on [::1] YEARL.US</title>
+    <link>//localhost:1313/tags/ssh/</link>
+    <description>Recent content in SSH on [::1] YEARL.US</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 14 Dec 2014 13:20:54 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/ssh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SSH key pair authentication</title>
+      <link>//localhost:1313/ssh-key-pair-authentication/</link>
+      <pubDate>Sun, 14 Dec 2014 13:20:54 +0000</pubDate>
+      
+      <guid>//localhost:1313/ssh-key-pair-authentication/</guid>
+      <description>Well flummery. It&amp;rsquo;s been a while since I had to do this, so here, future self, some awesome notes&amp;hellip;
+LOCAL
+[cc lang=bash]$ ssh-keygen -t rsa -b 4096 -f ~/.ssh/id_rsa_4096 $ scp -P 2222 192.168.0.108:/home/yearluk/.ssh/yearluk.ehecatl.pub[/cc]
+SSH to REMOTE&amp;hellip;
+[cc lang=bash]$ cat ~/.ssh/yearluk.ehecatl.pub &amp;raquo; authorized_keys[/cc]</description>
+    </item>
+    
+  </channel>
+</rss>

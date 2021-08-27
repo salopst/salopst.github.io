@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on [::1] YEARL.US</title>
+    <link>//localhost:1313/tags/blog/</link>
+    <description>Recent content in blog on [::1] YEARL.US</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 24 Apr 2016 00:01:57 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Posting from IA Writer to Wordpress (Coleman)</title>
+      <link>//localhost:1313/posting-from-ia-writer-to-wordpress-coleman/</link>
+      <pubDate>Sun, 24 Apr 2016 00:01:57 +0000</pubDate>
+      
+      <guid>//localhost:1313/posting-from-ia-writer-to-wordpress-coleman/</guid>
+      <description>IA Writer to Wordpress 0. Wha? With the coming of the new doggie into the house, perhaps I will again add more content to the bloggy thing that I have kinda sorta not really been keeping over the last little while.
+Probably this has been done by someone else on the Intertubz, but ach, why not. I have some time on my hands, so here are running notes in IA Writer that will make its way to a Wordpress post by some means or other.</description>
+    </item>
+    
+    <item>
+      <title>74111101&#39;s The Universe questions</title>
+      <link>//localhost:1313/74111101s-the-universe-questions/</link>
+      <pubDate>Tue, 02 Apr 2013 14:03:45 +0000</pubDate>
+      
+      <guid>//localhost:1313/74111101s-the-universe-questions/</guid>
+      <description>74111101&amp;ndash; yes, my eldest insists on representing himself as the ASCII decimal code point values for his name&amp;ndash; and I have been watching the History Channel&amp;rsquo;s The Universe. Below some of 74&amp;rsquo;s questions (typed verbatim from his notes) that he hopes to have answered after writing to some of the presenters in the series.
+Questions   If the Universe keeps on expanding will it eventually rip apart the things that make up dark energy?</description>
+    </item>
+    
+    <item>
+      <title>From Posterous to Wordpress</title>
+      <link>//localhost:1313/from-posterous-to-wordpress/</link>
+      <pubDate>Sat, 16 Feb 2013 21:56:25 +0000</pubDate>
+      
+      <guid>//localhost:1313/from-posterous-to-wordpress/</guid>
+      <description>The not-very-much-used-by-me Posterous is going offline on April 30th 2013, roughly 12 months after its acquisition by Twitter. I had a few on-and-off posts there, and I guess it would sort of be a shame to loose them, so this is an attempted replacement. The Posterous blog is copied here: http://sjy.yearl.us/sjy/posterous/blog.yearl.us/ &amp;hellip; that was a simple [ccI_bash]wget -r -l inf -k -E -p -nc blog.yearl.us [/cc] but I thought I&amp;rsquo;d also try and group these pages into Wordpress itself a lá http://en.</description>
+    </item>
+    
+    <item>
+      <title>Wordpress</title>
+      <link>//localhost:1313/wordpress/</link>
+      <pubDate>Sun, 29 Jan 2012 14:02:46 +0000</pubDate>
+      
+      <guid>//localhost:1313/wordpress/</guid>
+      <description>Fsked the http://mary.yearl.us WP install last night whilst arsing with names. One single bloody typo in &amp;ldquo;site URL&amp;rdquo; and good luck getting back into the admin panel. WP does not even offer a warning that changing this might be a bad thing, or potentially so.
+Fortunately having access to the database I could edit the value in-place in the tables&amp;hellip; now all is well again with the world.
+&amp;hellip;except for the fact that I felt I had to sign up&amp;ndash;finally&amp;ndash; for a twitter account just so I could get an API key in order to explore some things on Mar&amp;rsquo;s blog.</description>
+    </item>
+    
+  </channel>
+</rss>

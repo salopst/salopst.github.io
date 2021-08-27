@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+        <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="author" content="admin">
+<meta name="description" content="The general format of invoking ffmpeg from the command line is:
+[cc lang=&amp;ldquo;bash&amp;rdquo; nowrap=&amp;ldquo;false&amp;rdquo;]ffmpeg -i in.mp4 -ss [start] -t [duration] -c:v copy -c:a copy out.mp4[/cc]
+Of the below, #5a seemed to work the best&amp;hellip;
+[cc lang=&amp;ldquo;bash&amp;rdquo; nowrap=&amp;ldquo;false&amp;rdquo;]$ ffmpeg -i ~/Movies/Edge.Of.Darkness.2010/Edge.Of.Darkness.2010.avi -ss 00:54:54 -t 00:00:7 -c:v libx264 -crf 26 -af &amp;ldquo;volume=10dB&amp;rdquo; -pix_fmt yuv420p ~/Movies/vlc-clip-05a.mp4[/cc]
+ Other attempts:
+1 Works, but drops few ms of video. Copies video; sets volume. 262 KB [cc lang=&amp;ldquo;bash&amp;rdquo; nowrap=&amp;ldquo;false&amp;rdquo;]$ ffmpeg -i ~/Movies/Edge." />
+<meta name="keywords" content="[keywords] blog, Emacs, Hugo, technology, recipes, yearl" />
+<meta name="robots" content="noodp" />
+<meta name="theme-color" content="#223835" />
+<link rel="canonical" href="//localhost:1313/everything-is-illegal-in-massachusetts-some-ffmpeg-examples/" />
+
+
+    <title>
+        
+            Everything is illegal in Massachusetts -- some FFMPEG examples :: [::1] YEARL.US  — Hello, friendo.
+        
+    </title>
+
+
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/css/flag-icon.min.css" rel="stylesheet"
+    type="text/css">
+
+
+
+<link rel="stylesheet" href="//localhost:1313/main.dede02da9537a98158079c023e83573e18127834838ef08172acce888341a797.css">
+
+
+
+
+    <link rel="apple-touch-icon" sizes="180x180" href="//localhost:1313/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="//localhost:1313/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="//localhost:1313/favicon-16x16.png">
+    <link rel="manifest" href="//localhost:1313/site.webmanifest">
+    <link rel="mask-icon" href="//localhost:1313/safari-pinned-tab.svg" color="#223835">
+    <link rel="shortcut icon" href="//localhost:1313/favicon.ico">
+    <meta name="msapplication-TileColor" content="#223835">
+    <meta name="theme-color" content="#223835">
+
+
+
+<meta itemprop="name" content="Everything is illegal in Massachusetts -- some FFMPEG examples">
+<meta itemprop="description" content="The general format of invoking ffmpeg from the command line is:
+[cc lang=&ldquo;bash&rdquo; nowrap=&ldquo;false&rdquo;]ffmpeg -i in.mp4 -ss [start] -t [duration] -c:v copy -c:a copy out.mp4[/cc]
+Of the below, #5a seemed to work the best&hellip;
+[cc lang=&ldquo;bash&rdquo; nowrap=&ldquo;false&rdquo;]$ ffmpeg -i ~/Movies/Edge.Of.Darkness.2010/Edge.Of.Darkness.2010.avi -ss 00:54:54 -t 00:00:7 -c:v libx264 -crf 26 -af &ldquo;volume=10dB&rdquo; -pix_fmt yuv420p ~/Movies/vlc-clip-05a.mp4[/cc]
+ Other attempts:
+1 Works, but drops few ms of video. Copies video; sets volume. 262 KB [cc lang=&ldquo;bash&rdquo; nowrap=&ldquo;false&rdquo;]$ ffmpeg -i ~/Movies/Edge.">
+<meta itemprop="datePublished" content="2015-07-04T15:15:22+00:00" />
+<meta itemprop="dateModified" content="2015-07-04T15:15:22+00:00" />
+<meta itemprop="wordCount" content="422">
+<meta itemprop="image" content="//localhost:1313/"/>
+
+
+
+<meta itemprop="keywords" content="" />
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="//localhost:1313/"/>
+
+<meta name="twitter:title" content="Everything is illegal in Massachusetts -- some FFMPEG examples"/>
+<meta name="twitter:description" content="The general format of invoking ffmpeg from the command line is:
+[cc lang=&ldquo;bash&rdquo; nowrap=&ldquo;false&rdquo;]ffmpeg -i in.mp4 -ss [start] -t [duration] -c:v copy -c:a copy out.mp4[/cc]
+Of the below, #5a seemed to work the best&hellip;
+[cc lang=&ldquo;bash&rdquo; nowrap=&ldquo;false&rdquo;]$ ffmpeg -i ~/Movies/Edge.Of.Darkness.2010/Edge.Of.Darkness.2010.avi -ss 00:54:54 -t 00:00:7 -c:v libx264 -crf 26 -af &ldquo;volume=10dB&rdquo; -pix_fmt yuv420p ~/Movies/vlc-clip-05a.mp4[/cc]
+ Other attempts:
+1 Works, but drops few ms of video. Copies video; sets volume. 262 KB [cc lang=&ldquo;bash&rdquo; nowrap=&ldquo;false&rdquo;]$ ffmpeg -i ~/Movies/Edge."/>
+
+
+
+    <meta property="og:title" content="Everything is illegal in Massachusetts -- some FFMPEG examples" />
+<meta property="og:description" content="The general format of invoking ffmpeg from the command line is:
+[cc lang=&ldquo;bash&rdquo; nowrap=&ldquo;false&rdquo;]ffmpeg -i in.mp4 -ss [start] -t [duration] -c:v copy -c:a copy out.mp4[/cc]
+Of the below, #5a seemed to work the best&hellip;
+[cc lang=&ldquo;bash&rdquo; nowrap=&ldquo;false&rdquo;]$ ffmpeg -i ~/Movies/Edge.Of.Darkness.2010/Edge.Of.Darkness.2010.avi -ss 00:54:54 -t 00:00:7 -c:v libx264 -crf 26 -af &ldquo;volume=10dB&rdquo; -pix_fmt yuv420p ~/Movies/vlc-clip-05a.mp4[/cc]
+ Other attempts:
+1 Works, but drops few ms of video. Copies video; sets volume. 262 KB [cc lang=&ldquo;bash&rdquo; nowrap=&ldquo;false&rdquo;]$ ffmpeg -i ~/Movies/Edge." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="//localhost:1313/everything-is-illegal-in-massachusetts-some-ffmpeg-examples/" />
+<meta property="og:image" content="//localhost:1313/"/>
+<meta property="article:published_time" content="2015-07-04T15:15:22+00:00" />
+<meta property="article:modified_time" content="2015-07-04T15:15:22+00:00" />
+
+
+
+
+    <meta property="article:section" content="tech" />
+
+
+
+    <meta property="article:published_time" content="2015-07-04 15:15:22 &#43;0000 &#43;0000" />
+
+
+
+
+
+
+
+
+    </head>
+
+    <body class="dark-theme">
+        <div class="container">
+            <header class="header">
+    <span class="header__inner">
+        <a href="//localhost:1313/" style="text-decoration: none;">
+    <div class="logo">
+        
+            <span class="logo__mark">></span>
+            <span class="logo__text"> ~</span>
+            <span class="logo__cursor" style=
+                  "
+                   background-color:#8fbcbb;
+                   ">
+            </span>
+        
+    </div>
+</a>
+
+
+        <span class="header__right">
+            
+                <nav class="menu">
+    <ul class="menu__inner"><li><a href="//localhost:1313/about/">About</a></li><li><a href="//localhost:1313/posts/">Stephen</a></li>
+    </ul>
+</nav>
+
+                <span class="menu-trigger">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                        <path d="M0 0h24v24H0z" fill="none"/>
+                        <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+                    </svg>
+                </span>
+            
+
+            <span class="theme-toggle unselectable"><svg class="theme-toggler" width="24" height="24" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M22 41C32.4934 41 41 32.4934 41 22C41 11.5066 32.4934 3 22
+  3C11.5066 3 3 11.5066 3 22C3 32.4934 11.5066 41 22 41ZM7 22C7
+  13.7157 13.7157 7 22 7V37C13.7157 37 7 30.2843 7 22Z"/>
+</svg>
+</span>
+        </span>
+    </span>
+</header>
+
+
+            <div class="content">
+                
+    <main class="post">
+        <div class="post-info">
+            <p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-clock"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>2 minutes
+
+            
+
+            </p>
+        </div>
+
+        <article>
+            <h1 class="post-title">
+                <a href="//localhost:1313/everything-is-illegal-in-massachusetts-some-ffmpeg-examples/">Everything is illegal in Massachusetts &ndash; some FFMPEG examples</a>
+            </h1>
+
+            
+
+            <div class="post-content">
+                <p>The general format of invoking ffmpeg from the command line is:</p>
+<p>[cc lang=&ldquo;bash&rdquo; nowrap=&ldquo;false&rdquo;]ffmpeg  -i in.mp4 -ss [start] -t [duration] -c:v copy -c:a copy out.mp4[/cc]</p>
+<p>Of the below, #5a seemed to work the best&hellip;</p>
+<p>[cc lang=&ldquo;bash&rdquo; nowrap=&ldquo;false&rdquo;]$ ffmpeg -i ~/Movies/Edge.Of.Darkness.2010/Edge.Of.Darkness.2010.avi -ss  00:54:54 -t 00:00:7  -c:v libx264 -crf 26 -af &ldquo;volume=10dB&rdquo; -pix_fmt yuv420p ~/Movies/vlc-clip-05a.mp4[/cc]</p>
+<hr>
+<p>Other attempts:</p>
+<h1 id="1-works-but-drops-few-ms-of-video-copies-video-sets-volume-262-kb">1     Works, but drops few ms of video. Copies video; sets volume. 262 KB</h1>
+<p>[cc lang=&ldquo;bash&rdquo; nowrap=&ldquo;false&rdquo;]$ ffmpeg -i ~/Movies/Edge.Of.Darkness.2010/Edge.Of.Darkness.2010.avi -ss  00:54:54 -t 00:00:7  -c:v copy -af &ldquo;volume=10dB&rdquo;  ~/Movies/vlc-clip-01.mp4[/cc]</p>
+<h1 id="as-above-but-addresses-bframes-issue">as above but addresses bframes issue</h1>
+<p>[cc lang=&ldquo;bash&rdquo; nowrap=&ldquo;false&rdquo;]$ ffmpeg -i ~/Movies/Edge.Of.Darkness.2010/Edge.Of.Darkness.2010.avi -ss  00:54:54 -t 00:00:7  -c:v copy  -bsf:v mpeg4_unpack_bframes -af &ldquo;volume=10dB&rdquo;  ~/Movies/vlc-clip-01a.mp4[cc/]</p>
+<h1 id="2-perfect-video-transocded-to-h264-lossless-volume-increased-44-mb-file-though-59s-to-encode">2     Perfect. Video transocded to H264, lossless. Volume increased. 4.4 MB file though! 59s to encode!</h1>
+<p>[cc]$ ffmpeg -i ~/Movies/Edge.Of.Darkness.2010/Edge.Of.Darkness.2010.avi -ss  00:54:54 -t 00:00:7  -c:v libx264 -preset ultrafast -qp 0 -af &ldquo;volume=10dB&rdquo;  ~/Movies/vlc-clip-02.mp4[/cc]</p>
+<h1 id="3-very-good-video-transocded-to-h264-optimised-for-fast-encoding-482-kb-49s-encode-time">3     Very good. Video transocded to H264, optimised for fast encoding. 482 KB, 49s encode time.</h1>
+<p>[cc lang=&ldquo;bash&rdquo; nowrap=&ldquo;false&rdquo;]$ ffmpeg -i ~/Movies/Edge.Of.Darkness.2010/Edge.Of.Darkness.2010.avi -ss  00:54:54 -t 00:00:7  -c:v libx264 -preset ultrafast -af &ldquo;volume=10dB&rdquo;  ~/Movies/vlc-clip-03.mp4[/cc]</p>
+<h1 id="4-best-yet-video-transocded-to-h264-optimised-for-youtube-246-kb-47s-to-encode">4     Best yet. Video transocded to H264, optimised for youtube. 246 KB. 47s to encode.</h1>
+<p>[cc lang=&ldquo;bash&rdquo; nowrap=&ldquo;false&rdquo;]ffmpeg -i ~/Movies/Edge.Of.Darkness.2010/Edge.Of.Darkness.2010.avi -ss  00:54:54 -t 00:00:7  -c:v libx264 -preset slow -af &ldquo;volume=10dB&rdquo; -pix_fmt yuv420p ~/Movies/vlc-clip-04.mp4[/cc]</p>
+<h1 id="crf-constant-rate-factor-scale-is-0-51-where-0-is-lossless-23-is-default-and-51-is-worst-possible">CRF (Constant Rate Factor) scale is 0-51: where 0 is lossless, 23 is default, and 51 is worst possible.</h1>
+<h1 id="a-lower-value-is-a-higher-quality-and-a-subjectively-sane-range-is-18-28">A lower value is a higher quality and a subjectively sane range is 18-28.</h1>
+<h1 id="consider-18-to-be-visually-lossless-or-nearly-so">Consider 18 to be visually lossless or nearly so</h1>
+<h1 id="the-range-is-exponential-so-increasing-the-crf-value-6-is-roughly-half-the-bitrate">The range is exponential, so increasing the CRF value +6 is roughly half the bitrate.</h1>
+<h1 id="choose-the-highest-crf-value-that-still-looks-good">Choose the highest CRF value that still looks good</h1>
+<h1 id="5-bester---audio-not-increased-but-sounds-great-except-on-youtube-grrr-quality-just-fine-185-kb-30s-to-encode">5     Bester :-)&hellip; audio not increased, but sounds great (except on youtube. Grrr). Quality just fine. 185 KB. 30s to encode.</h1>
+<p>[cc lang=&ldquo;bash&rdquo; nowrap=&ldquo;false&rdquo;]$ ffmpeg -i ~/Movies/Edge.Of.Darkness.2010/Edge.Of.Darkness.2010.avi -ss  00:54:54 -t 00:00:7  -c:v libx264 -crf 26 -c:a copy -pix_fmt yuv420p ~/Movies/vlc-clip-05.mp4[/cc]</p>
+<h1 id="5a-as-above-but-with-vol-inc">5a as above but with vol. inc.</h1>
+<p>[cc lang=&ldquo;bash&rdquo; nowrap=&ldquo;false&rdquo;]$ ffmpeg -i ~/Movies/Edge.Of.Darkness.2010/Edge.Of.Darkness.2010.avi -ss  00:54:54 -t 00:00:7  -c:v libx264 -crf 26 -af &ldquo;volume=10dB&rdquo; -pix_fmt yuv420p ~/Movies/vlc-clip-05a.mp4[/cc]</p>
+<p>#6 as above 47 s to encode. 13 KB&hellip; bit worse, but not worth the extra encoding time for the file size delta
+[cc lang=&ldquo;bash&rdquo; nowrap=&ldquo;false&rdquo;]$ ffmpeg -i ~/Movies/Edge.Of.Darkness.2010/Edge.Of.Darkness.2010.avi -ss  00:54:54 -t 00:00:7  -c:v libx264 -crf 30  -c:a copy -pix_fmt yuv420p ~/Movies/vlc-clip-06.mp4[/cc]</p>
+<p>#7 as #5, but with -bsf:v mpeg4_unpack_bframes bitstream
+[cc]$ ffmpeg -i ~/Movies/Edge.Of.Darkness.2010/Edge.Of.Darkness.2010.avi -ss  00:54:54 -t 00:00:7 -c:v libx264 -crf 26  -c:a copy -pix_fmt yuv420p -flags global_header ~/Movies/vlc-clip-07.mp4[/cc]</p>
+<p>[cc lang=&ldquo;bash&rdquo; nowrap=&ldquo;false&rdquo;]$ ffmpeg -i ~/Movies/L-sit.mp4 -c:v libx264 -crf 26 -c:a copy -pix_fmt yuv420p ~/Movies/l-sit-01.mp4[/cc]</p>
+
+            </div>
+        </article>
+
+        <hr />
+
+        <div class="post-info">
+
+            <p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>422 Words</p>
+
+            <p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-calendar"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>2015-07-04 16:15 &#43;0100</p>
+        </div>
+
+        
+            <div class="pagination">
+                <div class="pagination__title">
+                    <span class="pagination__title-h"></span>
+                    <hr />
+                </div>
+
+                <div class="pagination__buttons">
+                    
+                        <span class="button previous">
+                            <a href="//localhost:1313/keto-started-yesterday/">
+                                <span class="button__icon">←</span>
+                                <span class="button__text">keto started yesterday</span>
+                            </a>
+                        </span>
+                    
+
+                    
+                        <span class="button next">
+                            <a href="//localhost:1313/homebrew-woes.-wtf/">
+                                <span class="button__text">homebrew woes. WTF?</span>
+                                <span class="button__icon">→</span>
+                            </a>
+                        </span>
+                    
+                </div>
+            </div>
+        
+            <div id="comments" class="thin">
+                <div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "@usyearlsjy" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+            </div>
+    </main>
+
+            </div>
+
+            
+                <footer class="footer">
+    <div class="footer__inner">
+        <div class="footer__content">
+            <span>&copy; 2021</span>
+            
+                <span><a href="//localhost:1313/">yearlus</a></span>
+            
+            <span><a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a></span>
+            
+        </div>
+    </div>
+    
+</footer>
+
+            
+        </div>
+
+        
+
+
+
+
+<script type="text/javascript" src="//localhost:1313/bundle.min.dc716e9092c9820b77f96da294d0120aeeb189b5bcea9752309ebea27fd53bbe6b13cffb2aca8ecf32525647ceb7001f76091de4199ac5a3caa432c070247f5b.js" integrity="sha512-3HFukJLJggt3&#43;W2ilNASCu6xibW86pdSMJ6&#43;on/VO75rE8/7KsqOzzJSVkfOtwAfdgkd5BmaxaPKpDLAcCR/Ww=="></script>
+
+
+
+    </body>
+</html>

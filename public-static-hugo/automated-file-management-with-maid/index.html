@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+        <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="author" content="admin">
+<meta name="description" content="I&amp;rsquo;ve been playing with Hazel a bit recently, mostly so I can get a handle on it to support others&#39; usage of a simple file automation/ housekeeping application. I like it, but it is somewhat limited in not allowed nested conditional and other basic logic statements. Anyway, what Hazel does is not much more&amp;ndash; and very frequently less&amp;ndash; that what I&amp;rsquo;ve been doing with ad hoc cron scripts. These are not very tidy having built built up over the years." />
+<meta name="keywords" content="[keywords] blog, Emacs, Hugo, technology, recipes, yearl, apps, medical, OS X, ruby, scripts, wrist" />
+<meta name="robots" content="noodp" />
+<meta name="theme-color" content="#223835" />
+<link rel="canonical" href="//localhost:1313/automated-file-management-with-maid/" />
+
+
+    <title>
+        
+            Automated file management with maid :: [::1] YEARL.US  — Hello, friendo.
+        
+    </title>
+
+
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/css/flag-icon.min.css" rel="stylesheet"
+    type="text/css">
+
+
+
+<link rel="stylesheet" href="//localhost:1313/main.dede02da9537a98158079c023e83573e18127834838ef08172acce888341a797.css">
+
+
+
+
+    <link rel="apple-touch-icon" sizes="180x180" href="//localhost:1313/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="//localhost:1313/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="//localhost:1313/favicon-16x16.png">
+    <link rel="manifest" href="//localhost:1313/site.webmanifest">
+    <link rel="mask-icon" href="//localhost:1313/safari-pinned-tab.svg" color="#223835">
+    <link rel="shortcut icon" href="//localhost:1313/favicon.ico">
+    <meta name="msapplication-TileColor" content="#223835">
+    <meta name="theme-color" content="#223835">
+
+
+
+<meta itemprop="name" content="Automated file management with maid">
+<meta itemprop="description" content="I&rsquo;ve been playing with Hazel a bit recently, mostly so I can get a handle on it to support others&#39; usage of a simple file automation/ housekeeping application. I like it, but it is somewhat limited in not allowed nested conditional and other basic logic statements. Anyway, what Hazel does is not much more&ndash; and very frequently less&ndash; that what I&rsquo;ve been doing with ad hoc cron scripts. These are not very tidy having built built up over the years.">
+<meta itemprop="datePublished" content="2013-07-22T23:05:50+00:00" />
+<meta itemprop="dateModified" content="2013-07-22T23:05:50+00:00" />
+<meta itemprop="wordCount" content="572">
+<meta itemprop="image" content="//localhost:1313/"/>
+
+
+
+<meta itemprop="keywords" content="apps,medical,OS X,ruby,scripts,wrist," />
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="//localhost:1313/"/>
+
+<meta name="twitter:title" content="Automated file management with maid"/>
+<meta name="twitter:description" content="I&rsquo;ve been playing with Hazel a bit recently, mostly so I can get a handle on it to support others&#39; usage of a simple file automation/ housekeeping application. I like it, but it is somewhat limited in not allowed nested conditional and other basic logic statements. Anyway, what Hazel does is not much more&ndash; and very frequently less&ndash; that what I&rsquo;ve been doing with ad hoc cron scripts. These are not very tidy having built built up over the years."/>
+
+
+
+    <meta property="og:title" content="Automated file management with maid" />
+<meta property="og:description" content="I&rsquo;ve been playing with Hazel a bit recently, mostly so I can get a handle on it to support others&#39; usage of a simple file automation/ housekeeping application. I like it, but it is somewhat limited in not allowed nested conditional and other basic logic statements. Anyway, what Hazel does is not much more&ndash; and very frequently less&ndash; that what I&rsquo;ve been doing with ad hoc cron scripts. These are not very tidy having built built up over the years." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="//localhost:1313/automated-file-management-with-maid/" />
+<meta property="og:image" content="//localhost:1313/"/>
+<meta property="article:published_time" content="2013-07-22T23:05:50+00:00" />
+<meta property="article:modified_time" content="2013-07-22T23:05:50+00:00" />
+
+
+
+
+
+
+    <meta property="article:published_time" content="2013-07-22 23:05:50 &#43;0000 &#43;0000" />
+
+
+
+
+
+
+
+
+    </head>
+
+    <body class="dark-theme">
+        <div class="container">
+            <header class="header">
+    <span class="header__inner">
+        <a href="//localhost:1313/" style="text-decoration: none;">
+    <div class="logo">
+        
+            <span class="logo__mark">></span>
+            <span class="logo__text"> ~</span>
+            <span class="logo__cursor" style=
+                  "
+                   background-color:#8fbcbb;
+                   ">
+            </span>
+        
+    </div>
+</a>
+
+
+        <span class="header__right">
+            
+                <nav class="menu">
+    <ul class="menu__inner"><li><a href="//localhost:1313/about/">About</a></li><li><a href="//localhost:1313/posts/">Stephen</a></li>
+    </ul>
+</nav>
+
+                <span class="menu-trigger">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                        <path d="M0 0h24v24H0z" fill="none"/>
+                        <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+                    </svg>
+                </span>
+            
+
+            <span class="theme-toggle unselectable"><svg class="theme-toggler" width="24" height="24" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M22 41C32.4934 41 41 32.4934 41 22C41 11.5066 32.4934 3 22
+  3C11.5066 3 3 11.5066 3 22C3 32.4934 11.5066 41 22 41ZM7 22C7
+  13.7157 13.7157 7 22 7V37C13.7157 37 7 30.2843 7 22Z"/>
+</svg>
+</span>
+        </span>
+    </span>
+</header>
+
+
+            <div class="content">
+                
+    <main class="post">
+        <div class="post-info">
+            <p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-clock"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>3 minutes
+
+            
+
+            </p>
+        </div>
+
+        <article>
+            <h1 class="post-title">
+                <a href="//localhost:1313/automated-file-management-with-maid/">Automated file management with maid</a>
+            </h1>
+
+            
+
+            <div class="post-content">
+                <p>I&rsquo;ve been playing with <a href="http://www.noodlesoft.com/hazel.php">Hazel</a> a bit recently, mostly so I can get a handle on it to support others' usage of a simple file automation/ housekeeping application. I like it, but it is somewhat limited in not allowed nested conditional and other basic logic statements. Anyway, what Hazel does is not much more&ndash; and very frequently less&ndash; that what I&rsquo;ve been doing with ad hoc cron scripts. These are not very tidy having built built up over the years. And so I Googled and I found a x-platform, ruby based Hazel alternative in <a href="http://rubygems.org/gems/maid">maid</a>.</p>
+<p>[cc_dos]$ gem install maid[/cc_dos]</p>
+<p>Well I get a slew of errors, so:</p>
+<p>[cc lang=&ldquo;dos&rdquo;]
+$ which ruby
+/usr/local/bin/ruby
+$ ruby -v
+ruby 1.8.6 (2007-03-13 patchlevel 0) [i686-darwin8.10.1]
+[/cc]</p>
+<p>This version corresponds to Apple&rsquo;s default on early 2008 Macbook Pros which came preinstalled with Leopard (OS X 10.5). I guess this shows that although I am running Mountain Lion now on a mid-2012 MBP I have not had a clean OS install since April &lsquo;08, and I have never done so myself on my own machine. So, proof that:</p>
+<ol>
+<li>
+<p>I am lazy?</p>
+</li>
+<li>
+<p>Upgrades work &lsquo;plenty fine&rsquo;, and Apple do a pretty good job in this regard?</p>
+</li>
+<li>
+<p>I&rsquo;m scared of losing all the custom build of compilers, interpreters, symlinks, scripts in odd locations doing various things, settings galore… etc, etc. that make this machine mine?</p>
+</li>
+</ol>
+<p>Think I&rsquo;ll persist on this path through Mavericks <em>then</em> start fresh with OS XI… if I am am still using an increasingly annoying Apple OS.</p>
+<p>[ccW_dos]
+$ ls -la /usr/bin | grep ruby
+lrwxr-xr-x     1 root   wheel        76 Jul 27  2012 ruby -&gt; ../../System/Library/Frameworks/Ruby.framework/Versions/Current/usr/bin/ruby
+-rwxr-xr-x     1 root   wheel       450 Nov 18  2011 sqlite3_ruby</p>
+<p>$ rvm -v
+rvm 1.9.0 by Wayne E. Seguin (<a href="mailto:wayneeseguin@gmail.com">wayneeseguin@gmail.com</a>) [https://rvm.beginrescueend.com]
+$ ls -la /Users/yearlus/.rvm/rubies/
+drwxr-xr-x   8 yearlus  yearlus  272 Oct 26  2011 ruby-1.9.2-p290
+[/ccW_dos]</p>
+<p>update rvm:</p>
+<p>[cc_dos]
+$ cd ~/.rvm/
+$ \curl -L https://get.rvm.io | bash -s &ndash; &ndash;version latest
+$ rvm -v
+A RVM version 1.21.13 is installed yet 1.9.0 is loaded.
+ Please do one of the following:
+  * &lsquo;rvm reload&rsquo;
+  * open a new shell</p>
+<p>$ rvm reload
+RVM reloaded!</p>
+<p>$ rvm -v
+rvm 1.21.13 (latest) by Wayne E. Seguin <a href="mailto:wayneeseguin@gmail.com">wayneeseguin@gmail.com</a>, Michal Papis <a href="mailto:mpapis@gmail.com">mpapis@gmail.com</a> [https://rvm.io/]</p>
+<p>$ rvm use 1.9.2
+Using /Users/yearlus/.rvm/gems/ruby-1.9.2-p290
+$ which ruby
+/Users/yearlus/.rvm/rubies/ruby-1.9.2-p290/bin/ruby
+[/cc_dos]</p>
+<p>I could fsck with .profile, but will keep flexible for now. Could also use the default flag:
+[cc_dos]$ rvm use 1.9.2 &ndash;default
+$sudo gem install maid
+dyld: Library not loaded: /Users/sjy2/.rvm/rubies/ruby-1.9.2-p290/lib/libruby.1.9.1.dylib Referenced from: /Users/yearlus/.rvm/rubies/ruby-1.9.2-p290/bin/ruby
+Reason: image not found
+[/cc_dos]</p>
+<p>oh brother!</p>
+<p>[cc_dos]$ rvm list known
+$ rvm list
+rvm rubies=&gt; ruby-1.9.2-p290 [ x86_64 ]
+$ rvm install 1.9.1
+Searching for binary rubies, this might take some time.
+No binary rubies available for: osx/10.8/x86_64/ruby-1.9.1-p431.
+Continuing with compilation. Please read &lsquo;rvm help mount&rsquo; to get more information on binary rubies.
+You requested building with &lsquo;/usr/bin/gcc-4.2&rsquo; but it is not in your path.
+[/cc]</p>
+<p>Grrrr!</p>
+<p>[cc_dos]$ sudo rvm requirements
+Aborting
+Error: Failure while executing: git pull -q origin refs/heads/master:refs/remotes/origin/master
+Failed to update Homebrew, follow instructions here: <a href="https://github.com/mxcl/homebrew/wiki/Common-Issues">https://github.com/mxcl/homebrew/wiki/Common-Issues</a> and make sure <code>brew update</code> works before continuing.
+Requirements installation failed with status: 1[/cc_dos]</p>
+<p>Following worked (outputs omitted):</p>
+<p>[cc_dos]$ chown -R yearlus $(brew &ndash;prefix)/.git
+$ sudo chgrp -R admin /usr/local
+$ sudo chmod -R g+rwx /usr/local
+$ sudo chmod -R o-w /usr/local
+$ cd /usr/local &amp;&amp; git reset &ndash;hard &amp;&amp; git clean -d -f/
+$rvm requirements
+$brew update
+$ sudo gem install maid
+$ sudo gem update[/cc_dos]</p>
+<h2 id="finis">FINIS!!</h2>
+
+            </div>
+        </article>
+
+        <hr />
+
+        <div class="post-info">
+                <p>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-tag meta-icon"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7" y2="7"></line></svg><span class="tag"><a href="//localhost:1313/tags/apps">apps</a></span><span class="tag"><a href="//localhost:1313/tags/medical">medical</a></span><span class="tag"><a href="//localhost:1313/tags/os-x">OS X</a></span><span class="tag"><a href="//localhost:1313/tags/ruby">ruby</a></span><span class="tag"><a href="//localhost:1313/tags/scripts">scripts</a></span><span class="tag"><a href="//localhost:1313/tags/wrist">wrist</a></span>
+                </p>
+
+            <p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>572 Words</p>
+
+            <p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-calendar"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>2013-07-23 00:05 &#43;0100</p>
+        </div>
+
+        
+            <div class="pagination">
+                <div class="pagination__title">
+                    <span class="pagination__title-h"></span>
+                    <hr />
+                </div>
+
+                <div class="pagination__buttons">
+                    
+                        <span class="button previous">
+                            <a href="//localhost:1313/oopsies-iv/">
+                                <span class="button__icon">←</span>
+                                <span class="button__text">Oopsies IV</span>
+                            </a>
+                        </span>
+                    
+
+                    
+                        <span class="button next">
+                            <a href="//localhost:1313/oopsies-iii/">
+                                <span class="button__text">Oopsies III</span>
+                                <span class="button__icon">→</span>
+                            </a>
+                        </span>
+                    
+                </div>
+            </div>
+        
+            <div id="comments" class="thin">
+                <div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "@usyearlsjy" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+            </div>
+    </main>
+
+            </div>
+
+            
+                <footer class="footer">
+    <div class="footer__inner">
+        <div class="footer__content">
+            <span>&copy; 2021</span>
+            
+                <span><a href="//localhost:1313/">yearlus</a></span>
+            
+            <span><a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a></span>
+            
+        </div>
+    </div>
+    
+</footer>
+
+            
+        </div>
+
+        
+
+
+
+
+<script type="text/javascript" src="//localhost:1313/bundle.min.dc716e9092c9820b77f96da294d0120aeeb189b5bcea9752309ebea27fd53bbe6b13cffb2aca8ecf32525647ceb7001f76091de4199ac5a3caa432c070247f5b.js" integrity="sha512-3HFukJLJggt3&#43;W2ilNASCu6xibW86pdSMJ6&#43;on/VO75rE8/7KsqOzzJSVkfOtwAfdgkd5BmaxaPKpDLAcCR/Ww=="></script>
+
+
+
+    </body>
+</html>

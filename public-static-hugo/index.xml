@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>[::1] YEARL.US</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on [::1] YEARL.US</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Fri, 22 May 2020 11:29:35 +0100</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Text expansion with espanso</title>
+      <link>//localhost:1313/text-expansion-with-espanso/</link>
+      <pubDate>Fri, 22 May 2020 11:29:35 +0100</pubDate>
+      
+      <guid>//localhost:1313/text-expansion-with-espanso/</guid>
+      <description>This is from the &amp;ldquo;:EXPORT_HUGO_CUSTOM_FRONT_MATTER :summary&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>level 1 org heading</title>
+      <link>//localhost:1313/level-1-org-heading/</link>
+      <pubDate>Mon, 18 May 2020 15:33:57 +0100</pubDate>
+      
+      <guid>//localhost:1313/level-1-org-heading/</guid>
+      <description>This is from the &amp;ldquo;:EXPORT_HUGO_CUSTOM_FRONT_MATTER :summary&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Science jokes</title>
+      <link>//localhost:1313/science-jokes/</link>
+      <pubDate>Fri, 08 May 2020 15:33:57 +0100</pubDate>
+      
+      <guid>//localhost:1313/science-jokes/</guid>
+      <description>a sucking fummary of the most awesomest collection of science-based jokes on the Interwebz&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Openmediavault 4 server... PSU died</title>
+      <link>//localhost:1313/openmediavault-4-server...-psu-died/</link>
+      <pubDate>Mon, 13 May 2019 17:05:55 +0000</pubDate>
+      
+      <guid>//localhost:1313/openmediavault-4-server...-psu-died/</guid>
+      <description>Oh, the sadness. Oh, the heartbreak. Never mind, stiff upper lip and all that, and remembering that I got the thing from the dump (sans disk and RAM) over a 18 months ago, it has not had a bad run.
+Aaand just in case I come across a PSU and get her running again, she was:
+Old OMV4 box DELL Inspiron 545 Serial: 839DK4J Model: DCMF Reg Type: 09040 Printed on mobo: DG33M06 SE0709</description>
+    </item>
+    
+    <item>
+      <title>US Keyboard, UK settings: AKA where&#39;s my pipe?</title>
+      <link>//localhost:1313/us-keyboard-uk-settings-aka-wheres-my-pipe/</link>
+      <pubDate>Sun, 06 Jan 2019 05:57:12 +0000</pubDate>
+      
+      <guid>//localhost:1313/us-keyboard-uk-settings-aka-wheres-my-pipe/</guid>
+      <description>SSHed into a local Debian 9 server with a USB-attached US ANSI keyboard only to find the settings geared-up for a UK ISO keyboard. Not a biggie except for the location of the &amp;ldquo;|&amp;rdquo; &amp;hellip; pretty important as chars go 😋
+So&amp;hellip;
+sudo install console-common sudo dpkg-reconfigure keyboard-configuration Follow all the things
+sudo service keyboard-setup restart PROFIT!!</description>
+    </item>
+    
+    <item>
+      <title>Openmediavault (4, Arrakis) reinstall and apps in Docker</title>
+      <link>//localhost:1313/openmediavault-4-arrakis-reinstall-and-apps-in-docker/</link>
+      <pubDate>Tue, 09 Oct 2018 09:04:01 +0000</pubDate>
+      
+      <guid>//localhost:1313/openmediavault-4-arrakis-reinstall-and-apps-in-docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audacity is already running... ps -ef | grep aud says nada</title>
+      <link>//localhost:1313/audacity-is-already-running...-ps-ef-grep-aud-says-nada/</link>
+      <pubDate>Sat, 06 Oct 2018 16:17:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/audacity-is-already-running...-ps-ef-grep-aud-says-nada/</guid>
+      <description>Machine crashed&amp;ndash; well, hung&amp;ndash; after [insert reason]. Age? PS showed nothing, neither did &amp;ldquo;Activity Monitor&amp;rdquo;, and my googlefu must have been for /ʃaɪt/, since I found nothing there either.
+After some digging around the usual directories&amp;hellip; a lock file. Kill that, and we&amp;rsquo;re back in business.
+[caption id=&amp;ldquo;attachment_1460&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;300&amp;rdquo;] audacity-the-second-running[/caption]</description>
+    </item>
+    
+    <item>
+      <title>pi-hole route del</title>
+      <link>//localhost:1313/pi-hole-route-del/</link>
+      <pubDate>Fri, 21 Sep 2018 11:42:50 +0000</pubDate>
+      
+      <guid>//localhost:1313/pi-hole-route-del/</guid>
+      <description>Sooo, my TP-Link Archer C8 AC1750 Gigabit router decided to not play nice after a short power outage. Didn&amp;rsquo;t do much anyway except keep a couple of machines in a their own little subnet in which the pi-hole was located.
+Replaced it with&amp;hellip; NETGEAR GS108Tv2 8-Port Gigabit managed switch and flatten the network a little. Everything was peachy with that set up, but the pihole was still on 172.16.0.0/24&amp;hellip; reconfigured that with [cc lang=&amp;ldquo;bash&amp;rdquo; inline=&amp;ldquo;true&amp;rdquo;]pihole -r[/cc] and all looked well except for the pi-hole could not ping outside of the LAN.</description>
+    </item>
+    
+    <item>
+      <title>Of Apple-Pyes</title>
+      <link>//localhost:1313/of-apple-pyes/</link>
+      <pubDate>Tue, 11 Sep 2018 18:51:54 +0000</pubDate>
+      
+      <guid>//localhost:1313/of-apple-pyes/</guid>
+      <description>Of Apple-Pyes: A poem, by Mr. [Leonard] Welsted.
+OF all the delicates which Britons try, To please the palate, or delight the eye; Of all the several kinds of sumptuous fare, There’s none that can with apple-pye compare, For costly flavour, or substantial paste, For outward beauty, or for inward taste.
+WHEN first this infant dish in fashion came, Th’ ingredients were but coarse, and rude the frame; As yet, unpolish’d in the modern arts, Our fathers eat brown bread instead of tarts: Pyes were but indigested lumps of dough, ’Till time and just expence improv’d them so.</description>
+    </item>
+    
+    <item>
+      <title>Das war ein Befehl... Entwurf des Freiheitsplans ... ERG#1</title>
+      <link>//localhost:1313/das-war-ein-befehl...-entwurf-des-freiheitsplans-...-erg#1/</link>
+      <pubDate>Mon, 10 Sep 2018 05:50:22 +0000</pubDate>
+      
+      <guid>//localhost:1313/das-war-ein-befehl...-entwurf-des-freiheitsplans-...-erg#1/</guid>
+      <description>Column A: https://www.theguardian.com/politics/2018/sep/09/tory-eurosceptics-rival-brexit-plan-includes-missile-defence-system
+Column B: http://captiongenerator.com/1092322/The-ERG-Brexit-Plan-final-drafting-meeting</description>
+    </item>
+    
+    <item>
+      <title>Gluten Free Homemade Rustic French Pâté</title>
+      <link>//localhost:1313/gluten-free-homemade-rustic-french-p%C3%A2t%C3%A9/</link>
+      <pubDate>Fri, 24 Aug 2018 20:32:07 +0000</pubDate>
+      
+      <guid>//localhost:1313/gluten-free-homemade-rustic-french-p%C3%A2t%C3%A9/</guid>
+      <description>Delia Smith&amp;rsquo;s (kinda) &amp;mdash; le pâté grossier It&amp;rsquo;s in foreign because Number One Son with his most excellent French shamed me into realising that I have been resting on my regarde-mon-stylo, pre-O-level French for too long, and that I really should make more of an effort. How hard can it be, really? On the similarities betwixt English and French, did Dumas not say that English was just French badly pronounced?</description>
+    </item>
+    
+    <item>
+      <title>Pi-hole DNS-level ad blocker</title>
+      <link>//localhost:1313/pi-hole-dns-level-ad-blocker/</link>
+      <pubDate>Sat, 16 Jun 2018 07:18:05 +0000</pubDate>
+      
+      <guid>//localhost:1313/pi-hole-dns-level-ad-blocker/</guid>
+      <description>Getting pretty annoyed with keeping track of which browser on which machine has which add blockers installed, so it&amp;rsquo;s time for a more holistic approach. Enter, stage left, the Pi-hole. In short it:
+With a Rapsberry Pi 3 model b and a 64GB micro SD card, a set-up that is beefier than it needs to be, but who knows what the Pi will be used for in the future&amp;hellip;
+#1 Get Raspbian, and format micro SD card&amp;mdash; after much jiggling with the unlock tab on the adapter and delicatelyrepeatedly inserting-half-inserting into 2012 Macbook Pro&amp;rsquo;s gunked-up card reader port&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Wranglergram decoder in ruby</title>
+      <link>//localhost:1313/wranglergram-decoder-in-ruby/</link>
+      <pubDate>Fri, 01 Jun 2018 17:35:03 +0000</pubDate>
+      
+      <guid>//localhost:1313/wranglergram-decoder-in-ruby/</guid>
+      <description>My local radio station has a quiz every once in a while. The questions are hardly &amp;ldquo;University Challenge&amp;rdquo;, but there is one question that always is fiendishly tricksy and slippery: to identify a place in the county from an anagram of it.
+Constantly getting all but one question correct, it is, of course time to cheatuse lateral thinking.
+#1 get a list of place names. A gazetteer should do.
+#2 Build an index (hash).</description>
+    </item>
+    
+    <item>
+      <title>Dogge play time</title>
+      <link>//localhost:1313/dogge-play-time/</link>
+      <pubDate>Sun, 27 May 2018 17:43:13 +0000</pubDate>
+      
+      <guid>//localhost:1313/dogge-play-time/</guid>
+      <description>And now for something completely different&amp;hellip;
+[video width=&amp;ldquo;1280&amp;rdquo; height=&amp;ldquo;720&amp;rdquo; mp4=&amp;ldquo;http://stephen.yearl.us/wp-content/uploads/2018/06/monty-self-play-football.mp4&amp;rdquo;][/video]</description>
+    </item>
+    
+    <item>
+      <title>Block sites/domains from search engine results</title>
+      <link>//localhost:1313/block-sites/domains-from-search-engine-results/</link>
+      <pubDate>Fri, 25 May 2018 06:44:17 +0000</pubDate>
+      
+      <guid>//localhost:1313/block-sites/domains-from-search-engine-results/</guid>
+      <description>Happy GDPR Day!
+With the slew of new cookie warnings and privacy notifications and such, it&amp;rsquo;s time to do something with those annoying domains from content farms that so often pepper search engine results.
+Step 1: install Tampermonkey extension
+Step 2: set to writing a bunch of JS. But wait, surely someone else has already done this&amp;hellip; they have: https://greasyfork.org/en/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites So a big, BIG thank you to Jefferson Scher.
+EDIT: Another script to restore &amp;ldquo;old&amp;rdquo; youtube.</description>
+    </item>
+    
+    <item>
+      <title>Create root SSH keys OS X (MacOS High Sierra)</title>
+      <link>//localhost:1313/create-root-ssh-keys-os-x-macos-high-sierra/</link>
+      <pubDate>Fri, 18 May 2018 10:19:13 +0000</pubDate>
+      
+      <guid>//localhost:1313/create-root-ssh-keys-os-x-macos-high-sierra/</guid>
+      <description>In all the years I&amp;rsquo;ve been running OS X (or MacOS as it is now called) I&amp;rsquo;ve never had the need to su,sudo was always good enough. And this is as it should be.
+Until now. Obvs, &amp;ldquo;root&amp;rdquo; is disabled in High Sierra. So&amp;hellip;
+$ cd /System/Library/CoreServices/Applications/ $ ls Some cool apps here&amp;hellip;
+drwxr-xr-x 3 root wheel 96B Mar 30 12:48 About This Mac.app drwxr-xr-x 3 root wheel 96B Mar 30 12:48 Archive Utility.</description>
+    </item>
+    
+    <item>
+      <title>Edgerouter X -- DNS issues</title>
+      <link>//localhost:1313/edgerouter-x-dns-issues/</link>
+      <pubDate>Thu, 19 Apr 2018 13:25:28 +0000</pubDate>
+      
+      <guid>//localhost:1313/edgerouter-x-dns-issues/</guid>
+      <description>#1 plug laptop into eth0
+#2 Edgerouter X defaults to 192.168.1.1 as did the TG589vac, but that doesn&amp;rsquo;t matter as it is now just a modem
+#3 get on same net segment&amp;hellip; statically configure laptop to IP 192.168.1.42 (&amp;lsquo;cause Douglas Adams, obvs) NM 255.255.255.0 DG 192.168.1.1
+#4 Browser to 192.168.1.1, default login usr and pswd: &amp;lsquo;ubnt&amp;rsquo; / &amp;lsquo;ubnt&amp;rsquo;
+Dice!
+OOH WHAT A PRETTY INTERFACE. Kinda overwhelming actually. Enable SSH, enable DNS forwarding on all interfaces.</description>
+    </item>
+    
+    <item>
+      <title>Technicolor MediaAccess TG589vac in bridge mode</title>
+      <link>//localhost:1313/technicolor-mediaaccess-tg589vac-in-bridge-mode/</link>
+      <pubDate>Thu, 19 Apr 2018 12:17:19 +0000</pubDate>
+      
+      <guid>//localhost:1313/technicolor-mediaaccess-tg589vac-in-bridge-mode/</guid>
+      <description>Like &amp;gt;90% of folk, I&amp;rsquo;ve typically used whatever POS modem/router/switch/WAP combo that my ISP supplied me with. These all-in-ones are pretty convenient, but there is something just not right about bundling so many features into a single unit&amp;hellip; it basically means that whilst is can do all these things it does not do any one thing particularly well.
+Wireless range, for example, is particularly bad (even on the 2.4MHz band). Time for a change.</description>
+    </item>
+    
+    <item>
+      <title>Join two or more videos on the command line</title>
+      <link>//localhost:1313/join-two-or-more-videos-on-the-command-line/</link>
+      <pubDate>Fri, 09 Mar 2018 07:25:54 +0000</pubDate>
+      
+      <guid>//localhost:1313/join-two-or-more-videos-on-the-command-line/</guid>
+      <description>Having just dropped a couple of 4TB Western Digital NAS drives in the openmediavault box, I can now get around to adding more media. My Moby Dick is split over two DVD disks&amp;hellip; that&amp;rsquo;s a pain. Let&amp;rsquo;s join them&amp;hellip;
+The obvious, and lazy, and probably-will-not-work way:
+~/MyRips/Moby Dick (1998) $ cat &amp;#34;Moby Dick (1998) - CD 1.avi&amp;#34; &amp;#34;Moby Dick (1998) - CD 2.avi&amp;#34; &amp;gt; &amp;#34;Moby Dick (1998).avi&amp;#34; Video will only play the length of the first file because this is where the avi header information is.</description>
+    </item>
+    
+    <item>
+      <title>What movie files are not 1080P?</title>
+      <link>//localhost:1313/what-movie-files-are-not-1080p/</link>
+      <pubDate>Thu, 08 Mar 2018 23:23:48 +0000</pubDate>
+      
+      <guid>//localhost:1313/what-movie-files-are-not-1080p/</guid>
+      <description>Again with the Openmediavault NAS.
+A fair few movies I encoded to result in less than 1080P files in order to preserve disk space. That is not really an issue (for now). So, what movies have what resolution?
+(I feel like this should all been in shell script, but hey; whatever works right?!)
+[cc lang=&amp;ldquo;ruby&amp;rdquo;] require &amp;lsquo;find&amp;rsquo;
+basedir = &amp;lsquo;/Volumes/Movies&amp;rsquo;
+get filetypes find . -type f | egrep -i -E -o &amp;ldquo;.</description>
+    </item>
+    
+    <item>
+      <title>Installing Solus linux on a Macbook Pro 9,1 (A1286): PART 2</title>
+      <link>//localhost:1313/installing-solus-linux-on-a-macbook-pro-91-a1286-part-2/</link>
+      <pubDate>Thu, 11 May 2017 09:35:12 +0000</pubDate>
+      
+      <guid>//localhost:1313/installing-solus-linux-on-a-macbook-pro-91-a1286-part-2/</guid>
+      <description>Part 2 of installing Solus Linux on a 2012 Macbook Pro.
+Part 1- simply booting the liveCD to even allow installation is here: https://stephen.yearl.us/installing-solus-linux-on-a-macbook-pro-9
+Rebooting after install lead to, you guessed it, the Black Screen of Death again. Solus was installed, accepting all defaults (and therefore one humongous / paritiion), to /dev/sdb2, /dev/sda1 is the EFI partition on which rEFInd was installed when running OSXMacOS.
+❯ lsblk NAME MAJ:MIN RM SIZE RO TYPE MOUNTPOINT sdb 8:16 0 477G 0 disk ├─sdb2 8:18 0 473.</description>
+    </item>
+    
+    <item>
+      <title>Installing Solus linux on a Macbook Pro 9,1 (A1286)</title>
+      <link>//localhost:1313/installing-solus-linux-on-a-macbook-pro-91-a1286/</link>
+      <pubDate>Mon, 08 May 2017 07:03:14 +0000</pubDate>
+      
+      <guid>//localhost:1313/installing-solus-linux-on-a-macbook-pro-91-a1286/</guid>
+      <description>I&amp;rsquo;ve been sunning* Solus as guest in a Parallels virtual machine on a macOS Sierra 10.12.4 host for a couple of months now, and I am delighted and impressed, so impressed I bought the company** wanted to install this on Apple iron. Solus installed beautifully on an 2010 Lenovo X201 and on a new and cheap and plastically Dell Inspiron 14-3452, so it should have no probs installing on a mid-2012, 15.</description>
+    </item>
+    
+    <item>
+      <title>Create a bootable ISO of macOS Sierra</title>
+      <link>//localhost:1313/create-a-bootable-iso-of-macos-sierra/</link>
+      <pubDate>Mon, 17 Apr 2017 03:38:31 +0000</pubDate>
+      
+      <guid>//localhost:1313/create-a-bootable-iso-of-macos-sierra/</guid>
+      <description>Playing with Solus recently got me to thinking that maybe I could live again in a Linux world, but rather than running Linux in a Virtual Machine (that would currently be Parallels 12 for me), what if I dit it the other way around? That is, run OS X 10.12.4 (macOS Sierra) as a guest and Linux as a host&amp;hellip;
+Download MacOS Sierra from AppStore.
+Reboot.
+❯ hdiutil attach /Applications/Install\ macOS\ Sierra.</description>
+    </item>
+    
+    <item>
+      <title>Remapping Macbook Pro eject key under Solus linux</title>
+      <link>//localhost:1313/remapping-macbook-pro-eject-key-under-solus-linux/</link>
+      <pubDate>Sun, 19 Mar 2017 12:35:43 +0000</pubDate>
+      
+      <guid>//localhost:1313/remapping-macbook-pro-eject-key-under-solus-linux/</guid>
+      <description>Disable &amp;ldquo;Eject&amp;rdquo; in keyboard settings. It is the first entry under &amp;ldquo;Sound and Media&amp;rdquo; create a file, ~/.Xmodmap, adding the line: keycode 151 = BackSpace
+run xmodmap ~/.Xmodmap add that to wherever your startup scripts are for persistence The keycode mappings I got from xev, kind of like &amp;ldquo;keyboard viewer&amp;rdquo; in OS X. Its available in the Solus repo:
+sudo eopkg install xev </description>
+    </item>
+    
+    <item>
+      <title>Librevault on Solus OS</title>
+      <link>//localhost:1313/librevault-on-solus-os/</link>
+      <pubDate>Sat, 11 Mar 2017 03:20:04 +0000</pubDate>
+      
+      <guid>//localhost:1313/librevault-on-solus-os/</guid>
+      <description>Still playing with Solus OS, and liking it more and more. The eopkg repository of software is a little thin in comparison to the likes of Debian-based apt-get and Arch&amp;rsquo;s AUR, but most of the things I want are there. And if they are not there I am thinking maybe I should review my needs&amp;hellip; I am in the process of planning for a life without OS X/MacOS after all, so a prefect time for reflection.</description>
+    </item>
+    
+  </channel>
+</rss>

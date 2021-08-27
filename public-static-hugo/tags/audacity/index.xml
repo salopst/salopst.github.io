@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>audacity on [::1] YEARL.US</title>
+    <link>//localhost:1313/tags/audacity/</link>
+    <description>Recent content in audacity on [::1] YEARL.US</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 06 Oct 2018 16:17:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/audacity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Audacity is already running... ps -ef | grep aud says nada</title>
+      <link>//localhost:1313/audacity-is-already-running...-ps-ef-grep-aud-says-nada/</link>
+      <pubDate>Sat, 06 Oct 2018 16:17:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/audacity-is-already-running...-ps-ef-grep-aud-says-nada/</guid>
+      <description>Machine crashed&amp;ndash; well, hung&amp;ndash; after [insert reason]. Age? PS showed nothing, neither did &amp;ldquo;Activity Monitor&amp;rdquo;, and my googlefu must have been for /ʃaɪt/, since I found nothing there either.
+After some digging around the usual directories&amp;hellip; a lock file. Kill that, and we&amp;rsquo;re back in business.
+[caption id=&amp;ldquo;attachment_1460&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;300&amp;rdquo;] audacity-the-second-running[/caption]</description>
+    </item>
+    
+  </channel>
+</rss>
