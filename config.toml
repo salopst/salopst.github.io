@@ -152,5 +152,5 @@ posts = ":title/"
     url        = "about/"
   [[menu.main]]
     identifier = "posts"
-    name       = "Stephen"
+    name       = "Posts"
     url        = "posts/"
