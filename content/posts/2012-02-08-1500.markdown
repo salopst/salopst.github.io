@@ -1,0 +1,27 @@
+---
+author: admin
+comments: true
+date: 2012-02-08 20:16:10+00:00
+layout: post
+link: http://stephen.yearl.us/1500/
+slug: '1500'
+title: '1500'
+wordpress_id: 181
+categories:
+- networking
+- tech
+tags:
+- ipv6
+---
+
+It can take a wee while after getting "sage" to hit 1500. Lots of pretty mundane traceroute6-ing, ping-ing and such, but I stuck through it:
+
+[![IPv6 Certification Badge for sjy2](http://ipv6.he.net/certification/create_badge.php?pass_name=sjy2&badge=3)](http://ipv6.he.net/certification/scoresheet.php?pass_name=sjy2)
+
+
+
+Really I should have scripted something to chron submit the result entries when the command result was obviously valid, but by the time I had found a reliable list of valid ipv6 addrs that were alive and correctly reporting it was too late for me to bother... and besides I sort of enjoyed the daily catharsis of taking five minutes to submit.
+
+I'd usually stretch it out for ten or fifteen minutes when he kids were being particularly narky... sorry Mrs Sjy2!
+
+Of course it's of no practical use to me; but [Hurricane Electric](http://he.net)'s IPv6 certification certainly has raised ipv6 awareness, I'd say. Actually, I lied there... one tangible benefit was [free dinner and cocktails](http://sjy.yearl.us/he-net-shindig/) aboard the [USS Hornet](http://en.wikipedia.org/wiki/USS_Hornet_(CV-12)). My eldest and I took a relative. We had a blast.

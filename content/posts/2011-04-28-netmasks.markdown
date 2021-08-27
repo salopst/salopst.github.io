@@ -1,0 +1,750 @@
+---
+author: admin
+comments: true
+date: 2011-04-28 09:09:12+00:00
+layout: post
+link: http://stephen.yearl.us/netmasks/
+slug: netmasks
+title: netmasks
+wordpress_id: 1366
+categories:
+- networking
+- tech
+tags:
+- ipv4
+- netmask
+- subnetting
+---
+
+<table >
+    <tbody >
+        <tr >
+            
+<td >#net bits (CIDR)
+</td>
+            
+<td >netmask
+</td>
+            
+<td ># hosts (hb^2)
+</td>
+            
+<td >"size"
+</td>
+            
+<td >Cisco ACL wildcard mask
+</td>
+            
+<td >hex netmask
+</td>
+        </tr>
+        <tr >
+            
+<td colspan="6" >
+</td>
+        </tr>
+        <tr >
+            
+<td >/0
+</td>
+            
+<td >0.0.0.0
+</td>
+            
+<td >4,294,967,296
+</td>
+            
+<td >The Internet:-)
+</td>
+            
+<td >255.255.255.255
+</td>
+            
+<td >00.00.00.00
+</td>
+        </tr>
+        <tr >
+            
+<td >/1
+</td>
+            
+<td >128.0.0.0
+</td>
+            
+<td >2,147,483,648
+</td>
+            
+<td >128A
+</td>
+            
+<td >127.255.255.255
+</td>
+            
+<td >80.00.00.00
+</td>
+        </tr>
+        <tr >
+            
+<td >/2
+</td>
+            
+<td >192.0.0.0
+</td>
+            
+<td >1,073,741,824
+</td>
+            
+<td >64A
+</td>
+            
+<td >63.255.255.255
+</td>
+            
+<td >C0.00.00.00
+</td>
+        </tr>
+        <tr >
+            
+<td >/3
+</td>
+            
+<td >224.0.0.0
+</td>
+            
+<td >536,870,912
+</td>
+            
+<td >32A
+</td>
+            
+<td >31.255.255.255
+</td>
+            
+<td >F0.00.00.00
+</td>
+        </tr>
+        <tr >
+            
+<td >/4
+</td>
+            
+<td >240.0.0.0
+</td>
+            
+<td >268,435,456
+</td>
+            
+<td >16A
+</td>
+            
+<td >15.255.255.255
+</td>
+            
+<td >F8.00.00.00
+</td>
+        </tr>
+        <tr >
+            
+<td >/5
+</td>
+            
+<td >248.0.0.0
+</td>
+            
+<td >134,217,728
+</td>
+            
+<td >8A
+</td>
+            
+<td >7.255.255.255
+</td>
+            
+<td >FC.00.00.00
+</td>
+        </tr>
+        <tr >
+            
+<td >/6
+</td>
+            
+<td >252.0.0.0
+</td>
+            
+<td >67,108,864
+</td>
+            
+<td >4A
+</td>
+            
+<td >3.255.255.255
+</td>
+            
+<td >FE.00.00.00
+</td>
+        </tr>
+        <tr >
+            
+<td >/7
+</td>
+            
+<td >254.0.0.0
+</td>
+            
+<td > 33,554,432
+</td>
+            
+<td >2A
+</td>
+            
+<td >1.255.255.255
+</td>
+            
+<td >FF.00.00.00
+</td>
+        </tr>
+        <tr >
+            
+<td >/8
+</td>
+            
+<td >255.0.0.0
+</td>
+            
+<td > 16,777,216
+</td>
+            
+<td >1A
+</td>
+            
+<td >0.255.255.255
+</td>
+            
+<td >FF.80.00.00
+</td>
+        </tr>
+        <tr >
+            
+<td >/9
+</td>
+            
+<td >255.128.0.0
+</td>
+            
+<td >8,388,608
+</td>
+            
+<td >128B
+</td>
+            
+<td >0.127.255.255
+</td>
+            
+<td >FF.C0.00.00
+</td>
+        </tr>
+        <tr >
+            
+<td >/10
+</td>
+            
+<td >255.192.0.0
+</td>
+            
+<td >4,194,304
+</td>
+            
+<td >64B
+</td>
+            
+<td >0.63.255.255
+</td>
+            
+<td >FF.E0.00.00
+</td>
+        </tr>
+        <tr >
+            
+<td >/11
+</td>
+            
+<td >255.224.0.0
+</td>
+            
+<td >2,097,152
+</td>
+            
+<td >32B
+</td>
+            
+<td >0.31.255.255
+</td>
+            
+<td >FF.F0.00.00
+</td>
+        </tr>
+        <tr >
+            
+<td >/12
+</td>
+            
+<td >255.240.0.0
+</td>
+            
+<td >1,048,576
+</td>
+            
+<td >16B
+</td>
+            
+<td >0.15.255.255
+</td>
+            
+<td >FF.F8.00.00
+</td>
+        </tr>
+        <tr >
+            
+<td >/13
+</td>
+            
+<td >255.248.0.0
+</td>
+            
+<td >524,288
+</td>
+            
+<td >8B
+</td>
+            
+<td >0.7.255.255
+</td>
+            
+<td >FF.FC.00.00
+</td>
+        </tr>
+        <tr >
+            
+<td >/14
+</td>
+            
+<td >255.252.0.0
+</td>
+            
+<td >262,144
+</td>
+            
+<td >4B
+</td>
+            
+<td >0.3.255.255
+</td>
+            
+<td >FF.FE.00.00
+</td>
+        </tr>
+        <tr >
+            
+<td >/15
+</td>
+            
+<td >255.254.0.0
+</td>
+            
+<td >131,072
+</td>
+            
+<td >2B
+</td>
+            
+<td >0.1.255.255
+</td>
+            
+<td >FF.FF.00.00
+</td>
+        </tr>
+        <tr >
+            
+<td >/16
+</td>
+            
+<td >255.255.0.0
+</td>
+            
+<td >65,536
+</td>
+            
+<td >1B
+</td>
+            
+<td >0.0.255.255
+</td>
+            
+<td >FF.FF.80.00
+</td>
+        </tr>
+        <tr >
+            
+<td >/17
+</td>
+            
+<td >255.255.128.0
+</td>
+            
+<td >32,768
+</td>
+            
+<td >128C
+</td>
+            
+<td >0.0.127.255
+</td>
+            
+<td >FF.FF.C0.00
+</td>
+        </tr>
+        <tr >
+            
+<td >/18
+</td>
+            
+<td >255.255.192.0
+</td>
+            
+<td >16,384
+</td>
+            
+<td >64C
+</td>
+            
+<td >0.0.63.255
+</td>
+            
+<td >FF.FF.E0.00
+</td>
+        </tr>
+        <tr >
+            
+<td >/19
+</td>
+            
+<td >255.255.224.0
+</td>
+            
+<td >8192
+</td>
+            
+<td >32C
+</td>
+            
+<td >0.0.31.255
+</td>
+            
+<td >FF.FF.F0.00
+</td>
+        </tr>
+        <tr >
+            
+<td >/20
+</td>
+            
+<td >255.255.240.0
+</td>
+            
+<td >4096
+</td>
+            
+<td >16C
+</td>
+            
+<td >0.0.15.255
+</td>
+            
+<td >FF.FF.F8.00
+</td>
+        </tr>
+        <tr >
+            
+<td >/21
+</td>
+            
+<td >255.255.248.0
+</td>
+            
+<td >2048
+</td>
+            
+<td >8C
+</td>
+            
+<td >0.0.7.255
+</td>
+            
+<td >FF.FF.FC.00
+</td>
+        </tr>
+        <tr >
+            
+<td >/22
+</td>
+            
+<td >255.255.252.0
+</td>
+            
+<td >1024
+</td>
+            
+<td >4C
+</td>
+            
+<td >0.0.3.255
+</td>
+            
+<td >FF.FF.FE.00
+</td>
+        </tr>
+        <tr >
+            
+<td >/23
+</td>
+            
+<td >255.255.254.0
+</td>
+            
+<td >512
+</td>
+            
+<td >2C
+</td>
+            
+<td >0.0.1.255
+</td>
+            
+<td >FF.FF.FF.00
+</td>
+        </tr>
+        <tr >
+            
+<td >/24
+</td>
+            
+<td >255.255.255.0
+</td>
+            
+<td >256
+</td>
+            
+<td >1C
+</td>
+            
+<td >0.0.0.255
+</td>
+            
+<td >FF.FF.FF.80
+</td>
+        </tr>
+        <tr >
+            
+<td >/25
+</td>
+            
+<td >255.255.255.128
+</td>
+            
+<td >128
+</td>
+            
+<td >1/2C
+</td>
+            
+<td >0.0.0.127
+</td>
+            
+<td >FF.FF.FF.C0
+</td>
+        </tr>
+        <tr >
+            
+<td >/26
+</td>
+            
+<td >255.255.255.192
+</td>
+            
+<td >64
+</td>
+            
+<td >1/4C
+</td>
+            
+<td >0.0.0.63
+</td>
+            
+<td >FF.FF.FF.E0
+</td>
+        </tr>
+        <tr >
+            
+<td >/27
+</td>
+            
+<td >255.255.255.224
+</td>
+            
+<td >32
+</td>
+            
+<td >1/8C
+</td>
+            
+<td >0.0.0.31
+</td>
+            
+<td >FF.FF.FF.F0
+</td>
+        </tr>
+        <tr >
+            
+<td >/28
+</td>
+            
+<td >255.255.255.240
+</td>
+            
+<td >16
+</td>
+            
+<td >1/16C
+</td>
+            
+<td >0.0.0.15
+</td>
+            
+<td >FF.FF.FF.F8
+</td>
+        </tr>
+        <tr >
+            
+<td >/29
+</td>
+            
+<td >255.255.255.248
+</td>
+            
+<td >8
+</td>
+            
+<td >1/32C
+</td>
+            
+<td >0.0.0.7
+</td>
+            
+<td >FF.FF.FF.FC
+</td>
+        </tr>
+        <tr >
+            
+<td >/30
+</td>
+            
+<td >255.255.255.252
+</td>
+            
+<td >4
+</td>
+            
+<td >1/64C
+</td>
+            
+<td >0.0.0.3
+</td>
+            
+<td >FF.FF.FF.FE
+</td>
+        </tr>
+        <tr >
+            
+<td >/31
+</td>
+            
+<td >255.255.255.254
+</td>
+            
+<td >PtoP links only
+</td>
+            
+<td >1/128C
+</td>
+            
+<td >
+</td>
+            
+<td >FF.FF.FF.FF
+</td>
+        </tr>
+        <tr >
+            
+<td >/32
+</td>
+            
+<td >255.255.255.255
+</td>
+            
+<td colspan="3" >This is a single host route(usehostnotation)
+</td>
+            
+<td >
+</td>
+        </tr>
+        <tr >
+            
+<td >
+</td>
+            
+<td >
+</td>
+            
+<td >
+</td>
+            
+<td >
+</td>
+            
+<td >
+</td>
+            
+<td >
+</td>
+        </tr>
+        <tr >
+            
+<td >
+</td>
+            
+<td >
+</td>
+            
+<td >
+</td>
+            
+<td >
+</td>
+            
+<td >
+</td>
+            
+<td >
+</td>
+        </tr>
+        <tr >
+            
+<td colspan="6" rowspan="3" >Sources:   
+RFC 1519 (1993) -- Classless Inter-Domain Routing (CIDR)  
+RFC 1878 (1995) -- Variable Length Subnet Table For IPv4
+</td>
+        </tr>
+        <tr ></tr>
+        <tr ></tr>
+    </tbody>
+</table>

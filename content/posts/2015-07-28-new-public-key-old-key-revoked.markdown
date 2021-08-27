@@ -1,0 +1,69 @@
+---
+author: admin
+comments: true
+date: 2015-07-28 17:04:18+00:00
+layout: post
+link: http://stephen.yearl.us/new-public-key-old-key-revoked/
+slug: new-public-key-old-key-revoked
+title: New public key-- old key revoked
+wordpress_id: 988
+categories:
+- tech
+---
+
+[cc land="bash"]$ gpg --keyserver hkp://pgp.mit.edu --send-keys A3E66077 && gpg --keyserver hkp://pool.sks-keyservers.net --send-keys A3E66077
+
+$  gpg --armor --export A3E66077
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: GPGTools - http://gpgtools.org
+
+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
+p/293arnv/+zFmUZhypS6y4Ldw==
+=MqCG
+-----END PGP PUBLIC KEY BLOCK-----
+[/cc]

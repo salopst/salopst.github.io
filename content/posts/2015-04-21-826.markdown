@@ -1,0 +1,16 @@
+---
+author: admin
+comments: true
+date: 2015-04-21 17:55:36+00:00
+layout: post
+link: http://stephen.yearl.us/826/
+slug: '826'
+title: New web project with bootstrap
+wordpress_id: 826
+categories:
+- tech
+tags:
+- code
+- sysadmin
+---
+

@@ -1,0 +1,14 @@
+---
+author: admin
+comments: true
+date: 2015-06-24 22:46:13+00:00
+layout: post
+link: http://stephen.yearl.us/zshrc/
+slug: zshrc
+title: .zshrc
+wordpress_id: 908
+categories:
+- tech
+---
+
+
