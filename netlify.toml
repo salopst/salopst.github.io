@@ -19,7 +19,7 @@
 
   # Default build command.
   # command = "echo 'default context'"
-  command = "hugo server --gc --minify"
+  command = "hugo --gc --minify 
 
 [[plugins]]
   # Installs the Lighthouse Build Plugin for all deploy contexts
