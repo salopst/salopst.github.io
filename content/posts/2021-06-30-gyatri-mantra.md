@@ -15,10 +15,13 @@ description = "This is a DESCRIPTION too"
 
 ## Gāyatrī Mantra (Sāvitri Mantra)
 
+Mera bhai from The Sanskrit Channel has hot takes on this mantra: https://www.youtube.com/watch?v=mxLv8KnBfjg
+
 Text from the youtube video scanned using [Text Scanner (OCR)
 by Govarthani Rajesh](https://apps.apple.com/us/app/text-scanner-ocr/id1225032527) for iOS. Text is near perfcet despite it coming from a phone's picture of a laptop screen. Also manages to capture Denanagaari pretty well, maybe not surprising give that the developer is an Indian.
 
 Scans are limited to three per day for the non subscription version. Shame that there is not just a 'buy it' option since that would be worth a fait chunk, but subscription models can jusy suck a bag of roman numeral 509!
+
 
 <iframe width="560" height="315"
   src="https://www.youtube.com/watch?v=SarlTxrAbIY&t=265s" 
