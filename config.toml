@@ -1,4 +1,5 @@
 # baseURL = "https://salopst.github.io/"
+# baseURL = "https://stephen.yearl.us/"
 baseURL = ""
 title   = "[::1] yearl.us"
 languageCode = "en-us"
@@ -11,7 +12,7 @@ paginate  = 25
 rssLimit  = 25  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
-# googleAnalytics = ""
+ googleAnalytics = ""
  disqusShortname = "@usyearlsjy"
 
 archetypeDir = "archetypes"
@@ -56,11 +57,11 @@ posts = ":title/"
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "[description] A random personalrambling ported from Wordpress"
-  keywords = "[keywords] blog, Emacs, Hugo, technology, recipes, yearl"
+  description = "A random personal rambling ported from Wordpress"
+  keywords = "blog, Emacs, Hugo, technology, recipes, yearl"
   images = [""]
 
-  # homeSubtitle = "[homeSubtitle] I am not a rabbit"
+  homeSubtitle = "Nel mezza del camin..."
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
@@ -70,7 +71,7 @@ posts = ":title/"
 
   # Integrate Javascript files or stylesheets by adding the url to the external assets or by
   # linking local files with their path relative to the static folder, e.g. "css/styles.css"
-  customCSS = []
+  customCSS = ["css/sjy-specials.css"]
   customJS  = []
 
   # Toggle this option need to rebuild SCSS, requires extended version of Hugo

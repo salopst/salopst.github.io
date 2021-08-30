@@ -15,7 +15,7 @@ description = "About this site..."
 
 The current incarnation of whatever dross this is is implemented by [Hugo](https://gohugo.io), allegedly the **world’s fastest framework for building websites**. It is written in Go.
 
-There are many websites like it, but this one is mine. At one point it was hosted on Tumbler (I think), then Blogger, and more recently Wordpress, but a snafu with the hosting provider which also had my Nextclouds led me to think about an alternative. Why, I don't rightly know since there's nothing much here anyway. And what is here is mostly odd and old notes of various things that may not all render consistently given their history.
+There are many websites like it, but this one is mine. At one point it was hosted on Tumbler (I think), then Blogger, and more recently Wordpress, but a snafu with the hosting provider-- to whom I had foolishly entrusted my Nextclouds-- led me to think about an alternative. Why, I don't rightly know since there's nothing much here anyway. And what is here is mostly odd and old notes of various things that may not all render consistently given their history.
 
 The workflow, such that it is, is stuff is written locally, most likely in the one true ~~operating system~~ editor, [Emacs](https://www.gnu.org/software/emacs/), in orgmode. This is then converted using sorcery to markdown. 
 
