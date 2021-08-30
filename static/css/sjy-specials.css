@@ -1,0 +1,33 @@
+
+
+[data-lang~=devnag]{
+  text-align: center;
+  font-size: 300% !important;
+  color: rgb(225, 0, 255);
+}
+
+
+.WANK {
+  border: 3px dotted rgba(23, 199, 32, 0.829) !important;
+  border-radius: 3%;
+}
+
+.yt-media {
+  margin-top: var(--bigMargin);
+  margin-bottom: var(--bigMargin);
+
+  border: 1px solid var(--border-color);
+  padding: var(--pad);
+  border-radius: var(--radius);
+  display: block;
+  font-size: 11pt;
+
+  background-color: var(--code-background);
+  color: var(--code-color);
+  font-family: 'Inconsolata', monospace;
+  overflow-x: auto;
+  white-space: nowrap;
+  line-height: 14pt;
+
+  box-shadow: 0 10px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+}
