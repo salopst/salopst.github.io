@@ -1,0 +1,37 @@
+# yearluk
+# 2021-08-30
+# $HOME/code/hugo-sites/salopst.github.io/.gitignore
+
+
+/pietra-static
+2021-08-30-cap01.html
+
+*.m4a
+*.epub
+
+node_modules/
+
+.DS_Store
+.idea/
+*.iml
+*.pem
+*.zip
+
+*WANK*
+*wank*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
