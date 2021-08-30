@@ -7,9 +7,9 @@ tags = ["hindi", "hugo", "song", "canzone" , "lyrics", "music", "mantra"]
 categories = ["blog", "language", "Hindi", "media",]
 draft = false
 weight = 1001
-noLicense = "= true # Do not show license in this post"
-summary = "This SUMMARY is "
-description = "This is a DESCRIPTION too"
+noLicense = "true"
+summary = "The Gāyatrī Mantra, also known as the Sāvitri Mantra, is a highly revered mantra from the Rig Veda (Mandala 3.62.10),[1] dedicated to the Vedic deity Savitr"
+description = "Gāyatrī Mantra, also known as the Sāvitri Mantra, is a highly revered mantra from the Rig Veda (Mandala 3.62.10), dedicated to the Vedic deity Savitr."
 +++
 
 
@@ -20,28 +20,30 @@ Mera bhai from The Sanskrit Channel has hot takes on this mantra: https://www.yo
 Text from the youtube video scanned using [Text Scanner (OCR)
 by Govarthani Rajesh](https://apps.apple.com/us/app/text-scanner-ocr/id1225032527) for iOS. Text is near perfcet despite it coming from a phone's picture of a laptop screen. Also manages to capture Denanagaari pretty well, maybe not surprising give that the developer is an Indian.
 
-Scans are limited to three per day for the non subscription version. Shame that there is not just a 'buy it' option since that would be worth a fait chunk, but subscription models can jusy suck a bag of roman numeral 509!
+Scans are limited to three per day for the non subscription version. Shame that there is not just a 'buy it' option since that would be worth a fair chunk, but subscription models can just suck on a bag of roman numeral 509! (don't factorialise me)
 
 
-<iframe width="560" height="315"
-  src="https://www.youtube.com/watch?v=SarlTxrAbIY&t=265s" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-  allowfullscreen></iframe>
+{{<yt-media id="6Kb0q9J8lPA" yt_start="10" autoplay="true">}}
 
-### ॐ भूर्भुवः स्वः 
-### तत्सवितुर्वरेण्यं 
-### भर्गो देवस्य धीमहि 
-### धियो यो नः प्रचोदयात् ॥
+
+```devnag
+ॐ भूर्भुवः स्वः 
+तत्सवितुर्वरेण्यं 
+भर्गो देवस्य धीमहि 
+धियो यो नः प्रचोदयात् ॥
+```
 
 In IAST:
 
-#### oṃ bhūr bhuvaḥ svaḥ
-#### tat savitur vareṇyaṃ
-#### bhargo devasya dhīmahi
-#### dhiyo yo naḥ pracodayāt
-##### ~~ Rigveda 3.62.10
+>#### oṃ bhūr bhuvaḥ svaḥ
+>#### tat savitur vareṇyaṃ
+>#### bhargo devasya dhīmahi
+>#### dhiyo yo naḥ pracodayāt
+>##### ~~ Rigveda 3.62.10
 
+----
+----
+----
 
 ### 1. OM 
 The Supreme name of God. The single word OM (or AUM) is known as the pranava mantra and is perhaps the most significant mantra in hinduism. It is known as the primary (or seed) or pranava mantra (or bija mantra) because it contains the seed for all other mantras within itself. OM is also referred to in some texts as the primordial sound.
