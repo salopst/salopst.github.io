@@ -1,7 +1,7 @@
 ---
 author: "yearluk"
 title: "Science jokes"
-date: 2020-05-08T15:33:57+01:00
+date: 2012-05-08T15:33:57+01:00
 draft: false
 summary: a sucking fummary of the most awesomest collection of science-based jokes on the Interwebz...
 categories:

@@ -1,9 +1,9 @@
 +++
-title = "level 1 org heading"
+title = "Hugo and Emacs"
 author = ["yearluk"]
 date = 2020-05-18T15:33:57+01:00
-tags = ["emacs", "hugo", "test"]
-categories = ["blog", "emacs", "tech"]
+tags = ["emacs", "hugo", "test", "wordpress"]
+categories = ["blog", "emacs", "tech", "web"]
 draft = false
 weight = 1001
 noLicense = "= true # Do not show license in this post"
@@ -13,14 +13,61 @@ description = "This is a manually added TOML description"
 
 
 
-{{< image src="/img/avatars/Leaping-baby-Brown-Trout.jpg" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
+{{< image src="/img/uploads/leaping-baby-brown-trout.jpg" alt="Hello Friendo" position="center" style="border-radius: 50px;" >}}
 
-Hugo's markdown flavour is blackfriday: https://github.com/russross/blackfriday
+^^^ This image above is not in the general template for a post file. It is added with:
+
+```hugo
+{\{< image src="/img/uploads/leaping-baby-brown-trout.jpg" 
+  alt="Hello Friendo"
+  position="center" 
+  style="border-radius: 50px;" >}}
+```
+
+**NOTE**: that `{\{` should be `{{`. I popped in the backslash because the current version of Hugo interperets its own shortcodes even in code blocks!
+
+- Hugo's markdown flavour is blackfriday: https://github.com/russross/blackfriday
+
+- This Hugo implementation uses title as the *persistent* URL and is different from the file name (in the case of this file `2020-05-18-hugo-and-emacs.31`) and is kinda how I would like to move forward. **BUT** some of the old Wordpress posts make a distinction between title and "slug". These files will have to remain in abeyance while I fifure that shit out. Something like, pseudocode:
+
+```
+if metadata.has-slug
+  URL = slug
+else 
+  URL = title
+
+```
+
+This offers greater flexibility and prevents things from breaking. 
+E.g. the existing metadata in one `md` file has, and Hugo, dear, sweet innocent Hugo is deriving a URL that is incorrect.
+
+```
+slug: setting-gcc-4-2-as-the-default-compiler-on-mac-os-x-leopard
+title: Setting GCC 4.2 as the default compiler on Mac OS X Leopard
+```
+
+Oh, hey! This, Ladies and Germs, is why we always reads the docoses...
+
+
+>:slug
+>    the content’s slug (or title if no slug is provided in the front matter)
+
+~ [https://gohugo.io/content-management/urls/](https://gohugo.io/content-management/urls/)
+
+- Wordpress uploads were to a location that maps to the regex to `http://sjy.yearl.us/wp-content/uploads/.*/` This is replaced with `/wp-uploads/` in this implementation.
+
+- Wordpress created static thumbnails. Let's delete these:
+
+```bash
+  ❯❯  cd ~/code/hugo-sites/salopst.github.io/static/wp-uploads
+.../salopst.github.io/static/wp-uploads on  main
+ 🧠 15GiB/23GiB avec λ=❯ ...
+  ❯❯  find . -regex ".*[0-9]x[0-9]*\.jpg$" -exec rm -rf {} \;
+```
 
 
 # Frontmatter metadata
 Hugo supports 4 frontmatter formats:
-Front Matter Formats
 
 - TOML
     identified by opening and closing +++.
@@ -39,9 +86,10 @@ Eg. Wordpress:
 author: "yearluk"
 title: "Science jokes"
 date: 2020-05-08T15:33:57+01:00
+lastMod:
 draft: true
-summary: a sucking fummary of the most awesomest collection of science-based jokes on the Interwebz...
-description: a ducking fescription
+summary: A summary of the most awesomest collection of science-based jokes on the Interwebz.
+description: A description, but what distinguishes (practically speaking) a description and a summary is for the birds to tweet.
 categories:
 - Humour
 - Random
@@ -49,7 +97,7 @@ tags:
 - jokes
 - science
 - orgmode
-image: "Leaping-baby-Brown-Trout.jpg"
+image: "leaping-baby-brown-trout.jpg"
 featured: "/img/avatars/220px-Arms-of-Shropshire.png"
 featuredalt: "3 leopards"
 featuredpath: "/img/avatars"
@@ -72,11 +120,7 @@ summary = "This is from the \"\\:EXPORT_HUGO_CUSTOM_FRONT_MATTER \\:summary\""
 ```
 
 
-The image above is not in the general template for a post file. It is added with
 
-```
-{{< image src="/img/avatars/Leaping-baby-Brown-Trout.jpg" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
-```
 
 what does one do about the alignment and the height and width in markdown?
 
@@ -87,8 +131,8 @@ what does one do about the alignment and the height and width in markdown?
 
 perhaps use (why is this code block not visible:)
 
-```example
-`{{`< figure
+```hugo
+{\{< figure
   src="/wp-uploads/Screen-Shot-2018-10-06-at-16.25.06.png"
   title="the figure title"
   caption="the figure caption"
@@ -96,7 +140,7 @@ perhaps use (why is this code block not visible:)
   width="300"  
   attr="attribution: thanks, mom!"
   attrlink="https://mymom.com"
-  >`}}`
+  >}}
 ```
 
 {{< figure
