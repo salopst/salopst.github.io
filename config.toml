@@ -37,7 +37,9 @@ disableHugoGeneratorInject = false
 
 [permalinks]
   #posts = "/posts/:year/:month/:title/"
-posts = ":title/"
+  # :slug defaults to :title if not present!
+  # so persistence w/ olde wordpresse site URLs!!
+posts = ":slug/"
 
 [author]
   name = "yearlus"

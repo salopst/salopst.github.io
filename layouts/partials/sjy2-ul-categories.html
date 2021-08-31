@@ -1,0 +1,10 @@
+
+<!-- show categories -->
+<ul>
+{{ range .Site.RegularPages }}
+    <li>   
+    Title: {{ .Title }} - Categories:
+    {{ range .Params.categories }}{{ . }}{{ end }}
+    </li>
+{{ end }}
+</ul>
