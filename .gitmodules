@@ -1,10 +1,21 @@
+# 2021-08-28
+# yearluk
+#
+# add theme as submodule
+#
+# git submodule add https://://github.com/rhazdon/hugo-theme-hello-friend-ng themes/hello-friend-ng
+# git update --remote
+
 [submodule "themes/hello-friend-ng"] 
   path = themes/hello-friend-ng 
   url = https://://github.com/rhazdon/hugo-theme-hello-friend-ng
 
-[submodule "assets/vendor/bootstrap"]
-	path = assets/vendor/bootstrap
-	url = https://github.com/twbs/bootstrap.git
-[submodule "assets/vendor/Font-Awesome"]
-	path = assets/vendor/Font-Awesome
-	url = https://github.com/FortAwesome/Font-Awesome.git
+
+# for the laters
+#
+# [submodule "assets/vendor/bootstrap"]
+# 	path = assets/vendor/bootstrap
+# 	url = https://github.com/twbs/bootstrap.git
+# [submodule "assets/vendor/Font-Awesome"]
+# 	path = assets/vendor/Font-Awesome
+# 	url = https://github.com/FortAwesome/Font-Awesome.git
