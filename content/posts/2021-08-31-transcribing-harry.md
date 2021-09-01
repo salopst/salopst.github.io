@@ -1,9 +1,15 @@
 ---
 author: "yearluk"
+origin: "hugo"
 title: "Transcribing Enrico Vasaio for fun and no profit"
+slug: "Transcribing Enrico Vasaio for fun and no profit"
 date: 2021-07-31T20:13:58+01:00
+lastMod: 2021-09-01T02:30:00.000Z
 draft: false
-summary: A quick look at Italian; actually some transcription.
+noLicense: false
+weight: 1001
+summary: "A quick look at Italian; actually some transcription."
+description: "A quick look at Italian; actually some transcription."
 categories:
 - Language
 - Italian
@@ -12,6 +18,7 @@ tags:
 - language
 - hugo
 ---
+
 
 Following the illustrious Johnson Government's recent wailing about Latin, I decided to do the Duolingo Latin tree to see how much I could remember from school. Quite a bit as it happened since I managed to complete the tree with only a handful of errors over about two or three days of pretty casual, bored clicking, tapping and swiping.
 

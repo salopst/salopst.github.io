@@ -1,12 +1,10 @@
 ---
-title: Running (scratch) notes on Hugo
+author: "yearluk"
+origin: "hugo"
+title: "Running (scratch) notes on Hugo and this implementation"
+slug: "Hugo and Emacs"
 date: 2020-05-18T14:33:57.000Z
 lastMod: 2021-09-01T02:30:00.000Z
-slug: Hugo and Emacs
-author:
-  - yearluk
-origin:
-  - Hugo
 tags:
   - emacs
   - hugo
@@ -20,9 +18,8 @@ categories:
 draft: false
 weight: 1001
 noLicense: false
-summary:  Some summary, random running notes on using Hugo having migrated to it from Wordpress.
-description: Some description-based random running notes on using Hugo having migrated
-  to it from Wordpress.
+summary:  "Some summary-based, random running notes on using Hugo having migrated to it from Wordpress."
+description: "Some description-based, random running notes on using Hugo having migrated to it from Wordpress."
 ---
 
 

@@ -1,15 +1,29 @@
-+++
-title = "Voglio andare a vivere in campagna"
-author = ["yearluk"]
-date = 2021-08-27T19:36:45
-tags = ["italian", "hugo", "song", "canzone" , "lyrics"]
-categories = ["blog", "language", "Italian", "media", "music"]
-draft = false
-weight = 1001
-noLicense = "= true # Do not show license in this post"
-summary = "This SUMMARY of the best goddamned Italian song eva is \""
-description = "This is a DESCRIPTION too"
-+++
+---
+author: "yearluk"
+origin: "hugo"
+title: "Voglio andare a vivere in campagna"
+date: 2021-08-27T19:36:45
+lastMod: 2021-09-01T02:30:00.000Z
+draft: false
+noLicense: false
+weight: 1001
+tags:
+  - italian
+  - hugo
+  - song
+  - canzone
+  - lyrics
+categories:
+  - blog
+  - language
+  - Italian
+  - media
+  - music
+draft: false
+summary: Voglio andare a vivere in campagna... a-ha!
+description: Voglio zappare la terra e fare la legna... a-ha!
+---
+
 
 
 ## O, Toto!
