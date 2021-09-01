@@ -1,16 +1,29 @@
-+++
-title = "Hugo and Emacs"
-author = ["yearluk"]
-date = 2020-05-18T15:33:57+01:00
-tags = ["emacs", "hugo", "test", "wordpress"]
-categories = ["blog", "emacs", "tech", "web"]
-draft = false
-weight = 1001
-noLicense = "= true # Do not show license in this post"
-summary = "This is from the \"\\:EXPORT_HUGO_CUSTOM_FRONT_MATTER \\:summary\""
-description = "This is a manually added TOML description"
-+++
-
+---
+title: Running (scratch) notes on Hugo
+date: 2020-05-18T14:33:57.000Z
+lastMod: 2021-09-01T02:30:00.000Z
+slug: Hugo and Emacs
+author:
+  - yearluk
+origin:
+  - Hugo
+tags:
+  - emacs
+  - hugo
+  - test
+  - wordpress
+categories:
+  - blog
+  - emacs
+  - tech
+  - webdev
+draft: false
+weight: 1001
+noLicense: false
+summary:  Some summary, random running notes on using Hugo having migrated to it from Wordpress.
+description: Some description-based random running notes on using Hugo having migrated
+  to it from Wordpress.
+---
 
 
 {{< image src="/img/uploads/leaping-baby-brown-trout.jpg" alt="Hello Friendo" position="center" style="border-radius: 50px;" >}}
@@ -77,7 +90,7 @@ title: Setting GCC 4.2 as the default compiler on Mac OS X Leopard
 - Found some old posterous posts that never even made it to Wordpress, back in the day in `$HOME/Documents/yearl.us-migration/papa.he.net-bkup/public_html/stephen/posterous/blog.yearl.us`
 
 ## Hugo themes and submodules
-Create [.gitmodules](https://github.com/salopst/salopst.github.io/blob/main/.gitmodules),  "register" and update it:
+Create [.gitmodules](https://github.com/salopst/salopst.github.io/blob/main/.gitmodules), "register" and update it:
 
 ```bash
 ../salopst.github.io on  main [!]
@@ -97,13 +110,28 @@ $ cd ~/git/andrewhoog.com/themes/Mainroad
 $ git status
 On branch master
 Your branch is up-to-date with 'origin/master'.
+```
 
-Changes to be committed:
-  (use "git reset HEAD <file>..." to unstage)
 
-  new file:   layouts/partials/categories.html
-  modified:   layouts/partials/sidebar.html
-  new file:   layouts/partials/tags.html
+### Discarding changes to submodules
+
+Of course, to discard local changes in git repository, one simply tries
+
+- `git reset --hard` or
+- `git reset HEAD^` for quickie rollbacks
+
+But submodules is a bit tricksier.
+
+1. Try to update submodules if local changes were made:
+
+- `git submodule update --init`
+
+2. If no dice, then try the hard resets:
+
+- `git submodule foreach git reset --hard`
+
+
+
 
 ## Frontmatter metadata
 Hugo supports 4 frontmatter formats:
