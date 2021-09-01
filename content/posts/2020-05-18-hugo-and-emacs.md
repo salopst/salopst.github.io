@@ -76,7 +76,36 @@ title: Setting GCC 4.2 as the default compiler on Mac OS X Leopard
 
 - Found some old posterous posts that never even made it to Wordpress, back in the day in `$HOME/Documents/yearl.us-migration/papa.he.net-bkup/public_html/stephen/posterous/blog.yearl.us`
 
-# Frontmatter metadata
+## Hugo themes and submodules
+Create [.gitmodules](https://github.com/salopst/salopst.github.io/blob/main/.gitmodules),  "register" and update it:
+
+```bash
+../salopst.github.io on  main [!]
+ 🧠 16GiB/23GiB avec λ=❯ ... 3s
+  ❯❯  git submodule add https://://github.com/rhazdon/hugo-theme-hello-friend-ng themes/hello-friend-ng
+  ❯❯  git submodule update --remote
+```
+
+Now whilst the `git status` report of `salopst.github.io` is aware of the submodule, when I need to check the status of changes to the theme or to commit changes, I gotsta be *in* that submodule’s directory, ie. `$HOME/code/hugo-sites/salopst.gitbub.io/themes/hello-friend-ng`:
+
+```bash
+ ../salopst.github.io on  main [!]
+ 🧠 16GiB/23GiB avec λ=❯ ...
+ ❯❯ cd themes/hello-friend-ng
+
+$ cd ~/git/andrewhoog.com/themes/Mainroad
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+  new file:   layouts/partials/categories.html
+  modified:   layouts/partials/sidebar.html
+  new file:   layouts/partials/tags.html
+
+## Frontmatter metadata
 Hugo supports 4 frontmatter formats:
 
 - TOML
