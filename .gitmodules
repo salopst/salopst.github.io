@@ -1,3 +1,10 @@
 [submodule "themes/hello-friend-ng"] 
   path = themes/hello-friend-ng 
-  url = git://github.com/rhazdon/hugo-theme-hello-friend-ng
+  url = https://://github.com/rhazdon/hugo-theme-hello-friend-ng
+
+[submodule "assets/vendor/bootstrap"]
+	path = assets/vendor/bootstrap
+	url = https://github.com/twbs/bootstrap.git
+[submodule "assets/vendor/Font-Awesome"]
+	path = assets/vendor/Font-Awesome
+	url = https://github.com/FortAwesome/Font-Awesome.git
