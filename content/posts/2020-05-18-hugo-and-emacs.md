@@ -39,22 +39,31 @@ else
 ```
 
 This offers greater flexibility and prevents things from breaking. 
-E.g. the existing metadata in one `md` file has, and Hugo, dear, sweet innocent Hugo is deriving a URL that is incorrect.
+E.g. the existing metadata in one `md` file has, and Hugo, dear, sweet, innocent Hugo is deriving a URL that is incorrect.
 
 ```
 slug: setting-gcc-4-2-as-the-default-compiler-on-mac-os-x-leopard
 title: Setting GCC 4.2 as the default compiler on Mac OS X Leopard
 ```
 
-Oh, hey! This, Ladies and Germs, is why we always reads the docoses...
+**Oh, hey! This, Ladies and Germs, is why we always reads the precious docoses...**
 
 
 >:slug
 >    the content’s slug (or title if no slug is provided in the front matter)
-
-~ [https://gohugo.io/content-management/urls/](https://gohugo.io/content-management/urls/)
+>
+>--- [https://gohugo.io/content-management/urls/](https://gohugo.io/content-management/urls/)
 
 - Wordpress uploads were to a location that maps to the regex to `http://sjy.yearl.us/wp-content/uploads/.*/` This is replaced with `/wp-uploads/` in this implementation.
+
+- Not sure I like the blockquote rendering, and I'd kind of like to fold in a `<footer>` element. But then I'm getting into the realm of markdown parsing, not hudo HTML styling. Does this matter enough to create a shortcode?, the output of which should be:
+
+```hmtl
+<blockquote>
+  <p>Necessity is the plea for every infringement of human freedom. It is the argument of tyrants; it is the creed of slaves.</p>
+  <footer>Pitt the Younger. House of Commons, 1783</footer>
+</blockquote>
+```
 
 - Wordpress created static thumbnails. Let's delete these:
 
@@ -65,6 +74,7 @@ Oh, hey! This, Ladies and Germs, is why we always reads the docoses...
   ❯❯  find . -regex ".*[0-9]x[0-9]*\.jpg$" -exec rm -rf {} \;
 ```
 
+- Found some old posterous posts that never even made it to Wordpress, back in the day in `$HOME/Documents/yearl.us-migration/papa.he.net-bkup/public_html/stephen/posterous/blog.yearl.us`
 
 # Frontmatter metadata
 Hugo supports 4 frontmatter formats:
