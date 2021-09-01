@@ -1,9 +1,13 @@
 ---
 author: "yearluk"
+origin: "hugo"
 title: "Science jokes"
 date: 2012-05-08T15:33:57+01:00
+lastMod: 2021-09-01T02:30:00.000Z
 draft: false
-summary: a sucking fummary of the most awesomest collection of science-based jokes on the Interwebz...
+noLicense: false
+weight: 1001
+summary: A sucking fummary of the most awesomest collection of science-based jokes on the Interwebz...in a SFW
 categories:
 - Humour
 - Random

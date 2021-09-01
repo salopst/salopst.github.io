@@ -84,6 +84,9 @@ title: Setting GCC 4.2 as the default compiler on Mac OS X Leopard
   ❯❯  find . -regex ".*[0-9]x[0-9]*\.jpg$" -exec rm -rf {} \;
 ```
 
+⚠️ AFTER flattening the hierarchy, of course: 
+⚠️`mv ./*/* .`
+
 - Found some old posterous posts that never even made it to Wordpress, back in the day in `$HOME/Documents/yearl.us-migration/papa.he.net-bkup/public_html/stephen/posterous/blog.yearl.us`
 
 ## Hugo themes and submodules
