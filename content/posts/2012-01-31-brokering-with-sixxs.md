@@ -56,7 +56,8 @@ gif0: flags=8051 mtu 1280 tunnel inet 31.111.38.188 --> 216.93.250.26 inet6 fe80
 ```
 -----
 -----
+-----
 
 #### Related articles
 
-[The Status of IPv6 and Open Source/Free Operating systems (slideshare.net)(http://www.slideshare.net/oej/the-status-of-ipv6-and-open-sourcefree-operating-systems)
+[The Status of IPv6 and Open Source/Free Operating systems (slideshare.net)](http://www.slideshare.net/oej/the-status-of-ipv6-and-open-sourcefree-operating-systems)
