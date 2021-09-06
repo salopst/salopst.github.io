@@ -17,13 +17,13 @@ tags:
 
 My local radio station has a quiz every once in a while. The questions are hardly "University Challenge", but there is one question that always is fiendishly tricksy and slippery: to identify a place in the county from an anagram of it.
 
-Constantly getting all but one question correct, it is, of course time to <del>cheat</del> use lateral thinking.
+Constantly getting all but one question correct, it is, of course time to ~~cheat~~ use lateral thinking.
 
-#1 get a list of place names. A [gazetteer](https://britishplacenames.uk/england/shropshire) should do.
+- #1 get a list of place names. A [gazetteer](https://britishplacenames.uk/england/shropshire) should do.
 
-#2 Build an index (hash). First thoughts were to md5 the names, but there's an easier way: equalise case, remove spaces and punctuation, order the string...
+- #2 Build an index (hash). First thoughts were to md5 the names, but there's an easier way: equalise case, remove spaces and punctuation, order the string...
 
-[cc lang="ruby"]
+```ruby
 places = Hash.new([])
 
 File.open("./places.txt", "r") do |file|
@@ -40,10 +40,10 @@ File.open("places_hash", "w") do |file|
 end
 
 puts places.inspect
-[/cc]
+```
 
-#3 Simply pull out the entry that matches the key...
-[cc lang="ruby"]
+- #3 Simply pull out the entry that matches the key...
+```ruby
 places = nil
 
 File.open("places_hash", "r") do |file|
@@ -58,8 +58,9 @@ answer = places[sorted_wrangler]
 
 answer = answer[0] ||= "nowhere to be found in Shropshire!"
 puts "wrangler: #{wrangler} \n\nIt's probably... #{answer}"
-[/cc]
+```
 
 And that's all she wrote... a basic anagram solver.
 
-[caption id="attachment_1397" align="alignnone" width="300"][![program output](http://stephen.yearl.us/wp-content/uploads/2018/06/wrangler-solver-output-300x215.png)](http://stephen.yearl.us/wp-content/uploads/2018/06/wrangler-solver-output.png) program output[/caption]
+{{< image src="/wp-uploads/wrangler-solver-output.png" alt="ALL YOUR RADIO SHROPSHIRE PRIZES ARE MIIIIIINE!" position="center" style="border-radius: 10px;" >}}
+
