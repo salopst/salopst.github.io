@@ -12,9 +12,12 @@ slug: of-apple-pyes
 title: Of Apple-Pyes
 wordpress_id: 1445
 categories:
-- Apple
 - good life
 - Recipes
+tags:
+- apple
+- food
+- recipe
 ---
 
 *Of Apple-Pyes*: A poem, by Mr. [Leonard Welsted](https://en.wikipedia.org/wiki/Leonard_Welsted) (Cambridge man, you know).

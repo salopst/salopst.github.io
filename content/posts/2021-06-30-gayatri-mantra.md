@@ -8,6 +8,11 @@ lastMod: 2021-09-01T02:30:00.000Z
 draft: false
 noLicense: false
 weight: 1001
+categories:
+  - Blog
+  - Language
+  - Hindi
+  - Media
 tags:
   - hindi
   - hugo
@@ -15,11 +20,6 @@ tags:
   - lyrics
   - music
   - mantra
-categories:
-  - blog
-  - language
-  - Hindi
-  - media
 summary: >-
   The Gāyatrī Mantra, also known as the Sāvitri Mantra, is a highly revered
   mantra from the Rig Veda (Mandala 3.62.10),[1] dedicated to the Vedic deity
