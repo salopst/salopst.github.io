@@ -9,7 +9,7 @@
 <link rel="canonical" href="{{ .Permalink }}" />
 
 {{ block "title" . }}
-    <title>
+    <title id="layouts.partials.head.html">
         {{ if .IsHome }}
             {{ $.Site.Title }} {{ with $.Site.Params.Subtitle }} — {{ . }} {{ end }}
         {{ else }}
@@ -19,20 +19,24 @@
 {{ end }}
 
 <!-- CSS -->
-<link href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/css/flag-icon.min.css" rel="stylesheet"
+<link id="22" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.2.1/css/flag-icon.min.css" rel="stylesheet"
     type="text/css">
 
 
 {{ $options := (dict "targetPath" "main.css" "outputStyle" "compressed" "enableSourceMap" true) }}
 {{ $style := resources.Get "scss/main.scss" | resources.ToCSS $options | resources.Fingerprint }}
-<link rel="stylesheet" type="text/css" href="{{ $style.RelPermalink }}">
+<link id="28" rel="stylesheet" type="text/css" href="{{ $style.RelPermalink }}">
 
 {{ range $val := $.Site.Params.customCSS }}
     {{ if gt (len $val) 0 }}
-        <link rel="stylesheet" type="text/css" href="{{ $val }}">
-        <link rel="stylesheet" type="text/css" href="{{ . | absURL }}">
+        <link id="32" rel="stylesheet" type="text/css" href="{{ $val }}"><!-- does not work on localhost-->
+        <link id="33" rel="stylesheet" type="text/css" href="{{ . | absURL }}">
     {{ end }}
 {{ end }}
+
+<!-- JSS 
+    is called in the javascript.html
+-->
 
 <!-- Icons -->
 {{- partial "favicons.html" . }}
