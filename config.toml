@@ -74,7 +74,7 @@ posts = ":slug/"
   # Integrate Javascript files or stylesheets by adding the url to the external assets or by
   # linking local files with their path relative to the static folder, e.g. "css/styles.css"
   customCSS = ["css/sjy-specials.css"]
-  customJS  = []
+  customJS  = ["js/mermaid.js"]
 
   # Toggle this option need to rebuild SCSS, requires extended version of Hugo
   justifyContent = false  # Set "text-align: justify" to .content.
