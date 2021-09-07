@@ -1,6 +1,6 @@
 # baseURL = "https://salopst.github.io/"
 # baseURL = "https://stephen.yearl.us/"
-baseURL = ""
+# baseURL = "http://localhost:1313/"
 title   = "[::1] yearl.us"
 languageCode = "en-us"
 theme = "hello-friend-ng"
@@ -12,7 +12,7 @@ paginate  = 25
 rssLimit  = 25  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
- googleAnalytics = ""
+ googleAnalytics = "UA-115768355-2"
  disqusShortname = "@usyearlsjy"
 
 archetypeDir = "archetypes"
@@ -27,7 +27,7 @@ buildExpired = false
 canonifyURLs = true
 
 enableRobotsTXT = true
-enableGitInfo   = false
+enableGitInfo   = true
 enableEmoji     = true
 enableMissingTranslationPlaceholders = false
 disableRSS     = false
@@ -37,7 +37,7 @@ disableHugoGeneratorInject = false
 
 [permalinks]
   #posts = "/posts/:year/:month/:title/"
-  # :slug defaults to :title if not present!
+  # :slug defaults to :title if not present
   # so persistence w/ olde wordpresse site URLs!!
 posts = ":slug/"
 
@@ -151,10 +151,10 @@ posts = ":slug/"
 
 [menu]
   [[menu.main]]
-    identifier = "about"
-    name       = "About"
-    url        = "about/"
-  [[menu.main]]
     identifier = "posts"
     name       = "Posts"
     url        = "posts/"
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "about/"

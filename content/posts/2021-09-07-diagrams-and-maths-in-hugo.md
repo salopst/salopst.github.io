@@ -1,122 +1,96 @@
 ---
-title: Exploring Typora... and now Hugo
-slug: exploring-the-typora-markdown-editor
-author: yearluk@ehecatl
-origin: scratch
-date: 2018-07-17 
+title: Diagrams and Maths in Hugo
+slug: drawing diagrams and making math in hugo
+author: yearluk
+origin: hugo
+date: 2021-09-07T20:13:00
+lastMod:
+draft: false
+noLicense: false
+weight: 1001
+description: Displaying diagrams and maths in Hugo using several of the many javascript libraries that are available. flowchart.js mermaid.js js-sequence
 categories:
   - Tech
-  - Apps
+  - Blog
 tags:
   - tech 
-  - editors
   - markup
   - markdown
-  - apps
-  - OS X
-  - MacOS
-  - Linux
-todo:
-  - explore mermaid.js
-  - explore flow.js
-  - add border around images
+  - javascript
+  - linux
+  - webdev
 ---
 
-This wee MD file was created back on `date: 2018-07-17 ` to explore a new x-platform markdown editor I had heard about called Typora, [https://typora.io/](https://typora.io/). I was using a Mac then, a mid-2012 MPB, that had at that point done sterling service for 6 years and 13 days.
 
-The below is just a bunch of BS written back then to try out some of the splendid features it seemed to offer. Now the challenge is to see if some of the non-markdown features render under Hugo.
-
-## French learning resources
-
-* http://verbedujour.com/ (conjugate random verb)
-* [https://www.lepointdufle.net](https://www.lepointdufle.net/)*
+## Can we handle flowcharts using `flowchart.js` ?
+- [flowchart.js](http://flowchart.js.org/)?
 
 
+Given a code-block of 
+```text
+```flow
+q0=>condition: Does it move?
+q1=>condition: Should it?
+q2=>condition: Should it?
 
-## \## Does it checklistz? "Check!".
+np=>end: No problem!
+dt=>end: Duct Tape! No Problem
+wd=>end: Wd40 Rien de problem!
 
-- [x] du lait
-- [x] du fromage
-- [ ] du pâté
+q0(yes)->q1
+q0(no)->q2
 
-It's pretty out of the box with several default stylesheets... and if you don't like those one can write one's own. This is the modified "Newsprint" with [IAWriter](https://ia.net/writer)'s font, *iAWriterDuospace*.
+q1(yes)->np
+q1(no)->dt
 
-It does simple YAML frontmatter... which my stylesheet shows. Should change that so that it is only viewable in "view source" (cmd+/ on me Mac). Source Mode, BTW looks like:
+q2(yes)->wd
+q2(no)->np
+```
+```
 
--- IMAGE
+```flow
+q0=>condition: Does it move?
+q1=>condition: Should it?
+q2=>condition: Should it?
 
-![](/wp-uploads/Typora-source-mode.png)
+np=>end: No problem!
+dt=>end: Duct Tape! No Problem
+wd=>end: Wd40 Rien de problem!
 
--- EOF IMAGE --
+q0(yes)->q1
+q0(no)->q2
 
+q1(yes)->np
+q1(no)->dt
 
+q2(yes)->wd
+q2(no)->np
 
-The path of the above has to be absolute... so no `~/Pictures/Screenshots/Typora-source-mode.png`
+```
 
-> BLOCKQUOTE
->
-> And, naturally, I weirded myself by tring to edit some of that image, not realising that it is an image. It just blends so well with the background. **Perhaps modify stylesheet to show border around images?**
+## This is a mermaid example:
+With the shortcode 
 
-*Il faut du pain*. --- We need bread. (more like... "the bread is lacking"). It answers the question, "What is needed?" --- «*Qu'est-ce qu'il faut?*»
+```text
+{\{<mermaid align="left">}}
+graph LR;
+    A[Hard edge] -->|Link text| B(Round edge)
+    B --> C{Decision}
+    C -->|One| D[Result one]
+    C -->|Two| E[Result two]
+{\{< /mermaid >}}
+```
 
-And no, my French is not great... hence the refresher.
-
-C'est ce qu'il fait. --- I wrote: ç'est que il fait -- for "this is what he does"
-
-"en" stands in for an object, which has usually been mentioned just before. Take this example: Avez-vous du vin? J'en veux.
-
-Another example I've seen is: "J'en suis sur" (I am sure of it).
-
-
-
-J'en veux -- I want some.
-
-I know where it is -- je sais où il est || je sais où c'est
-
-il faut boire -- we have to drink -- WHAT THE ACTUAL FUCK??!
-
-
-
-## Un lavabo nouveau
-
-Je vais installer un nouveau lavabo et armoire dans la salle du bain.
-
-Le lavabo...![Le Lavabo](https://ws2.sinaimg.cn/large/006tNbRwgy1fugg6wuitoj31kw16okjl.jpg)
-
-
-
-Et je suis en train d’installer un bain neuf.  Mais d'abord, j'ai besoin de faire des recherches.
-
-
-
-| Nominal Bore (metric) | Nominal Bore (Imperial) | Pipe Outside Diamter (metric) |
-| --------------------- | ----------------------- | ----------------------------- |
-| **10 mm**             | 3/8 "                   | **17.2 mm**                   |
-| **15 mm**             | 1/2 "                   | **21.3 mm**                   |
-| **20 mm**             | 3/4 "                   | **26.9 mm**                   |
-| **25 mm**             | 1 "                     | **33.7 mm**                   |
-
-![](https://ws3.sinaimg.cn/large/006tNbRwgy1fugeqjwxdsj30bv0bvgmc.jpg) 
+{{<mermaid align="left">}}
+graph LR;
+    A[Hard edge] -->|Link text| B(Round edge)
+    B --> C{Decision}
+    C -->|One| D[Result one]
+    C -->|Two| E[Result two]
+{{< /mermaid >}}
 
 
-
-
-
-### ### italics *Nouveau* vs *neuf*
-
-The opposite of *nouveau* is *ancien* (former). Think of *nouveau* as "novel".
-
-*nouveau - nouvelle - nouveaux - nouvelles*
-
-The opposite of *neuf* is *vieux* (old).
-
-*neuf - neuve - neufs - neuves*
-
-*Neuf* is also the number nine:
-
-#### #### it does not do colours... shame!
-
-Ah but it `<span style="color:blue">`does`</span>` = <span style="color:blue">does</span> with HTML, and I am guessing that any arbitray HTML can be added and parsed. ==Begs== the question, can one script/extend to add quick inserts err.. cmd+opt+c for "colour selection" or smth.
+## Some plaine olde HTML directly in the Markdown
 
 <span style="color:#a3c1ad">#a3c1ad (also known as Heroic Blue)</span>
 <span style="color:#002147">#002147 (also known as Enemy Blue)</span>
@@ -129,8 +103,16 @@ That last is here: https://www.colorhexa.com/b4eaf2
 
 ~~And, if I am honest, the enemy's blue is a much nicer colour~~. 
 
+
+## What about $ \LaTeX $  ??????
+
+`$\LaTeX$`
+
+{{<latex align="center">}}
+
 $ \LaTeX $ says that $\\e = \mathop {\lim }\limits_{n \to \infty } \left( {1 + \frac{1}{n}} \right)^n $  but is mute as to the beauty of the expression. Now can we add arbitrary 
 
+{{</latex>}}
 
 
 Does it do such $\LaTeX$? things like:
@@ -138,7 +120,13 @@ Does it do such $\LaTeX$? things like:
 
 - Well, let's see.....   $ \textbf{graphic designers' hijacked and bastardised quote from Cicero's De finibus bonorum et malorum }$
 
+
+## Emojis
+
 - OMG! Ima like so :joy: `:joy:` smth.
+
+
+## Greek
 
 Greek ==looks kinda nice== in this font too:
 
@@ -286,51 +274,7 @@ html, body {
 }
 ```
 
-## and  flowcharts?
-
-
-Below is a code-block of ` ```flow \n\t q0=>condition: Does it move?...``` `
-
-```flow
-q0=>condition: Does it move?
-q1=>condition: Should it?
-q2=>condition: Should it?
-
-np=>end: No problem!
-dt=>end: Duct Tape! No Problem
-wd=>end: Wd40 Rien de problem!
-
-q0(yes)->q1
-q0(no)->q2
-
-q1(yes)->np
-q1(no)->dt
-
-q2(yes)->wd
-q2(no)->np
-
-```
-
-## This is a mermaid example:
-With the shortcode 
-
-```merma1d
-{{<mermaid align="left">}}
-graph LR;
-    A[Hard edge] -->|Link text| B(Round edge)
-    B --> C{Decision}
-    C -->|One| D[Result one]
-    C -->|Two| E[Result two]
-{{< /mermaid >}}
-```
-
-{{<mermaid align="left">}}
-graph LR;
-    A[Hard edge] -->|Link text| B(Round edge)
-    B --> C{Decision}
-    C -->|One| D[Result one]
-    C -->|Two| E[Result two]
-{{< /mermaid >}}
+## and  
 
 
 

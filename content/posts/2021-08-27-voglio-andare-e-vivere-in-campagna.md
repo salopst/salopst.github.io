@@ -2,6 +2,7 @@
 author: "yearluk"
 origin: "hugo"
 title: "Voglio andare a vivere in campagna"
+slug: "voglio-andare-a-vivere-in-campagna"
 date: 2021-08-27T19:36:45
 lastMod: 2021-09-01T02:30:00.000Z
 draft: false
@@ -14,12 +15,11 @@ tags:
   - canzone
   - lyrics
 categories:
-  - blog
-  - language
+  - Blog
+  - Language
   - Italian
-  - media
-  - music
-draft: false
+  - Media
+  - Music
 description: Voglio zappare la terra e fare la legna... a-ha!
 ---
 
@@ -42,7 +42,7 @@ Solo una cassetta con questo bellissimo singolo! L'avevo ascoltata così tanto s
 (Mi piacciono anche il vino e la pasta, quindi questo fa di me italiano, giusto?.... 🤣)
 
 
-```
+```lyrics
 Voglio andare a vivere in campagna
 Voglio la rugiada che mi bagna
 Ma vivo qui in città, e non mi piace più
