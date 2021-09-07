@@ -1,5 +1,5 @@
 # baseURL = "https://salopst.github.io/"
-# baseURL = "https://stephen.yearl.us/"
+baseURL = "https://stephen.yearl.us/"
 # baseURL = "http://localhost:1313/"
 title   = "[::1] yearl.us"
 languageCode = "en-us"
