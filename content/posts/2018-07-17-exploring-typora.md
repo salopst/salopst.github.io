@@ -100,6 +100,8 @@ Et je suis en train d’installer un bain neuf.  Mais d'abord, j'ai besoin de fa
 
 
 
+
+
 ### ### italics *Nouveau* vs *neuf*
 
 The opposite of *nouveau* is *ancien* (former). Think of *nouveau* as "novel".
@@ -155,7 +157,9 @@ Greek ==looks kinda nice== in this font too:
 
 Inline $\LaTeX$ and highlighting? `$\LaTeX$` and ``==highlight me==`` needs be set up in **Typora>Preference...>Markdown**
 
-#### Maths?
+#### Maths? or LaTeX
+Pretty sure that Typora uses  KaTeX ... a LaTeX notation
+
 $$
 \LaTeX\\
 \\42*42= 1764
@@ -321,7 +325,7 @@ q2(no)->np
 ## This is a mermaid example:
 With the shortcode 
 
-```mermaid
+```merma1d
 {{<mermaid align="left">}}
 graph LR;
     A[Hard edge] -->|Link text| B(Round edge)

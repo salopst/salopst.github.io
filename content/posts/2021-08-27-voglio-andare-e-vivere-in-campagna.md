@@ -20,7 +20,6 @@ categories:
   - media
   - music
 draft: false
-summary: Voglio andare a vivere in campagna... a-ha!
 description: Voglio zappare la terra e fare la legna... a-ha!
 ---
 
@@ -38,9 +37,9 @@ description: Voglio zappare la terra e fare la legna... a-ha!
 
 Immaginate un adolescente inglese monolingue di campagna che sta per sostenere alcuni esami di latino prima di andare all'università. Cosa può trovare al mercatino dell'usato a cui i suoi genitori lo hanno trascinato, in una domenica fredda, piovosa e ventosa?
 
-Solo una cassetta con questo bellissimo singolo! L'avevo ascoltata così tanto sul mio finto Walkman che il testo è praticamente impresso nella mia mente, e riesco a cantarla più forte di qualsiasi canzone inglese della mia gioventù.
+Solo una cassetta con questo bellissimo singolo! L'avevo ascoltata così tanto sul mio finto Walkman che il testo è praticamente impresso nella mia mente, e riesco a cantarla più forte (a squarciagola!) di qualsiasi canzone inglese della mia gioventù.
 
-(Mi piacciono anche il vino e la pasta, quindi questo fa di me  italiano, giusto?.... 🤣)
+(Mi piacciono anche il vino e la pasta, quindi questo fa di me italiano, giusto?.... 🤣)
 
 
 ```
