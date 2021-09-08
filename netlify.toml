@@ -4,6 +4,7 @@
 # 2021-08-027
 # https://docs.netlify.com/configure-builds/file-based-configuration/
 # 
+
 [build]
   # Directory to change to before starting a build.
   # This is where we will look for package.json/.nvmrc/etc.
@@ -24,6 +25,10 @@
 [[plugins]]
   # Installs the Lighthouse Build Plugin for all deploy contexts
   package = "@netlify/plugin-lighthouse"
+
+[[plugins]]
+  https://github.com/chrisdwheatley/netlify-plugin-image-optim#readme
+  package = "netlify-plugin-image-optim"
 
 # Production context: all deploys from the Production branch set in your site’s
 # Branches settings in the UI will inherit these settings.
