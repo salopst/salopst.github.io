@@ -4,7 +4,6 @@
 # 2021-08-027
 # https://docs.netlify.com/configure-builds/file-based-configuration/
 # 
-
 [build]
   # Directory to change to before starting a build.
   # This is where we will look for package.json/.nvmrc/etc.
@@ -16,19 +15,36 @@
   # root directory if a base has not been set. This sample publishes the
   # directory located at the absolute path "root/project/build-output"
   
+  # publish = "public"  # Hugo default
   # publish = "public-static-hugo"
 
   # Default build command.
   # command = "echo 'default context'"
   command = "hugo --gc --minify --destination public-static-hugo"
 
+
+[build.environment]
+  #HUGO_THEME = "hello-friend-ng"
+  # localhost version: v0.80.0/extended linux/amd64 BuildDate: 2021-02-09T18:47:48Z (ubuntu 0.80.0-6)
+  # installed using apt to /usr/bin/hugo
+  # TODO: upgrade local, OR set up netlify build environments
+  HUGO_VERSION = "0.80.0"
+  HUGO_ENABLEGITINFO = "true"
+  # HUGO_BASEURL = "https://salopst.netlify.app/"
+
+
+### PLUGINS
+#
+# Note: The [[plugins]] line is required for each plugin, even if you have other plugins in your netlify.toml file already.
+
 [[plugins]]
   # Installs the Lighthouse Build Plugin for all deploy contexts
   package = "@netlify/plugin-lighthouse"
 
-[[plugins]]
-  https://github.com/chrisdwheatley/netlify-plugin-image-optim#readme
-  package = "netlify-plugin-image-optim"
+# sjy2 2021-09-08: Keeps killing the build! WHY??
+#[[plugins]]
+#  https://github.com/chrisdwheatley/netlify-plugin-image-optim#readme
+#  package = "netlify-plugin-image-optim"
 
 # Production context: all deploys from the Production branch set in your site’s
 # Branches settings in the UI will inherit these settings.
