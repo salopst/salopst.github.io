@@ -28,7 +28,9 @@
   # localhost version: v0.80.0/extended linux/amd64 BuildDate: 2021-02-09T18:47:48Z (ubuntu 0.80.0-6)
   # installed using apt to /usr/bin/hugo
   # TODO: upgrade local, OR set up netlify build environments
-  HUGO_VERSION = "0.80.0"
+  # HUGO_VERSION = "0.8.0"
+  # hugo v0.87.0-B0C541E4 linux/amd64 BuildDate=2021-08-03T10:57:28Z
+  HUGO_VERSION = "0.87.0"
   HUGO_ENABLEGITINFO = "true"
   # HUGO_BASEURL = "https://salopst.netlify.app/"
 
