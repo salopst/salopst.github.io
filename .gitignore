@@ -3,6 +3,8 @@
 # $HOME/code/hugo-sites/salopst.github.io/.gitignore
 
 
+/hugo-easy-gallery
+
 /pietra-static
 2021-08-30-cap01.html
 

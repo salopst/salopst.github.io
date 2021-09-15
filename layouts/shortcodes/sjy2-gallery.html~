@@ -1,0 +1,46 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/css/lightbox.min.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/js/lightbox.min.js"></script>
+
+
+<!-- grab zee images
+
+{{ with .Page.Resources.ByType "image" }}
+    <ul>
+    {{ range . }}
+    <li>{{ .Permalink }}</li>
+    {{ end }}
+    </ul>
+{{ end }}
+-->
+
+<!-- do some resizing and so on
+
+https://gohugo.io/content-management/image-processing/
+
+
+-->
+{{ $image := (.Page.Resources.ByType "image") }}
+{{ with $image }}
+    <ul>
+    {{ range . }}
+    {{ $resized_fill := .Fill "250x215 q80" }}
+    {{ $resized := .Resize "x250 q80" }}
+    <li>{{ .Permalink }}
+        <a href="{{ .Permalink }}" data-lightbox="x"> <img src="{{ $resized.Permalink }}" /></a></li>
+    {{ end }}
+    </ul>
+{{ end }}
+
+
+<!--
+{{ $image := (.Page.Resources.ByType "image") }}
+{{ with $image }}
+    {{ range . }}
+    {{ $resized := .Fill "150x115 q20" }}
+    <a href="{{ .Permalink }}" data-lightbox="x"><img src="{{ $resized.Permalink }}" /></a>
+    {{ end }}
+{{ end }}
+
+-->
+

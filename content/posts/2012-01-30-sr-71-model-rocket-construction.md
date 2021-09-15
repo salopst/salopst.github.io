@@ -49,7 +49,7 @@ Not sure about the table format...
 |---|---|
 -->
 
-Not all tools are pictured here... for example, additional cutting tools such as scissors, a general purpose utility knife and a hacksaw. In some of the other pictures here and in the [gallery](/mary-wp-uploads/gallery/sr-71-blackbird-model/) for this project there are clamps of various sorts, and spray paints.
+Not all tools are pictured here... for example, additional cutting tools such as scissors, a general purpose utility knife and a hacksaw. In some of the other pictures here and in the [gallery](/gallery/sr-71-blackbird-model/) for this project there are clamps of various sorts, and spray paints.
 
 
 
