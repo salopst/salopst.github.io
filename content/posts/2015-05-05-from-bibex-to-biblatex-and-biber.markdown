@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2015-05-05 06:52:08+00:00
 layout: post
-link: http://stephen.yearl.us/from-bibex-to-biblatex-and-biber/
 slug: from-bibex-to-biblatex-and-biber
 title: From BibTeX to biblatex and biber
 wordpress_id: 858

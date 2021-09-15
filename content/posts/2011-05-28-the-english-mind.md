@@ -5,7 +5,6 @@ comments: true
 date: 2011-05-28 07:21:10+00:00
 lastMod: 2021-08-31 06:23:00+01:00
 layout: post
-link: http://stephen.yearl.us/the-english-mind/
 slug: the-english-mind
 title: the English mind
 wordpress_id: 1456

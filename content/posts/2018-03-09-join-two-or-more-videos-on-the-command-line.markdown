@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2018-03-09 07:25:54+00:00
 layout: post
-link: http://stephen.yearl.us/join-two-or-more-videos-on-the-command-line/
 slug: join-two-or-more-videos-on-the-command-line
 title: Join two or more videos on the command line
 wordpress_id: 1336

@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2014-08-02 17:45:01+00:00
 layout: post
-link: http://stephen.yearl.us/removing-google-auto-software-update/
 slug: removing-google-auto-software-update
 title: Removing Google auto-software-update
 wordpress_id: 1012

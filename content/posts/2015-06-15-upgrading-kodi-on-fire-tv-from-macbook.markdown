@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2015-06-15 05:42:34+00:00
 layout: post
-link: http://stephen.yearl.us/upgrading-kodi-on-fire-tv-from-macbook/
 slug: upgrading-kodi-on-fire-tv-from-macbook
 title: Upgrading Kodi on Fire TV from Macbook
 wordpress_id: 910

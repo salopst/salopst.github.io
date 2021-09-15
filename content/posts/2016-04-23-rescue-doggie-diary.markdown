@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2016-04-23 16:20:44+00:00
 layout: post
-link: http://stephen.yearl.us/rescue-doggie-diary/
 slug: rescue-doggie-diary
 title: Rescue Doggie Diary
 wordpress_id: 1015

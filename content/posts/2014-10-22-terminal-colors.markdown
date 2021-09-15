@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2014-10-22 03:47:44+00:00
 layout: post
-link: http://stephen.yearl.us/terminal-colors/
 slug: terminal-colors
 title: Terminal Colors
 wordpress_id: 1267

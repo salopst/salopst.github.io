@@ -5,7 +5,6 @@ comments: true
 date: 2011-06-18 19:21:32+00:00
 lastMod: 2021-08-31 06:23:00+01:00
 layout: post
-link: http://stephen.yearl.us/he-net-ipv6-certification-questions-and-answers-guru/
 slug: he-net-ipv6-certification-questions-and-answers-guru
 title: HE.net IPV6 Certification questions and answers -- \#4 Guru
 wordpress_id: 164

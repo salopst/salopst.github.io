@@ -1,22 +1,23 @@
 ---
-author: admin
+author: mary.yearl
+origin: wordpress
 comments: true
 date: 2012-01-31 21:10:02+00:00
 layout: post
-link: http://stephen.yearl.us/sr-71-maiden-launch/
 slug: sr-71-maiden-launch
 title: SR-71 Maiden launch
 wordpress_id: 385
 categories:
-- rockets
+- Rockets
 tags:
 - rockets
-- sjy2
+- craft
+- model
 ---
 
 [singlepic id=69 w=320 h=240 float=center]
 
-So, school for Joe and Sam was out early today and we thought this afternoon an appropriate time to put the [model rocke](http://mary.yearl.us/sr-71-model-rocket-construction/)t that Joe and Stephen put together over the weekend out for its maiden launch. There was quite some interest amongst Joe's 3rd Grade class as Mary yesterday had helped Joe at his "show and tell", where he told his peers about the launches he has been apart of, both at structured events like at [Goddard Space Flight Center](http://www.nasa.gov/centers/goddard/home/index.html), MD, and also private launches with his friends and family.
+So, school for Joe and Sam was out early today and we thought this afternoon an appropriate time to put the [model SR-71 Blackbird rocket](/sr-71-model-rocket-construction/) that Joe and Stephen put together over the weekend out for its maiden launch. There was quite some interest amongst Joe's 3rd Grade class as Mary yesterday had helped Joe at his "show and tell", where he told his peers about the launches he has been apart of, both at structured events like at [Goddard Space Flight Center](http://www.nasa.gov/centers/goddard/home/index.html), MD, and also private launches with his friends and family.
 
 This pictures from this afternoon's launch are in this gallery: [http://mary.yearl.us/sr-71-blackbird-launch/](http://mary.yearl.us/sr-71-blackbird-launch/).
 

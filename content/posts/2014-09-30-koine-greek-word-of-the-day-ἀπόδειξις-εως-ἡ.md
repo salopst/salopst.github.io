@@ -3,7 +3,6 @@ author: kword
 comments: false
 date: 2014-09-30 12:05:28+00:00
 layout: post
-link: http://stephen.yearl.us/koine-greek-word-of-the-day-ἀπόδειξις-εως-ἡ/
 slug: koine-greek-word-of-the-day-ἀπόδειξις-εως-ἡ
 title: 'Koinē Greek Word of the Day: ἀπόδειξις, εως, ἡ'
 wordpress_id: 726

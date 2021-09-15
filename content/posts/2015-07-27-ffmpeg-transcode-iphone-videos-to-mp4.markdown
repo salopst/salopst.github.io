@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2015-07-27 10:19:46+00:00
 layout: post
-link: http://stephen.yearl.us/ffmpeg-transcode-iphone-videos-to-mp4/
 slug: ffmpeg-transcode-iphone-videos-to-mp4
 title: FFMPEG transcode iPhone videos to mp4
 wordpress_id: 984

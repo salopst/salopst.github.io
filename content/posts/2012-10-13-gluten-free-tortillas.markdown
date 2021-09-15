@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2012-10-13 14:16:39+00:00
 layout: post
-link: http://stephen.yearl.us/gluten-free-tortillas/
 slug: gluten-free-tortillas
 title: Gluten-free tortillas (tlaxcali)
 wordpress_id: 398
@@ -17,7 +16,7 @@ tags:
 - tortilla
 ---
 
-[caption id="attachment_327" align="aligncenter" width="695"][![tortilladora de madera mezquite](http://sjy.yearl.us/wp-content/uploads/2012/10/antique_tortilla_press-1024x768.jpg)](http://sjy.yearl.us/wp-content/uploads/2012/10/antique_tortilla_press.jpg) Tortilladora de madera mezquite[/caption]
+[caption id="attachment_327" align="aligncenter" width="695"][![tortilladora de madera mezquite](/wp-uploadscaption]
 
 Corn (maize) tortillas have to be the quintessential American bread. American as in 'from the Americas', not 'USiAn'. Several highly organized civilizations flourished in North, Central and South America, all without wheat which was unknown to them. Maize was their staple, and alongside beans, a grass somewhat resembling rice, and potatoes in the South. With these sources of complex carbohydrates who would want for wheat (or barley)?
 
@@ -74,8 +73,8 @@ Ah, method. #3 is the one to watch out for here. Since we are without a tortilla
 
 And a little light reading: [_Breve historia de un invento olvidado: Las máquinas tortilladoras en México_](http://bidi.xoc.uam.mx/tabla_contenido_libro.php?id_libro=284)
 
-[caption id="attachment_330" align="aligncenter" width="695"][![ad hoc tortilla press](http://sjy.yearl.us/wp-content/uploads/2012/10/skillet_tortilla_press-1024x768.jpg)](http://sjy.yearl.us/wp-content/uploads/2012/10/skillet_tortilla_press.jpg) Skillet as tortilladora[/caption]
+[caption id="attachment_330" align="aligncenter" width="695"][![ad hoc tortilla press](/wp-uploadscaption]
 
-[caption id="attachment_331" align="aligncenter" width="695"][![Tortilla grilling on a comal](http://sjy.yearl.us/wp-content/uploads/2012/10/tortilla_on_comal-1024x768.jpg)](http://sjy.yearl.us/wp-content/uploads/2012/10/tortilla_on_comal.jpg) Tortilla grilling on a comal[/caption]
+[caption id="attachment_331" align="aligncenter" width="695"][![Tortilla grilling on a comal](/wp-uploadscaption]
 
 

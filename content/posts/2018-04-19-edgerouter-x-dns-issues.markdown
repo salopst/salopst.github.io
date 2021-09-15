@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2018-04-19 13:25:28+00:00
 layout: post
-link: http://stephen.yearl.us/edgerouter-x-dns-issues/
 slug: edgerouter-x-dns-issues
 title: Edgerouter X -- DNS issues
 wordpress_id: 1376

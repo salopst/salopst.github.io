@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2015-08-10 19:33:17+00:00
 layout: post
-link: http://stephen.yearl.us/top-100-german-verbs/
 slug: top-100-german-verbs
 title: Top 100 German verbs
 wordpress_id: 991

@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2018-09-21 11:42:50+00:00
 layout: post
-link: http://stephen.yearl.us/pi-hole-route-del/
 slug: pi-hole-route-del
 title: pi-hole route del
 wordpress_id: 1448

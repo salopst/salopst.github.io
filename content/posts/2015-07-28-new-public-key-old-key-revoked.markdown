@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2015-07-28 17:04:18+00:00
 layout: post
-link: http://stephen.yearl.us/new-public-key-old-key-revoked/
 slug: new-public-key-old-key-revoked
 title: New public key-- old key revoked
 wordpress_id: 988

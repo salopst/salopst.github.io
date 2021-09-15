@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2012-02-18 04:35:07+00:00
 layout: post
-link: http://stephen.yearl.us/gluten-free-yorkshire-pudding/
 slug: gluten-free-yorkshire-pudding
 title: Gluten-free Yorkshire pudding
 wordpress_id: 390
@@ -17,7 +16,7 @@ tags:
 
 As if a Yorkshire pudding can be gluten-free: please send suggestions of a suitable name for a GF version of something akin to a Yorkshire pudding.
 
-[caption id="attachment_133" align="aligncenter" width="695" caption="The pudding, still reasonably puffed up."][![](http://sjy.yearl.us/wp-content/uploads/2012/02/GF-Yorkshire-Pudding-1024x682.jpg)](http://sjy.yearl.us/wp-content/uploads/2012/02/GF-Yorkshire-Pudding.jpg)[/caption]
+[caption id="attachment_133" align="aligncenter" width="695" caption="The pudding, still reasonably puffed up."][![](/wp-uploadscaption]
 
 **Ingredients**:
 
@@ -81,11 +80,11 @@ As if a Yorkshire pudding can be gluten-free: please send suggestions of a suita
   * Place in the oven and cook for 20-30 minutes (original flour recipe called for 15-20, mine was in for 30)
 
 
-[caption id="" align="alignleft" width="300" caption="A slice: lighter in taste and texture than it looks"][![](http://sjy.yearl.us/wp-content/uploads/2012/02/GF-Yorkshire-pud-batter-300x209.jpg)](http://sjy.yearl.us/wp-content/uploads/2012/02/GF-Yorkshire-pud-batter.jpg)
+[caption id="" align="alignleft" width="300" caption="A slice: lighter in taste and texture than it looks"][![](/wp-uploadsGF-Yorkshire-pud-batter.jpg)
 
 
 
-[![](http://sjy.yearl.us/wp-content/uploads/2012/02/GF-Yorkshire-slice-300x199.jpg)](http://sjy.yearl.us/wp-content/uploads/2012/02/GF-Yorkshire-slice.jpg)[/caption]
+[![](/wp-uploadscaption]
 
 
 

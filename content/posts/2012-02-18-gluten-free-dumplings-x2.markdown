@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2012-02-18 04:02:34+00:00
 layout: post
-link: http://stephen.yearl.us/gluten-free-dumplings-x2/
 slug: gluten-free-dumplings-x2
 title: Gluten free dumplings (x2)
 wordpress_id: 389
@@ -17,7 +16,7 @@ tags:
 
 The first time I tried to make gluten-free dumplings, they worked out beautifully. Indeed, the existence of this blog is largely down to our desire to record those things that go well. For the record: I have not yet replicated those wonderful dumplings, but am working on it.
 
-[![](http://sjy.yearl.us/wp-content/uploads/2012/02/Chicken-and-cornbuck-dumplings-1024x682.jpg)](http://sjy.yearl.us/wp-content/uploads/2012/02/Chicken-and-cornbuck-dumplings.jpg)
+[![](/wp-uploadsChicken-and-cornbuck-dumplings.jpg)
 
 Cornmeal buckwheat dumplings.
 
@@ -99,9 +98,9 @@ Cornmeal buckwheat dumplings.
 
 See above: the same method applies for these as for the cornmeal buckwheat dumplings.
 
-[caption id="attachment_127" align="alignleft" width="300" caption="Mix the dough until it just comes together"][![](http://sjy.yearl.us/wp-content/uploads/2012/02/Masa-dumpling-mix-300x200.jpg)](http://sjy.yearl.us/wp-content/uploads/2012/02/Masa-dumpling-mix.jpg)[/caption]
+[caption id="attachment_127" align="alignleft" width="300" caption="Mix the dough until it just comes together"][![](/wp-uploadscaption]
 
-[caption id="attachment_129" align="alignright" width="300" caption="Then form bite-sized balls"][![](http://sjy.yearl.us/wp-content/uploads/2012/02/Masa-dumplings1-300x200.jpg)](http://sjy.yearl.us/wp-content/uploads/2012/02/Masa-dumplings1.jpg)[/caption]
+[caption id="attachment_129" align="alignright" width="300" caption="Then form bite-sized balls"][![](/wp-uploadscaption]
 
 
 

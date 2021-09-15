@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2015-07-04 15:15:22+00:00
 layout: post
-link: http://stephen.yearl.us/everything-is-illegal-in-massachusetts-some-ffmpeg-examples/
 slug: everything-is-illegal-in-massachusetts-some-ffmpeg-examples
 title: Everything is illegal in Massachusetts -- some FFMPEG examples
 wordpress_id: 898

@@ -6,7 +6,6 @@ date: 2012-02-20 12:18:001+00:00
 publishDate: 2012-02-20
 lastMod: 2012-02-20 12:18:001+00:00
 layout: post
-link: http://stephen.yearl.us/enabling-airdrop-on-certain-unsupported-macs/
 slug: enabling-airdrop-on-certain-unsupported-macs
 title: Enabling AirDrop on (certain) unsupported Macs
 categories:

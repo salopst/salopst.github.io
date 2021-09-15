@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2015-05-10 14:41:32+00:00
 layout: post
-link: http://stephen.yearl.us/fontawesome-4-3-0-yearlusbitbucket/
 slug: fontawesome-4-3-0-yearlusbitbucket
 title: fontawesome 4.3.0 (yearlus@bitbucket)
 wordpress_id: 912

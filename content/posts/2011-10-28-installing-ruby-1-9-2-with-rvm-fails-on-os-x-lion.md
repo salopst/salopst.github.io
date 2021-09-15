@@ -5,7 +5,6 @@ comments: true
 date: 2011-10-28 14:51:58+00:00
 lastMod: 2021-08-31 06:23:00+01:00
 layout: post
-link: http://stephen.yearl.us/installing-ruby-1-9-2-with-rvm-fails-on-os-x-lion/
 slug: installing-ruby-1-9-2-with-rvm-fails-on-os-x-lion
 title: Installing Ruby 1.9.2 with RVM fails on OS X Lion
 wordpress_id: 122

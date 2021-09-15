@@ -3,13 +3,12 @@ author: admin
 comments: true
 date: 2013-07-23 23:54:45+00:00
 layout: post
-link: http://stephen.yearl.us/oopsies-iv/
 slug: oopsies-iv
 title: Oopsies IV
 wordpress_id: 549
 ---
 
-[![suck-meter](http://sjy.yearl.us/wp-content/uploads/2013/07/suck-meter.jpg)](http://sjy.yearl.us/wp-content/uploads/2013/07/suck-meter.jpg)
+[![suck-meter](/wp-uploadssuck-meter.jpg)
 Another consultation with surgeon again today-- he's not happy with the scarring; not happy at all. All kinds of adhesions going on in that Zone V of mine. The plan now is for another month of increasing exercises, vibration and ultrasound therapy, then, maybe, cortisone injections. At that point a determination will be made about his potentially opening me up again for remedial tenolytic work.
 
 "It has been documented the up to 20% of patients will develop adhesions which requires tenolysis or tendon grafts [2]"

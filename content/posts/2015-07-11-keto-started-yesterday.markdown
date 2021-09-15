@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2015-07-11 08:45:09+00:00
 layout: post
-link: http://stephen.yearl.us/keto-started-yesterday/
 slug: keto-started-yesterday
 title: keto started yesterday
 wordpress_id: 920

@@ -49,3 +49,5 @@ Having reverted the changes, all is well:
 
 {{< image src="/img/uploads/netlify-build-fail-2021-09-08.png" alt="Netlify build failure" position="center" style="border-radius: 30px;" >}}
 
+What is interesting is that I did not get a notification from the continuous deployment system. That's OK, though, the good people at Netlify are hosting this for the free. Since I am having so much grief currently with my existing hosting co., I am sorely tempted to throw a few shekels in Netlify's general direction.
+

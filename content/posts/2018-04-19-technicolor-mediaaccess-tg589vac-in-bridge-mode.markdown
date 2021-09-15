@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2018-04-19 12:17:19+00:00
 layout: post
-link: http://stephen.yearl.us/technicolor-mediaaccess-tg589vac-in-bridge-mode/
 slug: technicolor-mediaaccess-tg589vac-in-bridge-mode
 title: Technicolor MediaAccess TG589vac in bridge mode
 wordpress_id: 1372

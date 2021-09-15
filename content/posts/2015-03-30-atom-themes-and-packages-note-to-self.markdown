@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2015-03-30 11:09:10+00:00
 layout: post
-link: http://stephen.yearl.us/atom-themes-and-packages-note-to-self/
 slug: atom-themes-and-packages-note-to-self
 title: Atom themes and packages; note to self
 wordpress_id: 841

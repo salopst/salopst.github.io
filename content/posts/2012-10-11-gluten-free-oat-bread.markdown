@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2012-10-11 15:51:03+00:00
 layout: post
-link: http://stephen.yearl.us/gluten-free-oat-bread/
 slug: gluten-free-oat-bread
 title: Gluten-Free Oat Bread
 wordpress_id: 396
@@ -96,7 +95,7 @@ I should repeat again that we use a nifty [electronic scale](http://www.polyvore
   8. Bake until golden brown and cooked through (45-50 minutes)
 
 
-[caption id="attachment_308" align="alignleft" width="695"][![](http://sjy.yearl.us/wp-content/uploads/2012/10/gf_oat_bread_oct_2012-1024x653.jpg)](http://sjy.yearl.us/wp-content/uploads/2012/10/gf_oat_bread_oct_2012.jpg) Gluten-Free Oat Bread[/caption]
+[caption id="attachment_308" align="alignleft" width="695"][![](/wp-uploadscaption]
 
 
 

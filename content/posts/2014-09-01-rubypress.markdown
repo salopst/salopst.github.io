@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2014-09-01 18:35:07+00:00
 layout: post
-link: http://stephen.yearl.us/rubypress/
 slug: rubypress
 title: rubypress
 wordpress_id: 626

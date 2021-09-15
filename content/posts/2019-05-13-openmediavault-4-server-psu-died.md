@@ -8,7 +8,6 @@ draft: false
 noLicense: false
 weight: 1001
 layout: post
-link: http://stephen.yearl.us/openmediavault-4-server-psu-died/
 slug: openmediavault-4-server-psu-died
 title: Openmediavault 4 server... PSU died
 wordpress_id: 1480

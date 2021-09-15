@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2015-06-26 13:26:53+00:00
 layout: post
-link: http://stephen.yearl.us/homebrew-woes-wtf/
 slug: homebrew-woes-wtf
 title: homebrew woes. WTF?
 wordpress_id: 894

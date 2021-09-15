@@ -3,7 +3,6 @@ author: kword
 comments: false
 date: 2014-10-02 10:35:34+00:00
 layout: post
-link: http://stephen.yearl.us/koine-greek-word-of-the-day-ῥακά/
 slug: koine-greek-word-of-the-day-ῥακά
 title: 'Koinē Greek Word of the Day: ῥακά'
 wordpress_id: 752

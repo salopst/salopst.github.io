@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2013-04-24 21:13:27+00:00
 layout: post
-link: http://stephen.yearl.us/classical-greek/
 slug: classical-greek
 title: Classical Greek
 wordpress_id: 262

@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2017-04-17 03:38:31+00:00
 layout: post
-link: http://stephen.yearl.us/create-a-bootable-macos-sierra-iso/
 slug: create-a-bootable-macos-sierra-iso
 title: Create a bootable ISO of macOS Sierra
 wordpress_id: 1315

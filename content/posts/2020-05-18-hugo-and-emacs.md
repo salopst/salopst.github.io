@@ -64,7 +64,7 @@ title: Setting GCC 4.2 as the default compiler on Mac OS X Leopard
 >
 >--- [https://gohugo.io/content-management/urls/](https://gohugo.io/content-management/urls/)
 
-- Wordpress uploads were to a location that maps to the regex to `http://sjy.yearl.us/wp-content/uploads/.*/` This is replaced with `/wp-uploads/` in this implementation.
+- Wordpress uploads were to a location that maps to the regex to `/wp-uploads` in this implementation.
 
 - Not sure I like the blockquote rendering, and I'd kind of like to fold in a `<footer>` element. But then I'm getting into the realm of markdown parsing, not hudo HTML styling. Does this matter enough to create a shortcode?, the output of which should be:
 

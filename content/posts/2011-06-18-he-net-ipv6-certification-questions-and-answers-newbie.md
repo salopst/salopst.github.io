@@ -5,7 +5,6 @@ comments: true
 date: 2011-06-18 18:11:23+00:00
 lastMod: 2021-08-31 06:23:00+01:00
 layout: post
-link: http://stephen.yearl.us/he-net-ipv6-certification-questions-and-answers-newbie/
 slug: he-net-ipv6-certification-questions-and-answers-newbie
 title: HE.net IPV6 Certification questions and answers -- \#0 Newbie
 wordpress_id: 141

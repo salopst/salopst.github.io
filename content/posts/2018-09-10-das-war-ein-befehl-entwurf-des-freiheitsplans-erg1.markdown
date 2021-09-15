@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2018-09-10 05:50:22+00:00
 layout: post
-link: http://stephen.yearl.us/das-war-ein-befehl-entwurf-des-freiheitsplans-erg1/
 slug: das-war-ein-befehl-entwurf-des-freiheitsplans-erg1
 title: Das war ein Befehl... Entwurf des Freiheitsplans ... ERG1
 wordpress_id: 1453

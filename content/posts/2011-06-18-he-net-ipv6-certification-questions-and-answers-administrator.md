@@ -5,7 +5,6 @@ comments: true
 date: 2011-06-18 18:29:02+00:00
 lastMod: 2021-08-31 06:23:00+01:00
 layout: post
-link: http://stephen.yearl.us/he-net-ipv6-certification-questions-and-answers-administrator/
 slug: he-net-ipv6-certification-questions-and-answers-administrator
 title: HE.net IPV6 Certification questions and answers -- \#2 Administrator
 wordpress_id: 152

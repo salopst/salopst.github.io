@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2017-03-07 03:12:21+00:00
 layout: post
-link: http://stephen.yearl.us/mounting-an-ios-10-2-device-in-solus-os/
 slug: mounting-an-ios-10-2-device-in-solus-os
 title: Mounting an iOS 10.2 device in Solus OS
 wordpress_id: 1287

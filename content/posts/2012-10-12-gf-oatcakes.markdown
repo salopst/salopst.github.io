@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2012-10-12 19:28:04+00:00
 layout: post
-link: http://stephen.yearl.us/gf-oatcakes/
 slug: gf-oatcakes
 title: GF Oatcakes
 wordpress_id: 397
@@ -63,7 +62,7 @@ NOTE: It is important to move quickly with the oatmeal dough as it dries out VER
 
 Set to cool on a rack, and enjoy!
 
-[![](http://sjy.yearl.us/wp-content/uploads/2012/10/oatcakes-1024x556.jpg)](http://sjy.yearl.us/wp-content/uploads/2012/10/oatcakes.jpg)
+[![](/wp-uploadsoatcakes.jpg)
 
 
 

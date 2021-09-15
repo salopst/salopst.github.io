@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2012-10-07 12:12:20+00:00
 layout: post
-link: http://stephen.yearl.us/lime-meringue-pie/
 slug: lime-meringue-pie
 title: Lime meringue pie
 wordpress_id: 392
@@ -22,7 +21,7 @@ We can thank [STS-133](http://www.nasa.gov/mission_pages/shuttle/shuttlemissions
 
 
 
-[caption id="attachment_241" align="aligncenter" width="225"][![](http://sjy.yearl.us/wp-content/uploads/2012/10/Cooked_Lime_meringue1-225x300.jpg)](http://sjy.yearl.us/wp-content/uploads/2012/10/Cooked_Lime_meringue1.jpg) The finished product[/caption]
+[caption id="attachment_241" align="aligncenter" width="225"][![](/wp-uploadscaption]
 
 
  The recipe we followed was based on [this](http://allrecipes.com/recipe/easy-key-lime-pie-i/):
@@ -72,7 +71,7 @@ Method:
   * Bake until golden brown (10-15 minutes)
 
 
-![](http://sjy.yearl.us/wp-content/uploads/2012/10/Cooked_lime_pie-300x275.jpg)
+![](/wp-uploadsCooked_lime_pie-300x275.jpg)
 
 
 Right, so our crust was a bit large, and the consistency of the crust was such that it flopped over onto the pie filling. We rather liked the effect, one child claiming that it looked a bit like some weird planetoid. In any event, we covered all of this with the colored meringue.

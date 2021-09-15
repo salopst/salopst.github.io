@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2013-05-05 22:42:21+00:00
 layout: post
-link: http://stephen.yearl.us/masa-chocolate-chip-cookies-gluten-free-of-course/
 slug: masa-chocolate-chip-cookies-gluten-free-of-course
 title: Masa chocolate chip cookies (gluten-free, of course)
 wordpress_id: 474
@@ -15,7 +14,7 @@ categories:
 It's been a while since we've baked cookies in this house. In honour of 5 de mayo, we decided to try our hand at some masa-based cookies. The result? Gluten free goodies that went down in the GF and non-GF corners of the house, and that were appealing to the sweet tooth and those who prefer things less sweet.
 
 
-[![IMG_2487](http://sjy.yearl.us/wp-content/uploads/2013/05/IMG_2487-768x1024.jpg)](http://sjy.yearl.us/wp-content/uploads/2013/05/IMG_2487.jpg)
+[![IMG_2487](/wp-uploadsIMG_2487.jpg)
 
 The recipe I used for guidance was [this](http://www.celiac.com/articles/477/1/Masa-Chocolate-Chip-Cookies-Gluten-Free/Page1.html) one.
 

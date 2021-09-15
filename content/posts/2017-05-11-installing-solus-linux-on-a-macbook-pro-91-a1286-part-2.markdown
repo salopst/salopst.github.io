@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2017-05-11 09:35:12+00:00
 layout: post
-link: http://stephen.yearl.us/installing-solus-linux-on-a-macbook-pro-91-a1286-part-2/
 slug: installing-solus-linux-on-a-macbook-pro-91-a1286-part-2
 title: 'Installing Solus linux on a Macbook Pro 9,1 (A1286): PART 2'
 wordpress_id: 1327

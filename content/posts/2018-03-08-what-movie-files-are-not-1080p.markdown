@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2018-03-08 23:23:48+00:00
 layout: post
-link: http://stephen.yearl.us/what-movie-files-are-not-1080p/
 slug: what-movie-files-are-not-1080p
 title: What movie files are not 1080P?
 wordpress_id: 1342

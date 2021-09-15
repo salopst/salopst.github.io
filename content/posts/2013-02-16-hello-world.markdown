@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2013-02-16 21:56:25+00:00
 layout: post
-link: http://stephen.yearl.us/hello-world/
 slug: hello-world
 title: From Posterous to Wordpress
 wordpress_id: 1

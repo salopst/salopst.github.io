@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2014-09-05 17:21:29+00:00
 layout: post
-link: http://stephen.yearl.us/borschtards/
 slug: borschtards
 title: Borschtards
 wordpress_id: 598

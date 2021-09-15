@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2019-01-06 05:57:12+00:00
 layout: post
-link: http://stephen.yearl.us/us-keyboard-uk-settings-aka-wheres-my-pipe/
 slug: us-keyboard-uk-settings-aka-wheres-my-pipe
 title: 'US Keyboard, UK settings: AKA where''s my pipe?'
 wordpress_id: 1474

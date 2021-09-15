@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2012-02-12 06:08:20+00:00
 layout: post
-link: http://stephen.yearl.us/pizza-with-a-buckwheat-crust/
 slug: pizza-with-a-buckwheat-crust
 title: Pizza with a buckwheat crust
 wordpress_id: 387
@@ -18,7 +17,7 @@ tags:
 
 Shortly after going gluten-free, we tried Bob's Red Mill gluten-free pizza crust. Having lived in New Haven for many years, we like pizza. Bob's didn't measure up, so that was it...until now. This might not be apizza, but as long as we're gluten-free we may have to settle for a bit less.
 
-[![](http://sjy.yearl.us/wp-content/uploads/2012/02/Ready-to-eat-1024x682.jpg)](http://sjy.yearl.us/wp-content/uploads/2012/02/Ready-to-eat.jpg)
+[![](/wp-uploadsReady-to-eat.jpg)
 
 Having found a hit with buckwheat pancakes, I decided to try a buckwheat pizza crust. The recipe I adopted was basically the one described [here](http://www.nourishingmeals.com/2009/12/thin-buckwheat-pizza-crust-gluten-free.html), but without the garlic powder.
 
@@ -93,9 +92,9 @@ Having found a hit with buckwheat pancakes, I decided to try a buckwheat pizza c
 
 The batter will be surprisingly runny.                                               I spread olive oil and cornmeal on the tray
 
-[![](http://sjy.yearl.us/wp-content/uploads/2012/02/Buckwheat-batter-300x199.jpg)](http://sjy.yearl.us/wp-content/uploads/2012/02/Buckwheat-batter.jpg)
+[![](/wp-uploadsBuckwheat-batter.jpg)
 
-![](http://sjy.yearl.us/wp-content/uploads/2012/02/Cornmeal-base-300x200.jpg)
+![](/wp-uploadsCornmeal-base-300x200.jpg)
 
 
 
@@ -113,9 +112,9 @@ The batter will be surprisingly runny.                            
 
 This is how the batter looked before it went into the oven:             and this is how it looked after:
 
-[![](http://sjy.yearl.us/wp-content/uploads/2012/02/Ready-to-pre-bake-300x200.jpg)](http://sjy.yearl.us/wp-content/uploads/2012/02/Ready-to-pre-bake.jpg)
+[![](/wp-uploadsReady-to-pre-bake.jpg)
 
-[![](http://sjy.yearl.us/wp-content/uploads/2012/02/Prebaked-crust-300x200.jpg)](http://sjy.yearl.us/wp-content/uploads/2012/02/Prebaked-crust.jpg)
+[![](/wp-uploadsPrebaked-crust.jpg)
 
 
 
@@ -133,11 +132,11 @@ This is how the batter looked before it went into the oven:             an
 
 I was a little sneaky. My kids don’t normally eat carrots, so I grated one and spread it on top of the crust where I could hide it. I did the same with some diced fresh tomatoes:
 
-[![](http://sjy.yearl.us/wp-content/uploads/2012/02/Carrots-and-tomatoes-300x200.jpg)](http://sjy.yearl.us/wp-content/uploads/2012/02/Carrots-and-tomatoes.jpg)
+[![](/wp-uploadsCarrots-and-tomatoes.jpg)
 
 The sauce I used was a combination of homemade red sauce and Trader Joe’s Organic Marinara with no salt added. Other toppings included fresh mozzarella, grated cheddar, and bacon. I added sliced jalapeños to my corner.
 
-[![](http://sjy.yearl.us/wp-content/uploads/2012/02/Ready-to-eat-300x199.jpg)](http://sjy.yearl.us/wp-content/uploads/2012/02/Ready-to-eat.jpg)
+[![](/wp-uploadsReady-to-eat.jpg)
 
 **The verdict**: two very happy boys. Neither noticed the carrots and their only complaint was that the toppings fell off too easily. In terms of the crust, it tasted good but was not like a traditional crust because the texture was somehow dense yet light at the same time. It’s possible that I didn’t pre-cook it for long enough, so next time I'll go for a golden look. Overall, I found it to be nice and manageable. Unlike so many other crusts, the boys could cut up their slices without any problem. It was soft, yet not soggy. I’ll have to play around with this one to make it a bit thinner and crispier, but it seems like a winner. Not too shabby the morning after, either.
 

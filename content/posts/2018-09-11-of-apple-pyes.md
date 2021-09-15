@@ -7,7 +7,6 @@ lastMod: 2021-09-01T02:30:00.000Z
 draft: false
 noLicense: false
 layout: post
-link: http://stephen.yearl.us/of-apple-pyes/
 slug: of-apple-pyes
 title: Of Apple-Pyes
 wordpress_id: 1445

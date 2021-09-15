@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2012-03-03 19:17:21+00:00
 layout: post
-link: http://stephen.yearl.us/installing-postfix-and-dovecot-on-debian-6-squeeze/
 slug: installing-postfix-and-dovecot-on-debian-6-squeeze
 title: Installing Postfix and Dovecot on Debian 6 (Squeeze)
 wordpress_id: 216

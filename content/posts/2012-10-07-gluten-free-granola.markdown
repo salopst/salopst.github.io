@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2012-10-07 17:30:29+00:00
 layout: post
-link: http://stephen.yearl.us/gluten-free-granola/
 slug: gluten-free-granola
 title: Gluten-free granola
 wordpress_id: 394
@@ -17,7 +16,7 @@ tags:
 
 Please, someone, tell me why I did not make granola earlier: for years, I have shied away from purchasing the stuff at the store because it all seems too “fancy” with artificial fruit flavours, etc., that simply do not appeal. What set me to work was seeing “GF granola” on our shopping lists, and realizing just how expensive it is. Really? For what is basically glorified oats? So, I set to; and behold:
 
-[caption id="attachment_279" align="aligncenter" width="300"][![](http://sjy.yearl.us/wp-content/uploads/2012/10/Final_product-300x225.jpg)](http://sjy.yearl.us/wp-content/uploads/2012/10/Final_product.jpg) GF granola made to order![/caption]
+[caption id="attachment_279" align="aligncenter" width="300"][![](/wp-uploadscaption]
 
 
 

@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2018-06-16 07:18:05+00:00
 layout: post
-link: http://stephen.yearl.us/pi-hole-dns-level-ad-blocker/
 slug: pi-hole-dns-level-ad-blocker
 title: Pi-hole DNS-level ad blocker
 wordpress_id: 1409

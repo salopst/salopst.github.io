@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2016-05-23 05:41:31+00:00
 layout: post
-link: http://stephen.yearl.us/fsked-el-capitan-home-directory/
 slug: fsked-el-capitan-home-directory
 title: Fsked El Capitan home directory
 wordpress_id: 1274

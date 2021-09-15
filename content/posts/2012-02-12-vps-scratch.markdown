@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2012-02-12 20:51:13+00:00
 layout: post
-link: http://stephen.yearl.us/vps-scratch/
 slug: vps-scratch
 title: VPS Scratch
 wordpress_id: 235
@@ -146,7 +145,7 @@ LoginGraceTime 600
 ### 3. sudo
 
 
-[caption id="attachment_241" align="aligncenter" width="360"][![Sudo sandwich](http://sjy.yearl.us/wp-content/uploads/2012/02/sandwich.png)](http://sjy.yearl.us/wp-content/uploads/2012/02/sandwich.png) Sudo sandwich[/caption]
+[caption id="attachment_241" align="aligncenter" width="360"][![Sudo sandwich](/wp-uploadscaption]
 
 ```bash
 $su

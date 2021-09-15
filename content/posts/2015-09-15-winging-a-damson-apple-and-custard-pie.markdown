@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2015-09-15 21:38:40+00:00
 layout: post
-link: http://stephen.yearl.us/winging-a-damson-apple-and-custard-pie/
 slug: winging-a-damson-apple-and-custard-pie
 title: Winging a damson, apple and custard pie
 wordpress_id: 994

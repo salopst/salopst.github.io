@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2015-07-21 21:35:37+00:00
 layout: post
-link: http://stephen.yearl.us/window-managers-for-os-x/
 slug: window-managers-for-os-x
 title: Window Managers for OS X
 wordpress_id: 954

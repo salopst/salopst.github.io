@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2015-07-27 05:59:42+00:00
 layout: post
-link: http://stephen.yearl.us/customised-os-x-keybindings-with-karabiner-correct-shift-keys/
 slug: customised-os-x-keybindings-with-karabiner-correct-shift-keys
 title: Customised OS X Keybindings…. with Karabiner.... 'correct' shift keys
 wordpress_id: 978

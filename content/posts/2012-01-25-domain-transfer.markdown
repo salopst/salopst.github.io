@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2012-01-25 14:17:25+00:00
 layout: post
-link: http://stephen.yearl.us/domain-transfer/
 slug: domain-transfer
 title: Domain transfer
 wordpress_id: 106

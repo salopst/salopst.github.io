@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2013-02-17 04:11:39+00:00
 layout: post
-link: http://stephen.yearl.us/odds-and-sods/
 slug: odds-and-sods
 title: Odds and sods
 wordpress_id: 46

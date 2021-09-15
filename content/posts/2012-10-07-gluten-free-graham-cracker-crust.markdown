@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2012-10-07 16:49:56+00:00
 layout: post
-link: http://stephen.yearl.us/gluten-free-graham-cracker-crust/
 slug: gluten-free-graham-cracker-crust
 title: Gluten-free graham cracker crust
 wordpress_id: 393
@@ -17,7 +16,7 @@ tags:
 
 When we wanted a gluten-free graham cracker crust for our [key lime meringue pie](http://mary.yearl.us/lime-meringue-pie/), we looked to [Gluten-Free Girl](http://glutenfreegirl.com/gluten-free-graham-crackers/) because we wanted a recipe that included the making of graham crackers, rather than a trip to the store for ready-made, GF graham crackers. We followed that recipe pretty closely and came up with crackers that looked like this:
 
-[![](http://sjy.yearl.us/wp-content/uploads/2012/10/Graham-crackers-300x225.jpg)](http://sjy.yearl.us/wp-content/uploads/2012/10/Graham-crackers.jpg)
+[![](/wp-uploadsGraham-crackers.jpg)
 
 
 
@@ -131,7 +130,7 @@ Verdict on the result: the kids liked them, but I'm going to work with the recip
 
 Once pressed into the dish, the crust looked like this:
 
-[caption id="attachment_270" align="alignleft" width="225"][![](http://sjy.yearl.us/wp-content/uploads/2012/10/GF_Graham_crust-225x300.jpg)](http://sjy.yearl.us/wp-content/uploads/2012/10/GF_Graham_crust.jpg) The pie crust, before pouring in the key lime mixture.[/caption]
+[caption id="attachment_270" align="alignleft" width="225"][![](/wp-uploadscaption]
 
 
 

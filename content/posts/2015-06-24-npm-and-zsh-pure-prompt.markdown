@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2015-06-24 05:13:58+00:00
 layout: post
-link: http://stephen.yearl.us/npm-and-zsh-pure-prompt/
 slug: npm-and-zsh-pure-prompt
 title: NPM, antigen and ZSH pure prompt
 wordpress_id: 886

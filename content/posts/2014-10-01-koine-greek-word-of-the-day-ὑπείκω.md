@@ -3,7 +3,6 @@ author: kword
 comments: false
 date: 2014-10-01 06:08:28+00:00
 layout: post
-link: http://stephen.yearl.us/koine-greek-word-of-the-day-ὑπείκω/
 slug: koine-greek-word-of-the-day-ὑπείκω
 title: 'Koinē Greek Word of the Day: ὑπείκω'
 wordpress_id: 729

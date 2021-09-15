@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2013-02-18 17:28:22+00:00
 layout: post
-link: http://stephen.yearl.us/mathematicaminecraft/
 slug: mathematicaminecraft
 title: Mathematica/Minecraft
 wordpress_id: 58

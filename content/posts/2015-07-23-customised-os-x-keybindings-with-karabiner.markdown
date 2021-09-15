@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2015-07-23 11:29:29+00:00
 layout: post
-link: http://stephen.yearl.us/customised-os-x-keybindings-with-karabiner/
 slug: customised-os-x-keybindings-with-karabiner
 title: Customised OS X Keybindings.... with Karabiner
 wordpress_id: 931

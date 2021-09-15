@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2013-05-29 22:17:00+00:00
 layout: post
-link: http://stephen.yearl.us/external-usb-3-drive-woes/
 slug: external-usb-3-drive-woes
 title: External USB 3 drive woes
 wordpress_id: 294

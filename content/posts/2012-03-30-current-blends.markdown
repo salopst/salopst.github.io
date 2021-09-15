@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2012-03-30 18:49:23+00:00
 layout: post
-link: http://stephen.yearl.us/current-blends/
 slug: current-blends
 title: Current Blends
 wordpress_id: 205

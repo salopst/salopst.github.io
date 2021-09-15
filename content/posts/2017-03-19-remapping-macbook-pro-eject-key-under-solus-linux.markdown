@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2017-03-19 12:35:43+00:00
 layout: post
-link: http://stephen.yearl.us/remapping-macbook-pro-eject-key-under-solus-linux/
 slug: remapping-macbook-pro-eject-key-under-solus-linux
 title: Remapping Macbook Pro eject key under Solus linux
 wordpress_id: 1296

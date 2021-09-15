@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2014-09-24 09:11:11+00:00
 layout: post
-link: http://stephen.yearl.us/exercism-io/
 slug: exercism-io
 title: exercism.io
 wordpress_id: 614

@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2012-03-24 14:34:35+00:00
 layout: post
-link: http://stephen.yearl.us/tobacco-types-and-cuts/
 slug: tobacco-types-and-cuts
 title: Tobacco Types (and cuts)
 wordpress_id: 200

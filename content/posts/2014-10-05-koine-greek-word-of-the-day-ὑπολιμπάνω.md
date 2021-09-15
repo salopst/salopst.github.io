@@ -3,7 +3,6 @@ author: kword
 comments: true
 date: 2014-10-05 13:13:55+00:00
 layout: post
-link: http://stephen.yearl.us/koine-greek-word-of-the-day-ὑπολιμπάνω/
 slug: koine-greek-word-of-the-day-ὑπολιμπάνω
 title: 'Koinē Greek Word of the Day: ὑπολιμπάνω'
 wordpress_id: 771

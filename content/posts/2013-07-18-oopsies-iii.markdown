@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2013-07-18 17:37:12+00:00
 layout: post
-link: http://stephen.yearl.us/oopsies-iii/
 slug: oopsies-iii
 title: Oopsies III
 wordpress_id: 369
@@ -34,6 +33,6 @@ With the aim of full ROM by week 12. Basically it's a balancing act. Too much ac
 
 And it would appear that external stitches of the Bruner incision counted 30, not the 25 I'd mentioned earlier.
 
-![Scar](http://sjy.yearl.us/wp-content/uploads/2013/07/IMG_2645.jpg)
+![Scar](/wp-uploadsIMG_2645.jpg)
 
 

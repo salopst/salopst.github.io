@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2014-09-07 12:09:08+00:00
 layout: post
-link: http://stephen.yearl.us/camels/
 slug: camels
 title: Camels
 wordpress_id: 611

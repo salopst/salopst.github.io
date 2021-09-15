@@ -3,7 +3,6 @@ author: kword
 comments: true
 date: 2014-10-03 11:07:16+00:00
 layout: post
-link: http://stephen.yearl.us/koine-greek-word-of-the-day-τέρτυλλος-ου-ὁ/
 slug: koine-greek-word-of-the-day-τέρτυλλος-ου-ὁ
 title: 'Koinē Greek Word of the Day: Τέρτυλλος, ου, ὁ'
 wordpress_id: 756

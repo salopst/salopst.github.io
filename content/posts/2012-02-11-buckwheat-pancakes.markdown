@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2012-02-11 23:54:59+00:00
 layout: post
-link: http://stephen.yearl.us/buckwheat-pancakes/
 slug: buckwheat-pancakes
 title: Buckwheat pancakes
 wordpress_id: 386
@@ -20,7 +19,7 @@ We are big lovers of cornmeal pancakes in our family, but the boys were hankerin
 
 
 
-[![](http://sjy.yearl.us/wp-content/uploads/2012/02/Buckwheat-pancakes-1024x682.jpg)](http://sjy.yearl.us/wp-content/uploads/2012/02/Buckwheat-pancakes.jpg)
+[![](/wp-uploadsBuckwheat-pancakes.jpg)
 
 Yield: 7 large pancakes
 

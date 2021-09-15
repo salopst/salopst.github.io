@@ -3,7 +3,6 @@ author: kword
 comments: true
 date: 2014-10-04 13:11:49+00:00
 layout: post
-link: http://stephen.yearl.us/koine-greek-word-of-the-day-δημήτριος-ου-ὁ/
 slug: koine-greek-word-of-the-day-δημήτριος-ου-ὁ
 title: 'Koinē Greek Word of the Day: Δημήτριος, ου, ὁ'
 wordpress_id: 769

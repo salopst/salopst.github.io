@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2012-02-14 15:07:14+00:00
 layout: post
-link: http://stephen.yearl.us/chocolate-peanut-butter-cups/
 slug: chocolate-peanut-butter-cups
 title: Chocolate peanut butter cups
 wordpress_id: 388
@@ -17,7 +16,7 @@ tags:
 
 The boys like peanut butter and they like chocolate, but the peanut butter cups from the store are too sweet and too salty. Moreover, we like bittersweet chocolate, so we decided to make our own. After all, I had a bunch of mini muffin cups I'd picked up in the post-Christmas sale at IKEA.
 
-[![](http://sjy.yearl.us/wp-content/uploads/2012/02/Peanut-butter-cups-e1329231241523-1024x682.jpg)](http://sjy.yearl.us/wp-content/uploads/2012/02/Peanut-butter-cups-e1329231241523.jpg)
+[![](/wp-uploadsPeanut-butter-cups-e1329231241523.jpg)
 
 This is a project the kids can help with: mine not only helped fill the cups, they were wholly responsible for the decorations.
 

@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2013-03-14 22:01:16+00:00
 layout: post
-link: http://stephen.yearl.us/windows-7-isos-and-parallels/
 slug: windows-7-isos-and-parallels
 title: Windows 7, ISOs, and Parallels
 wordpress_id: 64

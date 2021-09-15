@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2014-09-23 23:31:02+00:00
 layout: post
-link: http://stephen.yearl.us/cleaning-up-a-homebrew-installation/
 slug: cleaning-up-a-homebrew-installation
 title: cleaning up a homebrew installation
 wordpress_id: 616

@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2013-06-15 21:12:16+00:00
 layout: post
-link: http://stephen.yearl.us/alfred-2-workflows/
 slug: alfred-2-workflows
 title: Alfred 2 workflows
 wordpress_id: 313

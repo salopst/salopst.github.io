@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2018-10-06 16:17:00+00:00
 layout: post
-link: http://stephen.yearl.us/audacity-is-already-running-ps-ef-grep-aud-says-nada/
 slug: audacity-is-already-running-ps-ef-grep-aud-says-nada
 title: Audacity is already running... ps -ef | grep aud says nada
 wordpress_id: 1459

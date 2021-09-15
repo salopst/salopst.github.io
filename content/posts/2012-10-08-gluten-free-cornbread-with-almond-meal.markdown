@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2012-10-08 12:44:44+00:00
 layout: post
-link: http://stephen.yearl.us/gluten-free-cornbread-with-almond-meal/
 slug: gluten-free-cornbread-with-almond-meal
 title: Gluten-free cornbread (with almond meal)
 wordpress_id: 395
@@ -20,7 +19,7 @@ One can't have Thanksgiving without cornbread. This recipe comes as a surprise: 
 
 With almond meal in hand, I surfed up a couple of recipes, and used [this](http://shecookshecleans.net/2011/10/11/gluten-free-skillet-cornbread/) one for inspiration. The result? A nice, surprisingly moist, cornbread that was good enough to reheat and enjoy the following day. This one really hit the spot.
 
-[caption id="attachment_290" align="aligncenter" width="300"][![](http://sjy.yearl.us/wp-content/uploads/2012/10/Cornbread_slice-300x213.jpg)](http://sjy.yearl.us/wp-content/uploads/2012/10/Cornbread_slice.jpg) Moist, and not too cakey.[/caption]
+[caption id="attachment_290" align="aligncenter" width="300"][![](/wp-uploadscaption]
 
 **Ingredients:**
 
@@ -62,7 +61,7 @@ With almond meal in hand, I surfed up a couple of recipes, and used [this](http:
 
 ** Method: **
 
-[caption id="attachment_291" align="alignright" width="300"][![](http://sjy.yearl.us/wp-content/uploads/2012/10/Cornbread_batter-300x225.jpg)](http://sjy.yearl.us/wp-content/uploads/2012/10/Cornbread_batter.jpg) The batter will look nice and hearty.[/caption]
+[caption id="attachment_291" align="alignright" width="300"][![](/wp-uploadscaption]
 
 
 
@@ -102,7 +101,7 @@ With almond meal in hand, I surfed up a couple of recipes, and used [this](http:
 And, voilà!
 
 
-[![](http://sjy.yearl.us/wp-content/uploads/2012/10/Cornbread_final-300x225.jpg)](http://sjy.yearl.us/wp-content/uploads/2012/10/Cornbread_final.jpg)
+[![](/wp-uploadsCornbread_final.jpg)
 
 
 

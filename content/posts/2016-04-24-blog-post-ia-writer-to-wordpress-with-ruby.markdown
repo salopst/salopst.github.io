@@ -6,7 +6,6 @@ excerpt: '["<p>With the coming of the new <a href=\"http://stephen.yearl.us/resc
   into the house</a>, perhaps I will again add more content to the <a href=\"http://stephen.yearl.us\">bloggy
   thing</a> that I have kinda sorta not really been keeping over the last little while.</p>"]'
 layout: post
-link: http://stephen.yearl.us/blog-post-ia-writer-to-wordpress-with-ruby/
 slug: blog-post-ia-writer-to-wordpress-with-ruby
 title: Posting from IA Writer to Wordpress (Coleman)
 wordpress_id: 1250

@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2013-04-02 14:03:45+00:00
 layout: post
-link: http://stephen.yearl.us/74111101s-_universe_-questions/
 slug: 74111101s-_universe_-questions
 title: 74111101's The Universe questions
 wordpress_id: 87

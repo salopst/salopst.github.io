@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2013-06-27 13:34:00+00:00
 layout: post
-link: http://stephen.yearl.us/oopsies/
 slug: oopsies
 title: Oopsies
 wordpress_id: 299
@@ -15,7 +14,7 @@ tags:
 Had surgery today to repair the severed tendons in  my wrist yesterday. Full-on, no holds barred general anesthetic and two and a half hours under the knife of a very well respected orthopedic surgeon working out of New England Baptist Hospital. General anaesthetic worked like a charm, but I wish that i had more time to enjoy it. About 5 minuted of pre-anaesthesia sedative and then some pure oxygen. The last number I remember counting to was only 3!
 
 
-![](http://sjy.yearl.us/wp-content/uploads/2013/07/wpid-ER_stitchup.jpg)
+![](/wp-uploadswpid-ER_stitchup.jpg)
 
 
 

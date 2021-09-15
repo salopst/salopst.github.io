@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2014-12-14 13:20:54+00:00
 layout: post
-link: http://stephen.yearl.us/ssh-key-pair-authentication/
 slug: ssh-key-pair-authentication
 title: SSH key pair authentication
 wordpress_id: 1391

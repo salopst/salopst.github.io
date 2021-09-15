@@ -3,7 +3,6 @@ author: kword
 comments: false
 date: 2014-09-29 12:11:14+00:00
 layout: post
-link: http://stephen.yearl.us/koine-greek-word-of-the-day-ἐμπίπτω/
 slug: koine-greek-word-of-the-day-ἐμπίπτω
 title: 'Koinē Greek Word of the Day: ἐμπίπτω'
 wordpress_id: 720

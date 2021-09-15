@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2017-03-01 14:33:33+00:00
 layout: post
-link: http://stephen.yearl.us/eek-codecolorer-wordpress-plugin-and-php-7-1/
 slug: eek-codecolorer-wordpress-plugin-and-php-7-1
 title: Eek! CodeColorer Wordpress plugin and PHP 7.1
 wordpress_id: 1301

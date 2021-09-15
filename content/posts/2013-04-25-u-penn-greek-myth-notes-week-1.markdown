@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2013-04-25 09:13:19+00:00
 layout: post
-link: http://stephen.yearl.us/u-penn-greek-myth-notes-week-1/
 slug: u-penn-greek-myth-notes-week-1
 title: 'U. Penn. Greek Myth: Notes (Week 1)'
 wordpress_id: 290

@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2015-06-24 19:03:04+00:00
 layout: post
-link: http://stephen.yearl.us/installing-hammerspoon/
 slug: installing-hammerspoon
 title: Installing hammerspoon
 wordpress_id: 944

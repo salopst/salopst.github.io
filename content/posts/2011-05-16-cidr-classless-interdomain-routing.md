@@ -5,7 +5,6 @@ comments: true
 date: 2011-05-16 09:05:22+00:00
 lastMod: 2021-08-31 06:23:00+01:00
 layout: post
-link: http://stephen.yearl.us/cidr-classless-interdomain-routing/
 slug: cidr-classless-interdomain-routing
 title: CIDR -- Classless InterDomain Routing
 wordpress_id: 1352

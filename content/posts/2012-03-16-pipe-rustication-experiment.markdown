@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2012-03-16 19:03:14+00:00
 layout: post
-link: http://stephen.yearl.us/pipe-rustication-experiment/
 slug: pipe-rustication-experiment
 title: Pipe rustication experiment
 wordpress_id: 208
@@ -13,7 +12,7 @@ tags:
 - tobacco
 ---
 
-[caption id="attachment_210" align="aligncenter" width="500"][![Capt. Kidd pipe](http://sjy.yearl.us/wp-content/uploads/2013/04/ebay_orig_pic.jpg)](http://sjy.yearl.us/wp-content/uploads/2013/04/ebay_orig_pic.jpg) Capt. Kidd pipe[/caption]
+[caption id="attachment_210" align="aligncenter" width="500"][![Capt. Kidd pipe](/wp-uploadscaption]
 
 So, I purchased this pipe from Ebay at a reasonable price. This was the only picture of the pipe, and I was a little dissapointed to find that on the shank (on the other side, obviously) there was a sizeable chunk of filler, about 2mm in width, 1mm in height rouhtly in the shape of the outline of Autralia.
 
@@ -29,7 +28,7 @@ Then I hacked at the briar in little semi-circles, randomly over the sueface of 
 
 After ten minutes of hacking and re-staining, first in "antique pine" and then again the walnut I had:
 
-[caption id="attachment_209" align="aligncenter" width="500"][![Capt. Kidd pipe "rusticted"](http://sjy.yearl.us/wp-content/uploads/2013/04/rusticated_2.JPG.scaled1000.jpg)](http://sjy.yearl.us/wp-content/uploads/2013/04/rusticated_2.JPG.scaled1000.jpg) Capt. Kidd pipe "rusticted"[/caption]
+[caption id="attachment_209" align="aligncenter" width="500"][![Capt. Kidd pipe "rusticted"](/wp-uploadscaption]
 
 And I am pretty happy with that.
 

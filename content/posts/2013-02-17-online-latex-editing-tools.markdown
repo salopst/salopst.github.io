@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2013-02-17 13:12:07+00:00
 layout: post
-link: http://stephen.yearl.us/online-latex-editing-tools/
 slug: online-latex-editing-tools
 title: Online LaTeX editing tools
 wordpress_id: 20

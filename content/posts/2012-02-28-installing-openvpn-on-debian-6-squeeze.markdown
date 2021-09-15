@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2012-02-28 21:54:30+00:00
 layout: post
-link: http://stephen.yearl.us/installing-openvpn-on-debian-6-squeeze/
 slug: installing-openvpn-on-debian-6-squeeze
 title: Installing OpenVPN on Debian 6 (Squeeze)
 wordpress_id: 243

@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2013-04-22 21:46:40+00:00
 layout: post
-link: http://stephen.yearl.us/rock-paper-scissors-lizard-spock/
 slug: rock-paper-scissors-lizard-spock
 title: Rock-Paper-Scissors-Lizard-Spock
 wordpress_id: 274

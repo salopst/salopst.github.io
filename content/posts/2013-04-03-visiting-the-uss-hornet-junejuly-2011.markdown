@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2013-04-03 17:10:43+00:00
 layout: post
-link: http://stephen.yearl.us/visiting-the-uss-hornet-junejuly-2011/
 slug: visiting-the-uss-hornet-junejuly-2011
 title: Visiting the USS Hornet (June/July 2011)
 wordpress_id: 431
@@ -46,7 +45,7 @@ We met my cousin, Tiger, at the airport in San Francisco. Then we got on the air
 
 
 
-[caption id="attachment_435" align="aligncenter" width="695"][![Alcatraz](http://sjy.yearl.us/wp-content/uploads/2013/04/IMG_2749-1024x768.jpg)](http://sjy.yearl.us/wp-content/uploads/2013/04/IMG_2749.jpg) Alcatraz-- our ferry to Alameda went by the old prison[/caption]
+[caption id="attachment_435" align="aligncenter" width="695"][![Alcatraz](/wp-uploadscaption]
 
 **** ****
 
@@ -62,7 +61,7 @@ Then we went to the Captain’s chair one more time then Benny took us back to t
 
 
 
-[caption id="attachment_436" align="aligncenter" width="695"][![Captain's chair](http://sjy.yearl.us/wp-content/uploads/2013/04/IMG_2877-1024x768.jpg)](http://sjy.yearl.us/wp-content/uploads/2013/04/IMG_2877.jpg) Captain's chair[/caption]
+[caption id="attachment_436" align="aligncenter" width="695"][![Captain's chair](/wp-uploadscaption]
 
 **** ****
 
@@ -127,12 +126,12 @@ Then we went to the new Hotel, we played around a bit, then we took a stroll to 
 
 <td >
 
-[caption id="attachment_437" align="alignnone" width="300"][![ice cream for breakfast](http://sjy.yearl.us/wp-content/uploads/2013/04/IMG_2908-300x225.jpg)](http://sjy.yearl.us/wp-content/uploads/2013/04/IMG_2908.jpg) ice cream for breakfast[/caption]
+[caption id="attachment_437" align="alignnone" width="300"][![ice cream for breakfast](/wp-uploadscaption]
 </td>
 
 <td >
 
-[caption id="attachment_438" align="alignnone" width="300"][![Cousin Tiger and Aye-Dye  and me on a street car](http://sjy.yearl.us/wp-content/uploads/2013/04/IMG_2910-300x225.jpg)](http://sjy.yearl.us/wp-content/uploads/2013/04/IMG_2910.jpg) Tiger and Aye-Dye and me on a street car[/caption]
+[caption id="attachment_438" align="alignnone" width="300"][![Cousin Tiger and Aye-Dye  and me on a street car](/wp-uploadscaption]
 </td>
 </tr>
 </tbody>
@@ -156,7 +155,7 @@ I had mochi ice cream for dsert. I like mochi.
 
 <td >
 
-[caption id="attachment_444" align="aligncenter" width="300"][![Tiger and Aye-Dye tasting wine on Treasure Island](http://sjy.yearl.us/wp-content/uploads/2013/04/IMG_2970.jpg)](http://sjy.yearl.us/wp-content/uploads/2013/04/IMG_2970.jpg)Tiger and Aye-Dye tasting wine on Treasure Island[/caption]
+[caption id="attachment_444" align="aligncenter" width="300"][![Tiger and Aye-Dye tasting wine on Treasure Island](/wp-uploadscaption]
 
 
 
@@ -164,7 +163,7 @@ I had mochi ice cream for dsert. I like mochi.
 
 <td >
 
-[caption id="attachment_444" align="aligncenter" width="300"][![Our motel pool](http://sjy.yearl.us/wp-content/uploads/2013/04/IMG_2979-300x225.jpg)](http://sjy.yearl.us/wp-content/uploads/2013/04/IMG_2979.jpg) Our motel pool[/caption]
+[caption id="attachment_444" align="aligncenter" width="300"][![Our motel pool](/wp-uploadscaption]
 
 
 </td>
@@ -186,7 +185,7 @@ I made two new friends
 
 
 
-[caption id="attachment_449" align="aligncenter" width="695"][![Me and Aye-Dye in Mochi war](http://sjy.yearl.us/wp-content/uploads/2013/04/mochiwar-1024x768.jpg)](http://sjy.yearl.us/wp-content/uploads/2013/04/mochiwar.jpg) Me and Aye-Dye in Mochi war[/caption]
+[caption id="attachment_449" align="aligncenter" width="695"][![Me and Aye-Dye in Mochi war](/wp-uploadscaption]
 
 **** ****
 
@@ -208,14 +207,14 @@ We wached the 4th of July prade. We took the BART. We left Tiger on the Bart to 
 
 
 
-[caption id="attachment_445" align="aligncenter" width="300"][![July 4th Parade](http://sjy.yearl.us/wp-content/uploads/2013/04/IMG_3012-300x225.jpg)](http://yearl.us/mary/wp-content/uploads/2013/04/IMG_2995.jpg) July 4th Parade[/caption]
+[caption id="attachment_445" align="aligncenter" width="300"][![July 4th Parade](/wp-uploadscaption]
 
 
 </td>
 
 <td >
 
-[caption id="attachment_446" align="aligncenter" width="300"][![July 4th Parade](http://sjy.yearl.us/wp-content/uploads/2013/04/IMG_2996-300x225.jpg)](http://sjy.yearl.us/wp-content/uploads/2013/04/IMG_2996.jpg) July 4th Parade[/caption]
+[caption id="attachment_446" align="aligncenter" width="300"][![July 4th Parade](/wp-uploadscaption]
 
 
 </td>
@@ -224,12 +223,12 @@ We wached the 4th of July prade. We took the BART. We left Tiger on the Bart to 
 
 <td >
 
-[caption id="attachment_447" align="aligncenter" width="300"][![July 4th Parade](http://sjy.yearl.us/wp-content/uploads/2013/04/IMG_3008-300x225.jpg)](http://sjy.yearl.us/wp-content/uploads/2013/04/IMG_3008.jpg) July 4th Parade[/caption]
+[caption id="attachment_447" align="aligncenter" width="300"][![July 4th Parade](/wp-uploadscaption]
 </td>
 
 <td >
 
-[caption id="attachment_448" align="aligncenter" width="300"][![July 4th Parade](http://sjy.yearl.us/wp-content/uploads/2013/04/IMG_3027-300x225.jpg)](http://sjy.yearl.us/wp-content/uploads/2013/04/IMG_3027.jpg) July 4th Parade[/caption]
+[caption id="attachment_448" align="aligncenter" width="300"][![July 4th Parade](/wp-uploadscaption]
 </td>
 </tr>
 </tbody>

@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2018-06-01 17:35:03+00:00
 layout: post
-link: http://stephen.yearl.us/wranglergram-decoder-in-ruby/
 slug: wranglergram-decoder-in-ruby
 title: Wranglergram decoder in ruby
 wordpress_id: 1396

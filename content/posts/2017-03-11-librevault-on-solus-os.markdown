@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2017-03-11 03:20:04+00:00
 layout: post
-link: http://stephen.yearl.us/librevault-on-solus-os/
 slug: librevault-on-solus-os
 title: Librevault on Solus OS
 wordpress_id: 1290

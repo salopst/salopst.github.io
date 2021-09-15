@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2013-07-22 23:05:50+00:00
 layout: post
-link: http://stephen.yearl.us/automated-file-management-with-maid/
 slug: automated-file-management-with-maid
 title: Automated file management with maid
 wordpress_id: 539

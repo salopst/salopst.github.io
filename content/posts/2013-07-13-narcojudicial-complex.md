@@ -5,7 +5,6 @@ comments: true
 date: 2013-07-13 19:29:40+00:00
 lastMod: 2021-08-31 06:23:00+01:00
 layout: post
-link: http://stephen.yearl.us/narcojudicial-complex/
 slug: narcojudicial-complex
 title: Narcojudicial complex
 wordpress_id: 357

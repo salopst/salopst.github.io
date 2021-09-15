@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2016-04-25 19:57:52+00:00
 layout: post
-link: http://stephen.yearl.us/rescue-doggie-diary-week-2/
 slug: rescue-doggie-diary-week-2
 title: Rescue Doggie Diary -- Week 2
 wordpress_id: 1033

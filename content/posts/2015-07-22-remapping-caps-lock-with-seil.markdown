@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2015-07-22 04:27:20+00:00
 layout: post
-link: http://stephen.yearl.us/remapping-caps-lock-with-seil/
 slug: remapping-caps-lock-with-seil
 title: Remapping CAPS LOCK with seil/karabiner
 wordpress_id: 959

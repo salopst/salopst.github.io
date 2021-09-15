@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2013-07-08 18:46:50+00:00
 layout: post
-link: http://stephen.yearl.us/oopsies-ii/
 slug: oopsies-ii
 title: Oopsies II
 wordpress_id: 310
@@ -17,7 +16,7 @@ tags:
 
 
 
-They took out 25 stitches today and replaced them with the butterfly stitches to reduce superficial scaring. Nice of them, but skin scars do no really matter much to me.![](http://sjy.yearl.us/wp-content/uploads/2013/07/wpid-Gray4211.png)
+They took out 25 stitches today and replaced them with the butterfly stitches to reduce superficial scaring. Nice of them, but skin scars do no really matter much to me.![](/wp-uploadswpid-Gray4211.png)
 
 
 

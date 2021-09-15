@@ -5,7 +5,6 @@ comments: true
 date: 2011-06-29 15:32:16+00:00
 lastMod: 2021-08-31 06:23:00+01:00
 layout: post
-link: http://stephen.yearl.us/he-net-shindig/
 slug: he-net-shindig
 title: he.net shindig
 wordpress_id: 134

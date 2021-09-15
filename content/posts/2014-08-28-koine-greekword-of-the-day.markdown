@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2014-08-28 08:44:57+00:00
 layout: post
-link: http://stephen.yearl.us/koine-greekword-of-the-day/
 slug: koine-greekword-of-the-day
 title: 'Koinē Greek : word of the day'
 wordpress_id: 602

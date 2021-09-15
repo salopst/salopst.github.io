@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2018-08-24 20:32:07+00:00
 layout: post
-link: http://stephen.yearl.us/gluten-free-homemade-rustic-french-pate/
 slug: gluten-free-homemade-rustic-french-pate
 title: Gluten Free Homemade Rustic French Pâté
 wordpress_id: 1433

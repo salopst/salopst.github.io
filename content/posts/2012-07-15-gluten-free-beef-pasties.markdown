@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2012-07-15 18:10:53+00:00
 layout: post
-link: http://stephen.yearl.us/gluten-free-beef-pasties/
 slug: gluten-free-beef-pasties
 title: Gluten-free beef pasties
 wordpress_id: 391
@@ -17,7 +16,7 @@ tags:
 
 Gluten-free beef pasties. (This is one where you’ll have to use your own judgment regarding amounts: we just threw it together, but the addition of lamb stock made the filling especially rich. The point of this post? You can be gluten-free and still feed that craving for a pasty.)
 
-[caption id="attachment_142" align="alignright" width="225" caption="Beef fresh from the village butcher"][![](http://sjy.yearl.us/wp-content/uploads/2012/07/IMG_0372-225x300.jpg)](http://sjy.yearl.us/wp-content/uploads/2012/07/IMG_0372.jpg)[/caption]
+[caption id="attachment_142" align="alignright" width="225" caption="Beef fresh from the village butcher"][![](/wp-uploadscaption]
 
 
 
@@ -48,7 +47,7 @@ Filling (ingredients):
   * Peas and parboiled carrots and potatoes (we used small new potatoes)
 
 
-[caption id="attachment_146" align="alignnone" width="225" caption="We tossed the beef in gluten-free flour"]![](http://sjy.yearl.us/wp-content/uploads/2012/07/IMG_03762-225x300.jpg)[/caption]
+[caption id="attachment_146" align="alignnone" width="225" caption="We tossed the beef in gluten-free flour"]![](/wp-uploadscaption]
 
 Filling (method):
 
@@ -109,7 +108,7 @@ Preparing the pasties:
 
 
 
-[caption id="attachment_147" align="alignright" width="300" caption="Nice, meaty filling"][![](http://sjy.yearl.us/wp-content/uploads/2012/07/IMG_0380-300x225.jpg)](http://sjy.yearl.us/wp-content/uploads/2012/07/IMG_0380.jpg)[/caption]
+[caption id="attachment_147" align="alignright" width="300" caption="Nice, meaty filling"][![](/wp-uploadscaption]
 
 
 
@@ -121,4 +120,4 @@ Note: gluten-free pastry does not hold together as well as regular pastry, so yo
 
 
 
-[caption id="attachment_148" align="alignright" width="300" caption="The pasties might not look perfect, but they tasted delicious"][![](http://sjy.yearl.us/wp-content/uploads/2012/07/IMG_03851-300x225.jpg)](http://sjy.yearl.us/wp-content/uploads/2012/07/IMG_03851.jpg)[/caption]
+[caption id="attachment_148" align="alignright" width="300" caption="The pasties might not look perfect, but they tasted delicious"][![](/wp-uploadscaption]

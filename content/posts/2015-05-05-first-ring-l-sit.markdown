@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2015-05-05 10:06:05+00:00
 layout: post
-link: http://stephen.yearl.us/first-ring-l-sit/
 slug: first-ring-l-sit
 title: First ring L-sit
 wordpress_id: 925

@@ -3,7 +3,6 @@ author: admin
 comments: true
 date: 2015-04-23 08:46:06+00:00
 layout: post
-link: http://stephen.yearl.us/confusing-iphotoaperture-and-photo-libraries/
 slug: confusing-iphotoaperture-and-photo-libraries
 title: Confusing iPhoto/Aperture and Photo libraries
 wordpress_id: 830

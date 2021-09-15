@@ -5,7 +5,6 @@ comments: true
 date: 2011-10-27 15:00:01+00:00
 lastMod: 2021-08-31 06:23:00+01:00
 layout: post
-link: http://stephen.yearl.us/setting-gcc-4-2-as-the-default-compiler-on-mac-os-x-leopard/
 slug: setting-gcc-4-2-as-the-default-compiler-on-mac-os-x-leopard
 title: Setting GCC 4.2 as the default compiler on Mac OS X Leopard
 categories:

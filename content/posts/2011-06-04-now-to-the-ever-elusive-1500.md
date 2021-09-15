@@ -5,7 +5,6 @@ comments: true
 date: 2011-06-04 13:08:03+00:00
 lastMod: 2021-08-31 06:23:00+01:00
 layout: post
-link: http://stephen.yearl.us/now-to-the-ever-elusive-1500/
 slug: now-to-the-ever-elusive-1500
 title: Now to the ever elusive 1500
 wordpress_id: 94
