@@ -8,6 +8,7 @@
 
 *.m4a
 *.epub
+.ztr-directory
 
 node_modules/
 
