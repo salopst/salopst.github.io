@@ -6,9 +6,39 @@
   color: rgb(225, 0, 255);
 }
 
+/* includes alternating gray and white with on-hover color */
 
-.WANK {
-  border: 3px dotted rgba(23, 199, 32, 0.829) !important;
+.data-frame {
+  font-size: 11pt; 
+  font-family: Arial;
+  border-collapse: collapse; 
+  border: 1px solid silver;
+
+}
+
+.data-frame td, th {
+  padding: 5px;
+}
+
+.dat-frame th {
+  background: #B48EAD;
+}
+
+.data-frame tr:nth-child(even) {
+  background: #a19b9b;
+  color: #3B4252;
+}
+
+.data-frame tr:hover {
+  background: #D08770;
+  color: #3B4252;
+  cursor: pointer;
+}
+
+
+.included-content {
+  align: center;
+  border: 2px dotted #A3BE8C !important;
   border-radius: 3%;
 }
 
