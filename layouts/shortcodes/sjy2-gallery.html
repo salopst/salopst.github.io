@@ -19,7 +19,16 @@
 https://gohugo.io/content-management/image-processing/
 
 
+
 -->
+{{ $base_path := .Page.File.Dir }}
+
+
+<h1>{{ $base_path }}</h1>
+<hr />
+<hr />
+<hr />
+
 {{ $image := (.Page.Resources.ByType "image") }}
 {{ with $image }}
     <ul>
@@ -31,6 +40,7 @@ https://gohugo.io/content-management/image-processing/
     {{ end }}
     </ul>
 {{ end }}
+
 
 
 <!--
