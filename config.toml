@@ -1,7 +1,7 @@
 # baseURL = "https://salopst.github.io/"
 baseURL = "https://stephen.yearl.us/"
 # baseURL = "http://localhost:1313/"
-title   = "[::1] yearl.us"
+title   = "yearl.us"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -44,7 +44,45 @@ posts = ":slug/"
 [author]
   name = "yearlus"
 
-[blackfriday]
+[markup]
+  defaultMarkdownHandler = 'goldmark'
+  [markup.asciidocExt]
+    backend = 'html5'
+    extensions = []
+    failureLevel = 'fatal'
+    noHeaderOrFooter = true
+    preserveTOC = false
+    safeMode = 'unsafe'
+    sectionNumbers = false
+    trace = false
+    verbose = false
+    workingFolderCurrent = false
+    [markup.asciidocExt.attributes]
+
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+
+    [markup.goldmark.parser]
+      autoHeadingID = true
+      autoHeadingIDType = 'github'
+      [markup.goldmark.parser.attribute]
+        block = false
+        title = true
+
+    [markup.goldmark.renderer]
+      hardWraps = false
+      # set unsafe to true to allow includes in templates
+      unsafe = true
+      xhtml = false
+
+[markupblackFriday]
   hrefTargetBlank = true
 
 [taxonomies]
@@ -149,6 +187,7 @@ posts = ":slug/"
     weight    = 2
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
+
 [menu]
   [[menu.main]]
     identifier = "posts"
@@ -158,3 +197,14 @@ posts = ":slug/"
     identifier = "about"
     name       = "About"
     url        = "about/"
+
+### SIMPLE JS SEARCH
+#
+disableKinds = [ "taxonomy", "term" ]
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+[params.search]
+search = true
+search_minify = false
