@@ -1,44 +1,76 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/css/lightbox.min.css" />
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/js/lightbox.min.js"></script>
-
-
-<!-- grab zee images
-
-{{ with .Page.Resources.ByType "image" }}
-    <ul>
-    {{ range . }}
-    <li>{{ .Permalink }}</li>
-    {{ end }}
-    </ul>
-{{ end }}
+<!--sjy2 2021-09-16
+Grab all the images in a dir and display them in a reasonably acceptable manner
 -->
 
 <!-- do some resizing and so on
-
 https://gohugo.io/content-management/image-processing/
 
-
-
+cute function!
+https://gohugo.io/functions/humanize/
 -->
+
+<link rel="stylesheet" 
+  href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/css/lightbox.min.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/js/lightbox.min.js"></script>
+
+<style>
+.gallery-ul {
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  grid-gap: 10px;
+  padding:10px;
+  background: #2e3440;
+}
+
+.gallery-ul :nth-child(3n + 2) {
+  margin:auto;
+}
+
+.gallery-ul :nth-child(3n + 3) {
+  margin-left:auto;
+}
+
+.gallery-li {
+  /*width: 10px;
+  height: 10px;*/
+  background: #2e3440;
+  text-align-last: center;
+}
+
+.image-alt {
+  visibility: hidden;
+  display: none;
+}
+</style>
+
 {{ $base_path := .Page.File.Dir }}
+{{ $gallery_name :=replace $base_path "/" "" }}
+{{ $gallery_name :=replace $gallery_name "gallery" "" | humanize }}
 
 
-<h1>{{ $base_path }}</h1>
+<h1>{{ $gallery_name}}: Image Gallery</h1>
 <hr />
 <hr />
-<hr />
+
 
 {{ $image := (.Page.Resources.ByType "image") }}
 {{ with $image }}
-    <ul>
-    {{ range . }}
-    {{ $resized_fill := .Fill "250x215 q80" }}
-    {{ $resized := .Resize "x250 q80" }}
-    <li>{{ .Permalink }}
-        <a href="{{ .Permalink }}" data-lightbox="x"> <img src="{{ $resized.Permalink }}" /></a></li>
+  <div class="gallery-ul">
+  {{ range sort . "Name"}}
+    {{ $resized_fill := .Fill "250x250 q80" }}
+    {{ $resized := .Resize "250x250 q80" }}
+    {{$alt := .Name | replaceRE ".[a-zA-Z]*$" "" | humanize | title }}
+    <div class="gallery-li">
+        <span class="image-alt">{{ $alt }}</span>
+      <a href="{{ .Permalink }}" 
+        data-lightbox="x"> 
+        <img src="{{ $resized.Permalink }}" alt="{ $alt }"/>
+
+      </a>
+    </div>
     {{ end }}
-    </ul>
+</div>
 {{ end }}
 
 
