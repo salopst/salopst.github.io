@@ -3,6 +3,11 @@
 # $HOME/code/hugo-sites/salopst.github.io/.gitignore
 
 
+# rando copies of files
+*(* 
+
+*lock.json
+
 /hugo-easy-gallery
 
 /pietra-static
