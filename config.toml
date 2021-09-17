@@ -187,6 +187,11 @@ posts = ":slug/"
     weight    = 2
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
+[sitemap]
+  changefreq = 'weekly'
+  filename = 'sitemap.xml'
+  priority = 0.5
+
 
 [menu]
   [[menu.main]]
@@ -202,9 +207,21 @@ posts = ":slug/"
 #
 disableKinds = [ "taxonomy", "term" ]
 
+# Search index for lunr.js
+[outputFormats.SearchIndex]
+    mediaType = "application/json"
+    baseName = "search"
+    isPlainText = true
+
+
 [outputs]
-home = [ "HTML", "RSS", "JSON" ]
+home = [ "HTML", "RSS", "JSON", "SearchIndex"]
+page = ["HTML"]
+
+
 
 [params.search]
 search = true
 search_minify = false
+
+
