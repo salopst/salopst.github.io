@@ -1,0 +1,18 @@
+<!--sjy2 2021-09-17-->
+
+{{- $video_src := .Get "src" -}}
+{{- $video_type := .Get "type" -}}
+{{- $width := "100%" -}}
+
+<video preload="auto" playsinline class="html-video" id="{{ $video_src }}"
+  {{ if (.Get "width") }} width="{{.}}" {{ else }} width="{{ $width }}"{{ end }}
+  {{ if (.Get "height") }} height="{{.}}" {{ end }}
+  {{ if ne (.Get "controls") "false" }}controls {{ end }} 
+  {{ if eq (.Get "autoplay") "true" }} autoplay {{ end }}
+  {{ if eq (.Get "loop") "true" }}loop {{ end }}
+  {{ if eq (.Get "muted") "true" }}muted {{ end }}
+  {{if ( .Get "poster") }} poster="{{.}}" {{ end }}>
+  <source src="{{ $video_src }}" type="{{ $video_type }}">
+  <span>{{ i18n "videoUnsupported" }}</span>
+</video>
+  
