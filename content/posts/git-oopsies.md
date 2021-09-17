@@ -51,3 +51,10 @@ Having reverted the changes, all is well:
 
 What is interesting is that I did not get a notification from the continuous deployment system. That's OK, though, the good people at Netlify are hosting this for the free. Since I am having so much grief currently with my existing hosting co., I am sorely tempted to throw a few shekels in Netlify's general direction.
 
+#### Remove deleted files from the tree
+```bash
+git rm $(git ls-files --deleted)
+```
+Would do, but is maybe a touch aggressive. `git add -u ` does the same and avoids adding untracked files
+
+

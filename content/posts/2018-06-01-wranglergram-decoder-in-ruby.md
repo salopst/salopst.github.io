@@ -1,5 +1,6 @@
 ---
 author: admin
+origin: wordpress
 comments: true
 date: 2018-06-01 17:35:03+00:00
 layout: post
@@ -7,11 +8,12 @@ slug: wranglergram-decoder-in-ruby
 title: Wranglergram decoder in ruby
 wordpress_id: 1396
 categories:
-- ruby
-- tech
+- Code
+- Tech
 tags:
 - anagram
 - words
+- ruby
 ---
 
 My local radio station has a quiz every once in a while. The questions are hardly "University Challenge", but there is one question that always is fiendishly tricksy and slippery: to identify a place in the county from an anagram of it.
@@ -42,6 +44,7 @@ puts places.inspect
 ```
 
 - #3 Simply pull out the entry that matches the key...
+
 ```ruby
 places = nil
 
