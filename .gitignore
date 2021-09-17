@@ -9,6 +9,10 @@
 *lock.json
 
 /hugo-easy-gallery
+/themes/meme
+/public-static-hugo
+/resources/_gen/images/
+*.markdown
 
 /pietra-static
 2021-08-30-cap01.html
