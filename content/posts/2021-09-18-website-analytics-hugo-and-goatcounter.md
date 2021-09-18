@@ -58,7 +58,7 @@ You will, of course have other params. Don't repeat the `params` table, just cop
 
 ### 2. Call the goatcounter.html template from wherever you like
 
-I call it from two places, from a javascript template and from the template for the footer of this site, comme ca
+I call it from two places, from a Javascript template and from the template for the footer of this site, *comme ça*: 
 
 ```html
 {{- if .Site.Params.goatcounter }}
