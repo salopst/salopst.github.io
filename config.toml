@@ -103,6 +103,11 @@ posts = ":slug/"
 
   homeSubtitle = "Nel mezza del camin..."
 
+  # sjy2 2021-09-18
+  # this should be the goatcounter "code" https://goatcounter.com/
+  # calls in the goatcounter.html template
+  goatCounter = "yearlus"
+
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
 

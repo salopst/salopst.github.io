@@ -9,6 +9,10 @@
     {{ template "_internal/google_analytics.html" . }}
 {{- end}}
 
+{{- if .Site.Params.goatcounter }}
+    {{ template "partials/goatcounter.html" . }}
+{{- end}}
+
 {{ range $val := $.Site.Params.customJS }}
     {{ if gt (len $val) 0 }}
         <script src="{{ $val }}"></script><!-- does not work on localhost-->
