@@ -10,12 +10,12 @@ wordpress_id: 1409
 categories:
 - Linux
 - Networking
-- Nech
+- Tech
 tags:
-- ad blocking
-- DIG Internetz
+- ad-blocking
+- DIG
 - DNS
-- raspberry pi
+- Raspberry-pi
 ---
 
 Getting pretty annoyed with keeping track of which browser on which machine has which add blockers installed, so it's time for a more holistic approach. Enter, stage left, the [Pi-hole](https://pi-hole.net/). In short it:

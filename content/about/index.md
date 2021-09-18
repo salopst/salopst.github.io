@@ -1,16 +1,27 @@
-+++
-title = "About this site"
-date = "2011-04-09"
-lastmod = "2021-08-30"
-draft = "false"
-author = ["yearluk"]
-tags = ["emacs", "hugo", "about", "websites"]
-categories = ["blog", "websites", "tech"]
-aliases = ["about-us","about-hugo","contact"]
-weight = 1001
-summary = "This site in its current incarnation is delivered via Hugo."
-description = "About this site..."
-+++
+---
+title: About this site
+author: yearluk
+origin: hugo
+date: 2011-04-09'
+lastmod: 2021-08-30
+draft: false
+
+weight: 1001
+description: This site in its current incarnation is delivered via Hugo.
+categories:
+  - Blog
+  - Webdev
+  - Tech
+tags:
+  - emacs
+  - hugo
+  - about
+  - websites
+aliases:
+  - about-us
+  - about-hugo
+  - contact
+---
 
 
 The current incarnation of whatever dross this is is implemented by [Hugo](https://gohugo.io), allegedly the **world’s fastest framework for building websites**. It is written in Go.
@@ -24,4 +35,5 @@ The markdown is moved, usually manually, to a directory under git source control
 - DNSe🐍es are hissed by [Cloudflare](https://cloudflare.com). 
 - Emails are under Swiss chocolate mountains @ [Protonmail](https://protonmail.ch).  
 - Hosted by [Netlify](https://netlify.com)
+- Analytics by [Goatcounter](https://goatcounter.com)
 - Learn more about Hugo: [GitHub](https://github.com/gohugoio).

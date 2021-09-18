@@ -32,6 +32,7 @@ tags:
   position="center" 
   style="border-radius: 50px;" */>}}
 ```
+- **Escaping** the shortcode such that it would not be executed was non-obvious. It is done with `/*` and `*/` *immediately inside* the shortcode's `{{` and `}}`... hpwever you slice it, that can haardly be considered concise.
 
 - Hugo's default markdown flavour is blackfriday: https://github.com/russross/blackfriday. I changed that to goldmark: https://libs.garden/go/yuin/goldmark
 
