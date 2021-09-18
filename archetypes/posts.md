@@ -1,5 +1,5 @@
 ---
-title: "{{ .Name | humanize | title }}"
+title: "{{ .Name  | humanize | title}}"
 slug: {{ .Name }}
 author: {{ .Site.Author.name }}
 origin: hugo
