@@ -1,44 +1,41 @@
 ---
-author: "yearluk"
-origin: "hugo"
-title: "Running (scratch) notes on Hugo and this implementation"
-slug: "Hugo and Emacs"
+author: yearluk
+origin: hugo
+title: Scratch notes on Hugo (and this implementation)
+slug: scratch-notes-on-hugo
 date: 2020-05-18T14:33:57.000Z
-lastMod: 2021-09-01T02:30:00.000Z
-tags:
-  - emacs
-  - hugo
-  - test
-  - wordpress
-categories:
-  - blog
-  - emacs
-  - tech
-  - webdev
+lastMod: 2021-09-18T02:30:00.000Z
 draft: false
 weight: 1001
 noLicense: false
-summary:  "Some summary-based, random running notes on using Hugo having migrated to it from Wordpress."
-description: "Some description-based, random running notes on using Hugo having migrated to it from Wordpress."
+description: "Some random running notes on using Hugo having migrated to it from Wordpress."
+categories:
+  - Blog
+  - Tech
+  - Webdev
+tags:
+  - Emacs
+  - Hugo
+  - markdown
+  - markup
+  - wordpress
 ---
 
 
-{{< image src="/img/uploads/leaping-baby-brown-trout.jpg" alt="Hello Friendo" position="center" style="border-radius: 50px;" >}}
+{{< image src="/img/uploads/leaping-baby-brown-trout.jpg" alt="Brown trout are the best trout" position="center" style="border-radius: 50px;" >}}
 
-^^^ This image above is not in the general template for a post file. It is added with:
+### ^^^ This image above is not in the general template for a post file. It is added with:
 
-```hugo
-{\{< image src="/img/uploads/leaping-baby-brown-trout.jpg" 
+```text
+{{</* image src="/img/uploads/leaping-baby-brown-trout.jpg" 
   alt="Hello Friendo"
   position="center" 
-  style="border-radius: 50px;" >}}
+  style="border-radius: 50px;" */>}}
 ```
 
-**NOTE**: that `{\{` should be `{{`. I popped in the backslash because the current version of Hugo interperets its own shortcodes even in code blocks!
+- Hugo's default markdown flavour is blackfriday: https://github.com/russross/blackfriday. I changed that to goldmark: https://libs.garden/go/yuin/goldmark
 
-- Hugo's markdown flavour is blackfriday: https://github.com/russross/blackfriday
-
-- This Hugo implementation uses title as the *persistent* URL and is different from the file name (in the case of this file `2020-05-18-hugo-and-emacs.31`) and is kinda how I would like to move forward. **BUT** some of the old Wordpress posts make a distinction between title and "slug". These files will have to remain in abeyance while I fifure that shit out. Something like, pseudocode:
+- This Hugo implementation uses title as the *persistent* URL and is different from the file name (in the case of this file `2020-05-18-scratch-notes-on-hugo.md`) and is kinda how I would like to move forward. **BUT** some of the old Wordpress posts make a distinction between title and "slug". These files will have to remain in abeyance while I fifure that shit out. Something like, pseudocode:
 
 ```
 if metadata.has-slug

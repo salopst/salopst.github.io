@@ -42,7 +42,7 @@ Poking around the doco a bit I see that files over 50MB can cause issues. Maybe 
 
 564MB ... err. Yeah. Sorry 'about that.
 
-### To the {{< fa fab github 2x >}} gits!
+### To the {{< fa fab github 2x >}}gits!
 
 {{< image src="https://octodex.github.com/images/homercat.png" alt="Homercat will know what the Duff to do!" position="center" style="border-radius: 50px;width: 50%;height: auto"  >}}
 
