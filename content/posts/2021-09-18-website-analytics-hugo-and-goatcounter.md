@@ -8,7 +8,7 @@ lastMod:
 draft: false
 noLicense: false
 weight: 1001
-description: Displaying diagrams and maths in Hugo using several of the many javascript libraries that are available. flowchart.js mermaid.js js-sequence
+description: 
 categories:
   - Tech
   - Blog
