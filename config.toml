@@ -207,6 +207,10 @@ posts = ":slug/"
     identifier = "about"
     name       = "About"
     url        = "about/"
+  [[menu.main]]
+    identifier = "categories"
+    name       = "Categories"
+    url        = "categories/"
 
 ### SIMPLE JS SEARCH
 #
