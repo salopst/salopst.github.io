@@ -11,6 +11,7 @@
 /hugo-easy-gallery
 /themes/meme
 /public-static-hugo
+/public
 /resources/_gen/images/
 *.markdown
 
