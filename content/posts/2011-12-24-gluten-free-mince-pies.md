@@ -2,7 +2,7 @@
 author: mary.yearl
 origin: wordpress
 comments: true
-date: 2011-12-24 19:00:44+00:00
+date: 2011-12-24T19:00:44+00:00
 layout: post
 slug: gluten-free-mince-pies
 title: Craving a mince pie but you're following a gluten-free diet?

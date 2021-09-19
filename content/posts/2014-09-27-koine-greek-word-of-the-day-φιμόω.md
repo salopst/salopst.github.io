@@ -1,7 +1,7 @@
 ---
 author: kword
 comments: false
-date: 2014-09-27 18:32:49+00:00
+date: 2014-09-27T18:32:49+00:00
 layout: post
 slug: koine-greek-word-of-the-day-φιμόω
 title: 'Koinē Greek Word of the Day: φιμόω'

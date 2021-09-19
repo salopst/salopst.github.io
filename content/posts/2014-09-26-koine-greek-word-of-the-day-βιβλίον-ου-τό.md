@@ -1,7 +1,7 @@
 ---
 author: kword
 comments: false
-date: 2014-09-26 12:34:47+00:00
+date: 2014-09-26T12:34:47+00:00
 layout: post
 slug: koine-greek-word-of-the-day-koine-greek-word-of-the-day-βιβλίον-ου-τό
 title: 'Koinē Greek Word of the Day: βιβλίον, ου, τό'

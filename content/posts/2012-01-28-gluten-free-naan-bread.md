@@ -2,7 +2,7 @@
 author: admin
 origin: wordpress
 comments: true
-date: 2012-01-28 12:49:51+00:00
+date: 2012-01-28T12:49:51+00:00
 layout: post
 slug: gluten-free-naan-bread
 title: Gluten-free naan bread?

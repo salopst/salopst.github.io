@@ -3,7 +3,7 @@ author: admin
 origin: wordpress
 comments: true
 draft: false
-date: 2019-01-06 05:57:12+00:00
+date: 2019-01-06T05:57:12+00:00
 layout: post
 slug: us-keyboard-uk-settings-aka-wheres-my-pipe
 title: 'US Keyboard, UK settings: AKA where''s my pipe?'

@@ -2,7 +2,7 @@
 author: admin
 origin: wordpress
 comments: true
-date: 2018-06-16 07:18:05+00:00
+date: 2018-06-16T07:18:05+00:00
 layout: post
 slug: pi-hole-dns-level-ad-blocker
 title: Pi-hole DNS-level ad blocker

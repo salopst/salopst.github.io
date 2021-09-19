@@ -2,7 +2,7 @@
 author: admin
 origin: wordpress
 comments: true
-date: 2012-01-29 14:02:46+00:00
+date: 2012-01-29T14:02:46+00:00
 layout: post
 slug: wordpress
 title: Wordpress

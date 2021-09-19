@@ -1,7 +1,7 @@
 ---
 author: kword
 comments: true
-date: 2014-10-05 13:13:55+00:00
+date: 2014-10-05T13:13:55+00:00
 layout: post
 slug: koine-greek-word-of-the-day-ὑπολιμπάνω
 title: 'Koinē Greek Word of the Day: ὑπολιμπάνω'

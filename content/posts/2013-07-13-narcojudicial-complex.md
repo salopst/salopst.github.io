@@ -2,8 +2,8 @@
 author: admin
 origin: wordpress
 comments: true
-date: 2013-07-13 19:29:40+00:00
-lastMod: 2021-08-31 06:23:00+01:00
+date: 2013-07-13T19:29:40+00:00
+lastMod: 2021-08-31T06:23:00+01:00
 layout: post
 slug: narcojudicial-complex
 title: Narcojudicial complex

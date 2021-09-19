@@ -2,7 +2,7 @@
 author: mary.yearl
 origin: wordpress
 comments: true
-date: 2012-01-30 14:20:41+00:00
+date: 2012-01-30T14:20:41+00:00
 layout: post
 slug: sr-71-model-rocket-construction
 title: SR-71 Model Rocket Construction

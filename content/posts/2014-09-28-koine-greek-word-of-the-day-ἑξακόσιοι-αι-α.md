@@ -1,7 +1,7 @@
 ---
 author: kword
 comments: false
-date: 2014-09-28 18:50:22+00:00
+date: 2014-09-28T18:50:22+00:00
 layout: post
 slug: koine-greek-word-of-the-day-koine-greek-word-of-the-day-ἑξακόσιοι-αι-α
 title: 'Koinē Greek Word of the Day: ἑξακόσιοι, αι, α'

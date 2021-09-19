@@ -1,7 +1,7 @@
 ---
 author: kword
 comments: true
-date: 2014-10-03 11:07:16+00:00
+date: 2014-10-03T11:07:16+00:00
 layout: post
 slug: koine-greek-word-of-the-day-τέρτυλλος-ου-ὁ
 title: 'Koinē Greek Word of the Day: Τέρτυλλος, ου, ὁ'

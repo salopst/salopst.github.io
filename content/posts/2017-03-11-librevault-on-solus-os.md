@@ -2,7 +2,7 @@
 author: admin
 origin: wordpress
 comments: true
-date: 2017-03-11 03:20:04+00:00
+date: 2017-03-11T03:20:04+00:00
 layout: post
 slug: librevault-on-solus-os
 title: Librevault on Solus OS

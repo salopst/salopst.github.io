@@ -1,7 +1,7 @@
 ---
 author: kword
 comments: true
-date: 2014-10-07 05:14:42+00:00
+date: 2014-10-07T05:14:42+00:00
 layout: post
 link: http://stephen.yearl.us/koine-greek-word-of-the-day-ἐπίθεσις-εως-ἡ
 slug: koine-greek-word-of-the-day-ἐπίθεσις-εως-ἡ

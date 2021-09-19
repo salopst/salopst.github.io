@@ -1,7 +1,7 @@
 ---
 author: kword
 comments: false
-date: 2014-10-01 06:08:28+00:00
+date: 2014-10-01T06:08:28+00:00
 layout: post
 slug: koine-greek-word-of-the-day-ὑπείκω
 title: 'Koinē Greek Word of the Day: ὑπείκω'

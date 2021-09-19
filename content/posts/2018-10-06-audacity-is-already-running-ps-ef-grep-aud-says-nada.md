@@ -3,7 +3,7 @@ author: admin
 origin: wordpress
 comments: true
 draft: false
-date: 2018-10-06 16:17:00+00:00
+date: 2018-10-06T16:17:00+00:00
 layout: post
 slug: audacity-is-already-running-ps-ef-grep-aud-says-nada
 title: "`Audacity is already running... ps -ef | grep aud` says nada"

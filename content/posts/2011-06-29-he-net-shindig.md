@@ -2,8 +2,8 @@
 author: salopst
 origin: posterous 
 comments: true
-date: 2011-06-29 15:32:16+00:00
-lastMod: 2021-08-31 06:23:00+01:00
+date: 2011-06-29T15:32:16+00:00
+lastMod: 2021-08-31T06:23:00+01:00
 layout: post
 slug: he-net-shindig
 title: he.net shindig

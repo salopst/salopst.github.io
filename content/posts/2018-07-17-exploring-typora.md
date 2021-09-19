@@ -3,7 +3,7 @@ title: Exploring Typora... and now Hugo
 slug: exploring-the-typora-markdown-editor
 author: yearluk@ehecatl
 origin: scratch
-date: 2018-07-17 
+date: 2018-07-17T
 categories:
   - Tech
   - Apps

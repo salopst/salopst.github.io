@@ -2,7 +2,7 @@
 author: admin
 origin: wordpress
 comments: true
-date: 2018-06-01 17:35:03+00:00
+date: 2018-06-01T17:35:03+00:00
 layout: post
 slug: wranglergram-decoder-in-ruby
 title: Wranglergram decoder in ruby

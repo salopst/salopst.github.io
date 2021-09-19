@@ -2,7 +2,7 @@
 author: mary.yearl
 origin: wordpress
 comments: true
-date: 2011-12-26 17:50:34+00:00
+date: 2011-12-26T17:50:34+00:00
 layout: post
 slug: gluten-free-christmas-pudding
 title: Gluten-free Christmas pudding

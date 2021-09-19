@@ -2,8 +2,8 @@
 author: salopst
 origin: posterous
 comments: true
-date: 2012-02-09 08:35:01+00:00
-lastMod: 2021-08-31 06:23:00+01:00
+date: 2012-02-09T08:35:01+00:00
+lastMod: 2021-08-31T06:23:00+01:00
 layout: post
 link: http://stephen.yearl.us/apple-macbook-air-usb-superdrive-on-a-non-air
 slug: apple-macbook-air-usb-superdrive-on-a-non-air

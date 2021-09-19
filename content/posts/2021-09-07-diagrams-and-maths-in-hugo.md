@@ -3,8 +3,8 @@ title: Diagrams and Maths in Hugo
 slug: drawing diagrams and making math in hugo
 author: yearluk
 origin: hugo
-date: 2021-09-07T20:13:00
-lastMod:
+date: 2021-09-07T20:13:00+01:00
+lastMod: 2021-09-08T20:17:31+01:00
 draft: false
 noLicense: false
 weight: 1001

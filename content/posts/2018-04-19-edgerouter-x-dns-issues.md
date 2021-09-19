@@ -3,7 +3,7 @@ author: admin
 origin: wordpress
 comments: true
 draft: false
-date: 2018-04-19 13:25:28+00:00
+date: 2018-04-19T13:25:28+00:00
 layout: post
 slug: edgerouter-x-dns-issues
 title: Edgerouter X -- DNS issues

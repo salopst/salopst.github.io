@@ -3,7 +3,7 @@ author: admin
 origin: wordpress
 comments: true
 draft: false
-date: 2018-05-25 06:44:17+00:00
+date: 2018-05-25T06:44:17+00:00
 layout: post
 slug: block-sites-domains-from-search-engine-results
 title: Block sites/domains from search engine results

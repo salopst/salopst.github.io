@@ -2,7 +2,7 @@
 author: admin
 origin: wordpress
 comments: true
-date: 2012-01-25 14:17:25+00:00
+date: 2012-01-25T14:17:25+00:00
 layout: post
 slug: domain-transfer
 title: Domain transfer

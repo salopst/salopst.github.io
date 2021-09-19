@@ -3,7 +3,7 @@ author: admin
 origin: wordpress
 comments: true
 draft: false
-date: 2018-03-08 23:23:48+00:00
+date: 2018-03-08T23:23:48+00:00
 layout: post
 slug: what-movie-files-are-not-1080p
 title: What movie files are not 1080P?

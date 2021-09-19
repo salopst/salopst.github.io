@@ -3,7 +3,7 @@ author: admin
 origin: wordpress
 comments: true
 draft: false
-date: 2018-03-09 07:25:54+00:00
+date: 2018-03-09T07:25:54+00:00
 layout: post
 slug: join-two-or-more-videos-on-the-command-line
 title: Join two or more videos on the command line

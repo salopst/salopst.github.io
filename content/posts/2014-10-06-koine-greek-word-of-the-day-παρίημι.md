@@ -1,7 +1,7 @@
 ---
 author: kword
 comments: true
-date: 2014-10-06 13:15:00+00:00
+date: 2014-10-06T13:15:00+00:00
 layout: post
 link: http://stephen.yearl.us/koine-greek-word-of-the-day-παρίημι
 slug: koine-greek-word-of-the-day-παρίημι

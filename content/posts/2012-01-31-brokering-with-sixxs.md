@@ -2,8 +2,8 @@
 author: salopst
 origin: posterous
 comments: true
-date: 2012-01-31 06:51:00+00:00
-lastMod: 2021-08-31 06:23:00+01:00
+date: 2012-01-31T06:51:00+00:00
+lastMod: 2021-08-31T06:23:00+01:00
 layout: post
 link: http://stephen.yearl.us/brokering-with-sixxs
 slug: brokering-with-sixxs

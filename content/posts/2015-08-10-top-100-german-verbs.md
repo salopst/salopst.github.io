@@ -2,7 +2,7 @@
 author: admin
 origin: wordpress
 comments: true
-date: 2015-08-10 19:33:17+00:00
+date: 2015-08-10T19:33:17+00:00
 layout: post
 slug: top-100-german-verbs
 title: Top 100 German verbs

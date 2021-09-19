@@ -2,9 +2,9 @@
 author: salopst
 origin: posterous
 comments: true
-date: 2012-02-20 12:18:001+00:00
+date: 2012-02-20T12:18:001+00:00
 publishDate: 2012-02-20
-lastMod: 2012-02-20 12:18:001+00:00
+lastMod: 2012-02-20T12:18:001+00:00
 layout: post
 slug: enabling-airdrop-on-certain-unsupported-macs
 title: Enabling AirDrop on (certain) unsupported Macs

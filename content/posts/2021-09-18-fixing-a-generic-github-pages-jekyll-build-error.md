@@ -3,8 +3,8 @@ title: "Fixing a generic github pages build error"
 slug: fixing-a-generic-github-pages-jekyll-build-error
 author: yearluk
 origin: hugo
-date: 2021-09-18T06:24:19
-lastMod:
+date: 2021-09-18T06:24:19+01:00
+lastMod: 2021-09-19T13:00:49+01:00
 draft: false
 noLicense: false
 weight: 1001
@@ -110,6 +110,52 @@ But for now we'll just [reach out to the author](https://github.com/rhazdon/hugo
 -----
 -----
 -----
+
+## The Majesty of Continuous Deployment
+
+After what I though were a few unrelated changes (like throwing in support for fontawesome), I woke this morning to the following Jekyll build error
+
+> The value '{}' was passed to a date-related filter that expects valid dates in /_layouts/default.html or one of its layouts.
+
+Best initial guess is that somewhere in `content/posts` there is a dodgy timestamp. 
+
+To troubleshoot this, Imma gonna need to ensure sure all dates are formatted as `YYYY-MM-DD HH:MM:SS` (UTC) **AND** chcek timezones because a good number of these were from US Eastern Standard (Z-5).
+
+Timezone offsets from UTC, I think, are likely to differ depending on which system created the original post. Should be of the format `YYYY-MM-DD HH:MM:SS +/-TTTT`, like this post's `2021-09-18T06:24:19+01:00`.
+
+Now, WTF amd I gonna find the errant file? To [🦆🦆Go](https://duckduckgo.com/) to see if anyone has already created a script to traverse a directory and validate a bunch of YAML.
+
+Of course they have!
+
+{{< gist salopst c6146e09f65db560a9b36ca9958ce290 >}}
+
+
+```bash
+../salopst.github.io on  main [!?]
+ 🧠 10GiB/23GiB avec λ=❯ ...
+  ❯❯ruby ~/bin/validate-yaml.rb ./content/posts/*.md
+  .
+  .
+  ./content/posts/2018-08-24-gluten-free-homemade-rustic-french-pate.md                        Error: mapping values are not allowed in this context at line 2 column 7
+```
+
+Anyhoo. This is just validating YAML, and not digging into the ISO 9601 date-time format.
+
+## side-bar... Hugo's `gist.html`
+Is here: https://github.com/gohugoio/hugo/blob/master/tpl/tplimpl/embedded/templates/shortcodes/gist.html
+
+And it works, but the default styling is a bit jarring to me, especially with a dark theme.
+
+The rendered structure of the `gist.html` shortcode is:
+
+{{< image src="/img/uploads/2021-19-09-gist-div-class-structure.png" alt="Gist div class structure" position="center" style="border-radius: 30px;" >}}
+
+Make a `/js/gist.css` and add that to `config.toml` as 
+```toml
+customCSS = ["css/gist.css"]
+```
+
+
 
 ## Attempted solution #3
 

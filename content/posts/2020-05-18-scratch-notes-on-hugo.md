@@ -3,8 +3,8 @@ author: yearluk
 origin: hugo
 title: Scratch notes on Hugo (and this implementation)
 slug: scratch-notes-on-hugo
-date: 2020-05-18T14:33:57.000Z
-lastMod: 2021-09-18T02:30:00.000Z
+date: 2020-05-18T14:33:57+01:00
+lastMod: 2021-09-18T02:30:00+01:00
 draft: false
 weight: 1001
 noLicense: false

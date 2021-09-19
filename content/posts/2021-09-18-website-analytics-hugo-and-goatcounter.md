@@ -4,7 +4,7 @@ slug: website-analytics-hugo-shortcodes-and-goatcounter
 author: yearluk
 origin: hugo
 date: 2021-09-18T05:43:09
-lastMod:
+lastMod: 2021-09-18T05:43:09
 draft: false
 noLicense: false
 weight: 1001

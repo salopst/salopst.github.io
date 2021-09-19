@@ -3,7 +3,7 @@ author: admin
 origin: wordpress
 comments: true
 draft: false
-date: 2018-05-27 17:43:13+00:00
+date: 2018-05-27T17:43:13+00:00
 layout: post
 slug: dogge-play-time
 title: Dogge play time

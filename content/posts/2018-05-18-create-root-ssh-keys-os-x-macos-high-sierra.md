@@ -3,7 +3,7 @@ author: admin
 origin: wordpress
 comments: true
 draft: false
-date: 2018-05-18 10:19:13+00:00
+date: 2018-05-18T10:19:13+00:00
 layout: post
 slug: create-root-ssh-keys-os-x-macos-high-sierra
 title: Create root SSH keys OS X (MacOS High Sierra)

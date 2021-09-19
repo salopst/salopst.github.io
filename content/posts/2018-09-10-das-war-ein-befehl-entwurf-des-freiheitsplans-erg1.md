@@ -3,7 +3,7 @@ author: admin
 origin: wordpress
 comments: true
 draft: false
-date: 2018-09-10 05:50:22+00:00
+date: 2018-09-10T05:50:22+00:00
 layout: post
 slug: das-war-ein-befehl-entwurf-des-freiheitsplans-erg1
 title: Das war ein Befehl... Entwurf des Freiheitsplans ... ERG1

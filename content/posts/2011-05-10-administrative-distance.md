@@ -2,8 +2,8 @@
 author: salopst
 origin: posterous
 comments: true
-date: 2011-05-10 12:16:04+00:00
-lastMod: 2021-08-31 06:23:00+01:00
+date: 2011-05-10T12:16:04+00:00
+lastMod: 2021-08-31T06:23:00+01:00
 layout: post
 slug: administrative-distance
 title: Administrative Distance

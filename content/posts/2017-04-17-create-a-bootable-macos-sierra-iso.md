@@ -3,7 +3,7 @@ author: admin
 origin: wordpress
 comments: true
 draft: false
-date: 2017-04-17 03:38:31+00:00
+date: 2017-04-17T03:38:31+00:00
 layout: post
 slug: create-a-bootable-macos-sierra-iso
 title: Create a bootable ISO of macOS Sierra

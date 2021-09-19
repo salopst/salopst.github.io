@@ -3,7 +3,7 @@ author: admin
 origin: wordpress
 comments: true
 draft: false
-date: 2018-09-21 11:42:50+00:00
+date: 2018-09-21T11:42:50+00:00
 layout: post
 slug: pi-hole-route-del
 title: pi-hole route del
