@@ -1,9 +1,9 @@
 ---
 title: Exploring Typora... and now Hugo
 slug: exploring-the-typora-markdown-editor
-author: yearluk@ehecatl
+author: yearluk
 origin: scratch
-date: 2018-07-17T
+date: 2018-07-17T13:00:00+00:00
 categories:
   - Tech
   - Apps

@@ -3,15 +3,14 @@ title: Gāyatrī Mantra (Sāvitri Mantra)
 slug: gayatri-mantra
 author: yearluk
 origin: hugo
-date: 2021-06-30T13:06:15.000
-lastMod: 2021-09-01T02:30:00.000Z
+date: 2021-06-30T13:06:15+01:00
+lastMod: 2021-09-01T02:30:00+00:00
 draft: false
 noLicense: false
 weight: 1001
 categories:
   - Blog
   - Language
-  - Hindi
   - Media
 tags:
   - hindi

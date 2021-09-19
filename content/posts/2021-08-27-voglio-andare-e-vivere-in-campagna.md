@@ -3,8 +3,8 @@ author: "yearluk"
 origin: "hugo"
 title: "Voglio andare a vivere in campagna"
 slug: "voglio-andare-a-vivere-in-campagna"
-date: 2021-08-27T19:36:45
-lastMod: 2021-09-01T02:30:00.000Z
+date: 2021-08-27T19:36:45+00:00
+lastMod: 2021-09-01T02:30:00+00:00
 draft: false
 noLicense: false
 weight: 1001

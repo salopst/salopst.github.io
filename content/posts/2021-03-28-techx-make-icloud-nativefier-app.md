@@ -3,7 +3,7 @@ author: yearluk
 origin: scratch
 title: Make iCloud nativefier app for iCal on Linux
 slug: make icloud nativefier app for ical on linux
-date: 2021-02-17
+date: 2021-02-17T13:00:00+00:00
 draft: false
 noLicense: false
 weight: 1001

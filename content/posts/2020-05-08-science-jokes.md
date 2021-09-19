@@ -3,7 +3,7 @@ author: "yearluk"
 origin: "hugo"
 title: "Science jokes"
 date: 2012-05-08T15:33:57+01:00
-lastMod: 2021-09-01T02:30:00.000Z
+lastMod: 2021-09-01T02:30:00+01:00
 draft: false
 noLicense: false
 weight: 1001

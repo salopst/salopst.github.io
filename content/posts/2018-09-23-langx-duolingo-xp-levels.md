@@ -3,7 +3,8 @@ author: yearluk
 origin: scratch
 title: Duolingo Levels and XP
 slug: duolingo levels and xp
-date: 2018-09-23
+date: 2018-09-23T06:06:12+01:00
+lastMod: 2021-09-19T13:19:12+01:00
 draft: false
 noLicense: false
 weight: 1001

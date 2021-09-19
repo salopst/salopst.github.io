@@ -3,8 +3,8 @@ title: "Website Analytics Hugo and Goatcounter: Ditching Google"
 slug: website-analytics-hugo-shortcodes-and-goatcounter
 author: yearluk
 origin: hugo
-date: 2021-09-18T05:43:09
-lastMod: 2021-09-18T05:43:09
+date: 2021-09-18T05:43:09+01:00
+lastMod: 2021-09-18T05:43:09+01:00
 draft: false
 noLicense: false
 weight: 1001

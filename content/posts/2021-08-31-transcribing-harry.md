@@ -4,7 +4,7 @@ origin: "hugo"
 title: "Transcribing Enrico Vasaio for fun and no profit"
 slug: "Transcribing Enrico Vasaio for fun and no profit"
 date: 2021-07-31T20:13:58+01:00
-lastMod: 2021-09-01T02:30:00.000Z
+lastMod: 2021-09-01T02:30:00+01:00
 draft: false
 noLicense: false
 weight: 1001

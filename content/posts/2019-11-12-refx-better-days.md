@@ -3,8 +3,8 @@ author: yearluk
 origin: scratch
 title: "\"Better Days\" by Natalia Gutierrez Y Angelo"
 slug: better days Natalia Gutierrez Y Angelo
-date: 2019-11-12
-lastMod: 2019-11-12
+date: 2019-11-12T13:00:00+00:00
+lastMod: 2019-11-12T13:00:00+00:00
 draft: false
 noLicense: false
 weight: 1001
