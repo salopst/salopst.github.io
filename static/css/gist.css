@@ -1,0 +1,63 @@
+/* sjy2 2021-09-19
+override Hugo default css for embedded gists
+*/
+
+body .gist .gist-file {
+  width:max-content;
+  margin-bottom: 10;
+  border-radius: 2%;
+  background-color: #3B4252;
+  /*border: 2px dashed red;*/
+}
+
+body .gist .gist-data {
+  border-radius: 2%;
+  background-color: #434C5E;
+  /* border: 2px dashed blue;*/
+}
+
+body .gist .blob-wrapper {
+  border-radius: 2%;
+  overflow-wrap: normal;
+  /*hide horiz scroll-- overflow-x: hidden;*/
+  background-color: #434C5E;
+  /*border: 2px dashed green;*/
+}
+
+body .gist .highlight {
+  background-color: transparent;
+  font-family: monospace;
+  font-size: 95%;
+}
+
+body .gist .highlight td {
+  padding: 5px 15px !important;
+  line-height: 1;
+  font-family: inherit;
+  font-size: inherit;
+}
+
+body .gist tr:first-child td {
+  padding-top: 15px !important;
+}
+
+body .gist tr:last-child td {
+  padding-bottom: 15px !important;
+}
+
+body .gist .blob-num {
+  color: #D8DEE9;
+  background-color: #495057;
+  pointer-events: none;
+  /*hide line nums-- display: none;*/
+}
+
+body .gist .blob-code {
+  color: #495057;
+  background-color: #D8DEE9;
+  pointer-events: none;
+}
+
+body .gist .gist-meta {
+  /*display: none;*/
+}
