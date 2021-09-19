@@ -3,7 +3,7 @@ author: admin
 origin: wordpress
 comments: true
 draft: false
-date: 2018-08-24 20:32:07+00:00
+date: 2018-08-24T20:32:07+00:00
 layout: post
 slug: gluten-free-homemade-rustic-french-pate
 title: Gluten Free Homemade Rustic French Pâté
