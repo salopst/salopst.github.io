@@ -3,22 +3,21 @@ override Hugo default css for embedded gists
 */
 
 body .gist .gist-file {
-  width:max-content;
   margin-bottom: 10;
-  border-radius: 2%;
+  border-radius: 15px;
   background-color: #3B4252;
   /*border: 2px dashed red;*/
 }
 
 body .gist .gist-data {
-  border-radius: 2%;
+  border-radius: 15px;
   background-color: #434C5E;
   /* border: 2px dashed blue;*/
 }
 
 body .gist .blob-wrapper {
-  border-radius: 2%;
-  overflow-wrap: normal;
+  border-radius: 15px;
+  /*overflow-wrap: normal;*/
   /*hide horiz scroll-- overflow-x: hidden;*/
   background-color: #434C5E;
   /*border: 2px dashed green;*/
