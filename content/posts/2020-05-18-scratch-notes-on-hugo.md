@@ -34,7 +34,14 @@ tags:
 ```
 - **Escaping** the shortcode such that it would not be executed was non-obvious. It is done with `/*` and `*/` *immediately inside* the shortcode's `{{` and `}}`... hpwever you slice it, that can haardly be considered concise.
 
-- Hugo's default markdown flavour is blackfriday: https://github.com/russross/blackfriday. I changed that to goldmark: https://libs.garden/go/yuin/goldmark
+- Hugo's default markdown flavour was blackfriday: https://github.com/russross/blackfriday until Hugo version v0.60.0 adopted goldmark: https://libs.garden/go/yuin/goldmark. So, to deal with raw inline HTML in your Markdown files we need to enable the unsafe mode in `config.toml`.
+
+```toml
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
+```
 
 - This Hugo implementation uses title as the *persistent* URL and is different from the file name (in the case of this file `2020-05-18-scratch-notes-on-hugo.md`) and is kinda how I would like to move forward. **BUT** some of the old Wordpress posts make a distinction between title and "slug". These files will have to remain in abeyance while I fifure that shit out. Something like, pseudocode:
 
