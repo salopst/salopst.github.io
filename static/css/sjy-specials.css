@@ -3,7 +3,47 @@
 [data-lang~=devnag]{
   text-align: center;
   font-size: 300% !important;
-  color: rgb(225, 0, 255);
+  border: 2px solid  #B48EAD;
+}
+
+.pre .code[class~="poetry"]{
+  text-align: center;
+  font-size: 150% !important;
+  border: 2px solid #A3BE8C;
+}
+
+.pre .code [class*="poetry"]{
+  text-align: center;
+  font-size: 150% !important;
+  border: 2px solid #ffd52d;
+}
+
+.pre .code [class*=poetry]{
+  text-align: center;
+  font-size: 150% !important;
+  border: 2px solid #ffd52d;
+}
+
+[data-lang~=lyrics]{
+  text-align: center;
+  font-size: 150% !important;
+  color: #88c0d0;
+}
+
+a.footnote-ref::before {
+  content: '[';
+}
+
+a.footnote-ref::after {
+  content: ']';
+}
+
+iframe{
+  align-content: center;
+  display  : block;
+  margin   : 10 auto;
+  border   : 0;
+  overflow : hidden;
 }
 
 .box{

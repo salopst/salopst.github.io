@@ -87,6 +87,8 @@ posts = ":slug/"
 
 [markupblackFriday]
   hrefTargetBlank = true
+  footnoteAnchorPrefix = ""
+  footnoteReturnLinkContents = ""
 
 [taxonomies]
   tag      = "tags"
