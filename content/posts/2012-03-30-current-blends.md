@@ -1,29 +1,31 @@
 ---
 author: admin
+origin: wordpress
 comments: true
-date: 2012-03-30 18:49:23+00:00
+date: 2012-03-30T18:49:23+00:00
 layout: post
 slug: current-blends
-title: Current Blends
+title: Current Pipe Tobacco Blends
 wordpress_id: 205
+categories:
+- Uncategorized
 tags:
 - tobacco
+- pipes
 ---
 
 A listing of the tobacco blends tried, roughly in order.
 Some of my [reviews](http://tobaccoreviews.com/reviewer_detail.cfm?UID=12203)
-* == unsmoked, but in the 'cellar'.
 
+\* == unsmoked, but in the 'cellar'.
 
-
-	
-  1. [Seven Seas Royal Blend](http://tobaccoreviews.com/blend_detail.cfm?ALPHA=7&TID=3677)(MacBaren)
+ 1. [Seven Seas Royal Blend](http://tobaccoreviews.com/blend_detail.cfm?ALPHA=7&TID=3677)(MacBaren)
 
 	
-  2. [Chairmans flake](http://www.smoke.co.uk/acatalog/Loose_Flake_Tobacco_To_Weigh_Out.html) (James Barber)
+ 2. [Chairmans flake](http://www.smoke.co.uk/acatalog/Loose_Flake_Tobacco_To_Weigh_Out.html) (James Barber)
 
 	
-  3. [My Mixture 965](http://tobaccoreviews.com/blend_detail.cfm?ALPHA=M&TID=458)(Dunhill)
+ 3. [My Mixture 965](http://tobaccoreviews.com/blend_detail.cfm?ALPHA=M&TID=458)(Dunhill)
 
 	
   4. [Squadron Leader](http://tobaccoreviews.com/blend_detail.cfm?ALPHA=S&TID=1040) (Samuel Gawith)

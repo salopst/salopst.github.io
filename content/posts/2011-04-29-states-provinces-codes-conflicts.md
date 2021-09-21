@@ -29,7 +29,7 @@ At some point, since we're Hugo-ifying all the things, I should look at use of t
 
 Err. Maybe not. Seems like the dir is supposed to be used for site specific stuffs, and not content *per se*.
 
--[https://gohugo.io/templates/data-templates/](https://gohugo.io/templates/data-templates/)
+- [https://gohugo.io/templates/data-templates/](https://gohugo.io/templates/data-templates/)
 
 -----
 -----

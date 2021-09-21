@@ -1,19 +1,21 @@
 ---
 author: admin
+origin: wordpress
 comments: true
-date: 2017-03-07 03:12:21+00:00
+date: 2017-03-07T03:12:21+00:00
 layout: post
+draft: false
 slug: mounting-an-ios-10-2-device-in-solus-os
 title: Mounting an iOS 10.2 device in Solus OS
 wordpress_id: 1287
 categories:
 - Apple
 - Linux
-- os x
-- Solus
-- tech
+- Tech
 tags:
 - compiling
+- Solus
+- OS X
 - distro
 - Linux
 - source
@@ -24,11 +26,11 @@ tags:
 
 I feel that after ten years I can no longer countenance the purchase of a new Apple laptop should my existing machine shit the bed. All that nonsense associated with the race to thinness and the resultant lack of expandability of the newer machines, where everything is soldered or glued into place, has me pretty upset. Oh, and the OS itself has been getting more annoying with each release since Snow Leopard. So I am planning for a day without OS X/ MacOS. After a few distro trials (ongoing) I've come down to:
 
-[Linux Mint 18.1](https://linuxmint.com/rel_serena_cinnamon_whatsnew.php)
+- [Linux Mint 18.1](https://linuxmint.com/rel_serena_cinnamon_whatsnew.php)
 
-[Solus OS](https://solus-project.com/)
+- [Solus OS](https://solus-project.com/)
 
-[True OS](https://www.trueos.org/)
+- [True OS](https://www.trueos.org/)
 
 With the thinking that Solus will be "The One".
 
@@ -71,7 +73,6 @@ $ ~/usr/bin/idevicepair pair
 
 $ nautilus &
 $ ls $ ls ~/usr/mnt/
-
 ```
 
 All the real work was done by someone else (isn't it always?), here: [https://gist.github.com/samrocketman/70 ... 33c259a0fc](https://gist.github.com/samrocketman/70dff6ebb18004fc37dc5e33c259a0fc)
