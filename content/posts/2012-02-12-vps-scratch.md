@@ -1,13 +1,15 @@
 ---
 author: admin
+origin: wordpress
 comments: true
-date: 2012-02-12 20:51:13+00:00
+date: 2012-02-12T20:51:13+00:00
 layout: post
 slug: vps-scratch
 title: VPS Scratch
 wordpress_id: 235
 categories:
-- tech
+- Tech
+- Linux
 tags:
 - Linux
 - VPS

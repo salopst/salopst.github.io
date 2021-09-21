@@ -1,16 +1,20 @@
 ---
 author: admin
+origin: wordpress
 comments: true
-date: 2012-02-28 21:54:30+00:00
+date: 2012-02-28T21:54:30+00:00
 layout: post
+draft: false
 slug: installing-openvpn-on-debian-6-squeeze
 title: Installing OpenVPN on Debian 6 (Squeeze)
 wordpress_id: 243
 categories:
-- tech
+- Tech
+- Linux
 tags:
 - Linux
 - VPS
+- Debian
 ---
 
 ### 1. Ensure everything up to date (as / ):
@@ -122,7 +126,7 @@ The same questions as before re building a DN. Hmm. I'm going to run with the se
 
 
 DH parms govern the method of key exchange and authentication used by the OpenVPN server. Generate these:
-[ccW]. /etc/openvpn/easy-rsa/2.0/build-dh[/ccW]
+`. /etc/openvpn/easy-rsa/2.0/build-dh`
 
 
 
@@ -165,19 +169,23 @@ $cp client.conf ~/
 $cd ~/
 $nano client.conf
 ```
+```text
 # The hostname/IP and port of the server. 
 # You can have multiple remote entries 
 # to load balance between the servers. 
 remote 178.17.41.223 1194
+```
+
 ```bash
 $nano yearlus.conf
 ```
-
+```text
 # Any X509 key management system can be used. 
 # OpenVPN can also use a PKCS 
 #12 formatted key file 
 # (see "pkcs12" directive in man page). ca ca.crt cert yearlus.crt key yearlus.key 
 # This file should be kept secret 
+```
 
 
 
@@ -200,7 +208,7 @@ $./usr/sbin/openvpn --config /etc/openvpn/yearlus.conf
 ```
 
 **Boomshaka!**
-Copy over a `client.conf[/cci] to [cci]/etc/openvpn`, start server as daemon
+Copy over a `client.conf` to `/etc/openvpn`, start server as daemon
 ```bash
 # cp ~/centzon.conf /etc/openvpn
 # /etc/init.d/openvpn start

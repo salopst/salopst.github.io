@@ -1,13 +1,17 @@
 ---
 author: admin
+origin: wordpress
 comments: true
-date: 2012-03-03 19:17:21+00:00
+date: 2012-03-03T19:17:21+00:00
 layout: post
+draft: false
 slug: installing-postfix-and-dovecot-on-debian-6-squeeze
 title: Installing Postfix and Dovecot on Debian 6 (Squeeze)
 wordpress_id: 216
 categories:
-- tech
+- Tech
+- Linux
+- Sysadmin
 tags:
 - Linux
 - VPS
@@ -63,7 +67,7 @@ $$mail -s "log file" mail_addr@yearl.us < /etc/nginx/nginx.conf
 Boomshaka!
 
 DOVECOT (receive)
-config at: `/etc/dovecot/dovecot.conf[/cci] (do the usual back-up, re-create); mail folders in [cci]/var/mail/$USER`
+config at: `/etc/dovecot/dovecot.conf` (do the usual back-up, re-create); mail folders in `/var/mail/$USER`
 
 ```bash
 $ sudo apt-get install dovecot-imapd dovecot-pop3d
@@ -119,7 +123,7 @@ From root@vps.yearl.us Thu Mar 1 03:07:25 2012
 
 Editing `/etc/postfix/main.cf` to:
 
-```
+```text
 smtp_use_tls = yes
 smtpd_use_tls = yes
 smtp_tls_note_starttls_offer = yes
@@ -150,7 +154,7 @@ update-rc.d: warning: saslauthd stop runlevel arguments (0 1 6) do not match LSB
 ```
 
 create `/etc/postfix/sasl/smtpd.conf` and add:
-[ccW]pwcheck_method: saslauthd[/ccW]
+`pwcheck_method: saslauthd`
 ```bash
 /etc/init.d/saslauthd start
 ```
