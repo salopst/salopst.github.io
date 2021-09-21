@@ -1,6 +1,9 @@
 # baseURL = "https://salopst.github.io/"
 baseURL = "https://stephen.yearl.us/"
 # baseURL = "http://localhost:1313/"
+
+# enableRobotsTXT = true
+
 title   = "yearl.us"
 languageCode = "en-us"
 theme = "hello-friend-ng"

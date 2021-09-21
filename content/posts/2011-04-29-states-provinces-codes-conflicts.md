@@ -4,6 +4,7 @@ origin: scratch
 comments: true
 date: 2011-04-29T14:34:08+00:00
 lastMod: 2021-09-21T02:22:00+01:00
+draft: false
 layout: post
 slug: states-provinces-codes-conflicts
 title: US State/ Canadian Province Country Code Conflicts
@@ -25,6 +26,10 @@ Lo! Those conflicts and the Alpha-3 codes to avoid this.
 The below is a markdown table, the original was in XML (for 'twas the fasion back then... TEN YEARS ago!) converted using the really-quite-handy [https://tableconvert.com](https://tableconvert.com)
 
 At some point, since we're Hugo-ifying all the things, I should look at use of the `/data/` directory and include the data programmatically.
+
+Err. Maybe not. Seems like the dir is supposed to be used for site specific stuffs, and not content *per se*.
+
+-[https://gohugo.io/templates/data-templates/](https://gohugo.io/templates/data-templates/)
 
 -----
 -----
