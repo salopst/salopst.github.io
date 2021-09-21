@@ -13,6 +13,7 @@ wordpress_id: 1445
 categories:
 - good life
 - Recipes
+- Poetry
 tags:
 - apple
 - food
@@ -21,7 +22,7 @@ tags:
 
 *Of Apple-Pyes*: A poem, by Mr. [Leonard Welsted](https://en.wikipedia.org/wiki/Leonard_Welsted) (Cambridge man, you know).
 
-```
+```poetry
 OF all the delicates which Britons try, 
 To please the palate, or delight the eye; 
 Of all the several kinds of sumptuous fare, 
