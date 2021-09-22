@@ -136,8 +136,6 @@ But submodules is a bit tricksier.
 - `git submodule foreach git reset --hard`
 
 
-
-
 ## Frontmatter metadata
 Hugo supports 4 frontmatter formats:
 

@@ -40,7 +40,7 @@ Scans are limited to three per day for the non subscription version. Shame that 
 {{<yt-media id="6Kb0q9J8lPA" yt_start="10" autoplay="true">}}
 
 
-```devnag
+```devanagari
 ॐ भूर्भुवः स्वः 
 तत्सवितुर्वरेण्यं 
 भर्गो देवस्य धीमहि 
