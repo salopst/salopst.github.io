@@ -1,16 +1,23 @@
 ---
 author: admin
+origin: wordpress
 comments: true
-date: 2015-07-27 10:19:46+00:00
+date: 2015-07-27T10:19:46+00:00
+lastMod: 2021-09-21T02:22:00+01:00
 layout: post
+draft: false
 slug: ffmpeg-transcode-iphone-videos-to-mp4
 title: FFMPEG transcode iPhone videos to mp4
 wordpress_id: 984
 categories:
-- tech
+- Tech
+- Apple
+tags:
+- phone
+- media
 ---
 
-Assuming one has [homebrew](http://brew.sh/) installed:
+## Assuming one has [homebrew](http://brew.sh/) installed:
 
 ```bash
 $ brew update && brew upgrade

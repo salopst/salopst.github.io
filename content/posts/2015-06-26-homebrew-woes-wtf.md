@@ -1,24 +1,28 @@
 ---
 author: admin
+origin: wordpress
 comments: true
-date: 2015-06-26 13:26:53+00:00
+date: 2015-06-26T13:26:53+00:00
+lastMod: 2021-09-21T02:22:00+01:00
 layout: post
+draft: false
 slug: homebrew-woes-wtf
 title: homebrew woes. WTF?
 wordpress_id: 894
 categories:
-- tech
+- Tech
 tags:
-- homebrew
+- Homebrew
 - sysdamin
 ---
 
+```bash
 sudo chown -R $(whoami):admin /usr/local/lib/node_modules
 sudo chown -R $(whoami):admin $(brew --prefix)
 ==========
 
 brew update
--- fails with "error: Your local changes to the following files would be overwritten by merge:"
+# ==> fails with "error: Your local changes to the following files would be overwritten by merge:"
 cd $(brew --prefix)
 brew cleanup --force
 brew untap homebrew/dupes
@@ -31,7 +35,7 @@ rm -rf "$(brew --cache)"
 brew tap phinze/cask
 brew tap caskroom/cask
 brew tap homebrew/dupes
-==> Tapping homebrew/dupes
+# ==> Tapping homebrew/dupes
 Cloning into '/usr/local/Library/Taps/homebrew/homebrew-dupes'...
 remote: Counting objects: 40, done.
 remote: Compressing objects: 100% (40/40), done.
@@ -48,8 +52,13 @@ git reset --hard origin/master
 git status
 >>On branch master
 >>nothing to commit, working directory clean
+```
+-----
+-----
+-----
 
-`❯ brew --config
+```bash
+brew --config
 HOMEBREW_VERSION: 0.9.5
 ORIGIN: https://github.com/Homebrew/homebrew
 HEAD: 1024bbbc56971eac629863216a0d190811192561
@@ -67,8 +76,14 @@ Perl: /usr/bin/perl
 Python: /usr/bin/python
 Ruby: /usr/bin/ruby
 Java: 1.6.0_65
-`
-`❯ brew --env
+```
+
+-----
+-----
+-----
+
+```bash
+brew --env
 HOMEBREW_CC: clang
 HOMEBREW_CXX: clang++
 MAKEFLAGS: -j8
@@ -78,9 +93,14 @@ CMAKE_LIBRARY_PATH: /System/Library/Frameworks/OpenGL.framework/Versions/Current
 PKG_CONFIG_LIBDIR: /usr/lib/pkgconfig:/usr/local/Library/ENV/pkgconfig/10.10
 ACLOCAL_PATH: /usr/local/share/aclocal
 PATH: /usr/local/Library/ENV/4.3:/usr/bin:/bin:/usr/sbin:/sbin
-`
+```
 
-`❯ brew list
+-----
+-----
+-----
+
+```bash
+brew list
 ack		    	freetype		libtiff			pkg-config
 aften			fribidi			libtool			qt
 autoconf		gdbm			libvorbis		rbenv
@@ -101,15 +121,16 @@ faac			libgpg-error	openssh			zsh
 faad2			libksba			openssl
 fish			libogg			pandoc
 fontconfig		libpng			pcre
-`
-as of a [clean install](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/FAQ.md#how-do-i-uninstall-homebrew) (script now @ ~/uninstall-brew.rb):
+```
 
+### As of a [clean install](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/FAQ.md#how-do-i-uninstall-homebrew) (script now @ ``~/uninstall-brew.rb`):
 
-`❯ brew list
+```bash
+brew list
 antigen		gdbm		libtiff		macvim		tokyo-cabinet
 cask		imagemagick	libtool		node		urlview
 chruby		jpeg		libvorbis	openssl		whereami
 cscope		lame		little-cms	pcre		xz
 emacs		libogg		little-cms2	pkg-config	zsh
 freetype	libpng		lua		    rbenv
-`
+```

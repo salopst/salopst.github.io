@@ -32,9 +32,9 @@ How or why this happened I know not. Easy peasy to fix with npm, right?
 pure-prompt@1.1.0 node_modules/pure-prompt
 ```
 
-No problem. As the doco reads 
+No problem. As the doco reads
 
-> Symlink `pure.zsh` to somewhere in `$fpath` with the name `prompt_pure_setup`. 
+> Symlink `pure.zsh` to somewhere in `$fpath` with the name `prompt_pure_setup`.
 > Symlink `async.zsh` in `$fpath` with the name a`sync`.
 
 ```bash
@@ -72,7 +72,7 @@ Install a couple of extra bundles whilst I am at it:
 
 with the head of my .zshrc reading:
 
-```bash
+```text
 fpath=( "$HOME/.zfunctions" $fpath )
 # antigen-- kinda a vundle/vim for zsh
 source ~/antigen.zsh
@@ -94,6 +94,6 @@ For "backup" I've
 
 ### And now we are back to prompt loveliness.
 
-![Screen Shot 2015-07-01 at 07.14.35](/wp-uploads/Screen-Shot-2015-07-01-at-07.14.35.png)
+{{< image src="/wp-uploads/Screen-Shot-2015-07-01-at-07.14.35.png" alt="Command prompt lovliness" position="center" style="border-radius: 50px;" >}}
 
-Coloration of the prompt: [http://stephen.yearl.us/terminal-colors/](http://stephen.yearl.us/terminal-colors/)
+### Coloration of the prompt: [http://stephen.yearl.us/terminal-colors/](http://stephen.yearl.us/terminal-colors/)

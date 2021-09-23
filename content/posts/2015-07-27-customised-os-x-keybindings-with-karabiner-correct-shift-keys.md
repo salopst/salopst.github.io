@@ -1,22 +1,27 @@
 ---
 author: admin
+origin: wordpress
 comments: true
-date: 2015-07-27 05:59:42+00:00
+date: 2015-07-27T05:59:42+00:00
+lastMod: 2021-09-21T02:22:00+01:00
 layout: post
+draft: false
 slug: customised-os-x-keybindings-with-karabiner-correct-shift-keys
 title: Customised OS X Keybindings…. with Karabiner.... 'correct' shift keys
 wordpress_id: 978
 categories:
-- tech
+- Tech
+- Apple
 tags:
 - keybinding
+- OS X
 ---
 
 Like this fellow, [Steve Losh --  better shifting](http://stevelosh.com/blog/2012/10/a-modern-space-cadet/#better-shifting), I've been using the wrong shift keys for upper-case letters for as long as I've been using a keyboard... as well as some even more egregious errors (right ring finger for 'p', right index for 'b'... the list is nigh endless). Lo, his Karabiner solution:
 
 **Arghh!..... It  has only been a couple of hours and this is devilishly frustrating!!**
 
-[cc lang="xml"]
+```xml
 
     Use the correct shift keys.
     private.correct_shift_keys
@@ -51,4 +56,4 @@ Like this fellow, [Steve Losh --  better shifting](http://stevelosh.com/blog/201
     --KeyToKey-- KeyCode::COMMA, ModifierFlag::SHIFT_R, KeyCode::VK_NONE
     --KeyToKey-- KeyCode::DOT,   ModifierFlag::SHIFT_R, KeyCode::VK_NONE
     --KeyToKey-- KeyCode::QUOTE, ModifierFlag::SHIFT_R, KeyCode::VK_NONE
-[/cc]
+```
