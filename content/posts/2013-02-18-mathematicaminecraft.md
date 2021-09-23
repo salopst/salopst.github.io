@@ -5,7 +5,7 @@ comments: true
 date: 2013-02-18T17:28:22+00:00
 lastMod: 2021-09-21T02:22:00+01:00
 layout: post
-slug: mathematicaminecraft
+slug: mathematica-minecraft
 title: Mathematica/Minecraft
 wordpress_id: 58
 categories:

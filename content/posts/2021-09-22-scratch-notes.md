@@ -193,6 +193,20 @@ export default function getBody(url, callback) {
 **epicaricacy** -- schadenfreude From Ancient Greek ἐπιχαιρεκακία (epikhairekakía, “joy upon evil”).
 IPA(key): /ˌɛpɪˈkæɹɪkəsi/
 
+## Rando language jokes
+[https://www.reddit.com/r/linguistics/comments/ptasv1/phrases_in_one_language_that_sound_dirty_in/](https://www.reddit.com/r/linguistics/comments/ptasv1/phrases_in_one_language_that_sound_dirty_in/)
+- Do you want to learn Spanish?
+- Just spell S-O-C-K-S... "Eso sí que es"
+- It is what it is
+
+French: ouate de phoque -- cotton wool of a seal or the stuffing from a seal plush doll, it really is a nonsense phrase, but it sounds like the English "What the fuck", fast forward and know 'ouate de phoque' can be used as a humorous interjection, with the meaning of what the hell.
+
+Esperanto "Homo longe penis farti bone" means "A person tried to be well/alright for a long time".
+
+
+
+
+
 ## Glorious!
 PBKS vs RR (2021-09-21)
 

@@ -88,8 +88,9 @@ antigen bundle git
 For "backup" I've
 
 ```bash
-❯ ln -sf ~/.antigen/repos/https-COLON--SLASH--SLASH-github.com-SLASH-sindresorhus-SLASH-pure.git/async.zsh ~/.zfunctions/prompt_pure_setup
-❯ ln -sf ln -sf ~/.antigen/repos/https-COLON--SLASH--SLASH-github.com-SLASH-sindresorhus-SLASH-pure.git/async.zsh ~/.zfunctions/prompt_pure_setup
+ln -sf ~/.antigen/repos/https-COLON--SLASH--SLASH-github.com-SLASH-sindresorhus-SLASH-pure.git/async.zsh ~/.zfunctions/prompt_pure_setup
+
+ln -sf ln -sf ~/.antigen/repos/https-COLON--SLASH--SLASH-github.com-SLASH-sindresorhus-SLASH-pure.git/async.zsh ~/.zfunctions/prompt_pure_setup
 ```
 
 ### And now we are back to prompt loveliness.
