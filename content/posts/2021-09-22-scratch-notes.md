@@ -41,6 +41,12 @@ echo \
   $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
 
 sudo apt-get update && sudo apt-get install docker-ce docker-ce-cli containerd.io
+
+# Establish usergroup and reboot
+sudo groupadd docker
+sudo usermod -aG docker ${USER}
+sudo reboot
+sudo systemctl restart docker
 ```
 
 Now we can go play with something interesting. Like, for example, good, olde emayle using [Postal](https://docs.postalserver.io/)
@@ -49,8 +55,57 @@ Now we can go play with something interesting. Like, for example, good, olde ema
 >
 > [https://docs.postalserver.io/](https://docs.postalserver.io/)
 
-## Hugo Forms and reCAPTCHAs
+## Simplest possible Docker container?
 
+With a `Dockerfile` containing
+
+```docker
+FROM busybox:latest
+CMD ["ls"]
+```
+
+And running
+
+```bash
+~/code/containers
+docker build -it busybox:latest .
+docker run busybox:latest
+```
+
+We have an interactive minimal install of busybox, a VERY slim kinda-Linux.
+
+
+
+## Basic Docker commands
+
+- List images.
+`docker image ls`
+
+- Delete an image.
+`docker image rm [image name]`
+
+- Delete all existing images.
+`docker image rm $(docker images -a -q)`
+
+- List all existing containers (running and not running).
+`docker ps -a`
+
+- Stop a container.
+`docker stop [container name]`
+
+- Stop all running containers.
+`docker stop $(docker ps -a -q)`
+
+- Delete a stopped container.
+`docker rm [container name]`
+
+- Delete all stopped containers.
+`docker rm $(docker ps -a -q)`
+
+- Display logs of a container.
+`docker logs [container name]`
+
+## Hugo Forms and reCAPTCHAs
 Grabbed two keys from https://www.google.com/recaptcha/admin/site/478495144/settings and added them to a `yearlus.env` (`.gitignore`d, obviously) file in the root of this site as `yearlus.g-recaptcha.data-sitekey` and `yearlus.g-recaptcha.data-secretkey`.
 
 {{/* getenv "yearlus.testenv" */}}

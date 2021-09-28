@@ -1,7 +1,8 @@
 ---
 author: admin
+origin: wordpress
 comments: true
-date: 2014-08-28 08:44:57+00:00
+date: 2014-08-28T08:44:57+00:00
 layout: post
 slug: koine-greekword-of-the-day
 title: 'Koinē Greek : word of the day'
