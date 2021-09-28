@@ -1,6 +1,6 @@
 ---
 title: "Installing Emacs 28.0.50 from source on Ubuntu 21.04"
-slug: installing-emacs-28-0.50-from-source-on-Ubuntu-21-04
+slug: installing-emacs-28-0-50-from-source-on-Ubuntu-21-04
 date: 2021-09-28T05:30:00+01:00
 layout: post
 author: yearluk
@@ -25,10 +25,26 @@ set -euxo pipefail
 cd $HOME/src
 git --depth=1 clone git://git.savannah.gnu.org/emacs.git
 cd emacs
-sudo apt install libpng-dev librsvg2-dev libtiff-dev libxaw7-dev libxft-dev libxml2-dev libxpm-dev libz-dev libjansson-dev make ncurses-term texinfo ttf-ancient-fonts
+
+sudo apt install libpng-dev librsvg2-dev libgccjit-dev libgcc-10-dev libtiff-dev libxaw7-dev libxft-dev libxml2-dev libxpm-dev libz-dev libjansson-dev make ncurses-term texinfo ttf-ancient-fonts
+
 ./autogen.sh
-./configure --with-gnutls=ifavailable
-make check && sudo make install
+
+./configure \
+--with-native-compilation  \
+--with-gnutls=ifavailable \
+--with-json \
+--with-jpeg \
+--with-png \
+--with-rsvg \
+--with-tiff \
+--with-wide-int \
+--with-xft \
+--with-xml2 \
+--with-xpm
+
+make bootstrap
+sudo make install
 emacs --version
 #==> GNU Emacs 28.0.50
 ```
