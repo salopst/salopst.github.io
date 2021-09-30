@@ -19,7 +19,7 @@ tags:
 - food
 ---
 
-Well it does not get any simpler than this, well maybe the [granola](http://mary.yearl.us/gluten-free-granola/) is, but it is yet another example of a face-plant. Almost every trip to the supermarket in the UK led to the purchase of several boxes of oatcakes. Why? Why did we not think of making these before? Again the impetus has been going gluten-free since, as you might have guessed, the majority of easily/commercially available oatcakes have wheat flour in them.
+Well it does not get any simpler than this, well maybe the [granola](http://stephen.yearl.us/gluten-free-granola/) is, but it is yet another example of a face-plant. Almost every trip to the supermarket in the UK led to the purchase of several boxes of oatcakes. Why? Why did we not think of making these before? Again the impetus has been going gluten-free since, as you might have guessed, the majority of easily/commercially available oatcakes have wheat flour in them.
 
 ## Ingredients
 - 225g gluten-free oats

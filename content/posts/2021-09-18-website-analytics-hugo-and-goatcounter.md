@@ -26,7 +26,7 @@ tags:
 
 So, the Googles are everywhere. Their website analytics have been free to use for some time-- almost as long as I can remember-- and they are, frankly pretty amazing. But surely, surely there is something that grates less on the conscience?
 
-Why yes! [Goatcounter](https://countcounter.com) is Free, Libre Open-Source Software (you do FLOSS, right?) that attempts pretty much the same kind of analytics. It's a lightweight, privacy-conscious website analytics platform, free of cookies and all that intrusive jazz.
+Why yes! [Goatcounter](https://goatcounter.com) is Free, Libre Open-Source Software (you do FLOSS, right?) that attempts pretty much the same kind of analytics. It's a lightweight, privacy-conscious website analytics platform, free of cookies and all that intrusive jazz.
 
 It provides simple user tallys of site vistors without all the bells and whistles and unnecessary features of Google Analytics, and without the use of cookies or intrusive trackers.
 

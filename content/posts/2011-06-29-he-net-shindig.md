@@ -26,7 +26,7 @@ tags:
 
 So, these are the only few pics I took of the shindig aboard the [🇺🇸 USS Hornet](https://en.wikipedia.org/wiki/USS_Hornet_(CV-8)) last night. Plenty of others of the Hornet and us on it, and I'm sure there will be plenty in teh days to come, but these are the very few taken during the event itself. 
 
-**2012-03-04 update:** 74111101's journal for the trip has been transcribed @ [http://mary.yearl.us/visiting-the-uss-hornet-junejuly-2011/](http://mary.yearl.us/visiting-the-uss-hornet-junejuly-2011/)
+**2012-03-04 update:** 74111101's journal for the trip has been transcribed @ [http://mary.yearl.us/visiting-the-uss-hornet-junejuly-2011/](http://stephen.yearl.us/visiting-the-uss-hornet-junejuly-2011/)
 
 
 ![](/wp-uploads/img_2864-jpg-scaled1000.jpg)

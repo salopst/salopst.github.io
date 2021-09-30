@@ -208,8 +208,8 @@ perhaps use (why is this code block not visible:)
   caption="the figure caption"
   align="aligncenter"
   width="300"  
-  attr="attribution: thanks, mom!"
-  attrlink="https://mymom.com"
+  attr="attribution: thanks, Kittens!"
+  attrlink="http://www.kittens.com/"
   >}}
 ```
 
@@ -219,8 +219,8 @@ perhaps use (why is this code block not visible:)
   caption="the figure caption"
   align="aligncenter"
   width="300"  
-  attr="attribution: thanks, mom!"
-  attrlink="https://mymom.com"
+  attr="attribution: thanks, Kittens!"
+  attrlink="http://www.kittens.com/"
   >}}
 
 ```bash

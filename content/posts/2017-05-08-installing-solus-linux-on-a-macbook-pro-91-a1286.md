@@ -17,7 +17,7 @@ tags:
 - Solus
 ---
 
-I've been sunning[*] [Solus](https://solus-project.com) as guest in a Parallels virtual machine on a macOS Sierra 10.12.4 host for a couple of months now, and I am delighted and impressed, so impressed I ~~bought the company~~[**] wanted to install this on Apple iron. Solus installed beautifully on an 2010 Lenovo X201 and on a new and cheap and plastically Dell Inspiron 14-3452, so it should have no probs installing on a mid-2012, 15.4" Hi-Res MBP. Right? Right? Wrong!
+I've been sunning[*] [Solus](https://getsol.us) as guest in a Parallels virtual machine on a macOS Sierra 10.12.4 host for a couple of months now, and I am delighted and impressed, so impressed I ~~bought the company~~[**] wanted to install this on Apple iron. Solus installed beautifully on an 2010 Lenovo X201 and on a new and cheap and plastically Dell Inspiron 14-3452, so it should have no probs installing on a mid-2012, 15.4" Hi-Res MBP. Right? Right? Wrong!
 
 [*] s/sunning/running/ but gonna let that stand because, as typos go, this is pretty funny
 [**] Showing my age... [thanks Victor Kiam!](https://www.youtube.com/watch?v=qf22bddvLnc)
@@ -44,7 +44,7 @@ System Integrity Protection status: disabled.
 -----
 -----
 
-**#01** Grab the 2017-04-18 ISO torrent from [https://solus-project.com/download/](https://solus-project.com/download/)
+**#01** Grab the 2017-04-18 ISO torrent from [https://solus-project.com/download/](https://getsol.us/download/)
 
 **#02** Burn to a 16GB shiny-new USB thumdrive using [etcher](https://etcher.io/).
 

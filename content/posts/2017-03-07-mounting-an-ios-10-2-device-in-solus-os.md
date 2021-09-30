@@ -28,7 +28,7 @@ I feel that after ten years I can no longer countenance the purchase of a new Ap
 
 - [Linux Mint 18.1](https://linuxmint.com/rel_serena_cinnamon_whatsnew.php)
 
-- [Solus OS](https://solus-project.com/)
+- [Solus OS](https://getsol.us/)
 
 - [True OS](https://www.trueos.org/)
 
