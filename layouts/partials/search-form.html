@@ -1,0 +1,18 @@
+<div class="search-box">
+  <form id="search"
+  action='{{ with .GetPage "/search" }}{{.Permalink}}{{end}}' 
+  method="get">
+  <label hidden for="search-input">Search...</label>
+  <input type="text" 
+    id="search-input" 
+    name="query"
+    placeholder="Search...">
+  <input type="submit" value="search">
+  <i class="fas fa-search"></i>
+</form>
+</div>
+
+<style>
+
+
+</style>

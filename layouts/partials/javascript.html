@@ -13,6 +13,10 @@
     {{ template "partials/goatcounter.html" . }}
 {{- end}}
 
+{{- if .Site.Params.g_recaptcha_data_sitekey }}
+    {{ template "partials/g-recaptcha-js.html" . }}
+{{- end}}
+
 {{ range $val := $.Site.Params.customJS }}
     {{ if gt (len $val) 0 }}
         <script src="{{ $val }}"></script><!-- does not work on localhost-->
@@ -21,7 +25,7 @@
 {{ end }}
 
 <!-- fontawesome.js-->
-<script defer src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/js/all.min.js"></script> 
+<script defer src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/js/all.min.js"></script>
 
 <!--flowchart.js-->
 <script defer  type="text/javascript"  crossorigin="anonymous"
@@ -34,12 +38,11 @@
 
 <!-- The loading of KaTeX is deferred to speed up page rendering -->
 <script defer type="text/javascript"  crossorigin="anonymous"
-    src="https://cdn.jsdelivr.net/npm/katex@0.13.18/dist/katex.min.js" 
+    src="https://cdn.jsdelivr.net/npm/katex@0.13.18/dist/katex.min.js"
     integrity="sha384-GxNFqL3r9uRJQhR+47eDxuPoNE7yLftQM8LcxzgS4HT73tp970WS/wV5p8UzCOmb"></script>
 
 <!-- To automatically render math in text elements, include the auto-render extension: -->
 <script defer  type="text/javascript"  crossorigin="anonymous"
-    src="https://cdn.jsdelivr.net/npm/katex@0.13.18/dist/contrib/auto-render.min.js" 
+    src="https://cdn.jsdelivr.net/npm/katex@0.13.18/dist/contrib/auto-render.min.js"
     integrity="sha384-vZTG03m+2yp6N6BNi5iM4rW4oIwk5DfcNdFfxkk9ZWpDriOkXX8voJBFrAO7MpVl"
     onload="renderMathInElement(document.body);"></script>
-
