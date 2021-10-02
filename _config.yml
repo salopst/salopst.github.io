@@ -1,3 +1,5 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman # for gem-based themes
+theme: 
+remote_theme: # for themes hosted on GitHub, when used with GitHub Pages
 title: I don't need 37 pieces of flair...
 description: Is this the bare minimum I can get away with to avoid errors?
