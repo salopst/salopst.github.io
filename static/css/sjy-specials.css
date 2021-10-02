@@ -1,34 +1,70 @@
+:root{
+  /* Polar Night is made up of four darker colors that are commonly used for base elements like backgrounds or text color in bright ambiance designs.
+  */
+  --nord-polar-night-0: #2e3440;
+  --nord-polar-night-1: #3b4252;
+  --nord-polar-night-2: #434c5e;
+  --nord-polar-night-3: #4c566a;
+  /* Snow Storm is made up of three bright colors that are commonly used for text colors or base UI elements in bright ambiance designs. */
+  --nord-snow-storm-4: #e5e9f0;
+  --nord-snow-storm-5: #d8dee9;
+  --nord-snow-storm-6: #eceff4;
+  /* Frost can be described as the heart palette of Nord, a group of four bluish colors that are commonly used for primary UI component and text highlighting and essential code syntax elements.  */
+  --nord-frost-7: #8fbcbb;
+  --nord-frost-8: #88c0d0;
+  --nord-frost-9: #81a1c1;
+  --nord-frost-10: #5e81ac;
+  /* Aurora consists of five colorful components reminiscent of the „Aurora borealis“, sometimes referred to as polar lights or northern lights. */
+  --nord-aurora-11: #bf616a;
+  --nord-aurora-12: #d08770;
+  --nord-aurora-13: #ebcb8b;
+  --nord-aurora-14: #a3be8c;
+  --nord-aurora-15: #b48ead;
+}
 
-
-[data-lang~=devnag]{
+[data-lang~=devanagri]{
   text-align: center;
   font-size: 300% !important;
-  border: 2px solid  #B48EAD;
+  border: 2px solid var(--nord-aurora-15);
+}
+
+[data-lang~=poetry]{
+  text-align: center;
+  font-size: 150% !important;
+  border: 2px solid var(--nord-aurora-14);
 }
 
 .pre .code[class~="poetry"]{
   text-align: center;
   font-size: 150% !important;
-  border: 2px solid #A3BE8C;
+  border: 2px solid var(--nord-aurora-11);
 }
 
 .pre .code [class*="poetry"]{
   text-align: center;
   font-size: 150% !important;
-  border: 2px solid #ffd52d;
+  border: 2px solid var(--nord-aurora-13);
 }
 
 .pre .code [class*=poetry]{
   text-align: center;
   font-size: 150% !important;
-  border: 2px solid #ffd52d;
+  border: 2px solid var(--nord-aurora-13);
 }
 
 [data-lang~=lyrics]{
   text-align: center;
   font-size: 150% !important;
-  color: #88c0d0;
+  border: 2px solid var(--nord-frost-8);
 }
+
+.error{
+  background: orangered;
+  color: silver;
+  padding: 5px;
+  margin: 5px;
+}
+
 
 a.footnote-ref::before {
   content: '[';
@@ -45,50 +81,6 @@ iframe{
   border   : 0;
   overflow : hidden;
 }
-
-.box{
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%,-50%);
-}
-.input {
-  padding: 10px;
-  width: 80px;
-  height: 80px;
-  background: none;
-  border: 4px solid #ffd52d;
-  border-radius: 50px;
-  box-sizing: border-box;
-  font-family: Comic Sans MS;
-  font-size: 26px;
-  color: #ffd52d;
-  outline: none;
-  transition: .5s;
-}
-.box:hover input{
-  width: 350px;
-  background: #272133;
-  border-radius: 10px;
-}
-i{
-  position: absolute;
-  top: 50%;
-  right: 15px;
-  transform: translate(-50%,-50%);
-  font-size: 26px;
-  color: #ffd52d;
-  transition: .2s;
-}
-.box:hover i{
-  opacity: 0;
-  z-index: -1;
-}
-
-
-
-
-
 
 /* includes alternating gray and white with on-hover color */
 
