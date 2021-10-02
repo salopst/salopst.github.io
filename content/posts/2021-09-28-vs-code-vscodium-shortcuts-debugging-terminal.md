@@ -11,14 +11,14 @@ noLicense: false
 weight: 1001
 images: null
 categories:
-  - Tech
+- Tech
 tags:
-  - editors
-  - vscode
-  - terminal
-  - ubuntu
-  - zsh
-  - fonts
+- editors
+- vscode
+- terminal
+- ubuntu
+- zsh
+- fonts
 ---
 
 After going ahead and updating Emacs, I thought I'd try the thing that all the kids are talking about-- VS Code. Or, if you are anything like me and remember the hoary days of the Browser Wars, [**VSCodium**](https://vscodium.com/), the telemtry-disabled version of the editor.
@@ -55,11 +55,16 @@ This video I found to be a very good introduction to VS Code, although it is may
 
 [Visual Studio Crash Course--YT](https://www.youtube.com/watch?v=WPqXP_kLzpo&t=783s)
 
-Below are are of selction of commonly used shortcuts, snagged from the first twenty minutes ot so, and some individual poking around.
+Below are are of selction of commonly used shortcuts, snagged from the first twenty minutes ot so, and some individual poking around. Obviously it mostly uses [CUA](https://en.wikipedia.org/wiki/IBM_Common_User_Access) for editing, like (CTRL+C for copy) with additons nicked from the Textmate/Sublime era (CTRL+/ for toggle comments). I am tempted, as always, to Emacsify some of these bindings, but honestly, one always looks like a complete idiot when you don't find your usual bindings/shortcuts when on someone else's machine.
+
+Anyhoo, in no real order...
+
+### General / editor
 
 - `ctrl+shift+p` ==> from here can search for *any* command ... eg. "toggle mini map", install extensions, whatever.
 
 - `Ctrl+Shift+Tab` ==> switch between tabs does not interfer my my app/workspace swithcing bindings in GNOME
+
 - `Ctrl+P` ==> something similar... file Picker
 
 - `ctrl+B` ==> toggle side-bar
@@ -69,12 +74,17 @@ Below are are of selction of commonly used shortcuts, snagged from the first twe
 
 - `alt+Z` ==> toggle word-wrap
 - `Ctrl+/` ==> toggle comments
+- `Ctrl+Shift+A` ==> Toggle block comment
+- `Ctrl+] / Ctrl+[` ==> Indent/Outdent line/selection
 
-- in HTML mode type #foo-TAB get `<div id="foo"></div>`
+- `Ctrl+Shift+K` ==> Delete line, but might just as well use `Ctrl+X` without selection
+
+- Emmet, in HTML mode, type #foo-TAB get `<div id="foo"></div>`
 - Emmet, built in extension for HTML, will expand `!` on TAB to create a basic HTML5 skeleton.
 
 - "live server" extension for live preview of HTML-related projects
-- list extesntions, ready to import into a new system: `code --list-extensions | xargs -L 1 echo code --install-extension`
+
+- list extensions, ready to import into a new system: `vscodium --list-extensions | xargs -L 1 echo vscodium  --install-extension`
 
 ### Moving around text
 - `(Shift+)Home` / `(Shift+)End` ==> (select to) begining / end of line

@@ -4,7 +4,10 @@
 
 
 # rando copies of files
-*(* 
+*(*
+
+# api keys and secrets
+*.env
 
 *lock.json
 
@@ -17,6 +20,7 @@
 
 /pietra-static
 2021-08-30-cap01.html
+
 
 *.m4a
 *.epub
