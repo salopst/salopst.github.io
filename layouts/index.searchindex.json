@@ -6,6 +6,7 @@
     {{- $entry = merge $entry (dict "description" $page.Description) -}}
     {{- $entry = merge $entry (dict "categories" $page.Params.categories) -}}
     {{- $entry = merge $entry (dict "tags" $page.Params.tags) -}}
+    {{- $entry = merge $entry (dict "date" $page.Params.date) -}}
     {{- $entry | jsonify -}}
   {{- end -}}
 ]
