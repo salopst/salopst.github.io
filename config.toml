@@ -122,10 +122,9 @@ posts = ":slug/"
   disableReadOtherPosts = false
 
   # Integrate Javascript files or stylesheets by adding the url to the external assets or by
-  # linking local files with their path relative to the static folder, e.g. "css/styles.css"
+  # linking local files with their path relative to the static folder, e.g. "/css/styles.css"
   customCSS = ["css/sjy-specials.css"]
-  customCSS = ["css/gist.css"]
-  customJS  = ["js/mermaid.js"]
+  #customJS  = ["/js/mermaid.js"]
 
   # Toggle this option need to rebuild SCSS, requires extended version of Hugo
   justifyContent = false  # Set "text-align: justify" to .content.
@@ -133,16 +132,17 @@ posts = ":slug/"
   # Default theme "light" or "dark"
   defaultTheme = "dark"
   # themeColor = "#252627" # the theme default
-    themeColor = "#223835" # that from olde wordpresse
+  #  themeColor = "#223835" # that from olde wordpresse
+    themeColor = "#2e3440" # Nord Polar Night 1
 
   # Colors for favicons
   [params.favicon.color]
   #  mask = "#252627"
   #  msapplication = "#252627"
   #  theme = "#252627"
-    mask = "#223835"
-    msapplication = "#223835"
-    theme = "#223835"
+    mask = "#2e3440"
+    msapplication = "#2e3440"
+    theme = "#2e3440"
 
   [params.logo]
     logoText     = " ~"
@@ -228,7 +228,7 @@ disableKinds = [ "taxonomy", "term" ]
 [outputFormats.SearchIndex]
     mediaType = "application/json"
     baseName = "search"
-    isPlainText = true
+    isPlainText = false
 
 
 [outputs]
@@ -239,4 +239,4 @@ page = ["HTML"]
 
 [params.search]
 search = true
-search_minify = false
+search_minify = true
