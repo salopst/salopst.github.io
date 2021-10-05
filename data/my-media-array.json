@@ -1,0 +1,114 @@
+{"media":[
+{
+    "title": "Listen to your heart",
+    "band": "Little River Band",
+    "album": "The Karate Kid, Part III: Original Motion Picture Soundtrack",
+    "released": 1989,
+    "yturl": "https://www.youtube.com/watch?v=RRCXeWV-mEE",
+    "type": "80s"
+  },
+  {
+    "title": "Óró Sé Do Bheatha 'bhaile",
+    "band": "Sinead O'Connor",
+    "album": "Sean-Nós Nua",
+    "released": 2002,
+    "yturl": "https://www.youtube.com/watch?v=4Sje2VYw99A",
+    "type": ["world", "irish", "folk"]
+  },
+  {
+    "title": "Óró Sé Do Bheatha Bhaile",
+    "band": "Seo Linn",
+    "album": "Seachtain na Gaeilge",
+    "released": 2016,
+    "yturl": "https://www.youtube.com/watch?v=bzXswoAUi0U",
+    "type": ["world", "irish", "folk"]
+  },  
+{
+    "title": "Singularity",
+    "band": "New World Order",
+    "album": "Singularity",
+    "released": null,
+    "yturl": "https://www.youtube.com/watch?v=kl_kyhwCDtY&lc",
+    "type": "jpop"
+  },
+{
+    "title": "Butterfly",
+    "band": "Miyavi",
+    "album": "No Sleep Till Tokyo",
+    "released": 2019,
+    "yturl": "https://www.youtube.com/watch?v=c-DvcYWe9dU",
+    "type": "jpop"
+  },
+{
+    "title": "Have a nice day",
+    "band": "New World Order",
+    "album": null,
+    "released": null,
+    "yturl": "https://www.youtube.com/watch?v=_mkiGMtbrPM",
+    "type": "jpop"
+  },
+{
+    "title": "Gypsy love",
+    "band": "Light in Babylon",
+    "album": null,
+    "released": null,
+    "yturl": "https://www.youtube.com/watch?v=1GMFE1qriAE",
+    "type": "world"
+  },
+  {
+    "title": "Hinech Yafa",
+    "band": "Light in Babylon",
+    "album": null,
+    "released": null,
+    "yturl": "https://www.youtube.com/watch?v=aKJvbTEnp0I",
+    "type": "world"
+  },
+{
+    "title": "Tamacun",
+    "band": "Rodrigo y Gabriela",
+    "album": null,
+    "released": null,
+    "yturl": "https://www.youtube.com/watch?v=l-qgum7hFXk",
+    "type": ["world", "mexico", "flamenco"]
+  },
+  {
+  "title": "The Song of the Golden Dragon",
+  "band": "Estas Tonne",
+  "album": "Live. Buskers Festival Stadtspektakel in Landshut",
+  "released": 2011,
+  "yturl": "https://www.youtube.com/watch?v=7gphiFVVtUI",
+  "type": ["world", "flamenco"]
+},
+{
+    "title": "Atemlos durch die Nacht",
+    "band": "Helene Fischer",
+    "album": null,
+    "released": null,
+    "yturl": "https://www.youtube.com/watch?v=haECT-SerHk",
+    "type": ["german", "pop", "language-learning"]
+  },
+  {
+    "title": "Voglio andare a vivere in campagna",
+    "band": "Tototo Cotugno",
+    "album": "Voglio andare a vivere in campagna",
+    "released": 1995,
+    "yturl": "https://www.youtube.com/watch?v=pLFc6X1xyBA",
+    "type": ["italian", "pop", "language-learning"]
+  },
+  {
+    "title": "Young Ned of the hill",
+    "band": "The Pogues",
+    "album": "Peace and Love",
+    "released": 1989,
+    "yturl": "https://www.youtube.com/watch?v=AHXHJfcV7Ek",
+    "type": ["irish", "rock", "rousing"]
+  },
+  {
+    "title": "Business Time",
+    "band": "Flight of the Conchords",
+    "album": null,
+    "released": null,
+    "yturl": "https://www.youtube.com/watch?v=WGOohBytKTU",
+    "type": ["humour", "parody"]
+  }
+]}
