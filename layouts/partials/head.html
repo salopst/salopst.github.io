@@ -29,12 +29,13 @@
 
 {{ range $val := $.Site.Params.customCSS }}
     {{ if gt (len $val) 0 }}
-        <link id="32" rel="stylesheet" type="text/css" href="{{ $val }}"><!-- does not work on localhost-->
-        <link id="33" rel="stylesheet" type="text/css" href="{{ . | absURL }}">
+        <!-- does not work on localhost
+        <link id="42--$val" rel="stylesheet" type="text/css" href="{{ $val }}"> -->
+        <link id="42--absURL" rel="stylesheet" type="text/css" href="{{ . | absURL }}">
     {{ end }}
 {{ end }}
 
-<!-- JSS 
+<!-- JSS
     is called in the javascript.html
 -->
 
