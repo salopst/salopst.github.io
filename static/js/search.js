@@ -29,7 +29,7 @@ const idx = lunr(function () {
 });
 
 // execute the search and store results with:
-const results = idx.search(query);
+let results = idx.search(query);
 
 /*
 Display results

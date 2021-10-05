@@ -4,7 +4,7 @@ slug: vs-code-vscodium-modifying-emmet-snippets
 author: yearluk
 origin: hugo
 date: 2021-09-30T13:20:32+01:00
-lastMod: 2021-09-30T13:20:32+01:00
+lastMod: 
 draft: true
 toc: false
 noLicense: false
@@ -15,6 +15,7 @@ categories:
 tags:
 - editors
 - vscode
+- vscodium
 - code
 - ubuntu
 - snippets

@@ -248,6 +248,14 @@ export default function getBody(url, callback) {
 **epicaricacy** -- schadenfreude From Ancient Greek ἐπιχαιρεκακία (epikhairekakía, “joy upon evil”).
 IPA(key): /ˌɛpɪˈkæɹɪkəsi/
 
+**ἑκατόμβη** -- From ἑκατόν (hekatón, “hundred”) + βοῦς (boûs, “ox”). Mass animal sacrifice, made famour by Alexander B. Johnson, UK PM.
+
+
+## To read:
+"The Machine Stops" is a science fiction short story (12,300 words) by E. M. Forster. After initial publication in The Oxford and Cambridge Review (November 1909), the story was republished in Forster's The Eternal Moment and Other Stories in 1928.
+
+./content/posts/2021-09-22-scratch-notes.md
+
 ## Rando language jokes
 [https://www.reddit.com/r/linguistics/comments/ptasv1/phrases_in_one_language_that_sound_dirty_in/](https://www.reddit.com/r/linguistics/comments/ptasv1/phrases_in_one_language_that_sound_dirty_in/)
 - Do you want to learn Spanish?
