@@ -30,10 +30,11 @@ description: Voglio zappare la terra e fare la legna... a-ha!
 ### Su Toto Cutugno - Voglio andare a vivere in campagna
 
 <iframe width="560" height="315"
-  src="https://www.youtube.com/watch?v=pLFc6X1xyBA" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+  src="https://www.youtube.com/embed/pLFc6X1xyBA"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>
+
 
 Immaginate un adolescente inglese monolingue di campagna che sta per sostenere alcuni esami di latino prima di andare all'università. Cosa può trovare al mercatino dell'usato a cui i suoi genitori lo hanno trascinato, in una domenica fredda, piovosa e ventosa?
 
