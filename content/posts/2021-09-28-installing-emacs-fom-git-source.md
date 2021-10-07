@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Installing Emacs 28.0.50 from source on Ubuntu 21.04"
 slug: installing-emacs-28-0-50-from-source-on-Ubuntu-21-04
 date: 2021-09-28T05:30:00+01:00
