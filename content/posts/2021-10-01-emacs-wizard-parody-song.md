@@ -14,7 +14,7 @@ categories:
 - Tech
 - Humour
 tags:
--emacs
+- emacs
 - media
 - parody
 - latex
@@ -90,7 +90,8 @@ Never hits the cracks
 That set-mark and bind kid
 Sure strokes a mean Emacs.
 ```
-Found here: https://web.archive.org/web/19970329133553/http://web.shorty.com:80/geeks/96/sep/msg00154.html
+
+Found here: <https://web.archive.org/web/19970329133553/http://web.shorty.com:80/geeks/96/sep/msg00154.html>
 
 -----
 -----
