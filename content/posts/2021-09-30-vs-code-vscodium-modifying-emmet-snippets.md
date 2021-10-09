@@ -4,8 +4,8 @@ slug: vs-code-vscodium-modifying-emmet-snippets
 author: yearluk
 origin: hugo
 date: 2021-09-30T13:20:32+01:00
-lastMod: 
-draft: true
+lastMod:
+draft: false
 toc: false
 noLicense: false
 weight: 1001

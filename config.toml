@@ -116,7 +116,7 @@ posts = ":slug/"
   goatCounter = "yearlus"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
-  # gitUrl = ""
+  gitUrl = "https://github.com/salopst"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -174,7 +174,7 @@ posts = ":slug/"
 
     #[[params.social]]
     #  name = "github"
-    #  url  = "https://github.com/"
+    #  url  = "https://github.com/salopst"
 
     #[[params.social]]
     #  name = "linkedin"
@@ -186,17 +186,17 @@ posts = ":slug/"
 
 [languages]
   [languages.en]
-    subtitle  = "Hello, friendo."
+    #subtitle  = "Hello, friendo."
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
   [languages.fr]
-    subtitle  = "Bonjour, mon ami."
+    #subtitle  = "Bonjour, mon ami."
     weight    = 2
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
 [languages.it]
-    subtitle  = "Ciao, amico!"
+    #subtitle  = "Ciao, amico!"
     weight    = 2
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
@@ -220,6 +220,7 @@ posts = ":slug/"
     name       = "Categories"
     url        = "categories/"
 
+
 ### SIMPLE JS SEARCH
 #
 disableKinds = [ "taxonomy", "term" ]
@@ -230,12 +231,9 @@ disableKinds = [ "taxonomy", "term" ]
     baseName = "search"
     isPlainText = false
 
-
 [outputs]
 home = [ "HTML", "RSS", "JSON", "SearchIndex"]
 page = ["HTML"]
-
-
 
 [params.search]
 search = true
