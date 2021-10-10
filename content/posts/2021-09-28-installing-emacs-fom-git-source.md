@@ -2,6 +2,7 @@
 title: "Installing Emacs 28.0.50 from source on Ubuntu 21.04"
 slug: installing-emacs-28-0-50-from-source-on-Ubuntu-21-04
 date: 2021-09-28T05:30:00+01:00
+lastMod: 2021-10-10T04:48:57+01:00
 layout: post
 author: yearluk
 origin: hugo
@@ -11,7 +12,9 @@ categories:
 - Tech
 tags:
 - editors
-- emacs
+- Emacs
+- compilation
+- Linux
 ---
 
 ## Latest Emacs (28.0.50)
@@ -27,16 +30,17 @@ My previously installed version of 26.3 that is still current with the base inst
 # https://gist.github.com/mohanpedala/1e2ff5661761d3abd0385e8223e16425
 set -euxo pipefail
 cd $HOME/src
-git --depth=1 clone git://git.savannah.gnu.org/emacs.git
+git clone --depth=1 git://git.savannah.gnu.org/emacs.git
 cd emacs
 
-sudo apt install libpng-dev librsvg2-dev libgccjit-dev libgcc-10-dev libtiff-dev libxaw7-dev libxft-dev libxml2-dev libxpm-dev libz-dev libjansson-dev make ncurses-term texinfo ttf-ancient-fonts
+sudo apt install libpng-dev librsvg2-dev libgccjit-dev libgcc-10-dev libgnutls28-dev libtiff-dev libxaw7-dev libxft-dev libxml2-dev libxpm-dev libz-dev libjansson-dev make ncurses-term texinfo ttf-ancient-fonts
 
 ./autogen.sh
 
 ./configure \
 --with-native-compilation  \
 --with-gnutls=ifavailable \
+--with-mailutils \
 --with-json \
 --with-jpeg \
 --with-png \
@@ -47,10 +51,25 @@ sudo apt install libpng-dev librsvg2-dev libgccjit-dev libgcc-10-dev libtiff-dev
 --with-xml2 \
 --with-xpm
 
-make bootstrap
+make bootstrap && sudo make install
 sudo make install
 emacs --version
 #==> GNU Emacs 28.0.50
+```
+
+**UPDATE 2021-10-10** recompiled without `--with-gnutls=ifavailable \` becasue TLS is apparently deprecated. And that led to the following error:
+
+```configure: error: The following required libraries were not found:
+     gnutls
+```
+
+So, put it back in and compile again AFTER getting gnutls:
+
+```bash
+apt-cache search 'libgnutls.*-dev'
+#==> libgnutls28-dev - GNU TLS library - development files
+
+sudo apt install libgnutls28-dev
 ```
 
 And save a `.desktop` file to `$HOME/.local/share/applications`...
