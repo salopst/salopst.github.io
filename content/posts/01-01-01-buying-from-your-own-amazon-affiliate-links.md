@@ -3,10 +3,10 @@ title: "what happens why you buy from your own Amazon Affiliate links?"
 slug: buying-from-your-own-amazon-affiliate-links
 date: 0101-01-001T01:01:01+01:01
 layout: post
+draft: false
 author: yearluk
 origin: hugo
 description: "A little experiementation into advertising and buying products on amazon... AKA buying my own shit."
-draft: false
 categories:
 - Tech
 - Products

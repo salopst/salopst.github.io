@@ -1,6 +1,7 @@
 ---
 title: "Vscodium Shortcuts, Debugging, and the Terminal"
 slug: vs-code-vscodium-shortcuts-debugging-and-the-terminal
+layout: post
 author: yearluk
 origin: hugo
 date: 2021-09-30T09:13:11+01:00
@@ -24,6 +25,7 @@ tags:
 After going ahead and updating Emacs, I thought I'd try the thing that all the kids are talking about-- VS Code. Or, if you are anything like me and remember the hoary days of the Browser Wars, [**VSCodium**](https://vscodium.com/), the telemtry-disabled version of the editor.
 
 ## Debugging
+
 Since the primary objective is to learn some JSessy things, the first I need to be doing is figuring out debugging.
 
 [The New Way To Debug JavaScript in VS Code - No Extension Required -- YT, July 2021](https://www.youtube.com/watch?v=tC91t9OvVHA)
@@ -51,6 +53,7 @@ So, install the "Live server" extension", hit the debug icon, and Vscodium will 
 The default port was **8080**. In the above this is changed to **5500** to match the port of the liveserver.
 
 ## Shortcuts
+
 This video I found to be a very good introduction to VS Code, although it is maybe a little long at just over 90 minutes.
 
 [Visual Studio Crash Course--YT](https://www.youtube.com/watch?v=WPqXP_kLzpo&t=783s)
@@ -87,6 +90,7 @@ Anyhoo, in no real order...
 - list extensions, ready to import into a new system: `vscodium --list-extensions | xargs -L 1 echo vscodium  --install-extension`
 
 ### Moving around text
+
 - `(Shift+)Home` / `(Shift+)End` ==> (select to) begining / end of line
 - `PgUp` / `PgDown` ==> begining / end of file
 - `Ctrl + L/R arrow` ==> move by word
@@ -94,16 +98,16 @@ Anyhoo, in no real order...
 - `Ctrl + X` ==> delete line if line is empty
 - `Ctrl + C` ==> copy line if no selection
 
-
 ### Selections
+
 - `Ctrl + D` ==> slecet the word curpor is on
 - `alt + shift + r/l arrow` ==> expand/ contract selection, eg to line, to block etc.
--  `alt + u/d arrow` ==> moves selection up/down
+- `alt + u/d arrow` ==> moves selection up/down
 - `ctrl+l` ==> select whole line
 - `Ctrl+K P` ==> copy path of the active file
 - `Ctrl+K R` ==> show active file in file manager
 
-` Ctrl+`` ==> launch terminal. This resolves to `$SHELL`. Additional shells and profiles can be managed: https://code.visualstudio.com/docs/editor/integrated-terminal
+` Ctrl+`` ==> launch terminal. This resolves to `$SHELL`. Additional shells and profiles can be managed: <https://code.visualstudio.com/docs/editor/integrated-terminal>
 
 ## Integrated Terminal
 
@@ -134,8 +138,9 @@ It read before the below modifications:
   }
 ```
 
-### To the docoos!
-https://code.visualstudio.com/docs/editor/integrated-terminal
+### To the docoos
+
+<https://code.visualstudio.com/docs/editor/integrated-terminal>
 
 Seems like what I needed to add was the following. Other paths to other `zsh`s may differ.
 

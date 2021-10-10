@@ -16,6 +16,46 @@ tags:
 - notes
 ---
 
+## Installing Hugo from source
+Out of the box, Hugo does not come with support for compiling SASS/SCSS to CSS. This has led to a number of errors highlighted by Chrome's Inspector after my having had modified the SCSS files that came with the thems I am using. So we need to compile these extensions in.
+
+The following command did the trick, and gives me the latest version of Hugo to boot.
+
+This is the current version:
+```bash
+which hugo && hugo version
+/usr/local/bin/hugo
+hugo v0.88.1-5BC54738 linux/386 BuildDate=2021-09-04T09:39:19Z VendorInfo=gohugoio
+```
+
+To update to the latest (with extensions for SASS compilation):
+
+```bash
+sudo apt install golang-go
+cd  ~/src
+git clone https://github.com/gohugoio/hugo.git
+cd hugo
+go build --tags extended
+./hugo version
+#=> hugo v0.89.0-DEV+extended linux/amd64 BuildDate=unknown
+sudo mv /usr/local/bin/hugo /usr/local/bin/hugo-v0.88.1-5BC54738
+sudo cp ./hugo /usr/local/bin/hugo
+```
+
+### 🎲🎲 DICE!!
+Heading back to the local site, we see we are back up and running:
+
+```bash
+cd ~/code/hugo-sites/salopst.gitbhub.io
+
+../salopst.github.io on  main [!?⇡] via  v16.10.0
+ 🧠 13GiB/23GiB avec λ=❯ ...
+  ❯❯  hugo server -DEF --minify --disableFastRender
+Start building sites …
+hugo v0.89.0-DEV+extended linux/amd64 BuildDate=unknown
+```
+
+
 ## Installing Docker on Pop!_OS (Ubuntu 21.04)
 This is as simple as following the steps outlined by the good folks over at Docker:
 [https://docs.docker.com/engine/install/ubuntu/](https://docs.docker.com/engine/install/ubuntu/), essentialy copied below for ease of installation and for reference for Future Me.
@@ -247,6 +287,8 @@ export default function getBody(url, callback) {
 ## Some words
 **epicaricacy** -- schadenfreude From Ancient Greek ἐπιχαιρεκακία (epikhairekakía, “joy upon evil”).
 IPA(key): /ˌɛpɪˈkæɹɪkəsi/
+
+**samfundssind** -- [Danish] Putting the concern of society higher than one's own interests.
 
 **ἑκατόμβη** -- From ἑκατόν (hekatón, “hundred”) + βοῦς (boûs, “ox”). Mass animal sacrifice, made famour by Alexander B. Johnson, UK PM.
 

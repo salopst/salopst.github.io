@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Installing Emacs 28.0.50 from source on Ubuntu 21.04"
 slug: installing-emacs-28-0-50-from-source-on-Ubuntu-21-04
 date: 2021-09-28T05:30:00+01:00
@@ -16,10 +15,10 @@ tags:
 ---
 
 ## Latest Emacs (28.0.50)
+
 There has been much discussion in various Emacs fora about the speed increase brought about by the inclusion of nativecomp, that is the build option `--with-native-compilation`. This essentially means that support has been added for compiling EmacsLisp to native code using `libgccjit`. Now all Elisp packages shipped with Emacs are compiled to native code, providing a noticeable out-of-the-box performance improvement.
 
 My previously installed version of 26.3 that is still current with the base install of Pop!_OS (and that available from the `apt` repositories) does not have this feature.
-
 
 ```bash
 # yearluk

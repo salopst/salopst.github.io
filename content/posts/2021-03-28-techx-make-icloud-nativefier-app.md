@@ -2,7 +2,7 @@
 author: yearluk
 origin: scratch
 title: Make iCloud nativefier app for iCal on Linux
-slug: make icloud nativefier app for ical on linux
+slug: make-icloud-nativefier-app-a-for-ical-on-linux
 date: 2021-02-17T13:00:00+00:00
 draft: false
 noLicense: false
@@ -20,7 +20,7 @@ tags:
  - techx
 ---
 
-### [Nativefier](https://github.com/nativefier/nativefier) 
+### [Nativefier](https://github.com/nativefier/nativefier)
 "...is a command-line tool to easily create a desktop app for any web site with minimal configuration. Apps are wrapped by Electron (which uses Chromium under the hood) in an OS executable (.app, .exe, etc) for use on Windows, macOS and Linux."
 
 'Tis a beautiful app to be sure.
@@ -35,7 +35,7 @@ wget https://i.imgur.com/m0abT4k.png -O icon.png
 nativefier -p linux -a x64 -i icon.png --disable-context-menu --disable-dev-tools --single-instance https://www.icloud.com/
 # App built to /home/yearluk/tmp/icloud-nativefier-build-dir/iCloud-linux-x64
 mv ~/tmp/icloud-nativefier-build-dir/iCloud-linux-x64 ~/bin/
-# add to $XDG_CONFIG_HOME/.shell_aliases.sh ... 
+# add to $XDG_CONFIG_HOME/.shell_aliases.sh ...
 # alias icloud="$HOME/bin/iCloud-linux-x64/iCloud"
 cd ~/bin/iCloud-linux-x64
 # make the desktop file.... put in ~/.local/share/applications ... or /usr/share/applications/
@@ -45,7 +45,7 @@ chmod +x ./icloud.desktop
 
 ## And then make a desktop file:
 
-- create `~/.local/share/applications/yearluk.nativifier.icloud.desktop` :  
+- create `~/.local/share/applications/yearluk.nativifier.icloud.desktop` :
 
 ```text
 [Desktop Entry]
