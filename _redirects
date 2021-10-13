@@ -1,0 +1,2 @@
+/gnu/ https://gnu.org 200
+/fakeapi/* https://jsonplaceholder.typicode.com/:splat 200
