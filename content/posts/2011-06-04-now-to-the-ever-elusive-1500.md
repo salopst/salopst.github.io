@@ -9,13 +9,13 @@ slug: now-to-the-ever-elusive-1500
 title: Now to the ever elusive 1500
 wordpress_id: 94
 categories:
-- networking
-- tech
-- travel
+- Networking
+- Tech
+- Travel
 tags:
-- ipv6
+- IPV6
 - networking
-- england
+- England
 - selfie
 ---
 
@@ -31,4 +31,3 @@ It did not, but it did just in time for my England trip with the Samster...
 
 {{< image src="/wp-uploads/ipv6-sage-shirt-england.jpg" alt="Yes that's ginger ale. Honest!" position="center" width="800" style="border-radius: 50px;" >}}
 Yes that's ginger ale. Honest!
-

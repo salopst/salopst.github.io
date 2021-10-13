@@ -8,8 +8,10 @@
 
 # api keys and secrets
 *.env
+apikeys.json
 
 *lock.json
+package.json
 
 /hugo-easy-gallery
 /themes/meme
