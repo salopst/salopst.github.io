@@ -30,7 +30,7 @@ Ergo we `git` all the things.
 ## What did we/I/he stow exactly?
 TBH, I can't remember myself. Let's take a look...
 
-{{< image src="/img/uploads/2021-10-15-rg-i-stow.png" alt="rg-i-stow" position="center" style="border-radius: 50px;" >}}
+{{< image src="/img/uploads/2021-10-15-rg-i-stow.png" alt="rg-i-stow" position="center" style="border-radius: 30px;" >}}
 
 Hmmm. Not very helpful. Unless you're heading to Mid Ulster.
 
@@ -132,4 +132,4 @@ It was probably a mistake to use `dotfiles`. `.gitdotfiles` may have been cleare
 -----
 
 ## 'main' is not descriptive enough:
-git --git-dir=$HOME/dotfiles/ --work-tree=$HOME switch -c base
+`git --git-dir=$HOME/dotfiles/ --work-tree=$HOME switch -c base`
