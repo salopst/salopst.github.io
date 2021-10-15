@@ -18,7 +18,6 @@ tags:
 - Linux
 ---
 
-
 Unlike KDE's default GUI file manager, Dolphin, GNOME's nautilus does not have a built in terminal. Some wonderful person has written a handy-dandy solution to this, and it works wonderfully. It and installation and configuration details can be found at [https://github.com/flozz/nautilus-terminal](https://github.com/flozz/nautilus-terminal)
 
 ```bash
