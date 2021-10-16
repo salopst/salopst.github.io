@@ -127,9 +127,33 @@ It was probably a mistake to use `dotfiles`. `.gitdotfiles` may have been cleare
 
  If they are committed and pushed. Same as above, and be wary, cause git is not a backup, OK?
 
+
+
 -----
 -----
 -----
 
-## 'main' is not descriptive enough:
-git --git-dir=$HOME/dotfiles/ --work-tree=$HOME switch -c base
+# Working with existing dotfiles
+
+So setting up a new machine from an existing Git should mean: `gitdot checkout`
+
+This should place the tracked files in $HOME from the bare `dotfiles repo`.
+
+`$DOTFILES` is exported from `~/.zshenv`
+
+```bash
+gitdot () {
+  git --git-dir="$HOME/dotfiles" --work-tree="$HOME" "$@"
+}
+
+gitdotnew () {
+  git clone --bare $1 $DOTFILES
+  gitdot config --local status.showUntrackedFiles no
+}
+
+gitdotrestore () {
+  git clone --bare $1 $DOTFILES
+  gitdot config --local status.showUntrackedFiles no
+  gitdot checkout || echo -e 'Files conflict. Overwrite with gitdot checkout -f'
+}
+```

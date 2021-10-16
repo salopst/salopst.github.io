@@ -309,7 +309,8 @@ French: ouate de phoque -- cotton wool of a seal or the stuffing from a seal plu
 Esperanto "Homo longe penis farti bone" means "A person tried to be well/alright for a long time".
 
 
-
+## git randoms
+Oh no! Did I git-process that supersecret file? `git log --diff-filter=A secret.file`
 
 
 ## Glorious!

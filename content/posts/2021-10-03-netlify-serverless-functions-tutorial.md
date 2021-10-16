@@ -105,7 +105,6 @@ exports.handler = async function (){
 ```
 ## running through the tuts.
 
-#link to Commit here []()
 
 And the following to-be-expected error `fetch is undefined`
 ![](2021-10-03-netlify-serverless-api-fetch-not-defined.png)
@@ -177,4 +176,59 @@ And roll again...
 
 ### DICE!! 🎲🎲
 
-{{< image src="/img/uploads/2021-10-03-netlify-serverless-api-fetch-success.png" alt="Results from Rokodex" position="center" style="border-radius: 50px;" >}}
+{{< image src="/img/uploads/2021-10-03-netlify-serverless-api-fetch-success.png" alt="Results from Pokodex" position="center" style="border-radius: 50px;" >}}
+
+## Deploying... (vid \#5) in the series @ https://explorers.netlify.com/learn/up-and-running-with-serverless-functions)
+
+ They are going the push-to-github route, autotriggering the netlify build. This is basically the way https://stephen.yearl.us is deployed. Did this anyway: github.com:salopst/first-netlify-serverless-thing.git
+
+## Customizing the request... (vid \#6)
+
+### Passing a value from from the HTML to the function
+
+
+so here from `index.html`:
+
+```bash
+// netlify Pokedex API-- with modified object Hoenn
+fetchHoennBtn.addEventListener('click', async () => {
+  const response = await fetch('/.netlify/functions/pokedex',{
+    // passing a variable region=hoenn to the function/API
+    method: "POST",
+    body: JSON.stringify({
+      region: 'hoenn'
+    })
+  }).then(
+    response => response.json()
+  )
+  responseText.innerText = JSON.stringify(response)
+})
+```
+
+ `pokedex.js` (`/.netlify/functions/pokedex`) is receiving:
+
+ ```bash
+ // but we also modify the object here rather than elsewhere...
+ // async function takes event and context
+ exports.handler = async function (event, context) {
+   const eventBody = JSON.parse(event.body)
+   // const POKE_API = 'https://pokeapi.co/api/v2/pokedex/kanto'
+   const POKE_API = `https://pokeapi.co/api/v2/pokedex/${eventBody.region}`
+
+   const response = await fetch(POKE_API)
+   console.log(`The value of event is: ${event}`);
+  // console.log(`The value of context is: ${context}`);
+   const data = await response.json()
+   return {
+     statusCode: 200,
+     body: JSON.stringify({
+       myObject: data.pokemon_entries
+     })
+   }
+ }
+ ```
+
+
+## Atomic serverless functions (vid \#7)
+
+... bacsically about branching and deploys.
