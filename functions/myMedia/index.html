@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pulling in some Youtube stuffs from a local JSON File</title>
+</head>
+<body>
+  <div id="allSongs">[all songs here]</div>
+</body>
+
+<script>
+  const fetchData = async () => {
+    const results = await axios.get('.netlify/functions/myMedia')
+  }
+</script>
+</html>
