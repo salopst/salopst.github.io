@@ -7,22 +7,24 @@ slug: koine-greek-word-of-the-day-φιμόω
 title: 'Koinē Greek Word of the Day: φιμόω'
 wordpress_id: 705
 categories:
-- Greek
+categories:
+- Language
 tags:
-- greek
+- Greek
+- Bible
+- words
 - koine
-- language
 - κοινή
 ---
 
 # φιμόω
 
-phimoó  
-Verb  
-*I muzzle, silence.*  
-Strong's: **5392**  
+phimoó
+Verb
+*I muzzle, silence.*
+Strong's: **5392**
 
-8 Occurrences in GNT  
+8 Occurrences in GNT
 
 # Matthew 22:12
 

@@ -7,19 +7,20 @@ slug: koine-greek-word-of-the-day-δημήτριος-ου-ὁ
 title: 'Koinē Greek Word of the Day: Δημήτριος, ου, ὁ'
 wordpress_id: 769
 categories:
-- Greek
+- Language
 tags:
-- greek
+- Greek
+- Bible
+- words
 - koine
-- language
 - κοινή
 ---
 
 # Δημήτριος, ου, ὁ
 
-Démétrios  
-Noun, Masculine  
-*Demetrius, a silversmith of Ephesus.*  
+Démétrios
+Noun, Masculine
+*Demetrius, a silversmith of Ephesus.*
 Strong's: **1216**
 
 3 occurrences in GNT

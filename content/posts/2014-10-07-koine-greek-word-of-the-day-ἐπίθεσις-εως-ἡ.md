@@ -8,11 +8,12 @@ slug: koine-greek-word-of-the-day-ἐπίθεσις-εως-ἡ
 title: 'The Last... Koinē Greek Word of the Day: ἐπίθεσις, εως, ἡ'
 wordpress_id: 777
 categories:
-- Greek
+- Language
 tags:
-- greek
+- Greek
+- Bible
+- words
 - koine
-- language
 - κοινή
 ---
 
@@ -21,10 +22,10 @@ Yeah, so the program runs just fine, but it seems a little silly to clog up the 
 
 # ἐπίθεσις, εως, ἡ
 
-epithesis  
-Noun, Feminine  
-*a laying on; an attack, assault.*  
-Strong's: **1936**  
+epithesis
+Noun, Feminine
+*a laying on; an attack, assault.*
+Strong's: **1936**
 
 4 occurrences in GNT
 

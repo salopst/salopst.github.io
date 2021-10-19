@@ -216,9 +216,9 @@ posts = ":slug/"
     name       = "About"
     url        = "about/"
   [[menu.main]]
-    identifier = "categories"
-    name       = "Categories"
-    url        = "categories/"
+    identifier = "tag-cloud"
+    name       = "Tags"
+    url        = "tagcloud/"
 
 
 ### SIMPLE JS SEARCH

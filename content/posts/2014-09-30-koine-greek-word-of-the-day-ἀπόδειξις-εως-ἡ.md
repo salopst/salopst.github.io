@@ -7,22 +7,23 @@ slug: koine-greek-word-of-the-day-ἀπόδειξις-εως-ἡ
 title: 'Koinē Greek Word of the Day: ἀπόδειξις, εως, ἡ'
 wordpress_id: 726
 categories:
-- Greek
+- Language
 tags:
-- greek
+- Greek
+- Bible
+- words
 - koine
-- language
 - κοινή
 ---
 
 # ἀπόδειξις, εως, ἡ
 
-apodeixis  
-Noun, Feminine  
-*demonstration, proof; a showing off.*  
-Strong's: **585**  
+apodeixis
+Noun, Feminine
+*demonstration, proof; a showing off.*
+Strong's: **585**
 
-1 occurrence in GNT  
+1 occurrence in GNT
 
 ```text
 ἀποδείξει (N-DFS), 1 Corinthians 2:4

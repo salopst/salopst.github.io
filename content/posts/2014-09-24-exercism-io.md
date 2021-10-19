@@ -10,11 +10,11 @@ slug: exercism-io
 title: exercism.io
 wordpress_id: 614
 categories:
-- Uncategorized
+- Tech
 tags:
 - code
 - education
-- website
+- websites
 ---
 
 So, I came across this site last night when scouting around for tools/sites that Eldest child might like to use as he gets to grips with programming, that is to do so without my necessarily having to hold his hand. The decisions I might make may or may not be reasonable or even appropriate. Better that he get a variety of experienced feedback from others (I will always be there), and in whatever language he chooses.

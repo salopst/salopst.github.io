@@ -10,12 +10,12 @@ slug: visiting-the-uss-hornet-june-july-2011
 title: Visiting the USS Hornet (June/July 2011)
 wordpress_id: 431
 categories:
-- Pics
+- "Pictures and Photos"
 tags:
 - boys
 - travel
-- holiday
-- hornet
+- "San Francisco"
+- USS Hornet
 ---
 
 Below, a verbatim transcript of Joe's trip to see the USS Hornet in Alameda CA., recently re-discovered.

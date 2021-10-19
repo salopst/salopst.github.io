@@ -7,20 +7,21 @@ slug: koine-greek-word-of-the-day-koine-greek-word-of-the-day-βιβλίον-ο�
 title: 'Koinē Greek Word of the Day: βιβλίον, ου, τό'
 wordpress_id: 695
 categories:
-- Greek
+- Language
 tags:
-- greek
+- Greek
+- Bible
+- words
 - koine
-- language
 - κοινή
 ---
 
 # βιβλίον, ου, τό
 
-biblion  
-Noun, Neuter  
-*a papyrus roll.*  
-Strong's: **975**  
+biblion
+Noun, Neuter
+*a papyrus roll.*
+Strong's: **975**
 
 34 Occurrences in GNT
 

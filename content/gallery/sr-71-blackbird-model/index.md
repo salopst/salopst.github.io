@@ -1,13 +1,17 @@
 ---
+title: "Constructing a model SR-71 Blackbird"
+date: 2011/2020
 author: "system"
 origin: "hugo"
 draft: false
 categories:
   - Index
   - Gallery
+  - "Pictures and Photos"
 tags:
-  - index
-  - gallery
+  - models
+  - rockets
+  - crafts
 ---
 
 {{< gallery dir="." />}} 

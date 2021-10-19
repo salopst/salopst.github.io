@@ -7,26 +7,27 @@ slug: koine-greek-word-of-the-day-τέρτυλλος-ου-ὁ
 title: 'Koinē Greek Word of the Day: Τέρτυλλος, ου, ὁ'
 wordpress_id: 756
 categories:
-- Greek
+- Language
 tags:
-- greek
+- Greek
+- Bible
+- words
 - koine
-- language
 - κοινή
 ---
 
 # Τέρτυλλος, ου, ὁ
 
-Tertullos  
-Noun, Masculine  
-*Tertullus, a barrister acting as professional prosecutor of Paul at Caesarea.*  
-Strong's: **5061**  
+Tertullos
+Noun, Masculine
+*Tertullus, a barrister acting as professional prosecutor of Paul at Caesarea.*
+Strong's: **5061**
 
 2 occurrences in GNT
 
 ```text
-Τέρτυλλος (N-NMS), Acts 24:2  
-Τερτύλλου (N-GMS), Acts 24:1  
+Τέρτυλλος (N-NMS), Acts 24:2
+Τερτύλλου (N-GMS), Acts 24:1
 ```
 
 # Acts 24:2

@@ -9,34 +9,32 @@ draft: false
 noLicense: false
 weight: 1001
 categories:
-  - Blog
   - Language
-  - Spanish
   - Media
 tags:
   - spanish
-  - hugo
+  - politics
   - song
-  - refx 
+  - refx
   - lyrics
   - music
 ---
 
 
-The song "*Better Days*" was broadcast to over 3 million people ca 2010, and eventually reached hostages captured and held by the Fuerzas Armadas Revolucionarias de Colombia ([FARC](https://en.wikipedia.org/wiki/Revolutionary_Armed_Forces_of_Colombia)). In the song was encoded a sercret message in Morse Code. Amazingly, the plan worked, and many soldiers were able to escape the camp and reach Colombian military forces nearby.   
+The song "*Better Days*" was broadcast to over 3 million people ca 2010, and eventually reached hostages captured and held by the Fuerzas Armadas Revolucionarias de Colombia ([FARC](https://en.wikipedia.org/wiki/Revolutionary_Armed_Forces_of_Colombia)). In the song was encoded a sercret message in Morse Code. Amazingly, the plan worked, and many soldiers were able to escape the camp and reach Colombian military forces nearby.
 
-- https://soundcloud.com/michael-zelenko/better-days-by-natalia-gutierrez-y-angelo  
+- https://soundcloud.com/michael-zelenko/better-days-by-natalia-gutierrez-y-angelo
 
 - https://www.youtube.com/watch?v=7CqOYM7cCX8
-It includes a secret Morse code message to the hostages: 
+It includes a secret Morse code message to the hostages:
 
-**“19 people rescued, you’re next. Don’t lose hope”**  
+**“19 people rescued, you’re next. Don’t lose hope”**
 
- 
- > .---- ----. / .--. . --- .--. .-.. . / .-. . ... -.-. ..- . -.. --..-- / -.-- --- ..- .----. .-. . / -. . -..- - .-.-.- / -.. --- -. .----. - / .-.. --- --- ... . / .... --- .--. . .-.-.-  
+
+ > .---- ----. / .--. . --- .--. .-.. . / .-. . ... -.-. ..- . -.. --..-- / -.-- --- ..- .----. .-. . / -. . -..- - .-.-.- / -.. --- -. .----. - / .-.. --- --- ... . / .... --- .--. . .-.-.-
  >
- >~~ https://cryptii.com/pipes/morse-code-translator  
- 
+ >~~ https://cryptii.com/pipes/morse-code-translator
+
 
 ```lyrics
 Cuando estoy en medio de la noche

@@ -7,21 +7,22 @@ slug: koine-greek-word-of-the-day-ὑπολιμπάνω
 title: 'Koinē Greek Word of the Day: ὑπολιμπάνω'
 wordpress_id: 771
 categories:
-- Greek
+- Language
 tags:
-- greek
+- Greek
+- Bible
+- words
 - koine
-- language
 - κοινή
 ---
 
-# ὑπολιμπάνω  
-hupolimpanó  
-Verb  
-*I leave behind.*  
-Strong's: **5277**  
+# ὑπολιμπάνω
+hupolimpanó
+Verb
+*I leave behind.*
+Strong's: **5277**
 
-1 occurrence in GNT  
+1 occurrence in GNT
 
 
 ```text

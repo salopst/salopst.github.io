@@ -7,21 +7,22 @@ slug: koine-greek-word-of-the-day-koine-greek-word-of-the-day-ἑξακόσιο�
 title: 'Koinē Greek Word of the Day: ἑξακόσιοι, αι, α'
 wordpress_id: 715
 categories:
-- Greek
+- Language
 tags:
-- greek
+- Greek
+- Bible
+- words
 - koine
-- language
 - κοινή
 ---
 
 # ἑξακόσιοι, αι, α
 asd
-hexakosioi  
-Adjective  
-*six hundred.*  
-Strong's: **1812**  
-2 Occurrences in GNT:  
+hexakosioi
+Adjective
+*six hundred.*
+Strong's: **1812**
+2 Occurrences in GNT:
 
 ```text
 ἑξακοσίων (Adj-GMP), Revelation 14:20

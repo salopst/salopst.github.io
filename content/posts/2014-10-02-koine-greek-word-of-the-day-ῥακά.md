@@ -7,19 +7,20 @@ slug: koine-greek-word-of-the-day-ῥακά
 title: 'Koinē Greek Word of the Day: ῥακά'
 wordpress_id: 752
 categories:
-- Greek
+- Language
 tags:
-- greek
+- Greek
+- Bible
+- words
 - koine
-- language
 - κοινή
 ---
 
 # ῥακά
-rhaka  
-Aramaic Transliterated Word (Indeclinable)  
-*empty, foolish.*  
-Strong's: **4469**  
+rhaka
+Aramaic Transliterated Word (Indeclinable)
+*empty, foolish.*
+Strong's: **4469**
 
 1 occurrences in GNT
 

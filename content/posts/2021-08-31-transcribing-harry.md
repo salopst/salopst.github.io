@@ -12,11 +12,10 @@ summary: "A quick look at Italian; actually some transcription."
 description: "A quick look at Italian; actually some transcription."
 categories:
 - Language
-- Italian
 tags:
-- italian
-- language
-- hugo
+- Italian
+- literature
+- Hugo
 ---
 
 
@@ -24,7 +23,7 @@ Following the illustrious Johnson Government's recent wailing about Latin, I dec
 
 OK then, what about modern Latin (AKA Italian 🤣)? Rather than Duolingo, I'd dive straight into the sweet waters of *Harry Potter e la Pietra Filosofale*. So, with [audiobook from youtube](https://www.youtube.com/watch?v=W8WKLnNf4EA&origin=https://stephen.yearl.us) in ear, and a copy of the English edition nearby in case of dire stuckage, I began a [transcription](/pietra-filosofale/).
 
-Not sure how far I'll get with this, especially considering that I'm no fan of HP anyway, but hey, it's something to do. Already I can feel myself drifting away from the language aspect of this and more toward the markup of the text. This is now just HTML, but I'm getting into old habits thinking wistfully about the [TEI](https://www.tei-c.org). At the very least wondering  how I can extract bits from the text programmatically to, say, make Anki flashcards or summut. 
+Not sure how far I'll get with this, especially considering that I'm no fan of HP anyway, but hey, it's something to do. Already I can feel myself drifting away from the language aspect of this and more toward the markup of the text. This is now just HTML, but I'm getting into old habits thinking wistfully about the [TEI](https://www.tei-c.org). At the very least wondering  how I can extract bits from the text programmatically to, say, make Anki flashcards or summut.
 
 ----
 ----

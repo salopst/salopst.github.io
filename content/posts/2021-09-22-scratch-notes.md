@@ -10,7 +10,7 @@ filename: 2021-09-22-scratch-notes.md
 draft: true
 pin: true
 categories:
-- Uncategorised
+- Uncategorized
 tags:
 - scratch
 - notes

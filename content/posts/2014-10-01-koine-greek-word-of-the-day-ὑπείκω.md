@@ -7,20 +7,21 @@ slug: koine-greek-word-of-the-day-ὑπείκω
 title: 'Koinē Greek Word of the Day: ὑπείκω'
 wordpress_id: 729
 categories:
-- Greek
+- Language
 tags:
-- greek
+- Greek
+- Bible
+- words
 - koine
-- language
 - κοινή
 ---
 
 # ὑπείκω
 
-hupeikó  
-Verb  
-*I yield, submit to authority.*  
-Strong's: **5226**  
+hupeikó
+Verb
+*I yield, submit to authority.*
+Strong's: **5226**
 
 1 occurrence in GNT
 

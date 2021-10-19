@@ -7,21 +7,22 @@ slug: koine-greek-word-of-the-day-ἐμπίπτω
 title: 'Koinē Greek Word of the Day: ἐμπίπτω'
 wordpress_id: 720
 categories:
-- Greek
+- Language
 tags:
-- greek
+- Greek
+- Bible
+- words
 - koine
-- language
 - κοινή
 ---
 
 # ἐμπίπτω
 
 
-empiptó  
-Verb  
-*I fall in, am cast in, am involved in.*  
-Strong's: **1706**  
+empiptó
+Verb
+*I fall in, am cast in, am involved in.*
+Strong's: **1706**
 
 7 Occurrences in GNT
 

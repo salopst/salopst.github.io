@@ -8,43 +8,44 @@ slug: koine-greekword-of-the-day
 title: 'Koinē Greek : word of the day'
 wordpress_id: 602
 categories:
-- Greek
+- Language
 tags:
-- greek
-- language
+- Greek
+- Bible
+- words
 ---
 
 ====== DATA ======
 
-  
+
 
 
 Strongs: 2341
 
-θηριομαχέω   
+θηριομαχέω
 
 
-Verb   
+Verb
 
 
-thériomacheó   
+thériomacheó
 
 
 I fight with wild beasts (i.e. wild beasts in human form); met: I am exposed to fierce hostility.
 
 εἰ κατὰ ἄνθρωπον ἐθηριομάχησα ἐν Ἐφέσῳ, τί μοι τὸ ὄφελος; εἰ νεκροὶ οὐκ ἐγείρονται, Φάγωμεν καὶ πίωμεν, αὔριον γὰρ ἀποθνῄσκομεν.
 
-  
+
 
 
 si secundum hominem ad bestias pugnavi Ephesi quid mihi prodest si mortui non resurgunt manducemus et bibamus cras enim moriemur
 
-  
+
 
 
 If after the manner of men I have fought with beasts at Ephesus, what advantageth it me, if the dead rise not? let us eat and drink; for to morrow we die.
 
-  
+
 
 
 https://translate.google.com/#en/la/I+fight+with+wild+beasts+(i.e.+wild+beasts+in+human+form);+met%3A+I+am+exposed+to+fierce+hostility.
@@ -53,10 +54,10 @@ https://translate.google.com/#en/la/I+fight+with+wild+beasts+(i.e.+wild+beasts+i
 
 []
 
---- Present Indicative Active---  
+--- Present Indicative Active---
 
 
-θηριομαχέω  
+θηριομαχέω
 
 
 θηριομαχέεις
@@ -69,13 +70,13 @@ https://translate.google.com/#en/la/I+fight+with+wild+beasts+(i.e.+wild+beasts+i
 
 θηριομαχέουσι (ν)
 
-  
 
 
---- Future Indicative Active---  
+
+--- Future Indicative Active---
 
 
-θηριομαχέσω  
+θηριομαχέσω
 
 
 θηριομαχέσεις
@@ -88,13 +89,13 @@ https://translate.google.com/#en/la/I+fight+with+wild+beasts+(i.e.+wild+beasts+i
 
 θηριομαχέσουσι (ν)
 
-  
 
 
---- Present Indicative Middle/Passive---  
+
+--- Present Indicative Middle/Passive---
 
 
-θηριομαχέομαι  
+θηριομαχέομαι
 
 
 θηριομαχέῃ
@@ -107,13 +108,13 @@ https://translate.google.com/#en/la/I+fight+with+wild+beasts+(i.e.+wild+beasts+i
 
 θηριομαχέονται
 
-  
 
 
---- Future Indicative Middle---  
+
+--- Future Indicative Middle---
 
 
-θηριομαχέσομαι  
+θηριομαχέσομαι
 
 
 θηριομαχέσῃ

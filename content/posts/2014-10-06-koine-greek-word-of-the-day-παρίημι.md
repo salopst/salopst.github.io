@@ -8,20 +8,21 @@ slug: koine-greek-word-of-the-day-παρίημι
 title: 'Koinē Greek Word of the Day: παρίημι'
 wordpress_id: 773
 categories:
-- Greek
+- Language
 tags:
-- greek
+- Greek
+- Bible
+- words
 - koine
-- language
 - κοινή
 ---
 
 # παρίημι
 
-pariémi  
-Verb  
-*I let pass, neglect, omit, disregard, (b) I slacken, loosen; pass: I am wearied.*  
-Strong's: **3935**  
+pariémi
+Verb
+*I let pass, neglect, omit, disregard, (b) I slacken, loosen; pass: I am wearied.*
+Strong's: **3935**
 
 2 occurrences in GNT
 

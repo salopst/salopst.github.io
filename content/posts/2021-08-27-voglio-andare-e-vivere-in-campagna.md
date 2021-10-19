@@ -9,15 +9,11 @@ draft: false
 noLicense: false
 weight: 1001
 tags:
-  - italian
-  - hugo
+  - Italian
   - song
-  - canzone
   - lyrics
 categories:
-  - Blog
   - Language
-  - Italian
   - Media
   - Music
 description: Voglio zappare la terra e fare la legna... a-ha!

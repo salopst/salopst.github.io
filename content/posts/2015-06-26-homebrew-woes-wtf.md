@@ -13,7 +13,7 @@ categories:
 - Tech
 tags:
 - Homebrew
-- sysdamin
+- sysadmin
 ---
 
 ```bash
