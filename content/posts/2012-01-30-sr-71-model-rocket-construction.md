@@ -8,7 +8,7 @@ slug: sr-71-model-rocket-construction
 title: SR-71 Model Rocket Construction
 wordpress_id: 384
 categories:
-- rockets
+- Rockets
 tags:
 - rockets
 - craft
@@ -42,7 +42,7 @@ I'd say putting this together was pretty darned simple. It's not exactly.... dru
 {{< image src="/mary-wp-uploads/img_2460.png" alt="Project Tools" position="right" style="border-radius: 50px;" >}}
 
 
-<!-- 
+<!--
 OOH. Comments in Markdown!
 Not sure about the table format...
 | ![01_workspace](/mary-wp-uploads/img_2401.png)  | ![02_tools](/mary-wp-uploads/img_2460.png)  |

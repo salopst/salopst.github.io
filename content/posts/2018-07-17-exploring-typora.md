@@ -8,12 +8,12 @@ categories:
   - Tech
   - Apps
 tags:
-  - tech 
+  - tech
   - editors
   - markup
   - markdown
   - apps
-  - OS X
+  - "OS X"
   - MacOS
   - Linux
 todo:
@@ -96,7 +96,7 @@ Et je suis en train d’installer un bain neuf.  Mais d'abord, j'ai besoin de fa
 | **20 mm**             | 3/4 "                   | **26.9 mm**                   |
 | **25 mm**             | 1 "                     | **33.7 mm**                   |
 
-![](https://ws3.sinaimg.cn/large/006tNbRwgy1fugeqjwxdsj30bv0bvgmc.jpg) 
+![](https://ws3.sinaimg.cn/large/006tNbRwgy1fugeqjwxdsj30bv0bvgmc.jpg)
 
 
 
@@ -125,11 +125,11 @@ Ah but it `<span style="color:blue">`does`</span>` = <span style="color:blue">do
 <span style="color:#e94984">#e94984 (the lovely pink of Typora's "Souce Mode" markup (err *down*) </span>
 <span style="color:#b4eaf2; background-color:#565656"> #b4eaf2 (my selected text colour) </span>, though obviously not the background. Here: Lorum Ipsum
 
-That last is here: https://www.colorhexa.com/b4eaf2 
+That last is here: https://www.colorhexa.com/b4eaf2
 
-~~And, if I am honest, the enemy's blue is a much nicer colour~~. 
+~~And, if I am honest, the enemy's blue is a much nicer colour~~.
 
-$ \LaTeX $ says that $\\e = \mathop {\lim }\limits_{n \to \infty } \left( {1 + \frac{1}{n}} \right)^n $  but is mute as to the beauty of the expression. Now can we add arbitrary 
+$ \LaTeX $ says that $\\e = \mathop {\lim }\limits_{n \to \infty } \left( {1 + \frac{1}{n}} \right)^n $  but is mute as to the beauty of the expression. Now can we add arbitrary
 
 
 
@@ -312,7 +312,7 @@ q2(no)->np
 ```
 
 ## This is a mermaid example:
-With the shortcode 
+With the shortcode
 
 ```merma1d
 {{<mermaid align="left">}}

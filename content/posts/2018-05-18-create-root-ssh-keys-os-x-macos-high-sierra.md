@@ -10,11 +10,11 @@ title: Create root SSH keys OS X (MacOS High Sierra)
 wordpress_id: 1393
 categories:
 - Networking
-- tech
+- Tech
 tags:
 - Apple
 - MacOS
-- os x
+- "OS X"
 ---
 
 In all the years I've been running OS X (or MacOS as it is now called) I've never had the need to `su`,`sudo` was always good enough. And this is as it should be.
@@ -42,7 +42,7 @@ drwxr-xr-x  3 root  wheel    96B May  2 10:03 System Image Utility.app
 drwxr-xr-x  3 root  wheel    96B Mar 30 12:48 Wireless Diagnostics.app
 ```
 
-**Open Directory Utility** is the chappie we are interested in  
+**Open Directory Utility** is the chappie we are interested in
 
 ```bash
 $ open Directory\ Utility.app
@@ -56,7 +56,7 @@ Oh, look! What's this? Past Self left me a little note. Thanks, Past Self! [http
 ```bash
 $ su
 Password:
-sh-3.2# 
+sh-3.2#
 sh-3.2# cd ~
 sh-3.2# pwd
 /var/root
@@ -68,6 +68,6 @@ Your public key has been saved in /var/root/.ssh/id_rsa_4096.pub.
 ...
 sh-3.2# cp id_rsa_4096.pub /Users/yearluk/Desktop/root@xolotl-id_rsa_4096.pub
 sh-3.2# exit
-``` 
+```
 
 Job's a good un!

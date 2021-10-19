@@ -11,12 +11,12 @@ noLicense: false
 weight: 1001
 images:
 categories:
-  - Food
-  - Kitchen
+  - "Food and Recipies"
 tags:
   - cooking
   - knife
   - steel
+  - tools
   - kitchen
 description: "Some semi random notes on knife sharpening"
 ---
@@ -30,9 +30,9 @@ The harder the steel, the finer the grit I'll need to use for finishing, polishi
 
 Typical Euro knives are in the 52/58 HRC range on the [Rockwell Hardness Scale](https://en.wikipedia.org/wiki/Rockwell_scale) and probably need to be finsished with stones in the 2k/4k range. Japaense sushi high carbon knives are in 58/68 Rowkwell range. I *had* one of these, but no longer. I hope that it's being used and enjoyed, though. It was a beaut, in the nakiri cleaver style ordered from Japan in ca. 2000. Rusted as soon as you looked at it, though!
 
-- Glass is about **HRC 60**.  
-- Very hard steel (e.g. chisels, quality knife blades): **HRC 55–66** 
-- Hardened High Speed Carbon and Tool Steels such as M2, W2, O1, CPM-M4, and D2, as well as many of the newer powder metallurgy Stainless Steels such as CPM-S30V, CPM-154, ZDP-189. 
+- Glass is about **HRC 60**.
+- Very hard steel (e.g. chisels, quality knife blades): **HRC 55–66**
+- Hardened High Speed Carbon and Tool Steels such as M2, W2, O1, CPM-M4, and D2, as well as many of the newer powder metallurgy Stainless Steels such as CPM-S30V, CPM-154, ZDP-189.
 - There are alloys that hold a **HRC 68-70**, such as the Hitachi developed HAP72. These are extremely hard, but also somewhat brittle.)
 - Axes: about **HRC 45–55**
 
@@ -41,14 +41,14 @@ Last purchased a KitchenCraft MasterClass dual 400/1000 whetstone (18 x 6.5 cm) 
 
 ### Update August 2021
 
-Out of my price range or degree of interest... knife sharpening gets "culty" rather quickly. 
+Out of my price range or degree of interest... knife sharpening gets "culty" rather quickly.
 
-- [Burrfection on YT](https://www.youtube.com/channel/UCOluHMoKJ6CrS0kcybhaThg) is wicked entertaining  
+- [Burrfection on YT](https://www.youtube.com/channel/UCOluHMoKJ6CrS0kcybhaThg) is wicked entertaining
 [Murray Carter Blade Sharpening Fundamentals](https://www.youtube.com/watch?v=Yk3IcKUtp8U)
-- Medium stone: https://amzn.to/3xAUPvA  
-- Fine stone: https://amzn.to/3tSsmyU  
-- Diamond plate for leveling: https://amzn.to/3aJbLpE  
-- Sink bridge: https://amzn.to/3dPTOrE  
+- Medium stone: https://amzn.to/3xAUPvA
+- Fine stone: https://amzn.to/3tSsmyU
+- Diamond plate for leveling: https://amzn.to/3aJbLpE
+- Sink bridge: https://amzn.to/3dPTOrE
 
 
 ## 1. Basic instructions
@@ -61,9 +61,8 @@ Out of my price range or degree of interest... knife sharpening gets "culty" rat
 
 1. Eventually a burr will form along the whole edge. 🎲! 'Tis time to sharpen the opposite side. Blade faces away, and is the length I hold at 90º angle perpendicular to the length of the stone.Repeat.
 
-1. Another (?) burr! Back to the first side and repeat, but with progressively fewer passes and lighter pressure. 
+1. Another (?) burr! Back to the first side and repeat, but with progressively fewer passes and lighter pressure.
 
 1. keep repeating until time to switch to the finer grit. And repeat.
 
 1. Stropping. V. light pressure and single sweeping arcs with the edge leading. First  10 each side, then 8 each side, then 6... etc. until done.
-
