@@ -12,11 +12,11 @@
   # root directory if a base has not been set. This sample publishes the
   # directory located at the absolute path "root/project/build-output"
   
-  # publish = "public"  # Hugo default
+  publish = "public"  # Hugo default
 
   # Default build command.
   # command = "echo 'default context'"
-  command = "hugo --gc --minify --destination public-static-hugo"
+  command = "hugo --gc --minify"
 
 
 [build.environment]
