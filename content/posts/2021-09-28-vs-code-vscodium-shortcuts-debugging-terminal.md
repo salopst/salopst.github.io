@@ -162,4 +162,5 @@ cd nerd-fonts
 sudo ./install.sh
 ```
 
-### Hey, Future Self... if you get that weird RSA error, just `chmod 600 ~/.ssh/id_rsa.github`, OK, Fella?
+### Hey, Future Self... 
+If you get that weird RSA error, just `chmod 600 ~/.ssh/id_rsa.github`, OK, Fella?
