@@ -12,7 +12,7 @@ categories:
 - Products
 tags:
 - webdev
-- seo
+- SEO
 - Amazon
 ---
 
