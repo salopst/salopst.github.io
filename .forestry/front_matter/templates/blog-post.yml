@@ -1,0 +1,40 @@
+---
+label: Blog Post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: slug
+  label: slug
+- type: text
+  name: author
+  label: author
+- type: text
+  name: origin
+  label: origin
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: lastMod
+  label: lastMod
+- type: boolean
+  name: toc
+  label: toc
+- type: boolean
+  name: noLicense
+  label: noLicense
+- type: number
+  name: weight
+  label: weight
+- type: text
+  name: images
+  label: images
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: tags
+  label: tags
