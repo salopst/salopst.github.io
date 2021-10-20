@@ -5,8 +5,6 @@
 // after copy of Netlify API key (sitID follwing local `netlify build`
 .netlify/state.json
 
-/static/media
-/static/uploads
 # rando copies of files
 *(*
 
