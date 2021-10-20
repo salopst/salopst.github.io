@@ -5,18 +5,33 @@ fields:
 - type: text
   name: title
   label: title
+  config:
+    required: true
 - type: text
   name: slug
   label: slug
+  config:
+    required: true
+  description: This will be form the persistent URL... try to match title and filename
+    as closely as as possible.
 - type: text
   name: author
   label: author
+  config:
+    required: true
+  default: yearluk
 - type: text
   name: origin
   label: origin
+  config:
+    required: true
+  default: forestry
 - type: datetime
   name: date
   label: date
+  config:
+    date_format: YYYY-MM-DD
+    export_format: YYYY-MM-DD hh:mm A
 - type: text
   name: lastMod
   label: lastMod
@@ -26,6 +41,7 @@ fields:
 - type: boolean
   name: noLicense
   label: noLicense
+  default: false
 - type: number
   name: weight
   label: weight
@@ -35,6 +51,14 @@ fields:
 - type: list
   name: categories
   label: categories
+  config:
+    min: 1
+    max: 5
+    use_select: false
 - type: list
   name: tags
   label: tags
+  config:
+    use_select: false
+    min: 2
+    max: 5
