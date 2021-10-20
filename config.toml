@@ -26,11 +26,11 @@ dataDir      = "data"
 layoutDir    = "layouts"
 # publishDir   = "public-static-hugo"
 
-buildDrafts  = false
-buildFuture  = false
-buildExpired = false
-canonifyURLs = true
-
+buildDrafts   = false
+buildFuture   = false
+buildExpired  = false
+canonifyURLs  = true
+timeout       = 20000 #10000 ms is default
 enableRobotsTXT = true
 enableGitInfo   = true
 enableEmoji     = true
