@@ -21,7 +21,7 @@ tags:
 
 Lest y'all think that everything works out in our GF kitchen, I've decided to add that the following did not. Well, not quite. The bread is darned tasty, and is wonderful toasted with a bit of fresh butter. We are BIG butter fans, especially locally made stuff (not Cabots or Land o' Lakes, or anything 'stick' form, really), the sort of butter that is pretty close to tasting of cheese.
 
-{{< image src="/wp-uploads/GF-oat-bread.jpg" alt="" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/GF-oat-bread.jpg" alt="" position="center" style="border-radius: 50px;" >}}
 
 I think it is really just a question of getting the right flour combination down, and practising technique. Bread making is hard enough to get right with regular wheat flour, let alone with the added complexity of a bread sans gluten.
 

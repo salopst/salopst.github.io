@@ -19,7 +19,7 @@ tags:
 We are big lovers of cornmeal pancakes in our family, but the boys were hankering for something closer to traditional wheat ones, so we figured it was time to throw together a batch of buckwheat pancakes.
 
 
-{{< image src="/wp-uploads/Buckwheat-pancakes.jpg" alt="Buckwheat pancakes" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/Buckwheat-pancakes.jpg" alt="Buckwheat pancakes" position="center" style="border-radius: 50px;" >}}
 
 Yield: 7 large pancakes
 

@@ -18,7 +18,7 @@ tags:
 ---
 
 
-{{< image src="/wp-uploads/suck-meter.jpg" alt="suck-o-meter" position="center" style="border-radius: 30px;" >}}
+{{< image src="/uploads/suck-meter.jpg" alt="suck-o-meter" position="center" style="border-radius: 30px;" >}}
 
 Another consultation with surgeon again today-- he's not happy with the scarring; not happy at all. All kinds of adhesions going on in that Zone V of mine. The plan now is for another month of increasing exercises, vibration and ultrasound therapy, then, maybe, cortisone injections. At that point a determination will be made about his potentially opening me up again for remedial tenolytic work.
 

@@ -45,7 +45,7 @@ It does simple YAML frontmatter... which my stylesheet shows. Should change that
 
 -- IMAGE
 
-![](/wp-uploads/Typora-source-mode.png)
+![](/uploads/Typora-source-mode.png)
 
 -- EOF IMAGE --
 

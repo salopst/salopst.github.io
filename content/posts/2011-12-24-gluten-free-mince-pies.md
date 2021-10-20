@@ -19,7 +19,7 @@ tags:
 - pie
 ---
 
-{{< image src="/wp-uploads/GF_mince_pies.scaled1000.jpeg" alt="Mince Pies" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/GF_mince_pies.scaled1000.jpeg" alt="Mince Pies" position="center" style="border-radius: 50px;" >}}
 
 
 How did we do it? First of all, I picked up a new [kitchen scale](http://www.polyvore.com/bamboo_kitchen_scale/thing?id=37829006). It's digital and switches easily between metric and US standard units. This makes it easy to fool around with different types of gluten-free flour since **the only thing that really matters is that there be double the mass of flour to fat.**

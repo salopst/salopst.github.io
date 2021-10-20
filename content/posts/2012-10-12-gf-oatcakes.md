@@ -40,7 +40,7 @@ NOTE: It is important to move quickly with the oatmeal dough as it dries out VER
 
 Set to cool on a rack, and enjoy!
 
-{{< image src="/wp-uploads/GF-oatcakes.jpg" alt="" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/GF-oatcakes.jpg" alt="" position="center" style="border-radius: 50px;" >}}
 
 
 The following updated ratios lead to a more malleable dough. Much improved over the above, and just perfect with some damson jam and a glob of clotted cream.

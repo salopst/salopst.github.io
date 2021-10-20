@@ -64,5 +64,5 @@ puts "wrangler: #{wrangler} \n\nIt's probably... #{answer}"
 
 And that's all she wrote... a basic anagram solver.
 
-{{< image src="/wp-uploads/wrangler-solver-output.png" alt="ALL YOUR RADIO SHROPSHIRE PRIZES ARE MIIIIIINE!" position="center" style="border-radius: 10px;" >}}
+{{< image src="/uploads/wrangler-solver-output.png" alt="ALL YOUR RADIO SHROPSHIRE PRIZES ARE MIIIIIINE!" position="center" style="border-radius: 10px;" >}}
 

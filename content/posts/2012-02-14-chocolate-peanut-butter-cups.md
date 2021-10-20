@@ -20,7 +20,7 @@ tags:
 
 The boys like peanut butter and they like chocolate, but the peanut butter cups from the store are too sweet and too salty. Moreover, we like bittersweet chocolate, so we decided to make our own. After all, I had a bunch of mini muffin cups I'd picked up in the post-Christmas sale at IKEA.
 
-{{< image src="/wp-uploads/2012-02-14-Peanut-butter-cups.jpg" alt="Peanut butter cups" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/2012-02-14-Peanut-butter-cups.jpg" alt="Peanut butter cups" position="center" style="border-radius: 50px;" >}}
 
 This is a project the kids can help with: mine not only helped fill the cups, they were wholly responsible for the decorations.
 

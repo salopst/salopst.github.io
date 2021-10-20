@@ -18,7 +18,7 @@ tags:
   - ebay
 ---
 
-{{< image src="/wp-uploads/2012-03-16-captain-kidd-pipe.jpg" alt="Captain Kidd smoking pipe" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/2012-03-16-captain-kidd-pipe.jpg" alt="Captain Kidd smoking pipe" position="center" style="border-radius: 50px;" >}}
 
 I purchased this pipe from Ebay at a reasonable price. This was the only picture of the pipe, and I was a little dissapointed to find that on the shank (on the other side, obviously) there was a sizeable chunk of filler, about 2mm in width, 1mm in height rouhtly in the shape of the outline of Autralia.
 
@@ -34,7 +34,7 @@ Then I hacked at the briar in little semi-circles, randomly over the sueface of 
 
 After ten minutes of hacking and re-staining, first in "antique pine" and then again the walnut I had:
 
-{{< image src="/wp-uploads/2012-03-16-captain-kidd-pipe-rusticated.jpg" alt="Capt. Kidd smoking pipe 'rusticated'" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/2012-03-16-captain-kidd-pipe-rusticated.jpg" alt="Capt. Kidd smoking pipe 'rusticated'" position="center" style="border-radius: 50px;" >}}
 
 
 And I am pretty happy with that.
@@ -48,7 +48,7 @@ Oh, and of course I polished the stem. Starting with 600 grit emery cloth and ru
 ### Hal o' the Wynd (1942)
 #### William Souter
 <audio controls>
-  <source src="/wp-uploads/hal-o-the-wynd.mp3" type="audio/mpeg">
+  <source src="/uploads/hal-o-the-wynd.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 

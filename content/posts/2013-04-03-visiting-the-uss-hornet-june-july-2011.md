@@ -28,7 +28,7 @@ I got up early and had some breakfast with my brother, Sammy. Then Mimi drove us
 The flight lasted 6 hours. On the flight I played games and looked at the Rocky Mountains.
 We met my cousin, Tiger, at the airport in San Francisco. Then we got on the air train. Then we got on the BART. Then we took the ferry to our hotel in Alameda. Then we ate dinner. We could see the USS Hornet.
 
-{{< image src="/wp-uploads/Hornet-Alcatraz.jpg" alt="Alcatraz" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/Hornet-Alcatraz.jpg" alt="Alcatraz" position="center" style="border-radius: 50px;" >}}
 
 -----
 -----
@@ -41,7 +41,7 @@ We had breakfast at the hotel. Then we took a taxi to the USS Hornet. Then we to
 
 Then we went to the Captain’s chair one more time then Benny took us back to the hotel.
 
-{{< image src="/wp-uploads/Hornet-captains-chair.jpg" alt="Captain's chair" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/Hornet-captains-chair.jpg" alt="Captain's chair" position="center" style="border-radius: 50px;" >}}
 
 
 -----
@@ -82,10 +82,10 @@ Then we went to the new Hotel, we played around a bit, then we took a stroll to 
 - played air hockey and pool
 - had fish and chips at fishermans warf then we went back to the hotel.
 
-{{< image src="/wp-uploads/Hornet-breakfast-ice-cream.jpg" alt="ice cream for breakfast" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/Hornet-breakfast-ice-cream.jpg" alt="ice cream for breakfast" position="center" style="border-radius: 50px;" >}}
 
 
-{{< image src="/wp-uploads/Hornet-streetcar-family.jpg" alt="Cousin Tiger and Aye-Dye and me on a street car" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/Hornet-streetcar-family.jpg" alt="Cousin Tiger and Aye-Dye and me on a street car" position="center" style="border-radius: 50px;" >}}
 
 -----
 -----
@@ -97,10 +97,10 @@ Took the BART
 Took a bus to Treuse [Treasure] island. Went to a place where Tiger and Aye-Dye tasted wine, then we tool the bus to the new hotel.Then we went swimming in the pool at the hotel. I had fun in the pool then we went to a Japaniese restrant then we went back to the hotel.
 I had mochi ice cream for dsert. I like mochi.
 
-{{< image src="/wp-uploads/Hornet-wine-tasting.jpg" alt="Tiger and Aye-Dye tasting wine on Treasure Island" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/Hornet-wine-tasting.jpg" alt="Tiger and Aye-Dye tasting wine on Treasure Island" position="center" style="border-radius: 50px;" >}}
 
 
-{{< image src="wp-uploads//Hornet-motel-pool.jpg" alt="Our motel pool" position="center" style="border-radius: 50px;" >}}
+{{< image src="uploads//Hornet-motel-pool.jpg" alt="Our motel pool" position="center" style="border-radius: 50px;" >}}
 
 
 ## (pool day) -- July 3rd**
@@ -109,16 +109,16 @@ At 11am the pool was not open so we had to tell him to open the pool. We got in 
 The we went to a restrount then I had mochi for desert.
 I made two new friends
 
-{{< image src="/wp-uploads/Hornet-mochi-war.jpg" alt="Me and Aye-dye in a mochi war" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/Hornet-mochi-war.jpg" alt="Me and Aye-dye in a mochi war" position="center" style="border-radius: 50px;" >}}
 
 
 ## Final day -- July 4th
 We wached the 4th of July prade. We took the BART. We left Tiger on the Bart to the airpor then we went to the ferry building. At the ferry building I had a big mint choclate chip smoothe. Then we took the BART  to the airport. At the airport I had a burger and a vnilla ice cream.
 
-{{< image src="/wp-uploads/Hornet-july-4-parade-01.jpg" alt="July 4th Parade" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/Hornet-july-4-parade-01.jpg" alt="July 4th Parade" position="center" style="border-radius: 50px;" >}}
 
 -----
 -----
 -----
 
-{{< image src="/wp-uploads/Hornet-july-4-parade-02.jpg" alt="July 4th Parade" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/Hornet-july-4-parade-02.jpg" alt="July 4th Parade" position="center" style="border-radius: 50px;" >}}

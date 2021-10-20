@@ -22,7 +22,7 @@ tags:
 Gluten-free beef pasties. (This is one where you’ll have to use your own judgment regarding amounts: we just threw it together, but the addition of lamb stock made the filling especially rich. The point of this post? You can be gluten-free and still feed that craving for a pasty.)
 
 ### Beef fresh from the village butcher
-{{< image src="/wp-uploads/GF-pasties-cubed-beef.jpg" alt="Beef fresh from the village butcher" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/GF-pasties-cubed-beef.jpg" alt="Beef fresh from the village butcher" position="center" style="border-radius: 50px;" >}}
 
 
 ## Filling (ingredients)
@@ -35,7 +35,7 @@ Gluten-free beef pasties. (This is one where you’ll have to use your own judgm
 - Peas and parboiled carrots and potatoes (we used small new potatoes)
 
 ### We tossed the beef in gluten-free flour
-{{< image src="/wp-uploads/GF-pasties-beef-tossed.jpg" alt="We tossed the beef in gluten-free flour" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/GF-pasties-beef-tossed.jpg" alt="We tossed the beef in gluten-free flour" position="center" style="border-radius: 50px;" >}}
 
 
 ## Filling (method)
@@ -70,10 +70,10 @@ Gluten-free beef pasties. (This is one where you’ll have to use your own judgm
 - Bake at about 400 degrees Fahrenheit until the pastry is golden
 
 ### Nice, meaty filling
-{{< image src="/wp-uploads/YYYYY" alt="Nice, meaty filling" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/YYYYY" alt="Nice, meaty filling" position="center" style="border-radius: 50px;" >}}
 
 
 Note: gluten-free pastry does not hold together as well as regular pastry, so you will probably want to eat these on a plate with a knife and fork, for they are unlikely to stay together if you try to eat them with your hands.
 
 ### The pasties might not look perfect, but they tasted delicious
-{{< image src="/wp-uploads/GF-pasties-cooked.jpg" alt="The pasties might not look perfect, but they tasted delicious" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/GF-pasties-cooked.jpg" alt="The pasties might not look perfect, but they tasted delicious" position="center" style="border-radius: 50px;" >}}

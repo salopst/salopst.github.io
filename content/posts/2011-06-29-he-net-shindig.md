@@ -29,10 +29,10 @@ So, these are the only few pics I took of the shindig aboard the [🇺🇸 USS H
 **2012-03-04 update:** 74111101's journal for the trip has been transcribed @ [http://mary.yearl.us/visiting-the-uss-hornet-junejuly-2011/](http://stephen.yearl.us/visiting-the-uss-hornet-junejuly-2011/)
 
 
-![](/wp-uploads/img_2864-jpg-scaled1000.jpg)
-![](/wp-uploads/img_2865-jpg-scaled1000.jpg)
-![](/wp-uploads/img_2869-jpg-scaled1000.jpg)
-![](/wp-uploads/img_2871-jpg-scaled1000.jpg)
+![](/uploads/img_2864-jpg-scaled1000.jpg)
+![](/uploads/img_2865-jpg-scaled1000.jpg)
+![](/uploads/img_2869-jpg-scaled1000.jpg)
+![](/uploads/img_2871-jpg-scaled1000.jpg)
 
 
 I am pretty sure that is a good thing... it meant I spent more time with people than in behind a lens.

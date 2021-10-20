@@ -19,7 +19,7 @@ tags:
 
 The first time I tried to make gluten-free dumplings, they worked out beautifully. Indeed, the existence of this blog is largely down to our desire to record those things that go well. For the record: I have not yet replicated those wonderful dumplings, but am working on it.
 
-{{< image src="/wp-uploads/Chicken-and-cornbuck-dumplings.jpg" alt="Cornmeal buckwheat dumplings." position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/Chicken-and-cornbuck-dumplings.jpg" alt="Cornmeal buckwheat dumplings." position="center" style="border-radius: 50px;" >}}
 
 -----
 -----
@@ -74,11 +74,11 @@ The first time I tried to make gluten-free dumplings, they worked out beautifull
 See above: the same method applies for these as for the cornmeal buckwheat dumplings.
 
 ### Mix the dough until it just comes together
-{{< image src="/wp-uploads/GF-Buckwheat-batter.jpg" alt="Mix the dough until it just comes together" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/GF-Buckwheat-batter.jpg" alt="Mix the dough until it just comes together" position="center" style="border-radius: 50px;" >}}
 
 
 ### Then form bite-sized balls
-{{< image src="/wp-uploads/GF-cornmeal-buckwheat-dumplings.jpg" alt="Then form bite-sized balls" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/GF-cornmeal-buckwheat-dumplings.jpg" alt="Then form bite-sized balls" position="center" style="border-radius: 50px;" >}}
 
 
 ## Verdict

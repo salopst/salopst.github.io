@@ -15,4 +15,4 @@ tags:
 - bwf
 ---
 
-{{< image src="/wp-uploads/Screen-Shot-2015-07-11-at-09.19.25.png" alt="jul-2015-mass" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/Screen-Shot-2015-07-11-at-09.19.25.png" alt="jul-2015-mass" position="center" style="border-radius: 50px;" >}}

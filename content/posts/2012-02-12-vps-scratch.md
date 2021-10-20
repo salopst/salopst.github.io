@@ -147,7 +147,7 @@ LoginGraceTime 600
 ### 3. sudo
 
 
-[caption id="attachment_241" align="aligncenter" width="360"][![Sudo sandwich](/wp-uploadscaption]
+[caption id="attachment_241" align="aligncenter" width="360"][![Sudo sandwich](/uploadscaption]
 
 ```bash
 $su

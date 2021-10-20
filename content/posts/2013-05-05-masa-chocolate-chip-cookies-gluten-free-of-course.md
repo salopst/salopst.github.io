@@ -20,7 +20,7 @@ tags:
 
 It's been a while since we've baked cookies in this house. In honour of 5 de mayo, we decided to try our hand at some masa-based cookies. The result? Gluten free goodies that went down in the GF and non-GF corners of the house, and that were appealing to the sweet tooth and those who prefer things less sweet.
 
-{{< image src="/wp-uploads/GF-masa-chocolate-cookies.jpg" alt="Gluten free masa and chocolate-chip cookies" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/GF-masa-chocolate-cookies.jpg" alt="Gluten free masa and chocolate-chip cookies" position="center" style="border-radius: 50px;" >}}
 
 The recipe I used for guidance was [this](http://www.celiac.com/articles/477/1/Masa-Chocolate-Chip-Cookies-Gluten-Free/Page1.html) one.
 

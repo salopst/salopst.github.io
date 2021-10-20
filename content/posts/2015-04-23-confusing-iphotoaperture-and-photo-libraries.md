@@ -24,19 +24,19 @@ Their consumer editing program was iPhoto, the "pro" version, Aperture. Both are
 
 Once Photos is launched for the first time it will offer up a very nice, very slick import facility from you old libraries.
 
-{{< image src="/wp-uploads/Screen-Shot-2015-04-23-at-08.37.28.png" alt="" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/Screen-Shot-2015-04-23-at-08.37.28.png" alt="" position="center" style="border-radius: 50px;" >}}
 
 
 But what do we find when then opening Aperture, for example? This image dialogue of seeming impending doom and woe when you realise-- as you already have, since you would not have launched Aperture so early in your review of Photos-- that Photos is not quite the app you really wanted to manage you lovingly assembled photo library:
 
 
-{{< image src="/wp-uploads/Screen-Shot-2015-04-23-at-07.45.09.png" alt="" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/Screen-Shot-2015-04-23-at-07.45.09.png" alt="" position="center" style="border-radius: 50px;" >}}
 
 Ignore the Aperture Library. It was established the first time I launched Aperture. In actual fact I had Aperture and iPhoto happily using the iPhoto Library which scarily can no longer be found!
 
 And the iPhoto equivalent, for reference:
 
-{{< image src="/wp-uploads/Screen-Shot-2015-04-23-at-08.02.01.png" alt="" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/Screen-Shot-2015-04-23-at-08.02.01.png" alt="" position="center" style="border-radius: 50px;" >}}
 
 Oh woes! I guess I will be restoring from backup!!
 

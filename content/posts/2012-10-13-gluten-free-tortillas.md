@@ -20,7 +20,7 @@ tags:
 - tortilla
 ---
 
-{{< image src="/wp-uploads/antique_tortilla_press.jpg" alt="" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/antique_tortilla_press.jpg" alt="" position="center" style="border-radius: 50px;" >}}
 
 Corn (maize) tortillas have to be the quintessential American bread. American as in 'from the Americas', not 'USian'. Several highly organized civilizations flourished in North, Central and South America, all without wheat which was unknown to them. Maize was their staple, and alongside beans, a grass somewhat resembling rice, and potatoes in the South. With these sources of complex carbohydrates who would want for wheat (or barley)?
 
@@ -54,10 +54,10 @@ Ah, method. #3 is the one to watch out for here. Since we are without a tortilla
 ### 2. Ad hoc  press
 The second method was opening up a 1 gallon (US ~ 3.78L) zip lock bag, and placing a ball of masa between the layers. The ball was then pressed flat with body weight behind a cast iron skillet. This led to circular tortillas, but considerable stress on our work surface. It seems pretty clear that the real way to go is to get a tortilla press. Internet 'research' thus far seems to indicate that a heavy wooden press made of mesquite wood would be ideal-- most reviews of cast iron tortilladoras indicate a problem with the handle snapping under compression, just like our old aluminium press.
 
-{{< image src="/wp-uploads/ad-hoc-skillet-tortilla-press.jpg" alt="Ad hoc skillet tortilla press" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/ad-hoc-skillet-tortilla-press.jpg" alt="Ad hoc skillet tortilla press" position="center" style="border-radius: 50px;" >}}
 
 
 ## And a little light reading: 
 [_Breve historia de un invento olvidado: Las máquinas tortilladoras en México_](http://bidi.xoc.uam.mx/tabla_contenido_libro.php?id_libro=284)
 
-{{< image src="/wp-uploads/tortilla_on_comal.jpg" alt="Tortilla grilling on a comal" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/tortilla_on_comal.jpg" alt="Tortilla grilling on a comal" position="center" style="border-radius: 50px;" >}}

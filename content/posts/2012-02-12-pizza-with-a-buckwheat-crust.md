@@ -21,7 +21,7 @@ tags:
 
 Shortly after going gluten-free, we tried Bob's Red Mill gluten-free pizza crust. Having lived in New Haven for many years, we like pizza. Bob's didn't measure up, so that was it...until now. This might not be apizza, but as long as we're gluten-free we may have to settle for a bit less.
 
-{{< image src="/wp-uploads/Ready-to-eat.jpg" alt="Ready to eat" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/Ready-to-eat.jpg" alt="Ready to eat" position="center" style="border-radius: 50px;" >}}
 
 Having found a hit with buckwheat pancakes, I decided to try a buckwheat pizza crust. The recipe I adopted was basically the one described [here](http://www.nourishingmeals.com/2009/12/thin-buckwheat-pizza-crust-gluten-free.html), but without the garlic powder.
 
@@ -66,30 +66,30 @@ Having found a hit with buckwheat pancakes, I decided to try a buckwheat pizza c
 
 ### The batter will be surprisingly runny.
 
-{{< image src="/wp-uploads/Buckwheat-batter.jpg" alt="Buckwheat batter" position="center" style="border-radius: 50px;" >}}                  
+{{< image src="/uploads/Buckwheat-batter.jpg" alt="Buckwheat batter" position="center" style="border-radius: 50px;" >}}                  
 
 ### I spread olive oil and cornmeal on the tray
 
-{{< image src="/wp-uploads/Cornmeal-base.jpg" alt="Cornmeal base" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/Cornmeal-base.jpg" alt="Cornmeal base" position="center" style="border-radius: 50px;" >}}
 
 
 ### This is how the batter looked before it went into the oven:
 
-{{< image src="/wp-uploads/Ready-to-pre-bake.jpg" alt="Ready to pre-bake" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/Ready-to-pre-bake.jpg" alt="Ready to pre-bake" position="center" style="border-radius: 50px;" >}}
 
 
 ### and this is how it looked after:
 
-{{< image src="/wp-uploads/Prebaked-crust.jpg" alt="Pre-baked crust" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/Prebaked-crust.jpg" alt="Pre-baked crust" position="center" style="border-radius: 50px;" >}}
 
 
 I was a little sneaky. My kids don’t normally eat carrots, so I grated one and spread it on top of the crust where I could hide it. I did the same with some diced fresh tomatoes:
 
-{{< image src="/wp-uploads/Carrots-and-tomatoes.jpg" alt="Carrots and tomatoes" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/Carrots-and-tomatoes.jpg" alt="Carrots and tomatoes" position="center" style="border-radius: 50px;" >}}
 
 The sauce I used was a combination of homemade red sauce and Trader Joe’s Organic Marinara with no salt added. Other toppings included fresh mozzarella, grated cheddar, and bacon. I added sliced jalapeños to my corner.
 
-{{< image src="/wp-uploads/Ready-to-eat.jpg" alt="Ready to eat" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/Ready-to-eat.jpg" alt="Ready to eat" position="center" style="border-radius: 50px;" >}}
 
 ## **The verdict**
 

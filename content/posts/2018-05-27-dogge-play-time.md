@@ -14,5 +14,5 @@ categories:
 ---
 ### Just the 'pup' having a bit of a play
 
- {{< video src="/wp-uploads/monty-self-play-football.mp4" type="video/mp4" >}}
+ {{< video src="/uploads/monty-self-play-football.mp4" type="video/mp4" >}}
 

@@ -20,7 +20,7 @@ tags:
 
 As if a Yorkshire pudding can be gluten-free: please send suggestions of a suitable name for a GF version of something akin to a Yorkshire pudding.
 
-{{< image src="/wp-uploads/GF-Yorkshire-Pudding.jpg" alt="The pudding, still reasonably puffed up." position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/GF-Yorkshire-Pudding.jpg" alt="The pudding, still reasonably puffed up." position="center" style="border-radius: 50px;" >}}
 
 -----
 -----
@@ -65,7 +65,7 @@ As if a Yorkshire pudding can be gluten-free: please send suggestions of a suita
 - Place in the oven and cook for 20-30 minutes (original flour recipe called for 15-20, mine was in for 30)
 
 
-{{< image src="/wp-uploads/GF-Yorkshire-pud-batter.jpg" alt="The batter should be quite runny" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/GF-Yorkshire-pud-batter.jpg" alt="The batter should be quite runny" position="center" style="border-radius: 50px;" >}}
 
 [^1] The batter should be quite runny before resting.
 
@@ -73,5 +73,5 @@ As if a Yorkshire pudding can be gluten-free: please send suggestions of a suita
 -----
 -----
 
-{{< image src="/wp-uploads/GF-Yorkshire-slice.jpg" alt="A slice: lighter in taste and texture than it looks" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/GF-Yorkshire-slice.jpg" alt="A slice: lighter in taste and texture than it looks" position="center" style="border-radius: 50px;" >}}
 

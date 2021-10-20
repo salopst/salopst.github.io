@@ -95,6 +95,6 @@ ln -sf ln -sf ~/.antigen/repos/https-COLON--SLASH--SLASH-github.com-SLASH-sindre
 
 ### And now we are back to prompt loveliness.
 
-{{< image src="/wp-uploads/Screen-Shot-2015-07-01-at-07.14.35.png" alt="Command prompt lovliness" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/Screen-Shot-2015-07-01-at-07.14.35.png" alt="Command prompt lovliness" position="center" style="border-radius: 50px;" >}}
 
 ### Coloration of the prompt: [http://stephen.yearl.us/terminal-colors/](http://stephen.yearl.us/terminal-colors/)

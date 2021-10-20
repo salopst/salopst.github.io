@@ -18,7 +18,7 @@ tags:
 - food
 ---
 
-{{< image src="/wp-uploads/GF-Graham-crackers.jpg" alt="Graham Crackers" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/GF-Graham-crackers.jpg" alt="Graham Crackers" position="center" style="border-radius: 50px;" >}}
 
 When we wanted a gluten-free graham cracker crust for our [key lime meringue pie](http://stephen.yearl.us/lime-meringue-pie/), we looked to [Gluten-Free Girl](http://glutenfreegirl.com/gluten-free-graham-crackers/) because we wanted a recipe that included the making of graham crackers, rather than a trip to the store for ready-made, GF graham crackers. We followed that recipe pretty closely and came up with crackers that looked like this:
 
@@ -73,6 +73,6 @@ The kids liked them, but I'm going to work with the recipe. It's probably me, or
 
 Once pressed into the dish, the crust looked like this:
 
-{{< image src="/wp-uploads/GF-Graham-crust.jpg" alt="Gluten free Graham Cracker Pie Crust" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/GF-Graham-crust.jpg" alt="Gluten free Graham Cracker Pie Crust" position="center" style="border-radius: 50px;" >}}
 
 The pie was lovely, and disappeared quickly. I'll still work to improve this recipe, though. The crust was a bit dense, which may be because my own measurements of butter and sugar were off, or because the graham crackers I worked with were dense.

@@ -31,4 +31,4 @@ With the aim of full ROM by week 12. Basically it's a balancing act. Too much ac
 And it would appear that external stitches of the Bruner incision counted 30, not the 25 I'd mentioned earlier.
 
 
-{{< image src="/wp-uploads/scar.jpg" alt="Scar" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/scar.jpg" alt="Scar" position="center" style="border-radius: 50px;" >}}

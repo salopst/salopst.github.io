@@ -45,14 +45,14 @@ Due to [recent woes](http://stephen.yearl.us/fsked-home-el-capitan-home-director
 
 And behold! Easy access to a wealth of information, unit conversions, values for scientific formulæ and constants and the...
 
-![](/wp-uploads/wpid-Screen-Shot-2013-07-08-at-17.06.02-5.png)
+![](/uploads/wpid-Screen-Shot-2013-07-08-at-17.06.02-5.png)
 
 
 ## Timer:
 
 - [http://dbader.org/blog/alfred-timer-extension](http://dbader.org/blog/alfred-timer-extension)
 
-![](/wp-uploads/wpid-alfred-timer1.png)
+![](/uploads/wpid-alfred-timer1.png)
 
 Very simple countdown timer. Nothing fancy, practically zero overhead.
 
@@ -61,7 +61,7 @@ Very simple countdown timer. Nothing fancy, practically zero overhead.
 
 [http://www.alfredforum.com/topic/840-evernote-71-search-create-append-text-preview-and-more-all-within-alfred/](http://www.alfredforum.com/topic/840-evernote-71-search-create-append-text-preview-and-more-all-within-alfred/)
 
-![](/wp-uploads/wpid-Screen-Shot-2013-07-08-at-21.07.09-1.png)
+![](/uploads/wpid-Screen-Shot-2013-07-08-at-21.07.09-1.png)
 
 
 ## Onelook:
@@ -70,7 +70,7 @@ Very simple countdown timer. Nothing fancy, practically zero overhead.
 
 Searches [http://www.onelook.com/](http://www.onelook.com/)
 
-![](/wp-uploads/wpid-Screen-Shot-2013-07-08-at-21.35.39-31.png)
+![](/uploads/wpid-Screen-Shot-2013-07-08-at-21.35.39-31.png)
 
 So:
 
@@ -84,4 +84,4 @@ So:
 
 "Translate" + target lang code + phrase
 
-![](/wp-uploads/wpid-Screen-Shot-2013-07-08-at-22.03.06-.png)
+![](/uploads/wpid-Screen-Shot-2013-07-08-at-22.03.06-.png)

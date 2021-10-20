@@ -21,7 +21,7 @@ tags:
 
 My mother seems to have had rather a lot of damsons on her tree this year. This heavy cropping combined with heavy rain over the last few days has lead to some immediate load-reduction on the broken limb. Fsck the impecunious nature of the (lack of?) pruning over recent years.
 
-{{< image src="/wp-uploads/2015-09-15-broken-damson-tree-limg.jpg" alt="Broken damson tree limb" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/2015-09-15-broken-damson-tree-limg.jpg" alt="Broken damson tree limb" position="center" style="border-radius: 50px;" >}}
 
 
 I think some kind of everything-damson is in order. But let's start with a pie. Now, I cannot bake for toffee so this should be fun...
@@ -40,17 +40,17 @@ Right. I half remember beating sugar and butter as the basis for pretty much eve
 
 🎲🎲 Dice! Dough. What sort, I do not know.
 
-{{< image src="/wp-uploads/damson-custard-pie.jpg" alt="Damson custard pie" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/damson-custard-pie.jpg" alt="Damson custard pie" position="center" style="border-radius: 50px;" >}}
 
 Roll out with used wine bottle, and lay over tin/aluminium/kitchen foil, add another layer of foil on top then some bean-like things and bake for 10 minutes at 220 ºC. "It's not smooth," you say? "Bollox!" I say. "I'm new. It's my first day."
 
-{{< image src="/wp-uploads/damson-custard-pie-3.jpg" alt="Damson custard pie (1)" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/damson-custard-pie-3.jpg" alt="Damson custard pie (1)" position="center" style="border-radius: 50px;" >}}
 
 
 #### The jam-like bit:
 Take damsons from tree. Rinse etc. Add some unkonwn apple specie from apple tree to the damson's tree's southern side--- the sour-ish one where the tree swing is hanging. No idea how much of each... just mixed and simmered with brown sugar and a little water until it tasted good, and was reduced to jam. I added some xantham gum to thicken because time was running short. Oh, and some fresh vanilla pod-scraping that I'd soaked in water, but I realise that this was a pretty silly place to put it. It should have been in the custard topping.
 
-{{< image src="/wp-uploads/damson-custard-pie-2.jpg" alt="Damson custard pie" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/damson-custard-pie-2.jpg" alt="Damson custard pie" position="center" style="border-radius: 50px;" >}}
 
 The spread your jam on your blind-baked pie base. Simples. Meanwhile make custard.
 
@@ -67,7 +67,7 @@ The custard, of course, goes over the top of the jam once it is done. It is spri
 
 
 #### Result:
-{{< image src="/wp-uploads/damson-custard-pie-5.jpg" alt="Damson custard pie-- finished" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/damson-custard-pie-5.jpg" alt="Damson custard pie-- finished" position="center" style="border-radius: 50px;" >}}
 
 #### Post scriptum:
 Sweet base. Sweet jam. Not enough custard to balance the thing.

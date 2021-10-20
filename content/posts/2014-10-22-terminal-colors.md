@@ -19,11 +19,11 @@ tags:
 ---
 
 ## Before and after coloration of the pure prompt.
-{{< image src="/wp-uploads/terminal-color-before-after.jpg" alt="Before and after coloration of the pure prompt" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/terminal-color-before-after.jpg" alt="Before and after coloration of the pure prompt" position="center" style="border-radius: 50px;" >}}
 
 - #1. Get the [Tomorow Night Eighties](https://github.com/chriskempson/tomorrow-theme/blob/master/OS%20X%20Terminal/Tomorrow%20Night%20Eighties.terminal) Theme, and
 
 - #2. [View Raw](https://raw.githubusercontent.com/chriskempson/tomorrow-theme/master/OS%20X%20Terminal/Tomorrow%20Night%20Eighties.terminal)
 
 - #3. Saving this file locally, and then applying:
-{{< image src="/wp-uploads/terminal-select-profile.jpg" alt="Terminal select profile" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/terminal-select-profile.jpg" alt="Terminal select profile" position="center" style="border-radius: 50px;" >}}

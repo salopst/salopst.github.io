@@ -15,7 +15,7 @@ categories:
 - Recipes
 ---
 
-{{< image src="/wp-uploads/2018-08-24-rustic-pate.jpg" alt="Gluten Free Homemade Rustic French Pâté" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/2018-08-24-rustic-pate.jpg" alt="Gluten Free Homemade Rustic French Pâté" position="center" style="border-radius: 50px;" >}}
 
 ### Delia Smith's (kinda) --- le pâté grossier
 

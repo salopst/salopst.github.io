@@ -19,7 +19,7 @@ tags:
 - food
 ---
 
-{{< image src="/wp-uploads/GF-Cornbread-final-product.jpg" alt="Gluten-free cornbread" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/GF-Cornbread-final-product.jpg" alt="Gluten-free cornbread" position="center" style="border-radius: 50px;" >}}
 
 ## One can't have Thanksgiving without cornbread!
 
@@ -42,7 +42,7 @@ With almond meal in hand, I surfed up a couple of recipes, and used [this](http:
 
 ## Method
 
-{{< image src="/wp-uploads/GF-Cornbread-batter.jpg" alt="" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/GF-Cornbread-batter.jpg" alt="" position="center" style="border-radius: 50px;" >}}
 
 1. Preheat the oven to 425F/218C
 1. Put 1 tbsp fat in the skillet and place in the oven to heat
@@ -55,4 +55,4 @@ With almond meal in hand, I surfed up a couple of recipes, and used [this](http:
 
 And, voilà!
 
-{{< image src="/wp-uploads/GF-Cornbread-slice.jpg" alt="" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/GF-Cornbread-slice.jpg" alt="" position="center" style="border-radius: 50px;" >}}

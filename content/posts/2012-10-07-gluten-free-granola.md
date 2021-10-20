@@ -20,7 +20,7 @@ tags:
 
 Please, someone, tell me why I did not make granola earlier: for years, I have shied away from purchasing the stuff at the store because it all seems too “fancy” with artificial fruit flavours, etc., that simply do not appeal. What set me to work was seeing “GF granola” on our shopping lists, and realizing just how expensive it is. Really? For what is basically glorified oats? So, I set to; and behold!
 
-{{< image src="/wp-uploads/GF-granola-final-product.jpg" alt="Yummy home-made (gluten-free) granola" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/GF-granola-final-product.jpg" alt="Yummy home-made (gluten-free) granola" position="center" style="border-radius: 50px;" >}}
 
 ## Ingredients AKA **What I used**
 (apologies in advance I did not measure out this recipe with the scale):

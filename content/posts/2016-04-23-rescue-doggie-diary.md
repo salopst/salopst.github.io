@@ -19,7 +19,7 @@ tags:
 - dog
 ---
 
-{{< image src="/wp-uploads/2016-04-14-monty-runs-hillbrae.jpg" alt="Monty the the paddock at Hillbrae" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/2016-04-14-monty-runs-hillbrae.jpg" alt="Monty the the paddock at Hillbrae" position="center" style="border-radius: 50px;" >}}
 
 ## 2016-04-17 Sunday
 Rescue Dog event in Shrewsbury.... thought it was at [Grinshall Animal Rescue](http://www.grinshillanimalrescue.co.uk/), but they were only sponsors, and the event itself was at the Quary in in town. Rather too late in the day to head to that, so went to [Hilbrae Pets Hotel](http://www.hilbrae.co.uk/), about 10 mins away. Spent about 30 mins walking "Monty":
@@ -34,7 +34,7 @@ Rescue Dog event in Shrewsbury.... thought it was at [Grinshall Animal Rescue](h
 - Defo not a working dog-- does not have the eyes
 - Gun shy
 
-{{< image src="/wp-uploads/2016-04-14-montys-gaol.jpg" alt="Puppy's locus of incarceration" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/2016-04-14-montys-gaol.jpg" alt="Puppy's locus of incarceration" position="center" style="border-radius: 50px;" >}}
 
 - Advised that he was last with a farmer, and Monty took to roaming when not supervised
 
@@ -121,7 +121,7 @@ Went out for about 1/2 hour without him. Just left. No fuss. VERY excited when I
 
 Fir the first time he went and put himself to bed... thus leaving the room I was occupying. That's a good sign.
 
-{{< image src="/wp-uploads/2016-04-23-monty-borle-brook.jpg" alt="Monty at Borle Brook" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/2016-04-23-monty-borle-brook.jpg" alt="Monty at Borle Brook" position="center" style="border-radius: 50px;" >}}
 
 ## 2016-04-24 Sunday
 Spent about an hour and a half on the Alveley side (mostly) of the Severn Valley Country Park. No drama to be had at all on the meeting with doggies... all of whom were off leash. Montgomery Montesquieu, AKA The Montster, AKA Monty was, of course, on-lead.

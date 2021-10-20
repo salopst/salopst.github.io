@@ -22,7 +22,7 @@ tags:
 
 Even though this is our first gluten-free Christmas, we didn't want to miss out on the pudding. So, we made our own. I was apprehensive, but need not have been.
 
-{{< image src="/wp-uploads/GF_Xmas_pud.jpg" alt="Gluten-fre Christmas Pudding" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/GF_Xmas_pud.jpg" alt="Gluten-fre Christmas Pudding" position="center" style="border-radius: 50px;" >}}
 
 The basic recipe I followed was [this](http://www.jamieoliver.com/recipes/member-recipes/Gluten%20Free%20Christmas%20Pudding/1414) one. Note that you have to scroll down the page quite a ways to actually reach the recipe.
 

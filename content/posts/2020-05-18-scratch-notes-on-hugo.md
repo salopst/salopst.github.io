@@ -69,7 +69,7 @@ title: Setting GCC 4.2 as the default compiler on Mac OS X Leopard
 >
 >--- [https://gohugo.io/content-management/urls/](https://gohugo.io/content-management/urls/)
 
-- Wordpress uploads were to a location that maps to the regex to `/wp-uploads` in this implementation.
+- Wordpress uploads were to a location that maps to the regex to `/uploads` in this implementation.
 
 - Not sure I like the blockquote rendering, and I'd kind of like to fold in a `<footer>` element. But then I'm getting into the realm of markdown parsing, not hudo HTML styling. Does this matter enough to create a shortcode?, the output of which should be:
 
@@ -83,8 +83,8 @@ title: Setting GCC 4.2 as the default compiler on Mac OS X Leopard
 - Wordpress created static thumbnails. Let's delete these:
 
 ```bash
-  ❯❯  cd ~/code/hugo-sites/salopst.github.io/static/wp-uploads
-.../salopst.github.io/static/wp-uploads on  main
+  ❯❯  cd ~/code/hugo-sites/salopst.github.io/static/uploads
+.../salopst.github.io/static/uploads on  main
  🧠 15GiB/23GiB avec λ=❯ ...
   ❯❯  find . -regex ".*[0-9]x[0-9]*\.jpg$" -exec rm -rf {} \;
 ```
@@ -203,7 +203,7 @@ perhaps use (why is this code block not visible:)
 
 ```hugo
 {\{< figure
-  src="/wp-uploads/Screen-Shot-2018-10-06-at-16.25.06.png"
+  src="/uploads/Screen-Shot-2018-10-06-at-16.25.06.png"
   title="the figure title"
   caption="the figure caption"
   align="aligncenter"
@@ -214,7 +214,7 @@ perhaps use (why is this code block not visible:)
 ```
 
 {{< figure
-  src="/wp-uploads/Screen-Shot-2018-10-06-at-16.25.06.png"
+  src="/uploads/Screen-Shot-2018-10-06-at-16.25.06.png"
   title="the figure title"
   caption="the figure caption"
   align="aligncenter"
@@ -224,9 +224,9 @@ perhaps use (why is this code block not visible:)
   >}}
 
 ```bash
-![pate... the alt text](/wp-uploads/rustic-pate-2.jpg)
+![pate... the alt text](/uploads/rustic-pate-2.jpg)
 ```
-![pate... the alt text](/wp-uploads/rustic-pate-2.jpg)
+![pate... the alt text](/uploads/rustic-pate-2.jpg)
 
 ## actually in this post
 The general template `~/code/hugo-sites/salopst.github.io/layouts/posts/single.html`
@@ -238,13 +238,13 @@ I should probably modify to pick up on something in the frontmatter... see the Y
 
 ```bash
 cd ~/code/yearl.us-bk/public_html/stephen/wp-content/uploads
-mkdir ~/code/hugo-sites/salopst.github.io/wp-uploads
-cp **/*.jpg ~/code/hugo-sites/salopst.github.io/wp-uploads
+mkdir ~/code/hugo-sites/salopst.github.io/uploads
+cp **/*.jpg ~/code/hugo-sites/salopst.github.io/uploads
 ```
 but there are all kinds of media types uploaded, so
 
 ```bash
-cp **/*.* ~/code/hugo-sites/salopst.github.io/wp-uploads
+cp **/*.* ~/code/hugo-sites/salopst.github.io/uploads
 ```
 
 Not forgetting that Wp made many copies of images in different sizes. Might need to break out the imagemagick. Anyway, after flattening out the wp uploads file system, Let's taka a look at the original links. This is pretty typical
@@ -253,7 +253,7 @@ Not forgetting that Wp made many copies of images in different sizes. Might need
 [caption id="attachment_1460" align="aligncenter" width="300"][![audacity-the-second-running](http://stephen.yearl.us/wp-content/uploads/2018/10/Screen-Shot-2018-10-06-at-16.25.06-300x116.png)](http://stephen.yearl.us/wp-content/uploads/2018/10/Screen-Shot-2018-10-06-at-16.25.06.png) audacity-the-second-running[/caption]
 ```
 
-The path is the thing we are interested in `wp-content/uploads/2018/10/`. Strip that, and point it to `~/code/hugo-sites/salopst.github.io/wp-uploads`, and we should be golden.
+The path is the thing we are interested in `wp-content/uploads/2018/10/`. Strip that, and point it to `~/code/hugo-sites/salopst.github.io/uploads`, and we should be golden.
 
 
 

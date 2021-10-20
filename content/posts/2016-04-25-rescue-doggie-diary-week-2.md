@@ -19,7 +19,7 @@ tags:
 - dog
 ---
 
-{{< image src="/wp-uploads/2016-04-26-monty-well-meadow.jpg" alt="Monty free on Well Meadow" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/2016-04-26-monty-well-meadow.jpg" alt="Monty free on Well Meadow" position="center" style="border-radius: 50px;" >}}
 
 - First week here: [http://stephen.yearl.us/rescue-doggie-diary](http://stephen.yearl.us/rescue-doggie-diary)
 

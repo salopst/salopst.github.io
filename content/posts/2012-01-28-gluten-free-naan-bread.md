@@ -19,7 +19,7 @@ tags:
 
 There is a chicken curry bubbling on the stove, saffron rice steaming away in the rice cooker: how can I not think of naan bread?
 
-{{< image src="/wp-uploads/gf-naan-bread-finished.jpg" alt="Gluten-free Naan Bread" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/gf-naan-bread-finished.jpg" alt="Gluten-free Naan Bread" position="center" style="border-radius: 50px;" >}}
 
 I surfed up a recipe for gluten-free naan bread, and this is what I found: 
  [http://www.food.com/recipe/gluten-free-naan-roti-indian-flat-bread-version-1-189334](http://www.food.com/recipe/gluten-free-naan-roti-indian-flat-bread-version-1-189334)
@@ -70,14 +70,14 @@ I spent less than 30 minutes from start to finish, and in the end we had 2 large
 
 
 
-{{< image src="/wp-uploads/gf-naan-bread-pre-bake.jpg" alt="Gluten-free Naan Bread" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/gf-naan-bread-pre-bake.jpg" alt="Gluten-free Naan Bread" position="center" style="border-radius: 50px;" >}}
 
 
 
 ### Ready to bake!
 
 
-{{< image src="/wp-uploads/gf-naan-bread-baking.jpg" alt="Gluten-free Naan Bread" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/gf-naan-bread-baking.jpg" alt="Gluten-free Naan Bread" position="center" style="border-radius: 50px;" >}}
 
 
 

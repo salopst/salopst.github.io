@@ -22,7 +22,7 @@ tags:
 
 We can thank [STS-133](http://www.nasa.gov/mission_pages/shuttle/shuttlemissions/sts133/main/index.html) for our family's appreciation of key lime pie. While we did see it launch in the end, our first journey to Florida included a trip to the Keys while we waited to hear whether the mission would go ahead. That first trip may end up being the first and last time we sample proper Key Lime Pie, but we'll continue to experiment on our own versions that bring us back to Islamorada. The current recipe is not key lime pie, even if it was inspired by that dessert. First, key limes were out of season and therefore not available. Secondly, we decided to add a meringue using the leftover egg whites. That and Joseph was very much into the 'science' of meringues.
 
-{{< image src="/wp-uploads/GF-lime-meringue-finished.jpg" alt="Key lime meringue pie" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/GF-lime-meringue-finished.jpg" alt="Key lime meringue pie" position="center" style="border-radius: 50px;" >}}
 
  The recipe we followed was based on [this](http://allrecipes.com/recipe/easy-key-lime-pie-i/):
 
@@ -40,7 +40,7 @@ We can thank [STS-133](http://www.nasa.gov/mission_pages/shuttle/shuttlemissions
 - Whip the egg whites (after adding some green food coloring to keep in theme) and 1/4 cup of icing/confectioners' sugar until stiff, and forming peaks. Spread on top of the pie.
 - Bake until golden brown (10-15 minutes)
 
-{{< image src="/wp-uploads/GF-lime-pie-cooked.jpg" alt="Key lime meringue pie" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/GF-lime-pie-cooked.jpg" alt="Key lime meringue pie" position="center" style="border-radius: 50px;" >}}
 
 
 Right, so our crust was a bit large, and the consistency of the crust was such that it flopped over onto the pie filling. We rather liked the effect, one child claiming that it looked a bit like some weird planetoid. In any event, we covered all of this with the colored meringue.

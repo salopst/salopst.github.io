@@ -19,7 +19,7 @@ tags:
 
 They took out 25 stitches today and replaced them with the butterfly stitches to reduce superficial scaring. Nice of them, but skin scars do no really matter much to me.)
 
-{{< image src="/wp-uploads/wpid-Gray4211.png" alt="Cross-section of the antebrachium" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/wpid-Gray4211.png" alt="Cross-section of the antebrachium" position="center" style="border-radius: 50px;" >}}
 
 ## Anyway the big stuff:
 
