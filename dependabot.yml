@@ -1,0 +1,22 @@
+# 2021-10-20
+#https://github.com/dependabot
+# https://docs.github.com/en/code-security/supply-chain-security/keeping-your-dependencies-updated-automatically/configuration-options-for-dependency-updates
+
+version: 2
+updates:
+
+  # Update all the GitHub Actions
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+        interval: "daily"
+        time: "05:00"
+    labels: ["github-actions", "automerge"]
+
+  # Update all Git Submodules (the theme in this case)
+  - package-ecosystem: "gitsubmodule"
+    directory: "/"
+    schedule:
+        interval: "daily"
+        time: "05:00"
+    labels: ["submodule", "automerge"]
