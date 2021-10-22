@@ -9,10 +9,11 @@ slug: gluten-free-homemade-rustic-french-pate
 title: Gluten Free Homemade Rustic French Pâté
 wordpress_id: 1433
 categories:
-- French
-- Gluten free
-- good life
+- Food
 - Recipes
+tags:
+- French
+- gluten free
 ---
 
 {{< image src="/uploads/2018-08-24-rustic-pate.jpg" alt="Gluten Free Homemade Rustic French Pâté" position="center" style="border-radius: 50px;" >}}

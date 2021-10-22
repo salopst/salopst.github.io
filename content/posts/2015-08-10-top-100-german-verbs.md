@@ -8,7 +8,6 @@ slug: top-100-german-verbs
 title: Top 100 German verbs
 wordpress_id: 991
 categories:
-- German
 - Language
 tags:
 - words
