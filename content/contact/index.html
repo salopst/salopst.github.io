@@ -5,14 +5,20 @@ title: Get in Touch
 ---
 
 <div class="contact-form">
-  <!--
-Following: [https://docs.netlify.com/forms/setup/](https://docs.netlify.com/forms/setup/)
--->
-  <div class="form-field">
-    <label for="name">Name: 
-      <input type="text" name="name" placeholder="name..."/>
-    </label>
-  </div>
+  <!--Following: [https://docs.netlify.com/forms/setup/](https://docs.netlify.com/forms/setup/)-->
+  <form name="contact" method="POST" action="/thankyou"
+        data-netlify="true" 
+        data-netlify-honeypot="robots">
+    <div class="form-field" style="visibility:hidden">
+      <label for="robots">Just for robots
+        <input type="text" name="robots" value=""/>
+      </label>
+    </div>-
+    <div class="form-field">
+      <label for="name">Name: 
+        <input type="text" name="name" placeholder="name..."/>
+      </label>
+    </div>
     <div class="form-field">
       <label for="email">Email: 
         <input type="email" name="email" placeholder="email@example.com"/>
@@ -23,17 +29,14 @@ Following: [https://docs.netlify.com/forms/setup/](https://docs.netlify.com/form
         <textarea name="message" placeholder="Nothing too disparaging, please..." 
           style="height:250px; width:500px"></textarea>
     </div>
-    <div class="form-field">
-      <button type="submit">Send</button>
+    <div class="form-submit">
+      <button type="submit" name="submit" class="form-button" id="submit">Send</button>
     </div>
-
     <div data-netlify-recapture="true"></div>
     <!--
     <div class="form-field">
       <input type="file" name="file-upload" id="file-upload" placeholder="Upload file?" />
     </div>
-
-    <div data-netlify-recapture="true"></div>
-  -->
+    -->
   </form>
 </div>

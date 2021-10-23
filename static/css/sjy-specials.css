@@ -62,17 +62,17 @@ credit: https://yihui.org/en/2021/06/css-full-width/
 /* Code and syntax highlighting */
 figure.code {
   border-radius: 5px;
-  border: 1px solid #ddd;
+  border: 1px solid var(--nord-snow-storm-5);
   margin-bottom: 16px;
 }
 
 figure.code figcaption {
   padding: 10px 15px;
-  color: #333;
-  background-color: #f5f5f5;
+  color: var(--nord-polar-night-0);
+  background-color: var(--nord-snow-storm-5);
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid var(--nord-snow-storm-5);
 }
 
 figure.code figcaption span {
@@ -104,7 +104,7 @@ ul.cloud a {
   */
   --size: 4;
   --color: var(--nord-aurora-11);
-  color: var(--color);
+  color: var(--nord-snow-storm-5);
   font-size: calc(var(--size) * 0.25rem + 0.5rem);
   display: block;
   padding: 0.125rem 0.25rem;
@@ -148,7 +148,7 @@ ul.cloud a::before {
   left: 50%;
   width: 0;
   height: 100%;
-  background: var(--color);
+  background: var(--nord-snow-storm-5);
   transform: translate(-50%, 0);
   opacity: 0.15;
   transition: width 0.25s;
@@ -165,8 +165,48 @@ ul.cloud a:hover::before {
   }
 }
 
+/* CONTACT FORM */
+/*
+<div class="contact-form">
+  <!--Following: [https://docs.netlify.com/forms/setup/](https://docs.netlify.com/forms/setup/)-->
+  <form name="contact" method="POST" action="/thankyou"
+        data-netlify="true" 
+        data-netlify-honeypot="robots">
+    <div class="form-field" 
 
+        <div class="form-field">
+      <label style="display: flex; align-items: top;">Comment:  </label>
+        <textarea name="message" placeholder="Nothing too disparaging, please..." 
+          style="height:250px; width:500px"></textarea>
+    </div>
+    <div class="form-submit">
+      <button type="submit" name="submit" class="form-button" id="submit">Send</button>
+    </div>
 
+*/
+
+.contact-form {
+  margin: 80px auto 0;
+  max-width: 900px;
+}
+.contact-form h1 {
+  font-size: 40px;
+}
+.contact-form .form-field {
+  margin-top: 20px;
+}
+.contact-form .form-label {
+  display: block;
+  margin-bottom: 0.5em;
+}
+.contact-form .form-button{
+  background-color: var(--nord-frost-9);
+  display:block;
+  color: var(--nord-polar-night-0)
+  margin: 5px;
+  padding: 5px;
+  border-radius: 5pc;
+}
 
 
 
