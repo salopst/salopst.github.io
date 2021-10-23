@@ -8,8 +8,7 @@ slug: buckwheat-pancakes
 title: Buckwheat pancakes
 wordpress_id: 386
 categories:
-- Food
-- Recipes
+- Food and Recipes
 tags:
 - buckwheat
 - gluten-free

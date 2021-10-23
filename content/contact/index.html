@@ -6,35 +6,35 @@ https://www.youtube.com/watch?v=zcDHz_JiCRY
 
 
 <div class="contact-form">
+  <!--button's @value should be same as form@name-->
   <form name="contact"method="POST"
         data-netlify="true" netlify-honeypot="robots" netlify>
     <!--https://app.netlify.com/sites/salopst/forms-->
-    <p class="form-field" style="visibility:hidden">
+    <div class="form-field" style="visibility:hidden">
       <label for="robots">Just for robots
         <input type="text" name="robots" value=""/>
       </label>
-    </p>
-    <p class="form-field">
+    </div>
+    <div class="form-field">
       <label for="name">Name: 
         <input type="text" name="name" placeholder="name..."/>
       </label>
-    </p>
-    <p class="form-field">
+    </div>
+    <div class="form-field">
       <label for="email">Email: 
         <input type="email" name="email" placeholder="email@example.com"/>
       </label>
-    </p>
-    <p class="form-field">
+    </div>
+    <div class="form-field">
       <label style="display: flex; align-items: top;">Comment:  </label>
         <textarea name="message" placeholder="Nothing too disparaging, please..." style="height:250px; width:500px"></textarea>
-    </p>
-    <p class="form-field">
-      <input type="file" name="file-upload" id="file-upload" placeholder="Upload file?">wank</input>
-    </p>
-    <div data-netlify-recapture="true">
-      <p class="form-field">
-        <button type="submit">Send</button>
-      </p>
     </div>
+    <div class="form-field">
+      <input type="file" name="file-upload" id="file-upload" placeholder="Upload file?" />
+    </div>
+      <div class="form-field">
+        <button type="submit" value="contact">Send</button>
+    </div>
+    <div data-netlify-recapture="true"></div>
   </form>
 </div>
