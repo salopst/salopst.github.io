@@ -30,6 +30,6 @@ nautilus -q
 
 `F4` toggles.
 
-Lovely stuff. One minor quibbe, though: whilst navigation via the GUI will change the "`PWD`" at the prompt, it does not work the other way around. Still, this will prove to be super useful. **EDIT** This is an open issue: https://github.com/flozz/nautilus-terminal/issues/21
+Lovely stuff. One minor quibbe, though: whilst navigation via the GUI will change the "`PWD`" at the prompt, it does not work the other way around. Still, this will prove to be super useful. **EDIT** This is an open issue: [https://github.com/flozz/nautilus-terminal/issues/21](https://github.com/flozz/nautilus-terminal/issues/21)
 
 {{< image src="/img/uploads/2021-10-12-gnome-nautilus-terminal.png" alt="Terminal prompt in GNOME Terminal" position="center" style="border-radius: 30px;" >}}
