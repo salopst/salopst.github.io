@@ -1,25 +1,18 @@
 ---
 date: 2021-09-23
+lastMod:
 title: Get in Touch
 ---
-https://www.youtube.com/watch?v=zcDHz_JiCRY
-
 
 <div class="contact-form">
-  <!--button's @value should be same as form@name-->
-  <form name="contact"method="POST"
-        data-netlify="true" netlify-honeypot="robots" netlify>
-    <!--https://app.netlify.com/sites/salopst/forms-->
-    <div class="form-field" style="visibility:hidden">
-      <label for="robots">Just for robots
-        <input type="text" name="robots" value=""/>
-      </label>
-    </div>
-    <div class="form-field">
-      <label for="name">Name: 
-        <input type="text" name="name" placeholder="name..."/>
-      </label>
-    </div>
+  <!--
+Following: [https://docs.netlify.com/forms/setup/](https://docs.netlify.com/forms/setup/)
+-->
+  <div class="form-field">
+    <label for="name">Name: 
+      <input type="text" name="name" placeholder="name..."/>
+    </label>
+  </div>
     <div class="form-field">
       <label for="email">Email: 
         <input type="email" name="email" placeholder="email@example.com"/>
@@ -27,14 +20,20 @@ https://www.youtube.com/watch?v=zcDHz_JiCRY
     </div>
     <div class="form-field">
       <label style="display: flex; align-items: top;">Comment:  </label>
-        <textarea name="message" placeholder="Nothing too disparaging, please..." style="height:250px; width:500px"></textarea>
+        <textarea name="message" placeholder="Nothing too disparaging, please..." 
+          style="height:250px; width:500px"></textarea>
     </div>
+    <div class="form-field">
+      <button type="submit">Send</button>
+    </div>
+
+    <div data-netlify-recapture="true"></div>
+    <!--
     <div class="form-field">
       <input type="file" name="file-upload" id="file-upload" placeholder="Upload file?" />
     </div>
-      <div class="form-field">
-        <button type="submit" value="contact">Send</button>
-    </div>
+
     <div data-netlify-recapture="true"></div>
+  -->
   </form>
 </div>
