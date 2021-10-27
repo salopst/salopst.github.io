@@ -1,0 +1,26 @@
+/* CONTACT FORM */
+.contact-form {
+  margin: 80px auto 0;
+  max-width: 900px;
+}
+.contact-form h1 {
+  font-size: 40px;
+}
+.contact-form .form-field {
+  margin-top: 20px;
+}
+.contact-form .form-submit {
+  margin-top: 20px;
+}
+.contact-form .form-label {
+  display: block;
+  margin-bottom: 0.5em;
+}
+.contact-form .form-button{
+  background-color: var(--nord-frost-9);
+  display:block;
+  color: var(--nord-polar-night-0)
+  margin: 5px;
+  padding: 5px;
+  border-radius: 5pc;
+}
