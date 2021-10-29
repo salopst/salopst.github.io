@@ -145,8 +145,10 @@ posts = ":slug/"
     theme = "#2e3440"
 
   [params.logo]
-    logoText     = " ~"
-    logoHomeLink = "/"
+    logoImage     = "/favicon_io/favicon-32x32.png"
+    logoAlt       = "Home"
+    #logoText     = " ~"
+    #logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = true
     # Set to a valid CSS color to change the cursor in the logo.
@@ -208,17 +210,22 @@ posts = ":slug/"
 
 [menu]
   [[menu.main]]
+    identifier = "home"
+    name       = "Home"
+    url        = "/"
+  [[menu.main]]
     identifier = "posts"
     name       = "Posts"
     url        = "posts/"
   [[menu.main]]
-    identifier = "about"
-    name       = "About"
-    url        = "about/"
-  [[menu.main]]
     identifier = "tag-cloud"
     name       = "Tags"
     url        = "tagcloud/"
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "about/"
+
 
 
 ### SIMPLE JS SEARCH

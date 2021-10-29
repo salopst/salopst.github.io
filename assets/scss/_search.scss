@@ -1,8 +1,11 @@
 /* SEARCH  */
-#search-input{
-  // color: $nord-polar-night-3;
-  // background-color: #232425;
 
+
+.search-box{
+  //
+}
+
+#search-input{
   @media (prefers-color-scheme: dark) {
     background: $dark-background-header;
     color: inherit;
@@ -10,27 +13,24 @@
 
   @media (prefers-color-scheme: light) {
     background: $light-background-header;
+    color: inherit;
   }
 
-
-
-
-  outline: none;
-  border: 0px, none, transparent;
+  outline: 0;
+  border: 0;
   width: 100px;
   -webkit-transition: width .35s ease-in-out;
   transition: width .35s ease-in-out;
-  
 }
 
 #search-input:focus{
-  outline: none;
-  border: 0, none, transparent;
-  /* font-size: 200% !important; */
+  outline: 0;
+  border: 0;
 }
 
 input[type=text]:focus {
   width: 250px;
+  outline: none;
   border: 0, none, transparent;
 }
 

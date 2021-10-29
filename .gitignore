@@ -8,6 +8,8 @@
 # rando copies of files
 *(*
 
+**/.obsidian
+
 # api keys and secrets
 *.env
 apikeys.json

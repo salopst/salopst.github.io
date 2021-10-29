@@ -1,15 +1,27 @@
-<a href="{{ if .Site.Params.Logo.LogoHomeLink }}{{ .Site.Params.Logo.LogoHomeLink }}{{else}}{{ .Site.BaseURL }}{{ end }}" style="text-decoration: none;">
-    <div class="logo">
-        {{ if .Site.Params.Logo.path }}
-            <img src="{{ .Site.Params.Logo.path }}" alt="{{ .Site.Params.Logo.alt }}" />
-        {{ else }}
-            <span class="logo__mark">></span>
-            <span class="logo__text">{{ with .Site.Params.Logo.logoText }}{{ . }}{{ else }}hello{{ end }}</span>
-            <span class="logo__cursor" style=
-                  "{{ with.Site.Params.Logo.logoCursorDisabled }}visibility:hidden;{{ end }}
-                   {{ with.Site.Params.Logo.logoCursorColor    }}background-color:{{ . }};{{ end }}
-                   {{ with.Site.Params.Logo.logoCursorAnimate  }}animation-duration:{{ . }};{{ end }}">
-            </span>
-        {{ end }}
-    </div>
-</a>
+<div class="logo" style="margin-top: 10px;">
+    <a href="{{ if .Site.Params.Logo.LogoHomeLink }}{{ .Site.Params.Logo.LogoHomeLink }}{{else}}{{ .Site.BaseURL }}{{ end }}" style="text-decoration: none;" tabindex="-1">
+
+    {{ if .Site.Params.Logo.LogoPath }}
+        <img src="{{ .Site.Params.Logo.Logo.path }}" alt="{{ .Site.Params.Logo.logo.alt }}" />
+    {{ else }}    
+    <!--<img src="{{ .Site.Params.Logo.logoImage }}" alt="{{ .Site.Params.Logo.logoAlt }}">-->
+        <span class="logo__mark" style="flex:auto">   ~/{{ .File.Dir }}
+        </span>
+       
+        <span class="logo__text">{{ with .Site.Params.Logo.logoText }}{{ . }}
+            {{ else }}{{ end }}
+        </span>
+
+        <span class="logo__cursor" style=
+                "{{ with.Site.Params.Logo.logoCursorDisabled }}visibility:hidden;{{ end }}
+                {{ with.Site.Params.Logo.logoCursorColor    }}background-color:{{ . }};{{ end }}
+                {{ with.Site.Params.Logo.logoCursorAnimate  }}animation-duration:{{ . }};{{ end }}">
+                
+        </span>
+    </a>    
+        {{ partial "search-form.html" .}}
+     
+    {{ end }}
+    {{ partial "search-index.html" . }}
+</div>
+

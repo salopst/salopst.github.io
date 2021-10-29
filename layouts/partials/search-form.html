@@ -3,12 +3,19 @@
   action='{{ with .GetPage "/search" }}{{.Permalink}}{{end}}' 
   method="get">
   <label hidden for="search-input">Search...</label>
-  <input type="text" 
+  <input  
+    tabindex="0" 
+    type="text" 
     id="search-input" 
+    class="search-input"
     name="query"
-    placeholder="Search...">
-  <input type="submit" value="search">
+    placeholder="...search?">
+
+</input>
+    <!--
+  <button type="submit" value="search" class="fas fa-search">
   <i class="fas fa-search"></i>
+  -->
 </form>
 </div>
 
