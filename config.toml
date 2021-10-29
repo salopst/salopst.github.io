@@ -18,7 +18,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
  googleAnalytics = "UA-115768355-2"
  # https://www.google.com/recaptcha/admin/site/478495144/settings
  g_recaptcha_data_sitekey = "6LeoQYUcAAAAADkkd9v9JNkBd_aiVj7m4_lsvHaf"
- disqusShortname = "usyearlsjy"
+ #disqusShortname = "usyearlsjy"
 
 archetypeDir = "archetypes"
 contentDir   = "content"
