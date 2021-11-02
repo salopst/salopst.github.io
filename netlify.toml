@@ -16,7 +16,7 @@
 
   # Default build command.
   # command = "echo 'default context'"
-  command = "hugo --gc --minify"
+  command = "hugo"
 
 
 [build.environment]
