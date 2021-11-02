@@ -1,114 +1,189 @@
 {"media":[
+  { "title": "Gays got married",
+    "author": "Trevor Moore",
+    "album": "Drunk texts to myself",
+    "date": "2013",
+    "yturl": "https://www.youtube.com/embed/s7YW045deBY",
+    "type": "music",
+    "tags": ["comedy" , "parody", "country"]
+    },
+  { "title": "Epoch",
+    "author": "Dye O",
+    "album": "Epoch (EP)",
+    "date": 2019,
+    "yturl": "https://www.youtube.com/watch?v=urXMh9em93I",
+    "type": "music",
+    "tags": ["electronic", "house"]
+  },
+  {
+    "title":"Adam Buxton talks to Jim Moir (Vic Reeves)",
+    "author": "Adam Buxton",
+    "album": "Adam Buxton Podcast #162",
+    "date": "2021-09-01",
+    "yturl": "https://www.adam-buxton.co.uk/podcasts/wmcgmfe7zj7chps-89fa4-2e48e-rwzy8-824b8-4mdjd-2hcs8-chrb2",
+    "type": "potcast",
+    "tags": ["Podcast", "spoken word", "comedy"]
+  },
+  { "title": "Time is up (feat. Diplo)",
+    "author": "Poppy",
+    "album": "Am I a girl?",
+    "date": 2018,
+    "yturl": "https://www.youtube.com/watch?v=gg2pS9KN28U",
+    "type": "music",
+    "tags": ["pop"]
+  },
+  {
+    "title": "Pinball Wizard",
+    "author": "The Who",
+    "album": "Pinball Wizard",
+    "date": 1975,
+    "yturl": "https://www.youtube.com/watch?v=4AKbUm8GrbM",
+    "type": "music",
+    "tags": ["70s", "Rock"]
+  },
 {
     "title": "Listen to your heart",
-    "band": "Little River Band",
+    "author": "Little River Band",
     "album": "The Karate Kid, Part III: Original Motion Picture Soundtrack",
-    "released": 1989,
+    "date": 1989,
     "yturl": "https://www.youtube.com/watch?v=RRCXeWV-mEE",
-    "type": "80s"
+    "type": "music",
+    "tags": "80s"
   },
   {
     "title": "Óró Sé Do Bheatha 'bhaile",
-    "band": "Sinead O'Connor",
+    "author": "Sinead O'Connor",
     "album": "Sean-Nós Nua",
-    "released": 2002,
+    "date": 2002,
     "yturl": "https://www.youtube.com/watch?v=4Sje2VYw99A",
-    "type": ["world", "irish", "folk"]
+    "type": "music",
+    "tags": ["world", "irish", "folk"]
   },
   {
+    "title": "Alors On Danse",
+    "author": "Stromae",
+    "album": "Alors On Danse",
+    "date": 2009,
+    "yturl": "https://www.youtube.com/watch?v=yvauhZzdeAM",
+    "type": "music",
+    "tags": ["dance", "french", "folk"]
+  },
+  {
+    "title": "Deewani Mastani",
+    "author": "Shreya Ghoshal",
+    "album": "Bajirao Mastani (movie)",
+    "date": 2009,
+    "yturl": "https://youtu.be/pzMZif1Jg6k?t=62",
+    "type": "music",
+    "tags": ["world", "indian", "bollywood"]
+  },
+
+  {
     "title": "Óró Sé Do Bheatha Bhaile",
-    "band": "Seo Linn",
-    "album": "Seachtain na Gaeilge",
-    "released": 2016,
+    "author": "Seo Linn",
+    "album": "Seachtain na Gaeilge (live)",
+    "date": 2016,
     "yturl": "https://www.youtube.com/watch?v=bzXswoAUi0U",
-    "type": ["world", "irish", "folk"]
+    "type": "music",
+    "tags": ["world", "irish", "folk"]
   },  
 {
     "title": "Singularity",
-    "band": "New World Order",
+    "author": "New World Order",
     "album": "Singularity",
-    "released": null,
+    "date": null,
     "yturl": "https://www.youtube.com/watch?v=kl_kyhwCDtY&lc",
-    "type": "jpop"
+    "type": "music",
+    "tags": "jpop"
   },
 {
     "title": "Butterfly",
-    "band": "Miyavi",
+    "author": "Miyavi",
     "album": "No Sleep Till Tokyo",
-    "released": 2019,
+    "date": 2019,
     "yturl": "https://www.youtube.com/watch?v=c-DvcYWe9dU",
-    "type": "jpop"
+    "type": "music",
+    "tags": "jpop"
   },
 {
     "title": "Have a nice day",
-    "band": "New World Order",
+    "author": "New World Order",
     "album": null,
-    "released": null,
+    "date": null,
     "yturl": "https://www.youtube.com/watch?v=_mkiGMtbrPM",
-    "type": "jpop"
+    "type": "music",
+    "tags": "jpop"
   },
 {
     "title": "Gypsy love",
-    "band": "Light in Babylon",
-    "album": null,
-    "released": null,
+    "author": "Light in Babylon",
+    "album": "Live",
+    "date": null,
     "yturl": "https://www.youtube.com/watch?v=1GMFE1qriAE",
-    "type": "world"
+    "type": "music",
+    "tags": "world"
   },
   {
     "title": "Hinech Yafa",
-    "band": "Light in Babylon",
+    "author": "Light in Babylon",
     "album": null,
-    "released": null,
+    "date": null,
     "yturl": "https://www.youtube.com/watch?v=aKJvbTEnp0I",
-    "type": "world"
+    "type": "music",
+    "tags": "world"
   },
 {
     "title": "Tamacun",
-    "band": "Rodrigo y Gabriela",
+    "author": "Rodrigo y Gabriela",
     "album": null,
-    "released": null,
+    "date": null,
     "yturl": "https://www.youtube.com/watch?v=l-qgum7hFXk",
-    "type": ["world", "mexico", "flamenco"]
+    "type": "music",
+    "tags": ["world", "mexico", "flamenco"]
   },
   {
-  "title": "The Song of the Golden Dragon",
-  "band": "Estas Tonne",
-  "album": "Live. Buskers Festival Stadtspektakel in Landshut",
-  "released": 2011,
-  "yturl": "https://www.youtube.com/watch?v=7gphiFVVtUI",
-  "type": ["world", "flamenco"]
+    "title": "The Song of the Golden Dragon",
+    "author": "Estas Tonne",
+    "album": "Live. Buskers Festival Stadtspektakel in Landshut",
+    "date": 2011,
+    "yturl": "https://www.youtube.com/watch?v=7gphiFVVtUI",
+    "type": "music",
+    "tags": ["world", "flamenco"]
 },
 {
     "title": "Atemlos durch die Nacht",
-    "band": "Helene Fischer",
+    "author": "Helene Fischer",
     "album": null,
-    "released": null,
+    "date": null,
     "yturl": "https://www.youtube.com/watch?v=haECT-SerHk",
-    "type": ["german", "pop", "language-learning"]
+    "type": "music",
+    "tags": ["german", "pop", "language-learning"]
   },
   {
     "title": "Voglio andare a vivere in campagna",
-    "band": "Tototo Cotugno",
+    "author": "Tototo Cotugno",
     "album": "Voglio andare a vivere in campagna",
-    "released": 1995,
+    "date": 1995,
     "yturl": "https://www.youtube.com/watch?v=pLFc6X1xyBA",
-    "type": ["italian", "pop", "language-learning"]
+    "type": "music",
+    "tags": ["italian", "pop", "language-learning"]
   },
   {
     "title": "Young Ned of the hill",
-    "band": "The Pogues",
+    "author": "The Pogues",
     "album": "Peace and Love",
-    "released": 1989,
+    "date": 1989,
     "yturl": "https://www.youtube.com/watch?v=AHXHJfcV7Ek",
-    "type": ["irish", "rock", "rousing"]
+    "type": "music",
+    "tags": ["irish", "rock", "rousing"]
   },
   {
     "title": "Business Time",
-    "band": "Flight of the Conchords",
+    "author": "Flight of the Conchords",
     "album": null,
-    "released": null,
+    "date": null,
     "yturl": "https://www.youtube.com/watch?v=WGOohBytKTU",
-    "type": ["humour", "parody"]
+    "type": "music",
+    "tags": ["humour", "parody"]
   }
 ]}
