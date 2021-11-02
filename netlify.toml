@@ -90,9 +90,9 @@
   to = "https://reddit.com"
   status = 200
   force = true # COMMENT: ensure that we always redirect
-  [redirects.headers]
-    X-From = "https://stephen.yearl.us"
-    X-Fake = "Io lo voglio sapere!"
+  headers = {X-From = "https://stephen.yearl.us"}
+    
+# X-Fake = "Io lo voglio sapere!"
 
   
 
