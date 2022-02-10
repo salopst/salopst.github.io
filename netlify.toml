@@ -90,10 +90,11 @@
   to = "https://reddit.com"
   status = 200
   force = true # COMMENT: ensure that we always redirect
-  headers = {X-From = "https://stephen.yearl.us"}
+  headers = {X-From = "https://stephen.yearl.us", x-fake = "Io lo voglio sapere!"}
     
-# X-Fake = "Io lo voglio sapere!"
-
+  # [redirects.headers]
+  #   X-From = "https://stephen.yearl.us"
+  #   x-api-key= "TEST_API_KEY"
   
 
   # The default HTTP status code is 301, but you can define a different one.
