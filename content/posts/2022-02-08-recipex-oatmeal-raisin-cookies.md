@@ -1,9 +1,10 @@
 ---
 title: Oatmeal-Raisin Cookies Recipe
+title: oatmeal-raisin-cookie-recipe
 date: 2022-02-08T07:33:14+0000
 author: yearluk
 origin: scratch
-draft: true
+draft: false
 categories:
 - Food
 - recipies
