@@ -1,7 +1,7 @@
 ---
 title: "what happens why you buy from your own Amazon Affiliate links?"
 slug: buying-from-your-own-amazon-affiliate-links
-date: 0101-01-001T01:01:01+01:01
+date: 0101-01-01T01:01:01+01:01
 layout: post
 draft: false
 author: yearluk
@@ -23,11 +23,10 @@ Here are some products that I've either purchased or am thinking about purchasin
 ## Gifts
 
 ### Lynx Africa and Marmite
+
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=yearlus-21&language=en_GB&marketplace=amazon&region=GB&placement=B08H5TJXYY&asins=B08H5TJXYY&linkId=fef909ca25abd328a42546015400a9c7&show_border=true&link_opens_in_new_window=true"></iframe>
 
-
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=yearlus-21&language=en_GB&marketplace=amazon&region=GB&placement=B01H2TO72S&asins=B01H2TO72S&linkId=558e32a2258a087415144727a94e052f&show_border=true&link_opens_in_new_window=true"></iframe>
-
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=yearlus-21&language=en_GB&marketplace=amazon&region=GB&placement=B07XFT48VL&asins=B07XFT48VL&linkId=4a5b71b20f97b3a525699ca30571f2ef&show_border=true&link_opens_in_new_window=true"></iframe>
 
@@ -37,61 +36,74 @@ Here are some products that I've either purchased or am thinking about purchasin
 ## Food
 
 ### Veetee Mega Basmati Extra Long Premium Rice (5kg)
+
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=yearlus-21&language=en_GB&marketplace=amazon&region=GB&placement=B0792D4B2W&asins=B0792D4B2W&linkId=fd21fbfc344dcdd17921f173961aa77d&show_border=true&link_opens_in_new_window=true"></iframe>
 
 ### L-Arginine L-Citrulline Complex (1000 mg)
+
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=yearlus-21&language=en_GB&marketplace=amazon&region=GB&placement=B01DYO7MC2&asins=B01DYO7MC2&linkId=723e9446e8c15debe278f8c15a08761e&show_border=true&link_opens_in_new_window=true"></iframe>
 
 ### Zipvit Magnesium 500mg, 90 Vegan Tablets. (3 Months Supply)
+
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=yearlus-21&language=en_GB&marketplace=amazon&region=GB&placement=B06Y2HS8L8&asins=B06Y2HS8L8&linkId=33c0157fd1bcd347fa7af7fbc2086864&show_border=true&link_opens_in_new_window=true"></iframe>
 
 ### Miracle Greens CoQ10 Complex - 300mg Max Strength, 120 Capsules
+
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=yearlus-21&language=en_GB&marketplace=amazon&region=GB&placement=B095STZGW1&asins=B095STZGW1&linkId=228a9f639414bbacf83c4dc2169aa7f9&show_border=true&link_opens_in_new_window=true"></iframe>
 
 ### Hela German Sauce Curry Ketchup BBQ Currywurst Tomato Fries Burger HOT Spicy (800ml)
+
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=yearlus-21&language=en_GB&marketplace=amazon&region=GB&placement=B003RGCIWM&asins=B003RGCIWM&linkId=1b32ac21131325f8c66b3f90e01b7c7c&show_border=true&link_opens_in_new_window=true"></iframe>
 
-
 ### Ras El Hanout Moroccon spice blend
+
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=yearlus-21&language=en_GB&marketplace=amazon&region=GB&placement=B06XBBJBM8&asins=B06XBBJBM8&linkId=fc521ff8fef6a8ab60f857bfc3ca8031&show_border=true&link_opens_in_new_window=true"></iframe>
 
 -----
 -----
+
 ## Home and garden
 
 ### Command pultipurpose hanging hook thingies
+
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=yearlus-21&language=en_GB&marketplace=amazon&region=GB&placement=B01C6XJ1MG&asins=B01C6XJ1MG&linkId=96f49d321a4f75b40baa4d181337dc4f&show_border=true&link_opens_in_new_window=true"></iframe>
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=yearlus-21&language=en_GB&marketplace=amazon&region=GB&placement=B07YWTWJF2&asins=B07YWTWJF2&linkId=2b178457326e8958c8f09a88fde0e176&show_border=true&link_opens_in_new_window=true"></iframe>
 
 ### Radiator insulation foil
+
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=yearlus-21&language=en_GB&marketplace=amazon&region=GB&placement=B00GUDVUXW&asins=B00GUDVUXW&linkId=3d0498d3ee5aff09070a4e3582242704&show_border=true&link_opens_in_new_window=true"></iframe>
 
 ### Daffodil bulbs
+
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=yearlus-21&language=en_GB&marketplace=amazon&region=GB&placement=B00F6YUP5A&asins=B00F6YUP5A&linkId=6b3a54b411861f4fc128dafa1332dd56&show_border=true&link_opens_in_new_window=true"></iframe>
 
-
 ### Mixture of Spring Bulbs
+
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=yearlus-21&language=en_GB&marketplace=amazon&region=GB&placement=B00F3X9V04&asins=B00F3X9V04&linkId=b3707cba1adb0291d0dd1d78159d9c24&show_border=true&link_opens_in_new_window=true"></iframe>
 
 -----
 -----
 
 ## Tech and gadgets
+
 ### Crucial 1TB SSD
+
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=yearlus-21&language=en_GB&marketplace=amazon&region=GB&placement=B07YD579WM&asins=B07YD579WM&linkId=d122c37b66a68fd72dd55fabb33d23a2&show_border=true&link_opens_in_new_window=true"></iframe>
 
-
 ### Focusrite Scarlett 2i2 3rd Gen USB Audio Interface
+
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=yearlus-21&language=en_GB&marketplace=amazon&region=GB&placement=B07QR73T66&asins=B07QR73T66&linkId=df14342d30b7805902b14d9c6913a3b3&show_border=true&link_opens_in_new_window=true"></iframe>
 
-
 ### Moondrop Starfield Carbon Nanotube Diaphragm Dynamic Earphone
+
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=yearlus-21&language=en_GB&marketplace=amazon&region=GB&placement=B082NQFW16&asins=B082NQFW16&linkId=ed0932a9821c860080c61775604006e8&show_border=true&link_opens_in_new_window=true"></iframe>
 
 -----
 -----
 
 ## Tools and houhold
+
 ### Suehiro CERAX 1010 Whetstone: Medium (#1000) grit. 205 x 73 x 29 mm
+
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=yearlus-21&language=en_GB&marketplace=amazon&region=GB&placement=B01E5AKQ04&asins=B01E5AKQ04&linkId=8cb4a50c5f5da37ddf5617d70cf8998e&show_border=true&link_opens_in_new_window=true"></iframe>
