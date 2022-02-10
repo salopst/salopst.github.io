@@ -32,6 +32,7 @@ apikeys.json
 *.epub
 .ztr-directory
 
+
 node_modules/
 
 .DS_Store
@@ -39,7 +40,10 @@ node_modules/
 *.iml
 *.pem
 *.zip
+# zoxide
+*.zo
 
+#choose something less sweary?
 *WANK*
 *wank*
 
