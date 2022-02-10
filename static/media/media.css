@@ -1,0 +1,52 @@
+* {
+  /* margin: 10px;
+  padding: 10px; */
+  box-sizing: border-box;
+}
+
+/* The Basics */
+
+body {
+  background: #fff;
+  margin-bottom: 18px;
+  text-rendering: optimizeLegibility;
+}
+
+.song{
+  border-radius: 5px;
+  border: 2px solid rgb(10, 125, 160);
+  margin-bottom: 16px;
+}
+
+/* Code and syntax highlighting */
+figure.code {
+  border-radius: 5px;
+  border: 1px solid #ddd;
+  margin-bottom: 16px;
+}
+
+figure.code figcaption {
+  padding: 10px 15px;
+  color: #333;
+  background-color: #f5f5f5;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom: 1px solid #ddd;
+}
+
+figure.code figcaption span {
+  line-height: 1.1;
+  font-weight: bold;
+}
+
+figure.code figcaption+.highlight {
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.highlight {
+  overflow-y: hidden;
+  overflow-x: auto;
+  border-radius: 5px;
+  padding: .8em;
+}

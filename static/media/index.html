@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pulling in some Youtube stuffs from a local JSON File</title>
+  <link rel="stylesheet" href="./media.css" type="text/css">
+</head>
+<body>
+  <h1 id="h1-title">This is all my favourite Youtubes</h1>
+  <div id="allSongs">[all songs here]</div>
+</body>
+
+<script>
+  console.log("Hi, Sweetie!")
+
+
+  var xhttp = new XMLHttpRequest();
+  xhttp.open("GET", "./netlify/functions/myMedia", true);
+  xhttp.send();
+  xhttp.onload = function() {
+    if (this.readyState == 4 && this.status == 200) {
+      // Typical action to be performed when the document is ready:
+      var jsonResponse  = JSON.parse(xhttp.responseText)
+      console.log(`${jsonResponse}`)
+      var textResponse = xhttp.responseText
+      var myMedia = jsonResponse.media // at this point we have the JSON file memory
+      // writeAllSongs(myMedia)
+    }
+  }
+
+  console.log("Where's my data?")
+</script>
+</html>
