@@ -17,6 +17,8 @@ apikeys.json
 *lock.json
 // package.json
 
+.hugo_build.lock
+
 /hugo-easy-gallery
 /themes/meme
 /public-static-hugo
