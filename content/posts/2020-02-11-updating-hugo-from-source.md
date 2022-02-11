@@ -1,9 +1,15 @@
 ---
 title: Updating Hugo from source
-date: 2022-02-11T08:18:29+0000
-origin: scratch
+date: 2022-02-11T08:18:29+00:00
+lastMod: 
 author: yearluk
+origin: scratch
+layout: post
 draft: false
+toc: false
+noLicense: false
+weight: 1001
+images: null
 categories:
 - Tech
 - Blog

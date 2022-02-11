@@ -2,6 +2,7 @@
 title: "what happens why you buy from your own Amazon Affiliate links?"
 slug: buying-from-your-own-amazon-affiliate-links
 date: 0101-01-01T01:01:01+01:01
+lastMod: 2022-02-11T13:00:49+00:00 
 layout: post
 draft: false
 author: yearluk
