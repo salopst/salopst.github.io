@@ -10,6 +10,9 @@
 
 **/.obsidian
 
+*BORKED*
+*borked*
+
 # api keys and secrets
 *.env
 apikeys.json
