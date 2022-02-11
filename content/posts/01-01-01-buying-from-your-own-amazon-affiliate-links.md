@@ -64,6 +64,12 @@ Here are some products that I've either purchased or am thinking about purchasin
 
 ## Home and garden
 
+### Duracell D Batteries (4 pack)
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=yearlus-21&language=en_GB&marketplace=amazon&region=GB&placement=B093C763HC&asins=B093C763HC&linkId=573b4f40b9c7082e2693ec2224dff6ce&show_border=true&link_opens_in_new_window=true"></iframe>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=yearlus-21&language=en_GB&marketplace=amazon&region=GB&placement=B093C763HC&asins=B093C763HC&linkId=573b4f40b9c7082e2693ec2224dff6ce&show_border=true&link_opens_in_new_window=true"></iframe>
+
 ### Command pultipurpose hanging hook thingies
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=yearlus-21&language=en_GB&marketplace=amazon&region=GB&placement=B01C6XJ1MG&asins=B01C6XJ1MG&linkId=96f49d321a4f75b40baa4d181337dc4f&show_border=true&link_opens_in_new_window=true"></iframe>
