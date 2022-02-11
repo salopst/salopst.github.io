@@ -1,9 +1,10 @@
 <!-- sjy2 2021-09-16
 include/embed HTML content outside of main post-->
 <div class="included-content" id="{{ $.Page.File.Path }}">
-  {{ $base_path := $.Page.File.Dir }}
+  <!--sjy2 2022-02-11{{ $base_path := $.Page.File.Dir }}
   {{ $file_path := .Get 0 }}
-  {{ $full_file_path := (path.Join $base_path $file_path) }}
+  {{ $full_file_path := (path.Join $base_path $file_path) }}-->
+  {{ $full_file_path := (.Page.File.Path) }}
   {{ readFile $full_file_path | markdownify}}
 </div>
 

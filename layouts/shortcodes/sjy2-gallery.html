@@ -44,7 +44,8 @@ https://gohugo.io/functions/humanize/
 }
 </style>
 
-{{ $base_path := .Page.File.Dir }}
+
+{{ $base_path := (.File.Dir) }}
 {{ $gallery_name :=replace $base_path "/" "" }}
 {{ $gallery_name :=replace $gallery_name "gallery" "" | humanize }}
 

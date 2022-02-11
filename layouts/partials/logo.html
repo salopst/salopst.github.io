@@ -5,7 +5,8 @@
         <img src="{{ .Site.Params.Logo.Logo.path }}" alt="{{ .Site.Params.Logo.logo.alt }}" />
     {{ else }}    
     <!--<img src="{{ .Site.Params.Logo.logoImage }}" alt="{{ .Site.Params.Logo.logoAlt }}">-->
-        <span class="logo__mark" style="flex:auto">   ~/{{ .File.Dir }}
+        <span class="logo__mark" style="flex:auto">
+            ~/{{ with .File }}{{ .Dir }}{{ end }}
         </span>
        
         <span class="logo__text">{{ with .Site.Params.Logo.logoText }}{{ . }}
