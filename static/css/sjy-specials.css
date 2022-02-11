@@ -98,7 +98,8 @@ figure.code figcaption+.highlight {
 pre code[class*="poetry"]{
   text-align: center;
   font-size: 150% !important;
-  border: 2px solid var(--nord-aurora-13);
+  /* border: 2px solid var(--nord-aurora-13); */
+  background-color: var(--nord-aurora-13);
 }
 
 /*
