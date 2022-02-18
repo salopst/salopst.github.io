@@ -19,6 +19,9 @@ body {
 [data-lang~=devnag]{
   border: 5px solid red;
 }
+*[data-lang~=poetry]{
+  border: 5px solid purple;
+}
 
 .yt-media {
   margin-top: var(--bigMargin);

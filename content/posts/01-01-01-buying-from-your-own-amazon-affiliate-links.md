@@ -109,7 +109,7 @@ Here are some products that I've either purchased or am thinking about purchasin
 -----
 -----
 
-## Tools and houhold
+## Tools and household
 
 ### Suehiro CERAX 1010 Whetstone: Medium (#1000) grit. 205 x 73 x 29 mm
 

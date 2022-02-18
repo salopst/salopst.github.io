@@ -95,14 +95,24 @@ figure.code figcaption+.highlight {
   border: 2px solid var(--nord-aurora-15);
 }
 
-pre code[class*="poetry"]{
+[data-lang~="poetry"]{ 
   text-align: center;
   font-size: 150% !important;
   /* border: 2px solid var(--nord-aurora-13); */
-  background-color: var(--nord-aurora-13);
+  /* background-color: var(--nord-aurora-13); */
+  background-color: green;
 }
 
 /*
+<p>
+<em>Of Apple-Pyes</em>: A poem, by Mr. <a href="https://en.wikipedia.org/wiki/Leonard_Welsted">Leonard Welsted</a> (Cambridge man, you know).</p>
+
+<div class="code-toolbar">
+  <pre tabindex="0" class=" language-poetry">
+  <code class=" language-poetry" data-lang="poetry">OF all the delicates
+
+
+
 <pre><code class=language-lyrics data-lang=lyrics>
 Listen to your heart,
 It knows right from wrong,

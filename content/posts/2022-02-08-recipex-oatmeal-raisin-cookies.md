@@ -2,7 +2,7 @@
 title: "Oatmeal-Raisin Cookies Recipe"
 slug: oatmeal-raisin-cookie-recipe
 date: 2022-02-08T07:33:14+00:00
-lastMod: 
+lastMod:
 author: yearluk
 origin: scratch
 layout: post
@@ -80,7 +80,7 @@ And how do we get that?
 
 def propChange (a1, a2):
   """
-  a1 == Initial array of values; 
+  a1 == Initial array of values;
   a2 == Array new value of original value AND index of new value
   """
   newValueIndex = a2[0]
@@ -91,10 +91,10 @@ def propChange (a1, a2):
   for i in a1:
     j=i*multiplier
     j=(format(j, '.2f'))
-    returnValues.append(j)    
+    returnValues.append(j)
   return returnValues
 
-initValues = [95, 115, 120, 120, 100, 0.5, 0.5, 0.5, 0.5] 
+initValues = [95, 115, 120, 120, 100, 0.5, 0.5, 0.5, 0.5]
 newVal   = [0,150]
 newValues = propChange(initValues, newVal)
 
@@ -109,4 +109,4 @@ print(f"New values: {newValues}" )
 
 ! YUMMY !
 
-{{< image src="/uploads/2020-02-08-final-cookies.jpg" alt="2020-02-08-final-cookies" position="center" style="border-radius: 50px;" >}}
+{{< image src="/uploads/2022-02-08-final-cookies.jpg" alt="2020-02-08-final-cookies" position="center" style="border-radius: 50px;" >}}
