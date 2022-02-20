@@ -15,6 +15,8 @@ categories:
 - Linux
 tags:
 - "window manager"
+- tiling
+- ubuntu
 - desktop
 - leftwm
 ---

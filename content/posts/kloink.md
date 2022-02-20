@@ -1,8 +1,8 @@
 ---
 title: NRK beklager! Vi kan ikke finne siden du er ute etter.
 slug: kloink
-draft: false
-date:
+draft: true
+date: 2021-10-04T04:16:38+00:00
 ---
 
 
