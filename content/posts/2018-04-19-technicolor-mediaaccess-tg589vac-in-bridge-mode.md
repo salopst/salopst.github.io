@@ -11,6 +11,9 @@ wordpress_id: 1372
 categories:
 - Networking
 - Tech
+tags:
+- router
+- network
 ---
 
 Like >90% of folk, I've typically used whatever POS modem/router/switch/WAP combo that my ISP supplied me with. These all-in-ones are pretty convenient, but there is something just not right about bundling so many features into a single unit... it basically means that whilst is can do all these things it does not do any one thing particularly well.

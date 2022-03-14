@@ -11,13 +11,18 @@ wordpress_id: 1448
 categories:
 - Networking
 - Tech
+tags:
+- networking
+- tech
+- 'raspbery pi'
+- linux
 ---
 
 Sooo, my TP-Link Archer C8 AC1750 Gigabit router decided to not play nice after a short power outage. Didn't do much anyway except keep a couple of machines in a their own little subnet in which the [pi-hole](http://stephen.yearl.us/pi-hole-dns-level-ad-blocker/) was located.
 
 Replaced it with a NETGEAR GS108Tv2 (link below) 8-Port Gigabit managed switch and flatten the network a little. Everything was peachy with that set up, but the pihole was still on `172.16.0.0/24`... reconfigured that with `pihole -r` and all looked well except for the pi-hole could not ping outside of the LAN. Grrr! Much hair pulling until...
 
-```bash 
+```bash
 pi@pihole:~ $ ping 1.1.1.1
 PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
 From 192.168.2.101 icmp_seq=1 Destination Host Unreachable

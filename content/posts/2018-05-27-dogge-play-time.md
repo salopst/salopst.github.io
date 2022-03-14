@@ -11,8 +11,10 @@ wordpress_id: 1403
 categories:
 - Dog
 - good life
+tags: 
+- dog
+- good life
 ---
 ### Just the 'pup' having a bit of a play
 
  {{< video src="/uploads/monty-self-play-football.mp4" type="video/mp4" >}}
-

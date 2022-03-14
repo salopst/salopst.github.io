@@ -7,6 +7,11 @@ layout: post
 slug: all-about-the-great-wall
 title: All about the Great Wall (by Sam)
 wordpress_id: 408
+categories:
+- NULL
+tags:
+- art
+- boys
 ---
 
 {{< image src="/uploads/Great-Wall-sleeping-dragon.jpg" alt="Great Wall Sleeping Dragon" position="center" style="border-radius: 50px;" >}}
@@ -28,6 +33,5 @@ My grandmother also went to the Great Wall. She went to a different part. She wa
 My Auntie Beth says "there's a Chinese saying that you're not a man until you go to the Great Wall, and yet your uncle, who grew up in China, has never been." One day I would like to climb the Great Wall.
 
 {{< image src="/uploads/Great-Wall-drawing.jpg" alt="Me on the Great Wall of China" position="center" style="border-radius: 50px;" >}}
-
 
 ### ~Sam Yearl

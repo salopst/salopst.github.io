@@ -11,8 +11,10 @@ title: Upgrading Kodi on Fire TV from Macbook
 wordpress_id: 910
 categories:
 - Tech
+- 'OS X'
 tags:
-
+- media
+- homeserver
 ---
 
 From: [http://kodi.wiki/view/HOW-TO:Install_Kodi_on_Fire_TV#tab=OS_X](http://kodi.wiki/view/HOW-TO:Install_Kodi_on_Fire_TV#tab=OS_X)

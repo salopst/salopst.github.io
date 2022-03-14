@@ -12,6 +12,10 @@ post_format:
 - Video
 categories:
 - Reference
+tags:
+- politics
+- video
+- reference
 ---
 
 Column A: [https://www.theguardian.com/politics/2018/sep/09/tory-eurosceptics-rival-brexit-plan-includes-missile-defence-system](https://www.theguardian.com/politics/2018/sep/09/tory-eurosceptics-rival-brexit-plan-includes-missile-defence-system)
