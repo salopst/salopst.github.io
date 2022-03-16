@@ -2,6 +2,11 @@
 # 2021-08-30
 # $HOME/code/hugo-sites/salopst.github.io/.gitignore
 
+# LET THIS BACK IN once we've determined the format for this thing... whatever it is.
+# sjy2 2022-03-16
+#
+$HOME/code/hugo-sites/salopst.github.io/lista-de-locos-y-otros-alfabetos/index.html
+
 // after copy of Netlify API key (sitID follwing local `netlify build`
 .netlify/state.json
 
