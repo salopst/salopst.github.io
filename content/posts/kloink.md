@@ -3,6 +3,10 @@ title: NRK beklager! Vi kan ikke finne siden du er ute etter.
 slug: kloink
 draft: true
 date: 2021-10-04T04:16:38+00:00
+categories:
+- Web
+tags:
+- whimsy
 ---
 
 

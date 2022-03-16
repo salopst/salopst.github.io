@@ -19,8 +19,6 @@ tags:
 - language
 ---
 
-# 50 Days of Wordle
-
 It did get a wee bit harder— maybe— after the NYT buy-out. Not by a whole lot, though.
 
 And "No" I didn't run `grep` over `/usr/share/dict/words`. I mean, what would be the fun in that, a daily whimsy that takes all of two minutes?
