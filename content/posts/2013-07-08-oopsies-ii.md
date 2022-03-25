@@ -17,17 +17,22 @@ tags:
 - wrist
 ---
 
+**Other oopsies in this thrilling series**
+
+- [oopsies](https://stephen.yearl.us/oopsies)
+- [oopsies III](https://stephen.yearl.us/oopsies-iii)
+- [oopsies IV](https://stephen.yearl.us/oopsies-iv)
 They took out 25 stitches today and replaced them with the butterfly stitches to reduce superficial scaring. Nice of them, but skin scars do no really matter much to me.)
 
 {{< image src="/uploads/wpid-Gray4211.png" alt="Cross-section of the antebrachium" position="center" style="border-radius: 50px;" >}}
 
-## Anyway the big stuff:
+## Anyway the big stuff
 
 - Flexor Digitalis Superficialis @ 2, 3 and 4 was completely severed as was the Flexor Carpi Radialis and the Flexor Digitalis Profundus of 3.
 
 - FDP-2 and FDP-4 cut but not severed
 
-- FDS-5 was damaged. 
+- FDS-5 was damaged.
 
 - A portion of FDS-3 was transferred and sutured to FDP-3.
 
