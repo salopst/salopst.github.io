@@ -18,6 +18,7 @@ tags:
 - keybindings
 - keymaps
 ---
+# KMonad, Colemak, key rebinds, typing and such
 
 I don't know why— boredom, perhaps? A never ending desire to fill the void with *something*, like Kierkegaard's degenerate aesthete?— but I'm sort of interested in learning the Colemak keyboard layout. Perhaps it's a feeble attempt to gloss over the fact that I never really learned to touch-type properly anyway. Quién sabe?
 
@@ -129,6 +130,8 @@ Current configuration gives me:
 - Left and right parens when tapping (but not holding) left and right shift
 - Capslock as Ctrl when held; backspace when tapped
 - Colemak layer when pressing 【F12】
+
+[Gist for the salopst-kmonad.kbd](https://gist.github.com/salopst/1f70d60975d232822acc9fbbcc360309)
 
 {{< image src="/uploads/2022-03-25-salopst-kmonad.png" alt="KMonad Layout" position="center" style="border-radius: 30px;" >}}
 [http://www.keyboard-layout-editor.com/#/gists/0a3ef725e2c72fee30bd9a1e3301927a](http://www.keyboard-layout-editor.com/#/gists/0a3ef725e2c72fee30bd9a1e3301927a)
