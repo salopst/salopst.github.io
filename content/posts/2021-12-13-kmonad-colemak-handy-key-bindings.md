@@ -26,9 +26,11 @@ At the very least, I should learn just how much QWERTY muscle memory there is in
 
 ## Colemak
 
-Why? Well, we all know the history of QWERTY, so no need to repeat that. It's suboptimal (depending on how you define optimal, ofc), and other keyboard layouts not hampered by the egigencies of lever-and-cog operated buttons are grouped in such a way as to make more use of the stonger fingers, generally dominant hand, whatever.
+Why? Well, we all know the history of QWERTY, so no need to repeat that.\* It's suboptimal (depending on how you define optimal, ofc), and other keyboard layouts not hampered by the egigencies of lever-and-cog operated buttons are grouped in such a way as to make more use of the stonger fingers, generally dominant hand, whatever.
 
 Aaaand Colemak, it seems, is a re-ordering of keys such that many often used letters fall under the stronger fingers of the right hand on the home row. Neat. Also, it is not as crazy as the better-known Dvorak, since punctuation and several QWERTY locations remain in situ.
+
+\* <https://neo-layout.org/Historisch/Geschichte/>
 
 ## Desired keyboard modifications
 
@@ -38,7 +40,7 @@ Aaaand Colemak, it seems, is a re-ordering of keys such that many often used let
 - **WANT** *SOMETHING* + ijkl as arrow keys
 - **WANT** space + something as a pseudo numberpad
 
-~/$HOME/.Xmodmap`:
+`~/$HOME/.Xmodmap`:
 
 ```bash
 clear lock
