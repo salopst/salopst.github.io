@@ -2,6 +2,7 @@
 title: "Installing Hugo with SASS support on Linux"
 slug: install-hugo-extended-from-source-on-ubuntu
 date: 2021-10-07T21:31:37+01:00
+lastmod: 2022-04-17T16:13:51+01:00
 layout: post
 author: yearluk
 origin: hugo
@@ -25,6 +26,7 @@ Out of the box, Hugo does not come with support for compiling SASS/SCSS to CSS. 
 The following command did the trick on Pop!_OS (Ubuntu 21.04), and gives me the latest version of Hugo (0.89) to boot.
 
 This is the current version:
+
 ```bash
 which hugo && hugo version
 /usr/local/bin/hugo
@@ -45,7 +47,19 @@ sudo mv /usr/local/bin/hugo /usr/local/bin/hugo-v0.88.1-5BC54738
 sudo cp ./hugo /usr/local/bin/hugo
 ```
 
-### 🎲🎲 DICE!!
+## 2022-04-17 update -- Updating system wide Go version
+
+The go version installed with `apt`was version 1.17. Let's upgrade that:
+
+```bash
+cd ~/Downloads
+wget https://go.dev/dl/go1.18.1.linux-amd64.tar.gz
+sudo rm -rf /usr/local/go 
+sudo tar -C /usr/local -xzf go1.18.1.linux-amd64.tar.gz
+```
+
+### 🎲🎲 DICE
+
 Heading back to the local site, we see we are back up and running:
 
 ```bash
