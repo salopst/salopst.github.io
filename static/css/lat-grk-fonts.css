@@ -1,0 +1,27 @@
+.text-gfs-porson {
+  font-family: 'GFSPorsonRegular';
+  font-weight:  normal;
+  font-style:   normal;
+  color:      #33302F;
+  font-size:    1.5rem;
+} 
+.text-gentium-plus {
+  font-family: 'GentiumPlusRegular';
+  font-weight:  normal;
+  font-style:   normal;
+  color:      #574F4A;
+  font-size:    1.5rem;
+}
+body { 
+  font: 62.5%/1.5  "Lucida Grande", "Lucida Sans", Tahoma, Verdana, sans-serif; 
+  /* background: url(/images/wallpaper.png) repeat;  */
+  color: #000000;     
+  text-align:center; 
+} 
+#wrapper {  
+  width:980px;  
+  text-align:left;   
+  margin-left:auto;  
+  margin-right:auto;  
+  background-color: #FFFFFF; 
+}
