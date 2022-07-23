@@ -108,7 +108,7 @@ posts = ":slug/"
   keywords = "blog, Emacs, Hugo, technology, recipes, yearl"
   images = [""]
 
-  homeSubtitle = "Nel mezza del camin..."
+  homeSubtitle = "Nel mezzo del camin..."
 
   # sjy2 2021-09-18
   # this should be the goatcounter "code" https://goatcounter.com/
