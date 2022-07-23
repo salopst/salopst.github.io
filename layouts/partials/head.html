@@ -5,8 +5,13 @@
 <meta name="description" content="{{ if .IsHome }}{{ .Site.Params.homeSubtitle }}{{ else }}{{ .Summary | plainify }}{{ end }}" />
 <meta name="keywords" content="{{ .Site.Params.keywords }}{{ if .Params.tags }}{{ range .Params.tags }}, {{ . }}{{ end }}{{ end }}" />
 <meta name="robots" content="noodp" />
+<meta property="og:locale" content="en_GB" />
+<meta property="og:site_name" content="yearl.us" />
+<meta property="og:type" content="article" />
 <meta name="theme-color" content="{{ .Site.Params.themeColor }}" />
 <link rel="canonical" href="{{ .Permalink }}" />
+<meta property="og:url" content="{{ .Permalink }}" />
+
 
 {{ block "title" . }}
     <title id="layouts.partials.head.html">
