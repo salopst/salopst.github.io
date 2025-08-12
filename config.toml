@@ -1,17 +1,21 @@
 # baseURL = "https://salopst.github.io/"
-baseURL = "https://stephen.yearl.us/"
-# baseURL = "http://localhost:1313/"
+# baseURL = "https://stephen.yearl.us/"
+baseURL = "http://localhost:1313/"
 
 # enableRobotsTXT = true
 
 title   = "yearl.us"
 languageCode = "en-us"
+defaultContentLanguage = "en"
 theme = "hello-friend-ng"
 
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
 
-paginate  = 25
+# paginate  = 25
+[pagination]
+  pagerSize = 10
+
 rssLimit  = 25  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
@@ -47,7 +51,7 @@ disableHugoGeneratorInject = false
 posts = ":slug/"
 
 [author]
-  name = "yearlus"
+  name = "yearlusCUNTS"
 
 [markup]
   defaultMarkdownHandler = 'goldmark'
@@ -102,6 +106,7 @@ posts = ":slug/"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
+  # author          = "CUNTY MCCUNTFACE"
 
   # Metadata mostly used in document's head
   description = "A random personal rambling ported from Wordpress"

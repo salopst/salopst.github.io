@@ -2,7 +2,7 @@
 title: "Koine Greek Vocab -- Mounce Cards 1-100"
 author: salopst
 date: 2022-07-23T04:20:42+0100
-lastmod:
+lastmod: 2022-08-06T07:07:12+0100
 slug: koine-greek-vocab-mounce-cards-1-100
 layout: post
 origin: hugo
@@ -20,6 +20,10 @@ tags:
 ---
 
 # Koine Greek Vocab — Mounce Cards 1-100
+
+## Other cards
+
+- [#2: Cards 101-200](koine-greek-vocab-mounce-cards-101-200.md)
 
 ## Methodology
 

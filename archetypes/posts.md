@@ -1,7 +1,7 @@
 ---
 title: "{{ .Name  | humanize | title}}"
 slug: {{ .Name }}
-author: {{ .Site.Author.name }}
+author: {{ .Site.Params.Author.name }}
 origin: hugo
 date: {{ .Date }}
 lastMod: {{ .Date }}
