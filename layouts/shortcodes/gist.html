@@ -1,0 +1,30 @@
+{{/* layouts/_shortcodes/gist.html */}}
+
+{{/*
+
+Created by chatGPT on 2025-12-09
+
+Usage:
+{{< gist username gistid>}}
+  {{</* gist username gistid * />}}
+
+  This shortcode embeds a GitHub Gist.
+  It accepts exactly two parameters:
+  0: GitHub username
+  1: Gist ID
+
+  If used as a closing shortcode, it emits nothing.
+  */}}
+
+  {{ if .IsNamedParams }}
+  {{ errorf "gist shortcode does not support named parameters" }}
+  {{ end }}
+
+  {{ if eq .Name "gist" }}
+  {{ if .Params }}
+  {{ $user := index .Params 0 }}
+  {{ $id := index .Params 1 }}
+  <script src="https://gist.github.com/{{ $user }}/{{ $id }}.js" crossorigin="anonymous">
+  </script>
+  {{ end }}
+  {{ end }}
