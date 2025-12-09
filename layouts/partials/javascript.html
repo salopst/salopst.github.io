@@ -6,8 +6,8 @@
 
 <script type="text/javascript" src="{{ $secureJS.RelPermalink }}" integrity="{{ $secureJS.Data.Integrity }}"></script>
 
-{{- if .Site.GoogleAnalytics }}
-    {{ template "_internal/google_analytics.html" . }}
+{{- if .Site.Config.Services.GoogleAnalytics.ID }}
+{{ template "_internal/google_analytics.html" . }}
 {{- end}}
 
 {{- if .Site.Params.goatcounter }}

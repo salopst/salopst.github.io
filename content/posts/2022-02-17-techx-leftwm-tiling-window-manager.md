@@ -1,7 +1,7 @@
 ---
 title: Installing LeftWM Tiling Window Manager
-date: 2022-02-17T20:33:14+0000
-lastMod: 2022-02-05:38:21+0000
+date: 2022-02-17T20:33:14Z
+lastMod: 2022-02-18T05:38:21Z
 author: yearluk
 origin: scratch
 layout: post

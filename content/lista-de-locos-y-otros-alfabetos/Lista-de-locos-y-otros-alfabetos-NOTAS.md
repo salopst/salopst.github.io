@@ -1,7 +1,7 @@
 ---
 title: "Notas de «Lista de locos y otros alfabetos»"
-date: 2022-02-29T18:37:41+00:00
-lastmod: 2022-03-14T18:37:41+00:00
+date: 2022-02-28T18:37:41Z
+lastmod: 2022-03-14T18:37:41Z
 ---
 
 

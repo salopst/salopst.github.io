@@ -1,7 +1,7 @@
 ---
 title: "Compressing a Windows 10 VirtualBox Image"
 slug: compressing-windows-10-virtualbox-image
-date: 2021-09-301T09:21:43+01:00
+date: 2021-09-30T09:21:43Z
 layout: post
 author: yearluk
 origin: hugo

@@ -2,8 +2,8 @@
 title: About this site
 author: yearluk
 origin: hugo
-date: 2011-04-09'
-lastmod: 2021-08-30
+date: 2011-04-09T00:00:00Z
+lastmod: 2021-08-30T00:00:00Z
 draft: false
 
 weight: 1001
