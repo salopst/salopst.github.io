@@ -34,11 +34,3 @@ other = "Inhaltsverzeichnis"
 [wordCount]
 one   = "Ein Wort"
 other = "{{ .Count }} Wörter"
-
-[lastModified]
-other = "Letzte Aktualisierung"
-
-# partials/pagination-list.html
-[pagination]
-newerPosts = "Neuere Beiträge"
-olderPosts = "Ältere Beiträge"

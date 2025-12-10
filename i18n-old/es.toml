@@ -34,11 +34,3 @@ other = "Tabla de Contenido"
 [wordCount]
 one   = "Una Palabra"
 other = "{{ .Count }} Palabras"
-
-[lastModified]
-other = "Ultima actualización"
-
-# partials/pagination-list.html
-[pagination]
-newerPosts = "Entradas más recientes"
-olderPosts = "Entradas antiguas"
